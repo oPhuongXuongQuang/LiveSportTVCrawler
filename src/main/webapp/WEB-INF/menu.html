@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<ons-page id="page1.html">
+    <ons-list>
+        <ons-list-item ng-click="" class="box box-middle padding-tb">
+                    <span class="thumb thumb-sm circle"></span>
+                    <span class="flex padding-left">User name</span>
+                </ons-list-item>
+        <ons-list-header>Main Pages</ons-list-header>
+        <ons-list-item modifier="chevron" onclick="menu.setMainPage('home.html', {closeMenu: true})">
+          page1.html
+        </ons-list-item>
+        <ons-list-item modifier="chevron" onclick="menu.setMainPage('page2.html', {closeMenu: true})">
+          page2.html
+        </ons-list-item>
+        <ons-list-header>Favorite Sports</ons-list-header>
+        <ons-list-item modifier="tappable">
+          <label class="checkbox checkbox--list-item">
+            <input type="checkbox">
+            <div class="checkbox__checkmark checkbox--list-item__checkmark"></div>
+            Baseball
+          </label>
+        </ons-list-item>
+        <ons-list-item modifier="tappable">
+          <label class="checkbox checkbox--list-item">
+            <input type="checkbox">
+            <div class="checkbox__checkmark checkbox--list-item__checkmark"></div>
+            Soccer
+          </label>
+        </ons-list-item>
+
+        <ons-list-item modifier="tappable">
+          <label class="checkbox checkbox--list-item">
+            <input type="checkbox" checked="checked">
+            <div class="checkbox__checkmark checkbox--list-item__checkmark"></div>
+            Basketball
+          </label>
+        </ons-list-item>
+      </ons-list>
+</ons-page>

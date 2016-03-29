@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<ons-page id="home.html" ng-controller="HomeController">
+        <ons-toolbar>
+          <div class="left">
+            <ons-toolbar-button ng-click="menu.toggleMenu()">
+              <ons-icon icon="ion-navicon" style="font-size: 32px; width: 1em;"></ons-icon>
+            </ons-toolbar-button>
+          </div>
+          <div class="center">Page 1</div>
+        </ons-toolbar>
+
+            <ons-list ng-repeat="(kind,value) in Events" style="text-align: center; color: #999;">
+				<ons-list-header style="padding: 10px; font-size: 16px; text-align: center;">{{kind}}</ons-list-header>
+                <ons-list-item modifier="chevron" class="list-item-container" ng-repeat="Event in value">
+                    <ons-row>
+                        <ons-col width="95px">
+                          <img src="{{Event.image}}" >
+                        </ons-col>
+                        <ons-col width="95px">
+                          <div class="location" ng-class="Event.live ? 'red' : 'normal'">
+                            <i class="fa fa-clock-o"></i> {{Event.time}}
+                          </div>
+                        </ons-col>
+                        <ons-col width="95px" >
+                        	<div class="location">
+                          		<img ng-show="Event.live" src="lib/img/live-logo.jpg" width="30px" height="20px">
+                          	</div>
+                        </ons-col>
+                        <ons-col>
+                          <div class="name">
+                            {{Event.match}}
+                          </div>
+                          <div class="desc">
+                            {{Event.tournament}}
+                          </div>
+                        </ons-col>
+                        <ons-col width="40px"></ons-col>
+                    </ons-row>
+                </ons-list-item>
+                
+            </ons-list>
+      </ons-page>
