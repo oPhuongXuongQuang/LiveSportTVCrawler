@@ -16,9 +16,7 @@
     <script src="lib/js/underscore-min.js"></script>
     <script>
       var module = ons.bootstrap('app', ['onsen','kindFilter']);
-      module.controller('AppController', function($scope) {
-        $scope.kindfilters = {};
-      });
+      
       
     </script>
   </head>
@@ -44,7 +42,7 @@
       </ons-page>
     </ons-template>
 
-   
+    <script src="lib/js/controllers/appCtrl.js"></script>
     <script src="lib/js/controllers/homeCtrl.js"></script>
     <script src="lib/js/controllers/kindFilter.js"></script>
   </body>

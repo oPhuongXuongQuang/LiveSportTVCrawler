@@ -20,14 +20,14 @@ and open the template in the editor.
         <ons-list-header>Favorite Sports</ons-list-header>
         <ons-list-item modifier="tappable">
           <label class="checkbox checkbox--list-item">
-              <input type="checkbox" ng-checked="kindfilters.push('Football')">
+              <input type="checkbox" ng-change="addFilter('Football')" ng-model="kinds['Football']" checked="checked">
             <div class="checkbox__checkmark checkbox--list-item__checkmark"></div>
             Football
           </label>
         </ons-list-item>
         <ons-list-item modifier="tappable">
           <label class="checkbox checkbox--list-item">
-            <input type="checkbox" ng-checked="kindfilters.push('Basketball')">
+              <input type="checkbox" ng-change="addFilter('Basketball')" ng-model="kinds['Basketball']" checked="checked">
             <div class="checkbox__checkmark checkbox--list-item__checkmark"></div>
             Basketball
           </label>
@@ -35,7 +35,7 @@ and open the template in the editor.
 
         <ons-list-item modifier="tappable">
           <label class="checkbox checkbox--list-item">
-            <input type="checkbox" checked="checked">
+            <input type="checkbox" ng-change="addFilter('Tennis')" ng-model="kinds['Tennis']" checked="checked">
             <div class="checkbox__checkmark checkbox--list-item__checkmark"></div>
             Tennis
           </label>

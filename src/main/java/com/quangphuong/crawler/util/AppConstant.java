@@ -17,4 +17,9 @@ public class AppConstant {
     public static final String comingUpEventTime = "tbody/tr/td[2]/span/text()";
     public static final String comingUpEventTournament = "tbody/tr/td[2]/span";
     public static final String comingUpEventImage = "tbody/tr/td[1]/img";
+    
+    
+    public static final String saveLinks = "links.xml";
+    
+    
 }

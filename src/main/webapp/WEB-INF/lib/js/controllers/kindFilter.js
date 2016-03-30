@@ -1,15 +1,12 @@
-angular.module('kindFilter', []).
+angular.module('kindFilter', ['app']).
 filter('byKind', function () {
     return function (Events, kindfilters) {
-        var items = {
-            kinds: kindfilters,
-            out: []
-        };
+        var result = {};
         angular.forEach(Events, function (value, key) {
-            if (this.kinds[value.kind] === true) {
-                this.out.push(value);
+            if (kindfilters.indexOf(key) !== -1) {
+                result[key] = value;
             }
-        }, items);
-        return items.out;
+        });
+        return result;
     };
-});
+}); 
