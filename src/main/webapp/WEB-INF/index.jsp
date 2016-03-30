@@ -15,13 +15,15 @@
     <script src="lib/onsen/js/onsenui.js"></script>
     <script src="lib/js/underscore-min.js"></script>
     <script>
-      var module = ons.bootstrap('app', ['onsen']);
-      module.controller('AppController', function($scope) { });
+      var module = ons.bootstrap('app', ['onsen','kindFilter']);
+      module.controller('AppController', function($scope) {
+        $scope.kindfilters = {};
+      });
       
     </script>
   </head>
   <body ng-controller="AppController">
-    <ons-sliding-menu main-page="home.html" menu-page="menu.html" side="left" max-slide-distance="250px" var="menu">
+    <ons-sliding-menu menu-page="menu.html" main-page="home.html" side="left" max-slide-distance="250px" var="menu">
     </ons-sliding-menu>
 
     
@@ -44,5 +46,6 @@
 
    
     <script src="lib/js/controllers/homeCtrl.js"></script>
+    <script src="lib/js/controllers/kindFilter.js"></script>
   </body>
 </html>

@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events xmlns="http://xml.netbeans.org/schema/event">
+    <event>
+        <kind>Football</kind>
+        <live>http://cdn.livetvcdn.net/img/live.gif</live>
+        <tournament>  (European U-19 Championship)</tournament>
+        <match>England U-19 – Spain U-19</match>
+        <time>29 March at 16:00</time>
+        <link>http://livetv.sx//en/eventinfo/402140_england_u_19_spain_u_19/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/u19eu.gif</image>
+    </event>
+    <event>
+        <kind>Football</kind>
+        <live></live>
+        <tournament>  (Friendly Match)</tournament>
+        <match>Estonia – Serbia</match>
+        <time>29 March at 17:00</time>
+        <link>http://livetv.sx//en/eventinfo/399256_estonia_serbia/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/friend.gif</image>
+    </event>
+    <event>
+        <kind>Football</kind>
+        <live></live>
+        <tournament>  (Friendly Match)</tournament>
+        <match>Georgia – Kazakhstan</match>
+        <time>29 March at 18:00</time>
+        <link>http://livetv.sx//en/eventinfo/399875_georgia_kazakhstan/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/friend.gif</image>
+    </event>
+    <event>
+        <kind>Football</kind>
+        <live></live>
+        <tournament>  (Friendly Match)</tournament>
+        <match>Greece – Iceland</match>
+        <time>29 March at 18:30</time>
+        <link>http://livetv.sx//en/eventinfo/399878_greece_iceland/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/friend.gif</image>
+    </event>
+    <event>
+        <kind>Football</kind>
+        <live></live>
+        <tournament>  (Friendly Match)</tournament>
+        <match>Luxembourg – Albania</match>
+        <time>29 March at 19:15</time>
+        <link>http://livetv.sx//en/eventinfo/399876_luxembourg_albania/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/friend.gif</image>
+    </event>
+    <event>
+        <kind>Football</kind>
+        <live></live>
+        <tournament>  (Friendly Match)</tournament>
+        <match>Sweden – Czech Republic</match>
+        <time>29 March at 19:30</time>
+        <link>http://livetv.sx//en/eventinfo/399260_sweden_czech_republic/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/friend.gif</image>
+    </event>
+    <event>
+        <kind>Football</kind>
+        <live></live>
+        <tournament>  (Friendly Match)</tournament>
+        <match>Switzerland – Bosnia-Herzegovina</match>
+        <time>29 March at 19:30</time>
+        <link>http://livetv.sx//en/eventinfo/399880_switzerland_bosnia_herzegovina/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/friend.gif</image>
+    </event>
+    <event>
+        <kind>Football</kind>
+        <live></live>
+        <tournament>  (Friendly Match)</tournament>
+        <match>Austria – Turkey</match>
+        <time>29 March at 19:30</time>
+        <link>http://livetv.sx//en/eventinfo/399881_austria_turkey/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/friend.gif</image>
+    </event>
+    <event>
+        <kind>Football</kind>
+        <live></live>
+        <tournament>  (Friendly Match)</tournament>
+        <match>Ireland – Slovakia</match>
+        <time>29 March at 19:45</time>
+        <link>http://livetv.sx//en/eventinfo/399882_ireland_slovakia/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/friend.gif</image>
+    </event>
+    <event>
+        <kind>Football</kind>
+        <live></live>
+        <tournament>  (Friendly Match)</tournament>
+        <match>Portugal – Belgium</match>
+        <time>29 March at 19:45</time>
+        <link>http://livetv.sx//en/eventinfo/399261_portugal_belgium/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/friend.gif</image>
+    </event>
+    <event>
+        <kind>Football</kind>
+        <live></live>
+        <tournament>  (Friendly Match)</tournament>
+        <match>Germany – Italy</match>
+        <time>29 March at 19:45</time>
+        <link>http://livetv.sx//en/eventinfo/399257_germany_italy/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/friend.gif</image>
+    </event>
+    <event>
+        <kind>Football</kind>
+        <live></live>
+        <tournament>  (Friendly Match)</tournament>
+        <match>Scotland – Denmark</match>
+        <time>29 March at 20:00</time>
+        <link>http://livetv.sx//en/eventinfo/399883_scotland_denmark/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/friend.gif</image>
+    </event>
+    <event>
+        <kind>Football</kind>
+        <live></live>
+        <tournament>  (Friendly Match)</tournament>
+        <match>France – Russia</match>
+        <time>29 March at 20:00</time>
+        <link>http://livetv.sx//en/eventinfo/399259_france_russia/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/friend.gif</image>
+    </event>
+    <event>
+        <kind>Football</kind>
+        <live></live>
+        <tournament>  (Friendly Match)</tournament>
+        <match>England – Netherlands</match>
+        <time>29 March at 20:00</time>
+        <link>http://livetv.sx//en/eventinfo/399258_england_netherlands/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/friend.gif</image>
+    </event>
+    <event>
+        <kind>Football</kind>
+        <live></live>
+        <tournament>  (2018 World Cup Qualification)</tournament>
+        <match>Colombia – Ecuador</match>
+        <time>29 March at 21:30</time>
+        <link>http://livetv.sx//en/eventinfo/399898_colombia_ecuador/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/wc2018.gif</image>
+    </event>
+    <event>
+        <kind>Volleyball</kind>
+        <live></live>
+        <tournament>  (CEV Cup)</tournament>
+        <match>Galatasaray – Dynamo Krasnodar</match>
+        <time>29 March at 17:00</time>
+        <link>http://livetv.sx//en/eventinfo/402133_galatasaray_dynamo_krasnodar/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/cev.gif</image>
+    </event>
+    <event>
+        <kind>Volleyball</kind>
+        <live></live>
+        <tournament>  (CEV Cup)</tournament>
+        <match>Berlin – Gazprom-Yugra</match>
+        <time>29 March at 18:30</time>
+        <link>http://livetv.sx//en/eventinfo/401946_berlin_gazprom_yugra/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/cev.gif</image>
+    </event>
+    <event>
+        <kind>Volleyball</kind>
+        <live></live>
+        <tournament>  (French LNV)</tournament>
+        <match>Beauvais – Tours</match>
+        <time>29 March at 19:00</time>
+        <link>http://livetv.sx//en/eventinfo/400852_beauvais_tours/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/vbFla.gif</image>
+    </event>
+    <event>
+        <kind>Volleyball</kind>
+        <live></live>
+        <tournament>  (French LNV)</tournament>
+        <match>Nantes – Sete</match>
+        <time>29 March at 19:30</time>
+        <link>http://livetv.sx//en/eventinfo/400853_nantes_sete/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/vbFla.gif</image>
+    </event>
+    <event>
+        <kind>Equestrianism</kind>
+        <live></live>
+        <tournament>  (National Event)</tournament>
+        <match>Racing, USA</match>
+        <time>29 March at 18:30</time>
+        <link>http://livetv.sx//en/eventinfo/402023_racing_usa/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/eque.gif</image>
+    </event>
+    <event>
+        <kind>Handball</kind>
+        <live>http://cdn.livetvcdn.net/img/live.gif</live>
+        <tournament>  (Women. Russian Super League)</tournament>
+        <match>Universitet – AGU-Adyiv</match>
+        <time>29 March at 15:00</time>
+        <link>http://livetv.sx//en/eventinfo/394522_universitet_agu_adyiv/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/hbslw.gif</image>
+    </event>
+    <event>
+        <kind>Handball</kind>
+        <live>http://cdn.livetvcdn.net/img/live.gif</live>
+        <tournament>  (Women. Russian Super League)</tournament>
+        <match>Lada Tl – Zvezda</match>
+        <time>29 March at 15:00</time>
+        <link>http://livetv.sx//en/eventinfo/402151_lada_tl_zvezda/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/hbslw.gif</image>
+    </event>
+    <event>
+        <kind>Handball</kind>
+        <live>http://cdn.livetvcdn.net/img/live.gif</live>
+        <tournament>  (Women. Russian Super League)</tournament>
+        <match>Luch – Stavropolye</match>
+        <time>29 March at 16:00</time>
+        <link>http://livetv.sx//en/eventinfo/402153_luch_stavropolye/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/hbslw.gif</image>
+    </event>
+    <event>
+        <kind>Handball</kind>
+        <live>http://cdn.livetvcdn.net/img/live.gif</live>
+        <tournament>  (Women. Russian Super League)</tournament>
+        <match>Dynamo-Sinara – Kuban</match>
+        <time>29 March at 16:30</time>
+        <link>http://livetv.sx//en/eventinfo/402152_dynamo_sinara_kuban/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/hbslw.gif</image>
+    </event>
+    <event>
+        <kind>Ice Hockey</kind>
+        <live>http://cdn.livetvcdn.net/img/live.gif</live>
+        <tournament>  (KHL)</tournament>
+        <match>Salavat Yulaev – Metallurg Mg</match>
+        <time>29 March at 15:00</time>
+        <link>http://livetv.sx//en/eventinfo/400661_salavat_yulaev_metallurg_mg/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/khl2.gif</image>
+    </event>
+    <event>
+        <kind>Ice Hockey</kind>
+        <live>http://cdn.livetvcdn.net/img/live.gif</live>
+        <tournament>  (World Championship Div II)</tournament>
+        <match>Serbia U-18 – Belgium U-18</match>
+        <time>29 March at 15:30</time>
+        <link>http://livetv.sx//en/eventinfo/400465_serbia_u_18_belgium_u_18/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/hockey.gif</image>
+    </event>
+    <event>
+        <kind>Ice Hockey</kind>
+        <live>http://cdn.livetvcdn.net/img/live.gif</live>
+        <tournament>  (Slovak Extraliga)</tournament>
+        <match>Nitra – Zvolen</match>
+        <time>29 March at 16:00</time>
+        <link>http://livetv.sx//en/eventinfo/402154_nitra_zvolen/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/hockey.gif</image>
+    </event>
+    <event>
+        <kind>Ice Hockey</kind>
+        <live>http://cdn.livetvcdn.net/img/live.gif</live>
+        <tournament>  (VHL)</tournament>
+        <match>Neftyanik – Saryarka</match>
+        <time>29 March at 16:30</time>
+        <link>http://livetv.sx//en/eventinfo/399096_neftyanik_saryarka/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/vhl.gif</image>
+    </event>
+    <event>
+        <kind>Ice Hockey</kind>
+        <live>http://cdn.livetvcdn.net/img/live.gif</live>
+        <tournament>  (MHL)</tournament>
+        <match>Chaika – Snezhnye Barsy</match>
+        <time>29 March at 16:30</time>
+        <link>http://livetv.sx//en/eventinfo/400441_chaika_snezhnye_barsy/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/mhl.gif</image>
+    </event>
+    <event>
+        <kind>Ice Hockey</kind>
+        <live></live>
+        <tournament>  (Czech Extraliga)</tournament>
+        <match>Sparta Praha – Plzen</match>
+        <time>29 March at 16:50</time>
+        <link>http://livetv.sx//en/eventinfo/402134_sparta_praha_plzen/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/extraliga.gif</image>
+    </event>
+    <event>
+        <kind>Ice Hockey</kind>
+        <live></live>
+        <tournament>  (VHL)</tournament>
+        <match>THC – Izhstal</match>
+        <time>29 March at 17:00</time>
+        <link>http://livetv.sx//en/eventinfo/399095_thc_izhstal/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/vhl.gif</image>
+    </event>
+    <event>
+        <kind>Ice Hockey</kind>
+        <live></live>
+        <tournament>  (Belarusian Extraleague)</tournament>
+        <match>Shakhtyor Sl – Yunost Minsk</match>
+        <time>29 March at 17:00</time>
+        <link>http://livetv.sx//en/eventinfo/401976_shakhtyor_sl_yunost_minsk/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/extral1.gif</image>
+    </event>
+    <event>
+        <kind>Ice Hockey</kind>
+        <live></live>
+        <tournament>  (World Championship Div II)</tournament>
+        <match>Spain U-18 – Iceland U-18</match>
+        <time>29 March at 19:00</time>
+        <link>http://livetv.sx//en/eventinfo/400466_spain_u_18_iceland_u_18/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/hockey.gif</image>
+    </event>
+    <event>
+        <kind>Tennis</kind>
+        <live>http://cdn.livetvcdn.net/img/live.gif</live>
+        <tournament>  (ATP Challenger Tour)</tournament>
+        <match>ATP Challenger, Raanana</match>
+        <time>29 March at 8:30</time>
+        <link>http://livetv.sx//en/eventinfo/402010_atp_challenger_raanana/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/tennis.gif</image>
+    </event>
+    <event>
+        <kind>Tennis</kind>
+        <live>http://cdn.livetvcdn.net/img/live.gif</live>
+        <tournament>  (ATP Challenger Tour)</tournament>
+        <match>ATP Challanger, Saint-Brieuc</match>
+        <time>29 March at 9:00</time>
+        <link>http://livetv.sx//en/eventinfo/402011_atp_challanger_saint_brieuc/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/tennis.gif</image>
+    </event>
+    <event>
+        <kind>Tennis</kind>
+        <live>http://cdn.livetvcdn.net/img/live.gif</live>
+        <tournament>  (ATP Challenger Tour)</tournament>
+        <match>Salvatore Caruso – Jeff Evans</match>
+        <time>29 March at 15:00</time>
+        <link>http://livetv.sx//en/eventinfo/402052_salvatore_caruso_jeff_evans/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/tennis.gif</image>
+    </event>
+    <event>
+        <kind>Tennis</kind>
+        <live>http://cdn.livetvcdn.net/img/live.gif</live>
+        <tournament>  (ATP/WTA Tour)</tournament>
+        <match>ATP/WTA Tour, Miami</match>
+        <time>29 March at 16:00</time>
+        <link>http://livetv.sx//en/eventinfo/400842_atp_wta_tour_miami/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/tennis.gif</image>
+    </event>
+    <event>
+        <kind>Tennis</kind>
+        <live>http://cdn.livetvcdn.net/img/live.gif</live>
+        <tournament>  (ATP Tour)</tournament>
+        <match>Horacio Zeballos – David Goffin</match>
+        <time>29 March at 16:00</time>
+        <link>http://livetv.sx//en/eventinfo/402121_horacio_zeballos_david_goffin/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/tennis.gif</image>
+    </event>
+    <event>
+        <kind>Tennis</kind>
+        <live>http://cdn.livetvcdn.net/img/live.gif</live>
+        <tournament>  (ATP Tour)</tournament>
+        <match>Richard Gasquet – Tomas Berdych</match>
+        <time>29 March at 16:10</time>
+        <link>http://livetv.sx//en/eventinfo/402120_richard_gasquet_tomas_berdych/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/tennis.gif</image>
+    </event>
+    <event>
+        <kind>Tennis</kind>
+        <live></live>
+        <tournament>  (ATP Challenger Tour)</tournament>
+        <match>Karen Khachanov – Wang, Tak Khunn</match>
+        <time>29 March at 17:00</time>
+        <link>http://livetv.sx//en/eventinfo/402054_karen_khachanov_wang_tak_khunn/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/tennis.gif</image>
+    </event>
+    <event>
+        <kind>Tennis</kind>
+        <live></live>
+        <tournament>  (ATP Tour)</tournament>
+        <match>Gilles Simon – Lucas Pouille</match>
+        <time>29 March at 17:30</time>
+        <link>http://livetv.sx//en/eventinfo/402122_gilles_simon_lucas_pouille/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/tennis.gif</image>
+    </event>
+    <event>
+        <kind>Tennis</kind>
+        <live></live>
+        <tournament>  (ATP Tour)</tournament>
+        <match>Nick Kyrgios – Andrey Kuznetsov</match>
+        <time>29 March at 19:00</time>
+        <link>http://livetv.sx//en/eventinfo/402123_nick_kyrgios_andrey_kuznetsov/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/tennis.gif</image>
+    </event>
+    <event>
+        <kind>Tennis</kind>
+        <live></live>
+        <tournament>  (ATP Tour)</tournament>
+        <match>Novak Djokovic – Dominic Thiem</match>
+        <time>29 March at 19:30</time>
+        <link>http://livetv.sx//en/eventinfo/402124_novak_djokovic_dominic_thiem/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/tennis.gif</image>
+    </event>
+    <event>
+        <kind>Tennis</kind>
+        <live></live>
+        <tournament>  (ATP Challenger Tour)</tournament>
+        <match>ATP Challenger, Leon</match>
+        <time>29 March at 20:00</time>
+        <link>http://livetv.sx//en/eventinfo/402017_atp_challenger_leon/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/tennis.gif</image>
+    </event>
+    <event>
+        <kind>Tennis</kind>
+        <live></live>
+        <tournament>  (ATP Challenger Tour)</tournament>
+        <match>Hans Hach – Malek Jaziri</match>
+        <time>29 March at 20:00</time>
+        <link>http://livetv.sx//en/eventinfo/402128_hans_hach_malek_jaziri/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/tennis.gif</image>
+    </event>
+    <event>
+        <kind>Tennis</kind>
+        <live></live>
+        <tournament>  (ATP Tour)</tournament>
+        <match>Gael Monfils – Grigor Dimitrov</match>
+        <time>29 March at 21:00</time>
+        <link>http://livetv.sx//en/eventinfo/402125_gael_monfils_grigor_dimitrov/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/tennis.gif</image>
+    </event>
+    <event>
+        <kind>Tennis</kind>
+        <live></live>
+        <tournament>  (ATP Challenger Tour)</tournament>
+        <match>Alexander Sarkissian – Michael Berrer</match>
+        <time>29 March at 21:30</time>
+        <link>http://livetv.sx//en/eventinfo/402129_alexander_sarkissian_michael_berrer/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/tennis.gif</image>
+    </event>
+    <event>
+        <kind>Tennis</kind>
+        <live></live>
+        <tournament>  (ATP Tour)</tournament>
+        <match>Damir Dzumhur – Milos Raonic</match>
+        <time>29 March at 22:00</time>
+        <link>http://livetv.sx//en/eventinfo/402126_damir_dzumhur_milos_raonic/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/tennis.gif</image>
+    </event>
+    <event>
+        <kind>Basketball</kind>
+        <live>http://cdn.livetvcdn.net/img/live.gif</live>
+        <tournament>  (Lietuvos Krepsinio Lyga)</tournament>
+        <match>Suduva – Kibirkshtis-Vichi-IKI</match>
+        <time>29 March at 16:00</time>
+        <link>http://livetv.sx//en/eventinfo/402169_suduva_kibirkshtis_vichi_iki/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/lkl.gif</image>
+    </event>
+    <event>
+        <kind>Basketball</kind>
+        <live>http://cdn.livetvcdn.net/img/live.gif</live>
+        <tournament>  (Women. Czech ZBL)</tournament>
+        <match>BC USK PRAHA – Lokomotiva Karlovy Vary</match>
+        <time>29 March at 16:30</time>
+        <link>http://livetv.sx//en/eventinfo/402147_bc_usk_praha_lokomotiva_karlovy_vary/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/zbl.gif</image>
+    </event>
+    <event>
+        <kind>Basketball</kind>
+        <live>http://cdn.livetvcdn.net/img/live.gif</live>
+        <tournament>  (Baltic Basketball League)</tournament>
+        <match>Tartu Rock – Siauliai</match>
+        <time>29 March at 16:30</time>
+        <link>http://livetv.sx//en/eventinfo/401964_tartu_rock_siauliai/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/balticl.gif</image>
+    </event>
+    <event>
+        <kind>Basketball</kind>
+        <live></live>
+        <tournament>  (Centrobasket)</tournament>
+        <match>Centrobasket 2016 Draw</match>
+        <time>29 March at 17:00</time>
+        <link>http://livetv.sx//en/eventinfo/402097_centrobasket_2016_draw/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/fiba.gif</image>
+    </event>
+    <event>
+        <kind>Basketball</kind>
+        <live></live>
+        <tournament>  (Friendly Tournament)</tournament>
+        <match>Parnu – TTU</match>
+        <time>29 March at 17:00</time>
+        <link>http://livetv.sx//en/eventinfo/402148_parnu_ttu/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/basket.gif</image>
+    </event>
+    <event>
+        <kind>Basketball</kind>
+        <live></live>
+        <tournament>  (Lietuvos Krepsinio Lyga)</tournament>
+        <match>Dzukija – Zalgiris</match>
+        <time>29 March at 17:00</time>
+        <link>http://livetv.sx//en/eventinfo/400500_dzukija_zalgiris/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/lkl.gif</image>
+    </event>
+    <event>
+        <kind>Basketball</kind>
+        <live></live>
+        <tournament>  (Balkan League)</tournament>
+        <match>Mornar – Kozuv</match>
+        <time>29 March at 17:30</time>
+        <link>http://livetv.sx//en/eventinfo/402149_mornar_kozuv/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/bibl.gif</image>
+    </event>
+    <event>
+        <kind>Basketball</kind>
+        <live></live>
+        <tournament>  (Bosnian Premier League)</tournament>
+        <match>Siroki – Igokea</match>
+        <time>29 March at 18:00</time>
+        <link>http://livetv.sx//en/eventinfo/402100_siroki_igokea/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/bbih.gif</image>
+    </event>
+    <event>
+        <kind>Basketball</kind>
+        <live></live>
+        <tournament>  (FIBA Europe Cup)</tournament>
+        <match>Antwerp – Varese</match>
+        <time>29 March at 19:00</time>
+        <link>http://livetv.sx//en/eventinfo/395432_antwerp_varese/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/FIBAEC.gif</image>
+    </event>
+    <event>
+        <kind>Basketball</kind>
+        <live></live>
+        <tournament>  (Eurocup)</tournament>
+        <match>Strasbourg – Trento</match>
+        <time>29 March at 19:00</time>
+        <link>http://livetv.sx//en/eventinfo/401956_strasbourg_trento/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/eurocup.gif</image>
+    </event>
+    <event>
+        <kind>Basketball</kind>
+        <live></live>
+        <tournament>  (French LNB)</tournament>
+        <match>Cholet – Le Mans</match>
+        <time>29 March at 19:30</time>
+        <link>http://livetv.sx//en/eventinfo/400501_cholet_le_mans/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/proa.gif</image>
+    </event>
+    <event>
+        <kind>Racing</kind>
+        <live></live>
+        <tournament>  (Speedway)</tournament>
+        <match>Elite League Speedway</match>
+        <time>29 March at 19:30</time>
+        <link>http://livetv.sx//en/eventinfo/402024_elite_league_speedway/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/speedway.gif</image>
+    </event>
+    <event>
+        <kind>Table Tennis</kind>
+        <live>http://cdn.livetvcdn.net/img/live.gif</live>
+        <tournament>  (Master Tour)</tournament>
+        <match>Master Tour TT</match>
+        <time>29 March at 8:00</time>
+        <link>http://livetv.sx//en/eventinfo/393473_master_tour_tt/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/tt.gif</image>
+    </event>
+    <event>
+        <kind>Baseball</kind>
+        <live></live>
+        <tournament>  (MLB)</tournament>
+        <match>NY Yankees – Philadelphia</match>
+        <time>29 March at 18:00</time>
+        <link>http://livetv.sx//en/eventinfo/402022_ny_yankees_philadelphia/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/mlb.gif</image>
+    </event>
+    <event>
+        <kind>Baseball</kind>
+        <live></live>
+        <tournament>  (MLB)</tournament>
+        <match>Pittsburgh – NY Yankees</match>
+        <time>29 March at 18:05</time>
+        <link>http://livetv.sx//en/eventinfo/402138_pittsburgh_ny_yankees/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/mlb.gif</image>
+    </event>
+    <event>
+        <kind>Baseball</kind>
+        <live></live>
+        <tournament>  (MLB)</tournament>
+        <match>Kansas City – San Francisco</match>
+        <time>29 March at 21:00</time>
+        <link>http://livetv.sx//en/eventinfo/400498_kansas_city_san_francisco/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/mlb.gif</image>
+    </event>
+    <event>
+        <kind>Baseball</kind>
+        <live></live>
+        <tournament>  (MLB)</tournament>
+        <match>Oakland – Chi Cubs</match>
+        <time>29 March at 21:00</time>
+        <link>http://livetv.sx//en/eventinfo/402027_oakland_chi_cubs/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/mlb.gif</image>
+    </event>
+    <event>
+        <kind>Poker</kind>
+        <live></live>
+        <tournament>  (European Poker Tour)</tournament>
+        <match>Bounty Hunter Sky Poker</match>
+        <time>29 March at 22:00</time>
+        <link>http://livetv.sx//en/eventinfo/402028_bounty_hunter_sky_poker/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/ept.gif</image>
+    </event>
+    <event>
+        <kind>Lacrosse</kind>
+        <live></live>
+        <tournament>  (NCAA)</tournament>
+        <match>Brown – Villanova</match>
+        <time>29 March at 20:45</time>
+        <link>http://livetv.sx//en/eventinfo/402026_brown_villanova/</link>
+        <image>http://cdn.livetvcdn.net/img/icons/lncaa.gif</image>
+    </event>
+</events>

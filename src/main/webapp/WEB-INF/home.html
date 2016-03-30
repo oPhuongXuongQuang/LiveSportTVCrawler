@@ -14,8 +14,8 @@ and open the template in the editor.
           <div class="center">Page 1</div>
         </ons-toolbar>
 
-            <ons-list ng-repeat="(kind,value) in Events" style="text-align: center; color: #999;">
-				<ons-list-header style="padding: 10px; font-size: 16px; text-align: center;">{{kind}}</ons-list-header>
+            <ons-list ng-repeat="(kind,value) in Events | byKind:kindfilters" style="text-align: center; color: #999;">
+		<ons-list-header style="padding: 10px; font-size: 16px; text-align: center;">{{kind}}</ons-list-header>
                 <ons-list-item modifier="chevron" class="list-item-container" ng-repeat="Event in value">
                     <ons-row>
                         <ons-col width="95px">

@@ -4,5 +4,5 @@
 angular.module('app', ['onsen']);
 
 angular.element(document).ready(function() {
-    angular.bootstrap(document.body, ['app']);
+    angular.bootstrap(document.body, ['app','kindFilter']);
 });

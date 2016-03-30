@@ -33,74 +33,86 @@ import com.thoughtworks.xstream.XStream;
 @EnableScheduling
 public class Crawler {
 
-	@Scheduled(fixedDelay=60000)
+//    public static void main(String[] args) {
+//        try {
+////            List<Event> events = scrapping();
+////            Events events1 = new Events(events);
+////            XMLUtil.marshallUtil(AppConstant.comingUpData, events1);
+//
+//            Events events = XMLUtil.unmarshallUtil(AppConstant.comingUpData, Events.class);
+//
+//            List<Event> listEvent = events.getEvent();
+//            for (Event event : listEvent) {
+//                System.out.println("Match: " + event.getMatch());
+//            }
+//        } catch (Exception e) {
+//            e.printStackTrace();
+//        }
+//    }
+
+    @Scheduled(fixedDelay = 60000)
     public void run() throws FileNotFoundException {
         List<Event> events = scrapping();
-        
-        File file = new File(AppConstant.comingUpData);
-        XStream xStream = new XStream();
-        xStream.processAnnotations(Events.class);
-        xStream.processAnnotations(Event.class);
-        
-        OutputStream out = new FileOutputStream(file);
-        xStream.toXML(events, out);
+        Events events1 = new Events(events);
+        XMLUtil.marshallUtil(AppConstant.comingUpData, events1);
     }
-    
+
     public static List<Event> scrapping() {
         List<Event> events = new ArrayList();
         try {
             final WebClient webClient = new WebClient(BrowserVersion.CHROME);
             HtmlPage page = webClient.getPage(AppConstant.comingUpPage);
-            
+
             List<HtmlElement> tds = new ArrayList();
             tds = (List<HtmlElement>) page.getByXPath(AppConstant.comingUpEventColumn);
 
             for (int i = 0; i < tds.size(); i++) {
                 List<HtmlElement> tables = (List<HtmlElement>) tds.get(i).getByXPath("table");
-                    for (int j = 0; j < tables.size(); j=j+2) {
-                        HtmlElement kindTable = tables.get(j);
-                        HtmlElement detailTable = tables.get(j+1);
-                                                
-                        HtmlElement kindtext = (HtmlElement) kindTable.getFirstByXPath(AppConstant.comingUpEventKind);
-                        String kind = kindtext.asText();
-                        
-                        List<HtmlElement> matches = (List<HtmlElement>) detailTable.getByXPath(AppConstant.comingUpSameKindEvents);
-                        for (int k = 0; k < matches.size(); k++) {
-	                        	HtmlElement matchtext = (HtmlElement) matches.get(k).getFirstByXPath(AppConstant.comingUpEventMatch);
-	                        	HtmlElement liveText = (HtmlElement) matches.get(k).getFirstByXPath(AppConstant.comingUpEventLive);
-	                        	DomText timeText = (DomText) matches.get(k).getFirstByXPath(AppConstant.comingUpEventTime);
-	                            HtmlElement tournamentText = (HtmlElement) matches.get(k).getFirstByXPath(AppConstant.comingUpEventTournament);
-	                            HtmlElement img = (HtmlElement) matches.get(k).getFirstByXPath(AppConstant.comingUpEventImage);                            
-	                            try {
-		                            String tournament = tournamentText.asText().replace(timeText.asText(), "");
-		                            String match = matchtext.asText();
-		                            String time = timeText.asText();
-		                            String link = AppConstant.prefix + matchtext.getAttribute("href");
-		                            String image = img.getAttribute("src");
-		                            String live = "";
-		                            if (liveText != null) {
-		                            	live = liveText.getAttribute("src");
-		                            }
-		                            
-		                            Event event = new Event(kind, live, tournament, match, time, link, image);
-		                            
-		                            System.out.println("Kind: " + kind);
-		                            System.out.println("Tournament: " + tournament);
-		                            System.out.println("Match: " + match);
-		                            System.out.println("Time: " + time);
-		                            System.out.println("Link: " + link);
-		                            System.out.println("Image: " + image);
-		                            
-		                            events.add(event);
-	                            } catch (Exception e){
-	                            	break;
-	                            }
-						}
-                        
+                for (int j = 0; j < tables.size(); j = j + 2) {
+                    HtmlElement kindTable = tables.get(j);
+                    HtmlElement detailTable = tables.get(j + 1);
+
+                    HtmlElement kindtext = (HtmlElement) kindTable.getFirstByXPath(AppConstant.comingUpEventKind);
+                    String kind = kindtext.asText();
+
+                    List<HtmlElement> matches = (List<HtmlElement>) detailTable.getByXPath(AppConstant.comingUpSameKindEvents);
+                    for (int k = 0; k < matches.size(); k++) {
+                        HtmlElement matchtext = (HtmlElement) matches.get(k).getFirstByXPath(AppConstant.comingUpEventMatch);
+                        HtmlElement liveText = (HtmlElement) matches.get(k).getFirstByXPath(AppConstant.comingUpEventLive);
+                        DomText timeText = (DomText) matches.get(k).getFirstByXPath(AppConstant.comingUpEventTime);
+                        HtmlElement tournamentText = (HtmlElement) matches.get(k).getFirstByXPath(AppConstant.comingUpEventTournament);
+                        HtmlElement img = (HtmlElement) matches.get(k).getFirstByXPath(AppConstant.comingUpEventImage);
+                        try {
+                            String tournament = tournamentText.asText().replace(timeText.asText(), "");
+                            String match = matchtext.asText();
+                            String time = timeText.asText();
+                            String link = AppConstant.prefix + matchtext.getAttribute("href");
+                            String image = img.getAttribute("src");
+                            String live = "";
+                            if (liveText != null) {
+                                live = liveText.getAttribute("src");
+                            }
+
+                            Event event = new Event(kind, live, tournament.replace("\n", ""), match, time, link, image);
+
+                            System.out.println("Kind: " + kind);
+                            System.out.println("Tournament: " + tournament);
+                            System.out.println("Match: " + match);
+                            System.out.println("Time: " + time);
+                            System.out.println("Link: " + link);
+                            System.out.println("Image: " + image);
+
+                            events.add(event);
+                        } catch (Exception e) {
+                            e.printStackTrace();
+                            break;
+                        }
                     }
-                    System.out.println("");
+
+                }
+                System.out.println("");
             }
-                        
+
         } catch (Exception e) {
             e.printStackTrace();
         }

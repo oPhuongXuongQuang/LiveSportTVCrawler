@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            targetNamespace="http://xml.netbeans.org/schema/event"
+            xmlns="http://xml.netbeans.org/schema/event"
+            elementFormDefault="qualified">
+    <xsd:element name="events">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="event" type="Event" maxOccurs="unbounded"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+    
+        <xsd:complexType name="Event">
+            <xsd:sequence>
+                <xsd:element name="kind" type="xsd:string" />
+                <xsd:element name="live" type="xsd:string"/>
+                <xsd:element name="tournament" type="xsd:string" />
+                <xsd:element name="match" type="xsd:string" />
+                <xsd:element name="time" type="xsd:string" />
+                <xsd:element name="link" type="xsd:string" />
+                <xsd:element name="image" type="xsd:string" />
+            </xsd:sequence>
+        </xsd:complexType>
+</xsd:schema>
