@@ -94,13 +94,13 @@ public class Crawler {
                             }
 
                             Event event = new Event(kind, live, tournament.replace("\n", ""), match, time, link, image);
-
-                            System.out.println("Kind: " + kind);
-                            System.out.println("Tournament: " + tournament);
-                            System.out.println("Match: " + match);
-                            System.out.println("Time: " + time);
-                            System.out.println("Link: " + link);
-                            System.out.println("Image: " + image);
+//
+//                            System.out.println("Kind: " + kind);
+//                            System.out.println("Tournament: " + tournament);
+//                            System.out.println("Match: " + match);
+//                            System.out.println("Time: " + time);
+//                            System.out.println("Link: " + link);
+//                            System.out.println("Image: " + image);
 
                             events.add(event);
                         } catch (Exception e) {

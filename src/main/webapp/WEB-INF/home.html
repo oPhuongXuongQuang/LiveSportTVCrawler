@@ -11,12 +11,19 @@ and open the template in the editor.
               <ons-icon icon="ion-navicon" style="font-size: 32px; width: 1em;"></ons-icon>
             </ons-toolbar-button>
           </div>
-          <div class="center">Page 1</div>
+          <div class="center">Upcoming Events</div>
         </ons-toolbar>
-
+            <ons-pull-hook ng-action="load($done)" var="loader">
+            <span ng-switch="loader.getCurrentState()">
+                  <span ng-switch-when="initial"><ons-icon size="35px" icon="ion-arrow-down-a"></ons-icon> Pull down to refresh</span>
+            <span ng-switch-when="preaction"><ons-icon size="35px" icon="ion-arrow-up-a"></ons-icon> Release to refresh</span>
+            <span ng-switch-when="action"><ons-icon size="35px" spin="true" icon="ion-load-d"></ons-icon> Loading data...</span>
+            </span>
+          </ons-pull-hook>
             <ons-list ng-repeat="(kind,value) in Events | byKind:kindfilters" style="text-align: center; color: #999;">
+                
 		<ons-list-header style="padding: 10px; font-size: 16px; text-align: center;">{{kind}}</ons-list-header>
-                <ons-list-item modifier="chevron" class="list-item-container" ng-repeat="Event in value">
+                <ons-list-item class="list-item-container" ng-repeat="Event in value">
                     <ons-row>
                         <ons-col width="95px">
                           <img src="{{Event.image}}" >

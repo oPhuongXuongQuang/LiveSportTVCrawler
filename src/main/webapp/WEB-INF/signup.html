@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<ons-page>
+      <ons-toolbar>
+          <div class="left">
+              <ons-toolbar-button ng-click="menu.setMainPage('home.html', {closeMenu: true})">
+                <ons-icon icon="ion-android-arrow-back" style="font-size: 32px; width: 1em;"></ons-icon>
+              </ons-toolbar-button>
+          </div>
+        <div class="center">Sign up</div>
+      </ons-toolbar>
+
+        <form class="formarea" ng-controller="signupCtrl" ng-submit="register()">
+        <div class="form-row">
+            <input type="text" class="text-input--underbar width-half" placeholder="First" ng-model="form.firstname" required>
+          <input type="text" class="text-input--underbar width-half" placeholder="Last" ng-model="form.lastname" style="border-width-left: 1px">
+        </div>
+
+        <div class="form-row">
+            <input type="email" class="text-input--underbar width-full" placeholder="Email" ng-model="form.email" required>
+        </div>
+
+        <div class="form-row">
+          <input type="password" class="text-input--underbar width-full" placeholder="Password" ng-model="form.password" required>
+        </div>
+
+        <div class="lucent">
+          <p class="note">Password - 6 characters or more</p>
+        </div>
+
+        <div class="vspc form-row">
+            <input type="submit" class="ng-isolate-scope button effeckt-button button--large--cta slide-left" 
+                   modifier="large--cta" value="Sign up"/>
+        </div>
+      </form>
+
+</ons-page>

@@ -6,16 +6,19 @@ and open the template in the editor.
 -->
 <ons-page id="page1.html">
     <ons-list>
-        <ons-list-item ng-click="" class="box box-middle padding-tb">
-                    <span class="thumb thumb-sm circle"></span>
-                    <span class="flex padding-left">User name</span>
-                </ons-list-item>
+        <ons-list-item ng-click="menu.setMainPage((session == null) ? 'signup.html':'home.html', {closeMenu: true})" class="box box-middle padding-tb">
+            <span class="thumb thumb-sm circle"></span>
+            <span class="flex padding-left">User name</span>
+        </ons-list-item>
         <ons-list-header>Main Pages</ons-list-header>
         <ons-list-item modifier="chevron" onclick="menu.setMainPage('home.html', {closeMenu: true})">
-          page1.html
+          Upcoming Events
         </ons-list-item>
         <ons-list-item modifier="chevron" onclick="menu.setMainPage('page2.html', {closeMenu: true})">
-          page2.html
+          page2
+        </ons-list-item>
+        <ons-list-item modifier="chevron" onclick="menu.setMainPage('login.html', {closeMenu: true})">
+          Admin Dashboard
         </ons-list-item>
         <ons-list-header>Favorite Sports</ons-list-header>
         <ons-list-item modifier="tappable">
