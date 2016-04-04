@@ -6,19 +6,22 @@
 package com.quangphuong.crawler.util;
 
 import java.io.File;
-import java.io.StringReader;
 import java.io.StringWriter;
+import java.util.ArrayList;
+import java.util.List;
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.Marshaller;
 import javax.xml.bind.Unmarshaller;
-import javax.xml.transform.Transformer;
-import javax.xml.transform.TransformerFactory;
+import javax.xml.namespace.NamespaceContext;
+import javax.xml.stream.XMLStreamException;
+import javax.xml.stream.XMLStreamWriter;
 
 /**
  *
  * @author Quang
  */
 public class XMLUtil {
+    
 
     public static <T> T unmarshallUtil(String xmlPath, Class<T> entityClass) {
         try {
@@ -50,26 +53,14 @@ public class XMLUtil {
     public static <T> String marshallWithoutFile(T entityClass) {
         try {
             JAXBContext cxt = JAXBContext.newInstance(entityClass.getClass());
+            
             Marshaller marshaller = cxt.createMarshaller();
-//            marshaller.setProperty(marshaller.JAXB_FORMATTED_OUTPUT, true);
-//            marshaller.setProperty(marshaller.JAXB_ENCODING, "UTF-8");
+            marshaller.setProperty(marshaller.JAXB_FORMATTED_OUTPUT, true);
+            marshaller.setProperty(marshaller.JAXB_ENCODING, "UTF-8");
             StringWriter sw = new StringWriter();
             marshaller.marshal(entityClass, sw);
             System.out.println(sw.toString());
-
-            StringReader reader = new StringReader(sw.toString());
-            StringWriter writer = new StringWriter();
-            TransformerFactory tFactory = TransformerFactory.newInstance();
-            Transformer transformer = tFactory.newTransformer(
-                    new javax.xml.transform.stream.StreamSource("users.xsl"));
-
-            transformer.transform(
-                    new javax.xml.transform.stream.StreamSource(reader),
-                    new javax.xml.transform.stream.StreamResult(writer));
-
-            String result = writer.toString();
-            System.out.println(result);
-            return result;
+            return sw.toString();
         } catch (Exception e) {
             e.printStackTrace();
         }

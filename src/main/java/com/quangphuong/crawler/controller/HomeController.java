@@ -90,7 +90,7 @@ public class HomeController {
     public String dashboard(
             HttpServletRequest request,
             HttpServletResponse response, Model model) throws Exception {
-        model.addAttribute("output", userService.getUserList());
+        model.addAttribute("xmlStr", userService.getUserList());
         
 //        userService.getUserList();
         return "dashboard";
