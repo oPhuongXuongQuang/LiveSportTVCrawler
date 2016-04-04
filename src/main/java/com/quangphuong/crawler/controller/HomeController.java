@@ -89,8 +89,11 @@ public class HomeController {
     @RequestMapping(value = "/dashboard.htm", method = RequestMethod.GET)
     public String dashboard(
             HttpServletRequest request,
-            HttpServletResponse response, Model model) throws Exception {
-        model.addAttribute("xmlStr", userService.getUserList());
+            HttpServletResponse response, Model model, HttpSession session) throws Exception {
+        User userInfo = (User) session.getAttribute("USER");
+        if (userInfo != null) {
+            model.addAttribute("xmlStr", userService.getUserList());
+        }
         
 //        userService.getUserList();
         return "dashboard";

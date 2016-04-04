@@ -34,20 +34,27 @@
     <script>var ctx = "${pageContext.request.contextPath}"</script>
   </head>
   <body ng-controller="AppController">
-
-    <ons-toolbar>
-          <div class="left">
-              <ons-toolbar-button onclick="window.location.href=ctx +'/'">
-                <ons-icon icon="ion-android-arrow-back" style="font-size: 32px; width: 1em;"></ons-icon>
-              </ons-toolbar-button>
-          </div>
-          <div class="center">Dashboard</div>
+      <ons-page>
+        <ons-toolbar>
+              <div class="left">
+                  <ons-toolbar-button onclick="window.location.href=ctx +'/'">
+                    <ons-icon icon="ion-android-arrow-back" style="font-size: 32px; width: 1em;"></ons-icon>
+                  </ons-toolbar-button>
+              </div>
+              <div class="center">Dashboard</div>
         </ons-toolbar>
   
-  <ons-page>
-        <c:set var="xmlVar">${xmlStr}</c:set>
-    <c:import url="/users.xsl" var="xslStr" /> 
-    <x:transform xml="${xmlVar}" xslt="${xslStr}"/>
+          <c:choose>
+              <c:when test="${not empty sessionScope.USER}">
+                  <c:set var="xmlVar">${xmlStr}</c:set>
+                    <c:import url="/users.xsl" var="xslStr" /> 
+                    <x:transform xml="${xmlVar}" xslt="${xslStr}"/>
+              </c:when>
+              <c:otherwise>
+                  Error!
+              </c:otherwise>
+          </c:choose>
+        
   </ons-page>
     <script src="lib/js/app.js"></script>
     <script src="lib/js/controllers/appCtrl.js"></script>

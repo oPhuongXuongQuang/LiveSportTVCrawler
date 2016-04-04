@@ -23,7 +23,8 @@ import javax.xml.bind.annotation.XmlType;
     "password",
     "firstname",
     "lastname",
-    "avatar"
+    "avatar",
+    "role"
 })
 public class User {
     @Id
@@ -40,17 +41,20 @@ public class User {
     private String lastname;
     @XmlElement
     private String avatar;
+    @XmlElement
+    private String role;
 
     public User() {
     }
 
-    public User(Integer id, String email, String password, String firstname, String lastname, String avatar) {
+    public User(Integer id, String email, String password, String firstname, String lastname, String avatar, String role) {
         this.id = id;
         this.email = email;
         this.password = password;
         this.firstname = firstname;
         this.lastname = lastname;
         this.avatar = avatar;
+        this.role = role;
     }
 
     public User(String email, String password) {
@@ -109,6 +113,14 @@ public class User {
 
     public void setLastname(String lastname) {
         this.lastname = lastname;
+    }
+
+    public String getRole() {
+        return role;
+    }
+
+    public void setRole(String role) {
+        this.role = role;
     }
     
     
