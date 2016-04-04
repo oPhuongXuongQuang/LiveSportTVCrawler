@@ -43,9 +43,8 @@
               </div>
               <div class="center">Dashboard</div>
         </ons-toolbar>
-  
           <c:choose>
-              <c:when test="${not empty sessionScope.USER}">
+              <c:when test="${sessionScope.USER.role == 'admin'}">
                   <c:set var="xmlVar">${xmlStr}</c:set>
                     <c:import url="/users.xsl" var="xslStr" /> 
                     <x:transform xml="${xmlVar}" xslt="${xslStr}"/>
@@ -53,8 +52,7 @@
               <c:otherwise>
                   Error!
               </c:otherwise>
-          </c:choose>
-        
+          </c:choose>   
   </ons-page>
     <script src="lib/js/app.js"></script>
     <script src="lib/js/controllers/appCtrl.js"></script>

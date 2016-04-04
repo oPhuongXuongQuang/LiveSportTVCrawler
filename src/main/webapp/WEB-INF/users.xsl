@@ -12,11 +12,11 @@
         <table border="1">
             <thead>
                 <th>id</th>
+				<th>avatar</th>
                 <th>email</th>
                 <th>password</th>
                 <th>firstname</th>
                 <th>lastname</th>
-                <th>avt</th>
             </thead>
             <tbody>
                 <xsl:for-each select="users/user">
@@ -24,21 +24,21 @@
                         <td>
                             <xsl:value-of select="id" />
                         </td>
+						<td>
+                            <xsl:value-of select="avatar" />
+                        </td>
                         <td>
                             <xsl:value-of select="email" />
+                        </td>
+						<td>
+                            <xsl:value-of select="password" />
                         </td>
                         <td>
                             <xsl:value-of select="firstname" />
                         </td>
                         <td>
                             <xsl:value-of select="lastname" />
-                        </td>
-                        <td>
-                            <xsl:value-of select="password" />
-                        </td>
-                        <td>
-                            <xsl:value-of select="avatar" />
-                        </td>
+                        </td>  
                     </tr>
                 </xsl:for-each>
             </tbody>

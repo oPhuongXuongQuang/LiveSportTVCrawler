@@ -49,7 +49,6 @@ public class DBWrapper {
                 for (Field attribute : attributes) {
                     attribute.setAccessible(true);
                     Object obj = resultSet.getObject(attribute.getName());
-                    System.out.println("=======" + attribute.getName());
                     listFields.add(obj);
                     listFieldTypes.add(attribute.getType());
                 }
@@ -123,8 +122,7 @@ public class DBWrapper {
             Statement statement = con.createStatement();
             Field[] attributes = entity.getClass().getDeclaredFields();
             int count = 0;
-            for (int i = 0; i < attributes.length; i++) {
-                Field attribute = attributes[i];
+            for (Field attribute : attributes) {
                 attribute.setAccessible(true);
                 if (attribute.get(entity) != null) {
                     String value = attribute.get(entity).toString();
@@ -145,7 +143,7 @@ public class DBWrapper {
                 for (Field attribute : attributes) {
                     Object obj = resultSet.getObject(attribute.getName());
                     listFields.add(obj);
-                    listFieldTypes.add(obj.getClass());
+                    listFieldTypes.add(attribute.getType());
                 }
                 result = entity.getClass().getConstructor(
                         (Class<?>[]) listFieldTypes.toArray(new Class[0])).newInstance(listFields.toArray());

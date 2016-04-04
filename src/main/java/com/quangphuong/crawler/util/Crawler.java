@@ -61,8 +61,9 @@ public class Crawler {
         List<Event> events = new ArrayList();
         try {
             final WebClient webClient = new WebClient(BrowserVersion.CHROME);
+            webClient.getOptions().setJavaScriptEnabled(false);
             HtmlPage page = webClient.getPage(AppConstant.comingUpPage);
-
+                        
             List<HtmlElement> tds = new ArrayList();
             tds = (List<HtmlElement>) page.getByXPath(AppConstant.comingUpEventColumn);
 

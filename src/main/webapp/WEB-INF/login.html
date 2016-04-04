@@ -11,8 +11,8 @@
 
       <form class="login-form" ng-controller="loginCtrl" ng-submit="login()">
 
-          <input type="email" class="text-input--underbar" placeholder="Email" ng-model="loginForm.email">
-        <input type="password" class="text-input--underbar" placeholder="Password" ng-model="loginForm.password">
+          <input type="email" class="text-input--underbar" placeholder="Email" ng-model="loginForm.email" required="required">
+          <input type="password" class="text-input--underbar" placeholder="Password" ng-model="loginForm.password" required="required">
         <br><br>
         <input modifier="large" type="submit" value="Log In" class="login-button ng-isolate-scope button effeckt-button button--large slide-left" />
         <br><br>
