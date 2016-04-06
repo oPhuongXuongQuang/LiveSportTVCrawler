@@ -20,6 +20,7 @@ public class AppConstant {
     
     
     public static final String saveLinks = "links.xml";
+    public static final String linksSchema = "links.xsd";
     
     
 }

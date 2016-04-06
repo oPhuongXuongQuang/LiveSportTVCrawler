@@ -7,14 +7,9 @@ package com.quangphuong.crawler.util;
 
 import java.io.File;
 import java.io.StringWriter;
-import java.util.ArrayList;
-import java.util.List;
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.Marshaller;
 import javax.xml.bind.Unmarshaller;
-import javax.xml.namespace.NamespaceContext;
-import javax.xml.stream.XMLStreamException;
-import javax.xml.stream.XMLStreamWriter;
 
 /**
  *
@@ -59,7 +54,6 @@ public class XMLUtil {
             marshaller.setProperty(marshaller.JAXB_ENCODING, "UTF-8");
             StringWriter sw = new StringWriter();
             marshaller.marshal(entityClass, sw);
-            System.out.println(sw.toString());
             return sw.toString();
         } catch (Exception e) {
             e.printStackTrace();

@@ -19,21 +19,34 @@
     <script src="lib/onsen/js/onsenui.js"></script>
     <script src="lib/js/underscore-min.js"></script>
     <script src="lib/js/loading-bar.js"></script>
+    <script src="http://code.jquery.com/jquery-1.10.0.js"></script>
+    <script src="lib/js/polyfiller.js"></script>
     
     <script>
       var module = ons.bootstrap('app', ['onsen','kindFilter','chieffancypants.loadingBar', 'ngAnimate']);
       
-      
+      (function () {
+          webshim.setOptions('forms', {
+        lazyCustomMessages: true,
+        iVal: {
+            sel: '.ws-validate',
+            handleBubble: 'hide', // hide error bubble
+
+            //add bootstrap specific classes
+            errorMessageClass: 'help-block',
+            successWrapperClass: 'has-success',
+            errorWrapperClass: 'has-error'
+
+        }
+    });
+        webshims.polyfill('forms');
+      })();
     </script>
     <script>var ctx = "${pageContext.request.contextPath}"</script>
   </head>
   <body ng-controller="AppController">
     <ons-sliding-menu menu-page="menu.html" main-page="home.html" side="left" max-slide-distance="250px" var="menu">
     </ons-sliding-menu>
-
-    
-
-
     <ons-template id="page2.html">
       <ons-page>
         <ons-toolbar>

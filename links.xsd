@@ -7,7 +7,6 @@ and open the template in the editor.
 
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
             targetNamespace="http://xml.netbeans.org/schema/links"
-            xmlns="http://xml.netbeans.org/schema/event"
             elementFormDefault="qualified">
     <xsd:element name="links">
         <xsd:complexType>

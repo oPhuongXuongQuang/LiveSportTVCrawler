@@ -30,19 +30,11 @@ public class ObjectFactory {
     }
 
     /**
-     * Create an instance of {@link Events }
+     * Create an instance of {@link Links }
      * 
      */
-    public Events createEvents() {
-        return new Events();
-    }
-
-    /**
-     * Create an instance of {@link Event }
-     * 
-     */
-    public Event createEvent() {
-        return new Event();
+    public Links createLinks() {
+        return new Links();
     }
 
 }

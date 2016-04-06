@@ -12,11 +12,12 @@
         <table border="1">
             <thead>
                 <th>id</th>
-				<th>avatar</th>
+		<th>avatar</th>
                 <th>email</th>
                 <th>password</th>
                 <th>firstname</th>
                 <th>lastname</th>
+                <th>role</th>
             </thead>
             <tbody>
                 <xsl:for-each select="users/user">
@@ -38,7 +39,10 @@
                         </td>
                         <td>
                             <xsl:value-of select="lastname" />
-                        </td>  
+                        </td>
+                        <td>
+                            <xsl:value-of select="role" />
+                        </td>
                     </tr>
                 </xsl:for-each>
             </tbody>
