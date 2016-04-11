@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<ons-page ng-controller="EventDetailController">
+    <ons-toolbar>
+        <div class="left">
+            <ons-toolbar-button ng-click="$nav.popPage('home.html')">
+                <ons-icon icon="ion-android-arrow-back" style="font-size: 32px; width: 1em;"></ons-icon>
+            </ons-toolbar-button>
+        </div>
+        <div class="center">{{item.match}}</div>
+    </ons-toolbar>
+    <h3 style="text-align: center">{{item.tournament}}</h3>
+
+    <div class="team-section" ng-show="{{(team1 != undefined)}}">
+        <ons-row align="center" >
+            <ons-col class="margin-col">
+                <a href="{{eventDetail.team1.link}}">
+                    <img data-src="{{(images != null && images[team1]!=null)?images[team1]:eventDetail.team1.image}}"
+                         src="" width="130" height="130"
+                         class="team1-fullogo">
+                </a>
+            </ons-col>
+            <ons-col class="margin-col">
+                <a href="{{eventDetail.team1.link}}">
+                    <img data-src="{{(images != null && images[team2]!=null)?images[team2]:eventDetail.team2.image}}" src="" width="130" height="130"
+                          class="team2-fullogo">
+                </a>
+            </ons-col>
+        </ons-row>
+    </div>
+    <h6 style="text-align: center; color: #666">{{item.match}}</h6>
+    <ons-list>
+        <ons-list-item modifier="chevron" ng-repeat="video in eventDetail.videos">
+            <ons-row>
+                <ons-col width="33%">
+                    {{video.kind}}
+                </ons-col>
+                <ons-col width="33%">
+                    {{video.bitRate}}
+                </ons-col>
+                <ons-col width="33%">
+                    <a href="#" ng-click="goToVideo(video.link)">Link</a>
+                </ons-col>
+            </ons-row>
+        </ons-list-item>
+    </ons-list>
+</ons-page>

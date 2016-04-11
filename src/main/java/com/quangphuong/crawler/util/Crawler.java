@@ -20,7 +20,7 @@ import com.gargoylesoftware.htmlunit.html.HtmlElement;
 import com.gargoylesoftware.htmlunit.html.HtmlPage;
 import com.quangphuong.crawler.dto.Event;
 import com.quangphuong.crawler.dto.Events;
-import com.quangphuong.crawler.dto.Links;
+import java.math.BigDecimal;
 
 /**
  *
@@ -29,52 +29,54 @@ import com.quangphuong.crawler.dto.Links;
 @Configuration
 @EnableScheduling
 public class Crawler {
-    static List<String> listLinks;
+    private static final WebClient webClient = new WebClient(BrowserVersion.CHROME);
+
+    public Crawler() {
+        webClient.getOptions().setJavaScriptEnabled(false);
+    }
+
 //    public static void main(String[] args) {
 //        try {
-////            List<Event> events = scrapping();
-////            Events events1 = new Events(events);
-////            XMLUtil.marshallUtil(AppConstant.comingUpData, events1);
-//
-//            Events events = XMLUtil.unmarshallUtil(AppConstant.comingUpData, Events.class);
-//
-//            List<Event> listEvent = events.getEvent();
-//            for (Event event : listEvent) {
-//                System.out.println("Match: " + event.getMatch());
-//            }
+//////            List<Event> events = scrapping();
+//////            Events events1 = new Events(events);
+//////            XMLUtil.marshallUtil(AppConstant.comingUpData, events1);
+////
+////            Events events = XMLUtil.unmarshallUtil(AppConstant.comingUpData, Events.class);
+////
+////            List<Event> listEvent = events.getEvent();
+////            for (Event event : listEvent) {
+////                System.out.println("Match: " + event.getMatch());
+////            }
+//            getEventDetail(AppConstant.eventDemo);
 //        } catch (Exception e) {
 //            e.printStackTrace();
 //        }
 //    }
-
     @Scheduled(fixedDelay = 60000)
     public void run() throws FileNotFoundException {
         List<Event> events = scrapping();
         Events events1 = new Events(events);
         XMLUtil.marshallUtil(AppConstant.comingUpData, events1);
-        Links links = new Links(listLinks);
-        XMLUtil.marshallUtil(AppConstant.saveLinks, links);
+//        Links links = new Links(listLinks);
+//        XMLUtil.marshallUtil(AppConstant.saveLinks, links);
     }
 
     public static List<Event> scrapping() {
         List<Event> events = new ArrayList();
+        WebClient client = webClient;
         try {
-            final WebClient webClient = new WebClient(BrowserVersion.CHROME);
-            webClient.getOptions().setJavaScriptEnabled(false);
-            HtmlPage page = webClient.getPage(AppConstant.comingUpPage);
-                        
+            HtmlPage page = client.getPage(AppConstant.comingUpPage);
             List<HtmlElement> tds = new ArrayList();
             tds = (List<HtmlElement>) page.getByXPath(AppConstant.comingUpEventColumn);
-            listLinks = new ArrayList<String>();
+//            listLinks = new ArrayList<String>();
             for (int i = 0; i < tds.size(); i++) {
                 List<HtmlElement> tables = (List<HtmlElement>) tds.get(i).getByXPath("table");
                 for (int j = 0; j < tables.size(); j = j + 2) {
                     HtmlElement kindTable = tables.get(j);
                     HtmlElement detailTable = tables.get(j + 1);
-
                     HtmlElement kindtext = (HtmlElement) kindTable.getFirstByXPath(AppConstant.comingUpEventKind);
                     String kind = kindtext.asText();
-                    
+
                     List<HtmlElement> matches = (List<HtmlElement>) detailTable.getByXPath(AppConstant.comingUpSameKindEvents);
                     for (int k = 0; k < matches.size(); k++) {
                         HtmlElement matchtext = (HtmlElement) matches.get(k).getFirstByXPath(AppConstant.comingUpEventMatch);
@@ -82,10 +84,9 @@ public class Crawler {
                         DomText timeText = (DomText) matches.get(k).getFirstByXPath(AppConstant.comingUpEventTime);
                         HtmlElement tournamentText = (HtmlElement) matches.get(k).getFirstByXPath(AppConstant.comingUpEventTournament);
                         HtmlElement img = (HtmlElement) matches.get(k).getFirstByXPath(AppConstant.comingUpEventImage);
-//                        System.out.println("-------------"+tournamentText.asText());
                         try {
                             if (tournamentText != null) {
-                                String tournament = tournamentText.asText().replace(timeText.asText(), "");
+                                String tournament = tournamentText.asText().replace(timeText.asText(), "").replaceAll("\\(", "").replaceAll("\\)", "").trim();
                                 String match = matchtext.asText();
                                 String time = timeText.asText();
                                 String link = AppConstant.prefix + matchtext.getAttribute("href");
@@ -94,7 +95,7 @@ public class Crawler {
                                 if (liveText != null) {
                                     live = liveText.getAttribute("src");
                                 }
-                                listLinks.add(link);
+//                                listLinks.add(link);
                                 Event event = new Event(kind, live, tournament.replace("\n", ""), match, time, link, image);
                                 events.add(event);
                             }
@@ -103,19 +104,15 @@ public class Crawler {
                             break;
                         }
                     }
-
                 }
-                System.out.println("break neeeeeee");
             }
-
+            System.out.println("-------------------");
+            System.out.println(" web Client Memory size: " + Agent.sizeOf(webClient));
         } catch (Exception e) {
             e.printStackTrace();
+        } finally {
+            client.close();
         }
         return events;
     }
-    
-//    public static void saveEventLinks(List<>){
-//        
-//    }
-    
 }

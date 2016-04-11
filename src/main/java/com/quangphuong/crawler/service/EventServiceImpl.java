@@ -6,6 +6,7 @@
 package com.quangphuong.crawler.service;
 
 import com.quangphuong.crawler.dto.Event;
+import com.quangphuong.crawler.dto.EventDetail;
 import com.quangphuong.crawler.util.Crawler;
 import com.quangphuong.crawler.util.Getter;
 
@@ -24,6 +25,16 @@ public class EventServiceImpl implements EventService{
     @Override
     public List<Event> getEvents() {
         return Getter.getEvents();
+    }
+
+    @Override
+    public EventDetail getEventDetail(String eventLink, boolean isLive) {
+        return Getter.getEventDetail(eventLink, isLive);
+    }
+
+    @Override
+    public String getVideoStream(String videoLink) {
+        return Getter.getVideoStream(videoLink);
     }
     
 }

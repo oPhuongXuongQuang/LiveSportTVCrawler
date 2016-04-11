@@ -1,3 +1,11 @@
+.checkbox--list-item {
+    height: auto;
+}
+
+input {
+    height: auto !important;
+}
+
 .thumb {
 	background: #77848a;
 }
@@ -55,4 +63,28 @@
   margin-top: 20px;
   text-align: center;
   opacity: 0.75;
+}
+
+.team-section {
+    margin: 10px;
+}
+
+.center {
+    word-wrap: break-word;
+}
+
+.margin-col {
+    margin: 10px !important;
+}
+
+.team1-fullogo {
+    float: right;
+    background: url("../img/loader.gif");
+    background-size: cover;
+}
+
+.team2-fullogo {
+    float: left;
+    background: url("../img/loader.gif");
+    background-size: cover;
 }

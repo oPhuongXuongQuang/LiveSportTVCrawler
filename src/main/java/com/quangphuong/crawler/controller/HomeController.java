@@ -6,6 +6,8 @@
 package com.quangphuong.crawler.controller;
 
 import com.quangphuong.crawler.dto.Event;
+import com.quangphuong.crawler.dto.EventDetail;
+import com.quangphuong.crawler.dto.Link;
 import com.quangphuong.crawler.dto.User;
 import com.quangphuong.crawler.service.EventService;
 import com.quangphuong.crawler.service.UserService;
@@ -21,12 +23,14 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.servlet.ModelAndView;
+import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 import org.springframework.web.servlet.mvc.AbstractController;
 
 /**
  *
  * @author quangphuong
  */
+
 @Controller
 public class HomeController {
     @Autowired
@@ -43,29 +47,7 @@ public class HomeController {
         return "index";
     }
     
-    @RequestMapping(value = "/comingup.htm", method = RequestMethod.POST, headers="Accept=application/json")
-    public @ResponseBody List<Event> comingup(
-            HttpServletRequest request,
-            HttpServletResponse response) throws Exception {
-        
-        List<Event> events = eventService.getEvents();
-        System.out.println("");
-        return events;
-    }
     
-    @RequestMapping(value = "/register.htm", method = RequestMethod.POST, headers="Accept=application/json")
-    @ResponseBody
-    public boolean register(
-            HttpServletRequest request,
-            HttpServletResponse response,@RequestBody User user) throws Exception {
-        System.out.println(user.toString());
-        boolean result = false;
-        if (user != null) {
-            result = userService.registerUser(user);
-        }
-        
-        return result;
-    }
     
     @RequestMapping(value = "/login.htm", method = RequestMethod.POST)
     @ResponseBody
@@ -98,4 +80,6 @@ public class HomeController {
 //        userService.getUserList();
         return "dashboard";
     }
+    
+    
 }

@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<ons-page ng-controller="LiveStreamController">
+    <ons-toolbar>
+        <div class="left">
+            <ons-toolbar-button ng-click="$nav.popPage('eventDetail.html')">
+                <ons-icon icon="ion-android-arrow-back" style="font-size: 32px; width: 1em;"></ons-icon>
+            </ons-toolbar-button>
+        </div>
+        <div class="center">Video Stream</div>
+    </ons-toolbar>
+    <!--<iframe ng-src="{{videoUrl}}" width="600px" height="800px"/>-->
+    <div ng-bind-html="videoObj"></div>
+</ons-page>

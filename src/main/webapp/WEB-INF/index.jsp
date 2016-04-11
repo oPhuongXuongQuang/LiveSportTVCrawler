@@ -45,8 +45,10 @@
     <script>var ctx = "${pageContext.request.contextPath}"</script>
   </head>
   <body ng-controller="AppController">
-    <ons-sliding-menu menu-page="menu.html" main-page="home.html" side="left" max-slide-distance="250px" var="menu">
-    </ons-sliding-menu>
+    
+  
+    <ons-navigator title="Navigator" page="home.html" var="$nav" modifier="material">
+    </ons-navigator>
     <ons-template id="page2.html">
       <ons-page>
         <ons-toolbar>
@@ -62,10 +64,13 @@
       </ons-page>
     </ons-template>
     <script src="lib/js/app.js"></script>
+    <script src="lib/js/service/baseService.js"></script>
     <script src="lib/js/controllers/appCtrl.js"></script>
     <script src="lib/js/controllers/homeCtrl.js"></script>
     <script src="lib/js/controllers/signupCtrl.js"></script>
     <script src="lib/js/controllers/loginCtrl.js"></script>
     <script src="lib/js/controllers/kindFilter.js"></script>
+    <script src="lib/js/controllers/eventDetailCtrl.js"></script>
+    <script src="lib/js/controllers/liveStreamCtrl.js"></script>
   </body>
 </html>
