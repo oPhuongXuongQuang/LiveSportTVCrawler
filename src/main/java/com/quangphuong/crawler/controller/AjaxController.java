@@ -8,10 +8,12 @@ package com.quangphuong.crawler.controller;
 import com.google.gson.Gson;
 import com.quangphuong.crawler.dto.Event;
 import com.quangphuong.crawler.dto.EventDetail;
+import com.quangphuong.crawler.dto.Highlight;
 import com.quangphuong.crawler.dto.Link;
 import com.quangphuong.crawler.dto.User;
 import com.quangphuong.crawler.service.EventService;
 import com.quangphuong.crawler.service.UserService;
+import com.quangphuong.crawler.service.HighlightService;
 import java.util.List;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
@@ -34,6 +36,8 @@ public class AjaxController {
     EventService eventService;
     @Autowired
     UserService userService;
+    @Autowired
+    HighlightService highlightService;
     
     @RequestMapping(value = "/comingup.htm", method = RequestMethod.POST)
     @ResponseBody
@@ -83,5 +87,14 @@ public class AjaxController {
         String json = gson.toJson(videoStream);
         System.out.println("videoStream: " + json);
         return json;
+    }
+    
+    @RequestMapping(value = "/getHighlights.htm", method = RequestMethod.POST)
+    @ResponseBody
+    public List<Highlight> getHighlights(HttpServletRequest request, 
+            HttpServletResponse response, @RequestBody String date) {
+        response.setHeader("Access-Control-Allow-Origin", "*");
+        System.out.println("------date: " + date);
+        return highlightService.getHighlights(date);
     }
 }

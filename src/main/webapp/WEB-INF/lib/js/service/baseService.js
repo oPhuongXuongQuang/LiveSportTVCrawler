@@ -29,7 +29,7 @@ module.service('$service', function ($http, $q) {
     };
 
     ConfigService.prototype = {
-        url: "http://192.168.1.102:8080/",
+        url: "http://192.168.1.104:8080/",
         back: {
             comingUp: {
                 path: "/comingup.htm"
@@ -39,6 +39,9 @@ module.service('$service', function ($http, $q) {
             },
             getVideo: {
                 path: "/getVideo.htm"
+            },
+            getHighlights: {
+                path: "/getHighlights.htm"
             }
         }
     };

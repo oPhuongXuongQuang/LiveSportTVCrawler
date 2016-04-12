@@ -7,13 +7,14 @@
     <meta charset="utf-8">
     <meta http-equiv="Content-Security-Policy"
         content="default-src * data:; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval'"/>
-    
+
     <link rel="stylesheet" href="lib/onsen/css/onsenui.css"/>
     <link rel="stylesheet" href="lib/onsen/css/onsen-css-components.css"/>
     <link rel="stylesheet" href="lib/css/common.css"/>
     <link rel="stylesheet" href="lib/css/signup.css"/>
     <link rel="stylesheet" href="lib/css/login.css"/>
     <link rel="stylesheet" href="lib/css/loading-bar.css"/>
+    <link rel="stylesheet" href="lib/css/angular-datepicker.min.css"/>
     <script src="lib/onsen/js/angular/angular.js"></script>
     <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.0/angular-animate.min.js"></script>
     <script src="lib/onsen/js/onsenui.js"></script>
@@ -21,9 +22,11 @@
     <script src="lib/js/loading-bar.js"></script>
     <script src="http://code.jquery.com/jquery-1.10.0.js"></script>
     <script src="lib/js/polyfiller.js"></script>
-    
+    <script src="lib/js/angular-datepicker.min.js"></script>
+
     <script>
-      var module = ons.bootstrap('app', ['onsen','kindFilter','chieffancypants.loadingBar', 'ngAnimate']);
+    var module = ons.bootstrap('app', ['onsen','kindFilter','chieffancypants.loadingBar', 'ngAnimate',
+    '720kb.datepicker']);
       
       (function () {
           webshim.setOptions('forms', {
@@ -72,5 +75,6 @@
     <script src="lib/js/controllers/kindFilter.js"></script>
     <script src="lib/js/controllers/eventDetailCtrl.js"></script>
     <script src="lib/js/controllers/liveStreamCtrl.js"></script>
+    <script src="lib/js/controllers/videosCtrl.js"></script>
   </body>
 </html>

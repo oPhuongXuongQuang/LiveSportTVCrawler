@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<ons-page ng-controller="VideosController">
+    <ons-toolbar>
+        <div class="left">
+            <ons-toolbar-button ng-click="$nav.popPage('home.html')">
+                <ons-icon icon="ion-android-arrow-back" style="font-size: 32px; width: 1em;"></ons-icon>
+            </ons-toolbar-button>
+        </div>
+        <div class="center">Videos</div>
+    </ons-toolbar>
+
+    <md-datepicker ng-model="date" md-placeholder="Enter date" required></md-datepicker>
+</ons-page>

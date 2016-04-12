@@ -5,6 +5,7 @@ public class AppConstant {
     public static final String generatePackage = "com.quangphuong.crawler.dto2";
     
     public static final String prefix = "http://livetv.sx/";
+    public static final String videoPrefix = "http://livetv.sx/en/video/";
 
     public static final String comingUpData = "data.xml";
     public static final String comingUpSchema = "data.xsd";
@@ -46,4 +47,22 @@ public class AppConstant {
     
     public static final String videoWrapperStream = "//*[@id='playerblock']/tbody/tr/td/iframe";
     public static final String videoStream = "//*[@id='mediaspace']";
+    
+    
+    
+    public static final String hightlightTables = "/html/body/table/tbody/tr/"
+            + "td[2]/table/tbody/tr[3]/td/table/tbody/tr/td[2]/table/tbody/tr/"
+            + "td/table/tbody/tr[2]/td/table/tbody/tr/td/table";
+    
+    public static final String highlightKind = "tbody/tr/td/span";
+    public static final String highlightTournament = "tbody/tr/td/table/tbody/tr/td[3]/a";
+    public static final String highlightMatches = "tbody/tr";
+    public static final String highlightMatch = "td/table/tbody/tr/td[5]";
+    public static final String highlightMatchTime = "td/table/tbody/tr/td[1]";
+    public static final String highlightMatchLogoTeam1 = "td/table/tbody/tr/td[2]/img";
+    public static final String highlightMatchScore = "td/table/tbody/tr/td[3]";
+    public static final String highlightMatchLogoTeam2 = "td/table/tbody/tr/td[4]/img";
+    public static final String highlightMatchLink = "td/table/tbody/tr/td[6]/a";
+    public static final String highlightMatchFullLink = "td/table/tbody/tr/td[8]/div/table/tbody/tr[1]/td/nobr/a[1]";
+    public static final String highlightMatchLongLink = "td/table/tbody/tr/td[9]/div/table/tbody/tr/td/nobr/a[1]";
 }

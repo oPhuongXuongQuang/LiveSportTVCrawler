@@ -10,8 +10,18 @@
         <link rel="stylesheet" href="lib/css/signup.css"/>
         <link rel="stylesheet" href="lib/css/login.css"/>
         <link rel="stylesheet" href="lib/css/loading-bar.css"/>
-        <script src="lib/onsen/js/angular/angular.js"></script>
-        <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.0/angular-animate.min.js"></script>
+
+        <!-- Angular Material style sheet -->
+        <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/angular_material/1.1.0-rc2/angular-material.min.css">
+        <!--<script src="lib/onsen/js/angular/angular.js"></script>-->
+        <!-- Angular Material requires Angular.js Libraries -->
+        <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.3/angular.min.js"></script>
+        <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.3/angular-animate.min.js"></script>
+        <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.3/angular-aria.min.js"></script>
+        <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.3/angular-messages.min.js"></script>
+
+        <!-- Angular Material Library -->
+        <script src="http://ajax.googleapis.com/ajax/libs/angular_material/1.1.0-rc2/angular-material.min.js"></script>
         <script src="lib/onsen/js/onsenui.js"></script>
         <script src="lib/js/underscore-min.js"></script>
         <script src="lib/js/loading-bar.js"></script>
@@ -19,7 +29,7 @@
         <script src="lib/js/polyfiller.js"></script>
 
         <script>
-            var module = ons.bootstrap('app', ['onsen','kindFilter','chieffancypants.loadingBar', 'ngAnimate']);
+            var module = ons.bootstrap('app', ['onsen','kindFilter','chieffancypants.loadingBar', 'ngAnimate', 'ngMaterial']);
 
             (function () {
                 webshim.setOptions('forms', {
@@ -43,20 +53,6 @@
     <body ng-controller="AppController">
         <ons-navigator title="Navigator" page="home.html" var="$nav" modifier="material">
         </ons-navigator>
-        <ons-template id="page2.html">
-            <ons-page>
-                <ons-toolbar>
-                    <div class="left">
-                        <ons-toolbar-button onclick="menu.toggleMenu()">
-                            <ons-icon icon="ion-navicon" style="font-size: 32px; width: 1em;"></ons-icon>
-                        </ons-toolbar-button>
-                    </div>
-                    <div class="center">Page 2</div>
-                </ons-toolbar>
-
-                <p style="text-align: center; color: #999; padding-top: 100px;">Page2 Contents</p>
-            </ons-page>
-        </ons-template>
         <script src="lib/js/app.js"></script>
         <script src="lib/js/service/baseService.js"></script>
         <script src="lib/js/controllers/appCtrl.js"></script>
@@ -66,5 +62,6 @@
         <script src="lib/js/controllers/kindFilter.js"></script>
         <script src="lib/js/controllers/eventDetailCtrl.js"></script>
         <script src="lib/js/controllers/liveStreamCtrl.js"></script>
+        <script src="lib/js/controllers/videosCtrl.js"></script>
     </body>
 </html>

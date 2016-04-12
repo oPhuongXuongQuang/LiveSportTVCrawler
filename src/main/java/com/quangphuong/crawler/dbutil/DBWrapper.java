@@ -29,8 +29,26 @@ public class DBWrapper {
     private static final String valuesClause = " VALUES ";
     private static final String updateClause = "UPDATE ";
     private static final String setClause = " SET ";
+    private boolean isDisconnect;
+    private Connection connection;
 
     public DBWrapper() {
+        this.isDisconnect = true;
+    }
+    
+    public DBWrapper(boolean isDisconnect) {
+        this.isDisconnect = isDisconnect;
+        if (!isDisconnect) {
+            connection = DBHandler.openConnection();
+        }
+    }
+    
+    public void closeConnection() {
+        try {
+            connection.close();
+        } catch (SQLException ex) {
+            Logger.getLogger(DBWrapper.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }
 
     public List<Object> getEntities(Class<?> entity) {
@@ -159,12 +177,68 @@ public class DBWrapper {
         }
         return result;
     }
+    
+    public List<Object> getEntitiesByCondition(Object entity) {
+        String sql = selectAll.concat(entity.getClass().getSimpleName());
+        sql = sql.concat(whereClause);
+        Connection con = DBHandler.openConnection();
+        List<Object> result = new ArrayList<Object>();
+        try {
+            Statement statement = con.createStatement();
+            Field[] attributes = entity.getClass().getDeclaredFields();
+            int count = 0;
+            for (Field attribute : attributes) {
+                attribute.setAccessible(true);
+                if (!attribute.isAnnotationPresent(AutoIncrement.class) && attribute.get(entity) != null) {
+                    String value = attribute.get(entity).toString();
+                
+                    if (count == 0) {
+                        sql = sql.concat(attribute.getName() + "=" + "\'" + value + "\'");
+                    } else {
+                        sql = sql.concat(" AND " + attribute.getName() + "=" + "\'" + value + "\'");
+                    }
+                    count++;
+                }
+            }
+            System.out.println(sql);
+            ResultSet resultSet = statement.executeQuery(sql);
+            while (resultSet.next()) {
+                List<Object> listFields = new ArrayList();
+                List<Class<?>> listFieldTypes = new ArrayList();
+                for (Field attribute : attributes) {
+                    Object obj = resultSet.getObject(attribute.getName());
+                    listFields.add(obj);
+                    listFieldTypes.add(attribute.getType());
+                }
+                Object obj = entity.getClass().getConstructor(
+                        (Class<?>[]) listFieldTypes.toArray(new Class[0])).newInstance(listFields.toArray());
+                result.add(obj);
+            }
+        } catch (Exception ex) {
+            Logger.getLogger(DBWrapper.class.getName()).log(Level.SEVERE, null, ex);
+        } finally {
+            try {
+                con.close();
+            } catch (SQLException e) {
+                e.printStackTrace();
+            }
+        }
+        return result;
+    }
 
     public boolean insertEntity(Object entity) {
         String sql = insertClause.concat(entity.getClass().getSimpleName());
-        Connection con = DBHandler.openConnection();
+        Connection con = null;
+        if (this.isDisconnect) {
+            con = DBHandler.openConnection();
+        }
         try {
-            Statement statement = con.createStatement();
+            Statement statement;
+            if (this.isDisconnect) {
+                statement = con.createStatement();
+            } else {
+                statement = connection.createStatement();
+            }
             String column = "(";
             String values = "(";
             Field[] attributes = entity.getClass().getDeclaredFields();
@@ -199,7 +273,7 @@ public class DBWrapper {
             Logger.getLogger(DBWrapper.class.getName()).log(Level.SEVERE, null, ex);
         } finally {
             try {
-                if (con != null) {
+                if (this.isDisconnect && con != null) {
                     con.close();
                 }
             } catch (SQLException e) {
