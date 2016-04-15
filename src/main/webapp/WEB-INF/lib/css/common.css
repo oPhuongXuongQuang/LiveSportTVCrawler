@@ -89,11 +89,33 @@ input {
     background-size: cover;
 }
 
-.datepickerdemoBasicUsage md-content {
-    padding-bottom: 200px;
+/*.datepickerdemoBasicUsage md-content {*/
+    /*padding-bottom: 200px;*/
+/*}*/
+/*.datepickerdemoBasicUsage .validation-messages {*/
+    /*font-size: 12px;*/
+    /*color: #dd2c00;*/
+    /*margin: 10px 0 0 25px;*/
+/*}*/
+
+md-list-item.md-3-line, md-list-item.md-3-line>._md-no-style {
+    height: 100px !important;
+    min-height: 88px !important;
 }
-.datepickerdemoBasicUsage .validation-messages {
-    font-size: 12px;
-    color: #dd2c00;
-    margin: 10px 0 0 25px;
+
+div.md-primary.center.md-subheader.md-altTheme-theme {
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 5px 0 rgba(0, 0, 0, 0.19);
+    background-color: white;
+}
+
+h5.ng-binding {
+    margin-top: 15px !important;
+}
+
+h8.ng-binding {
+    margin-top: 15px !important;
+}
+
+img.md-avatar {
+    margin-top: 0px !important;
 }

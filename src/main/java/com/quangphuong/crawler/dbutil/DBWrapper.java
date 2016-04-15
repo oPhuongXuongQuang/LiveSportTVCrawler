@@ -24,12 +24,15 @@ import org.springframework.stereotype.Component;
 public class DBWrapper {
 
     private static final String selectAll = "SELECT * FROM ";
+    private static final String groupByClause = " GROUP BY(@)";
     private static final String whereClause = " WHERE ";
     private static final String insertClause = "INSERT INTO ";
     private static final String valuesClause = " VALUES ";
     private static final String updateClause = "UPDATE ";
     private static final String setClause = " SET ";
     private boolean isDisconnect;
+    private boolean useDistinct = false;
+    private String distinctField = "";
     private Connection connection;
 
     public DBWrapper() {
@@ -181,6 +184,7 @@ public class DBWrapper {
     public List<Object> getEntitiesByCondition(Object entity) {
         String sql = selectAll.concat(entity.getClass().getSimpleName());
         sql = sql.concat(whereClause);
+        
         Connection con = DBHandler.openConnection();
         List<Object> result = new ArrayList<Object>();
         try {
@@ -199,6 +203,9 @@ public class DBWrapper {
                     }
                     count++;
                 }
+            }
+            if (useDistinct) {
+                sql = sql.concat(groupByClause.replace("@", distinctField));
             }
             System.out.println(sql);
             ResultSet resultSet = statement.executeQuery(sql);
@@ -225,7 +232,20 @@ public class DBWrapper {
         }
         return result;
     }
-
+    
+    public List<Object> getEntitiesByCondition(Object entity, boolean useDistinct, String distinctField) {
+        this.useDistinct = useDistinct;
+        this.distinctField = distinctField;
+        try {
+            return getEntitiesByCondition(entity);
+        } catch (Exception e) {
+            e.printStackTrace();
+        } finally {
+            this.useDistinct = false;
+            this.distinctField = "";
+        }
+        return null;
+    }
     public boolean insertEntity(Object entity) {
         String sql = insertClause.concat(entity.getClass().getSimpleName());
         Connection con = null;

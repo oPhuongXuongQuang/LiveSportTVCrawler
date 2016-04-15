@@ -14,19 +14,26 @@
     <link rel="stylesheet" href="lib/css/signup.css"/>
     <link rel="stylesheet" href="lib/css/login.css"/>
     <link rel="stylesheet" href="lib/css/loading-bar.css"/>
-    <link rel="stylesheet" href="lib/css/angular-datepicker.min.css"/>
-    <script src="lib/onsen/js/angular/angular.js"></script>
-    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.0/angular-animate.min.js"></script>
+
+    <!-- Angular Material style sheet -->
+    <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/angular_material/1.1.0-rc2/angular-material.min.css">
+    <!--<script src="lib/onsen/js/angular/angular.js"></script>-->
+    <!-- Angular Material requires Angular.js Libraries -->
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.3/angular.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.3/angular-animate.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.3/angular-aria.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.3/angular-messages.min.js"></script>
+
+    <!-- Angular Material Library -->
+    <script src="http://ajax.googleapis.com/ajax/libs/angular_material/1.1.0-rc2/angular-material.min.js"></script>
     <script src="lib/onsen/js/onsenui.js"></script>
     <script src="lib/js/underscore-min.js"></script>
     <script src="lib/js/loading-bar.js"></script>
     <script src="http://code.jquery.com/jquery-1.10.0.js"></script>
     <script src="lib/js/polyfiller.js"></script>
-    <script src="lib/js/angular-datepicker.min.js"></script>
 
     <script>
-    var module = ons.bootstrap('app', ['onsen','kindFilter','chieffancypants.loadingBar', 'ngAnimate',
-    '720kb.datepicker']);
+    var module = ons.bootstrap('app', ['onsen','kindFilter','chieffancypants.loadingBar', 'ngAnimate', 'ngMaterial']);
       
       (function () {
           webshim.setOptions('forms', {

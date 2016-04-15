@@ -21,6 +21,6 @@ public class HighlightDAO {
     DBWrapper dBWrapper;
     
     public List<Highlight> getHighlights(String date) {
-        return (List<Highlight>) (Object)dBWrapper.getEntitiesByCondition(new Highlight(date));
+        return (List<Highlight>) (Object)dBWrapper.getEntitiesByCondition(new Highlight(date),true,"matches");
     }
 }

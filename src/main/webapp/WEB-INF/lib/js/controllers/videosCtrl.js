@@ -4,7 +4,6 @@
 module.controller('VideosController', function($rootScope, $scope, $http, $service, cfpLoadingBar) {
     // var date = $scope.date;
     // console.log(date);
-
     $scope.$watch('date', function(value) {
         if (value == undefined) {
             return;
@@ -19,7 +18,21 @@ module.controller('VideosController', function($rootScope, $scope, $http, $servi
     
     var getHighlights = function(linkByDate) {
         $http.post($service.back.getHighlights.url, linkByDate).success(function(result){
-            $scope.data = result;
+            console.log(result)
+            var videosByKind = _.groupBy(result, 'kind');
+            var videos = {};
+            for(var kind in videosByKind){
+                var videosByTour = _.groupBy(videosByKind[kind], 'tournament');
+                videos[kind] = videosByTour;
+            }
+            $scope.videos = videos;
+            console.log(videos)
         });
     };
+
 });
+
+module.config(function($mdThemingProvider) {
+    $mdThemingProvider.theme('altTheme')
+        .primaryPalette('purple');
+})
