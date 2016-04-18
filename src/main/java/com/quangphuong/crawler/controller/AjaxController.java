@@ -6,6 +6,7 @@
 package com.quangphuong.crawler.controller;
 
 import com.google.gson.Gson;
+import com.quangphuong.crawler.dto.Calendar;
 import com.quangphuong.crawler.dto.Event;
 import com.quangphuong.crawler.dto.EventDetail;
 import com.quangphuong.crawler.dto.Highlight;
@@ -96,5 +97,29 @@ public class AjaxController {
         response.setHeader("Access-Control-Allow-Origin", "*");
         System.out.println("------date: " + date);
         return highlightService.getHighlights(date);
+    }
+    
+    @RequestMapping(value = "/globalSearch.htm", method = RequestMethod.POST)
+    @ResponseBody
+    public List<Highlight> globalSearch(HttpServletRequest request, 
+            HttpServletResponse response, @RequestBody String value) {
+        response.setHeader("Access-Control-Allow-Origin", "*");
+        return highlightService.getSearchResult(value);
+    }
+    
+    @RequestMapping(value = "/advanceSearch.htm", method = RequestMethod.POST)
+    @ResponseBody
+    public List<Highlight> advanceSearch(HttpServletRequest request, 
+            HttpServletResponse response, @RequestBody String value) {
+        response.setHeader("Access-Control-Allow-Origin", "*");
+        return highlightService.getSearchResult(value,"5-10");
+    }
+    
+    @RequestMapping(value = "/loadCalendar.htm", method = RequestMethod.POST)
+    @ResponseBody
+    public List<Calendar.Round> loadCalendar(HttpServletRequest request, 
+            HttpServletResponse response, @RequestBody String value) {
+        response.setHeader("Access-Control-Allow-Origin", "*");
+        return eventService.getCalendar(value);
     }
 }

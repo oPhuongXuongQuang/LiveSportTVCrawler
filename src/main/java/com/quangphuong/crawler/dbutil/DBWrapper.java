@@ -30,22 +30,30 @@ public class DBWrapper {
     private static final String valuesClause = " VALUES ";
     private static final String updateClause = "UPDATE ";
     private static final String setClause = " SET ";
+
+    private static final String fulltextClause = "SELECT *, MATCH(@)";
+    private static final String searchByBoolClause = " AGAINST ('@1' IN BOOLEAN MODE) AS rank FROM @2 ORDER BY rank DESC LIMIT 5";
+    private static final String searchRangeByBoolClause = " AGAINST ('@1' IN BOOLEAN MODE) AS rank FROM @2 ORDER BY rank DESC LIMIT @L1,@L2";
+
     private boolean isDisconnect;
     private boolean useDistinct = false;
     private String distinctField = "";
+    private String customWhereClause = "";
+    private int lowerBound = 0;
+    private int upperBound = 0;
     private Connection connection;
 
     public DBWrapper() {
         this.isDisconnect = true;
     }
-    
+
     public DBWrapper(boolean isDisconnect) {
         this.isDisconnect = isDisconnect;
         if (!isDisconnect) {
             connection = DBHandler.openConnection();
         }
     }
-    
+
     public void closeConnection() {
         try {
             connection.close();
@@ -69,9 +77,11 @@ public class DBWrapper {
                 List<Class<?>> listFieldTypes = new ArrayList();
                 for (Field attribute : attributes) {
                     attribute.setAccessible(true);
-                    Object obj = resultSet.getObject(attribute.getName());
-                    listFields.add(obj);
-                    listFieldTypes.add(attribute.getType());
+                    if (!attribute.isAnnotationPresent(Ignore.class)) {
+                        Object obj = resultSet.getObject(attribute.getName());
+                        listFields.add(obj);
+                        listFieldTypes.add(attribute.getType());
+                    }
                 }
                 Object result = entity.getConstructor(
                         (Class<?>[]) listFieldTypes.toArray(new Class[0])).newInstance(listFields.toArray());
@@ -115,9 +125,11 @@ public class DBWrapper {
                 List<Object> listFields = new ArrayList();
                 List<Class<?>> listFieldTypes = new ArrayList();
                 for (Field attribute : attributes) {
-                    Object obj = resultSet.getObject(attribute.getName());
-                    listFields.add(obj);
-                    listFieldTypes.add(obj.getClass());
+                    if (!attribute.isAnnotationPresent(Ignore.class)){
+                        Object obj = resultSet.getObject(attribute.getName());
+                        listFields.add(obj);
+                        listFieldTypes.add(obj.getClass());
+                    }
                 }
                 result = entity.getConstructor(
                         (Class<?>[]) listFieldTypes.toArray(new Class[0])).newInstance(listFields.toArray());
@@ -133,21 +145,29 @@ public class DBWrapper {
         }
         return result;
     }
-    
+
     public Object getEntityByCondition(Object entity) {
         String sql = selectAll.concat(entity.getClass().getSimpleName());
         sql = sql.concat(whereClause);
-        Connection con = DBHandler.openConnection();
+        Connection con = null;
+        if (this.isDisconnect) {
+            con = DBHandler.openConnection();
+        }
         Object result = null;
         try {
-            Statement statement = con.createStatement();
+            Statement statement;
+            if (this.isDisconnect) {
+                statement = con.createStatement();
+            } else {
+                statement = connection.createStatement();
+            }
             Field[] attributes = entity.getClass().getDeclaredFields();
             int count = 0;
             for (Field attribute : attributes) {
                 attribute.setAccessible(true);
                 if (attribute.get(entity) != null) {
                     String value = attribute.get(entity).toString();
-                
+
                     if (count == 0) {
                         sql = sql.concat(attribute.getName() + "=" + "\'" + value + "\'");
                     } else {
@@ -162,9 +182,11 @@ public class DBWrapper {
                 List<Object> listFields = new ArrayList();
                 List<Class<?>> listFieldTypes = new ArrayList();
                 for (Field attribute : attributes) {
-                    Object obj = resultSet.getObject(attribute.getName());
-                    listFields.add(obj);
-                    listFieldTypes.add(attribute.getType());
+                    if(!attribute.isAnnotationPresent(Ignore.class)) {
+                        Object obj = resultSet.getObject(attribute.getName());
+                        listFields.add(obj);
+                        listFieldTypes.add(attribute.getType());
+                    }
                 }
                 result = entity.getClass().getConstructor(
                         (Class<?>[]) listFieldTypes.toArray(new Class[0])).newInstance(listFields.toArray());
@@ -173,35 +195,52 @@ public class DBWrapper {
             Logger.getLogger(DBWrapper.class.getName()).log(Level.SEVERE, null, ex);
         } finally {
             try {
-                con.close();
+                if (this.isDisconnect && con != null) {
+                    con.close();
+                }
             } catch (SQLException e) {
                 e.printStackTrace();
             }
         }
         return result;
     }
-    
+
     public List<Object> getEntitiesByCondition(Object entity) {
         String sql = selectAll.concat(entity.getClass().getSimpleName());
-        sql = sql.concat(whereClause);
-        
-        Connection con = DBHandler.openConnection();
+        if (!"".equals(customWhereClause)) {
+            sql = sql.concat(customWhereClause);
+        } else {
+            sql = sql.concat(whereClause);
+        }
+        Connection con = null;
+        if (this.isDisconnect) {
+            con = DBHandler.openConnection();
+        }
         List<Object> result = new ArrayList<Object>();
         try {
-            Statement statement = con.createStatement();
+            Statement statement;
+            if (this.isDisconnect) {
+                statement = con.createStatement();
+            } else {
+                statement = connection.createStatement();
+            }
             Field[] attributes = entity.getClass().getDeclaredFields();
-            int count = 0;
-            for (Field attribute : attributes) {
-                attribute.setAccessible(true);
-                if (!attribute.isAnnotationPresent(AutoIncrement.class) && attribute.get(entity) != null) {
-                    String value = attribute.get(entity).toString();
-                
-                    if (count == 0) {
-                        sql = sql.concat(attribute.getName() + "=" + "\'" + value + "\'");
-                    } else {
-                        sql = sql.concat(" AND " + attribute.getName() + "=" + "\'" + value + "\'");
+            if ("".equals(customWhereClause)) {
+//                Field[] attributes = entity.getClass().getDeclaredFields();
+                int count = 0;
+                for (Field attribute : attributes) {
+                    attribute.setAccessible(true);
+                    if (!attribute.isAnnotationPresent(Ignore.class) 
+                            && !attribute.isAnnotationPresent(AutoIncrement.class) && attribute.get(entity) != null) {
+                        String value = attribute.get(entity).toString();
+
+                        if (count == 0) {
+                            sql = sql.concat(attribute.getName() + "=" + "\'" + value + "\'");
+                        } else {
+                            sql = sql.concat(" AND " + attribute.getName() + "=" + "\'" + value + "\'");
+                        }
+                        count++;
                     }
-                    count++;
                 }
             }
             if (useDistinct) {
@@ -213,9 +252,12 @@ public class DBWrapper {
                 List<Object> listFields = new ArrayList();
                 List<Class<?>> listFieldTypes = new ArrayList();
                 for (Field attribute : attributes) {
-                    Object obj = resultSet.getObject(attribute.getName());
-                    listFields.add(obj);
-                    listFieldTypes.add(attribute.getType());
+                    attribute.setAccessible(true);
+                    if(!attribute.isAnnotationPresent(Ignore.class)){
+                        Object obj = resultSet.getObject(attribute.getName());
+                        listFields.add(obj);
+                        listFieldTypes.add(attribute.getType());
+                    }
                 }
                 Object obj = entity.getClass().getConstructor(
                         (Class<?>[]) listFieldTypes.toArray(new Class[0])).newInstance(listFields.toArray());
@@ -225,14 +267,16 @@ public class DBWrapper {
             Logger.getLogger(DBWrapper.class.getName()).log(Level.SEVERE, null, ex);
         } finally {
             try {
-                con.close();
+                if (this.isDisconnect && con != null) {
+                    con.close();
+                }
             } catch (SQLException e) {
                 e.printStackTrace();
             }
         }
         return result;
     }
-    
+
     public List<Object> getEntitiesByCondition(Object entity, boolean useDistinct, String distinctField) {
         this.useDistinct = useDistinct;
         this.distinctField = distinctField;
@@ -246,6 +290,35 @@ public class DBWrapper {
         }
         return null;
     }
+
+    public List<Object> getEntitiesByCustom(Object entity, String whereClause) {
+        this.customWhereClause = whereClause;
+        try {
+            return getEntitiesByCondition(entity);
+        } catch (Exception e) {
+            e.printStackTrace();
+        } finally {
+            this.customWhereClause = "";
+        }
+        return null;
+    }
+
+    public List<Object> getEntitiesByCustom(Object entity, String whereClause, boolean useDistinct, String distinctField) {
+        this.useDistinct = useDistinct;
+        this.distinctField = distinctField;
+        this.customWhereClause = whereClause;
+        try {
+            return getEntitiesByCondition(entity);
+        } catch (Exception e) {
+            e.printStackTrace();
+        } finally {
+            this.useDistinct = false;
+            this.distinctField = "";
+            this.customWhereClause = "";
+        }
+        return null;
+    }
+
     public boolean insertEntity(Object entity) {
         String sql = insertClause.concat(entity.getClass().getSimpleName());
         Connection con = null;
@@ -264,7 +337,7 @@ public class DBWrapper {
             Field[] attributes = entity.getClass().getDeclaredFields();
             int count = 0;
             for (Field attribute : attributes) {
-                if (!attribute.isAnnotationPresent(AutoIncrement.class)) {
+                if (!attribute.isAnnotationPresent(AutoIncrement.class) && !attribute.isAnnotationPresent(Ignore.class)) {
                     attribute.setAccessible(true);
                     String value = "";
                     if (attribute.get(entity) != null) {
@@ -322,9 +395,17 @@ public class DBWrapper {
 
     public boolean updateEntity(Object entity) {
         String sql = updateClause.concat(entity.getClass().getSimpleName());
-        Connection con = DBHandler.openConnection();
+        Connection con = null;
+        if (this.isDisconnect) {
+            con = DBHandler.openConnection();
+        }
         try {
-            Statement statement = con.createStatement();
+            Statement statement;
+            if (this.isDisconnect) {
+                statement = con.createStatement();
+            } else {
+                statement = connection.createStatement();
+            }
             String set = setClause;
             String where = whereClause;
             Field[] attributes = entity.getClass().getDeclaredFields();
@@ -332,26 +413,25 @@ public class DBWrapper {
             int idCount = 0;
             for (Field attribute : attributes) {
                 attribute.setAccessible(true);
-                String value = "";
-                if (attribute.get(entity) != null) {
-                    value = attribute.get(entity).toString();
-                }
-                if (attribute.isAnnotationPresent(Id.class)) {
-                    if (idCount == 0) {
-                        where = where.concat(
-                                attribute.getName() + "=" + "\'" + value + "\'");
+                if (attribute.get(entity) != null && !attribute.isAnnotationPresent(Ignore.class)/* && !attribute.isAnnotationPresent(AutoIncrement.class) */) {
+                    String value = attribute.get(entity).toString();
+                    if (attribute.isAnnotationPresent(Id.class) /*|| attribute.isAnnotationPresent(Mark.class) */) {
+                        if (idCount == 0) {
+                            where = where.concat(
+                                    attribute.getName() + "=" + "\'" + value + "\'");
+                        } else {
+                            where = where.concat(" AND "
+                                    + attribute.getName() + "=" + "\'" + value + "\'");
+                        }
+                        idCount++;
                     } else {
-                        where = where.concat(" AND"
-                                + attribute.getName() + "=" + "\'" + value + "\'");
+                        if (count == 0) {
+                            set = set.concat(attribute.getName() + "=" + "\'" + value + "\'");
+                        } else {
+                            set = set.concat("," + attribute.getName() + "=" + "\'" + value + "\'");
+                        }
+                        count++;
                     }
-                    idCount++;
-                } else if (!attribute.isAnnotationPresent(AutoIncrement.class)) {
-                    if (count == 0) {
-                        set = set.concat(attribute.getName() + "=" + "\'" + value + "\'");
-                    } else {
-                        set = set.concat("," + attribute.getName() + "=" + "\'" + value + "\'");
-                    }
-                    count++;
                 }
             }
 
@@ -365,7 +445,7 @@ public class DBWrapper {
             Logger.getLogger(DBWrapper.class.getName()).log(Level.SEVERE, null, ex);
         } finally {
             try {
-                if (con != null) {
+                if (this.isDisconnect && con != null) {
                     con.close();
                 }
             } catch (SQLException e) {
@@ -373,5 +453,78 @@ public class DBWrapper {
             }
         }
         return false;
+    }
+
+    public List<Object> searchFullText(Object entity, String searchVal) {
+        String sql = "";
+        Connection con = null;
+        if (this.isDisconnect) {
+            con = DBHandler.openConnection();
+        }
+        List<Object> result = new ArrayList<Object>();
+        try {
+            Statement statement;
+            if (this.isDisconnect) {
+                statement = con.createStatement();
+            } else {
+                statement = connection.createStatement();
+            }
+            Field[] attributes = entity.getClass().getDeclaredFields();
+
+            int count = 0;
+            String fullTextFields = "";
+            String searchClause = "";
+            for (Field attribute : attributes) {
+                attribute.setAccessible(true);
+                if (!attribute.isAnnotationPresent(AutoIncrement.class) && attribute.isAnnotationPresent(FullTextIndex.class)) {
+                    if (count == 0) {
+                        fullTextFields = fullTextFields.concat(attribute.getName());
+                    } else {
+                        fullTextFields = fullTextFields.concat("," + attribute.getName());
+                    }
+                    count++;
+                }
+            }
+            sql = fulltextClause.replace("@", fullTextFields);
+            if (lowerBound != 0 || upperBound != 0) {
+                searchClause = searchRangeByBoolClause.replace("@1", searchVal.replace("*", "").replace(" ", "* ").concat("*"));
+                searchClause = searchClause.replace("@L1", String.valueOf(lowerBound)).replace("@L2", String.valueOf(upperBound));
+            } else {
+                searchClause = searchByBoolClause.replace("@1", searchVal.replace("*", "").replace(" ", "* ").concat("*"));
+            }
+            searchClause = searchClause.replace("@2", entity.getClass().getSimpleName());
+            sql = sql.concat(searchClause);
+            System.out.println(sql);
+            ResultSet resultSet = statement.executeQuery(sql);
+            while (resultSet.next()) {
+                List<Object> listFields = new ArrayList();
+                List<Class<?>> listFieldTypes = new ArrayList();
+                for (Field attribute : attributes) {
+                    Object obj = resultSet.getObject(attribute.getName());
+                    listFields.add(obj);
+                    listFieldTypes.add(attribute.getType());
+                }
+                Object obj = entity.getClass().getConstructor(
+                        (Class<?>[]) listFieldTypes.toArray(new Class[0])).newInstance(listFields.toArray());
+                result.add(obj);
+            }
+        } catch (Exception ex) {
+            Logger.getLogger(DBWrapper.class.getName()).log(Level.SEVERE, null, ex);
+        } finally {
+            try {
+                if (this.isDisconnect && con != null) {
+                    con.close();
+                }
+            } catch (SQLException e) {
+                e.printStackTrace();
+            }
+        }
+        return result;
+    }
+    
+    public List<Object> searchFullTextRange(Object entity, String searchVal, int lowerBound, int upperBound) {
+        this.lowerBound = lowerBound;
+        this.upperBound = upperBound;
+        return searchFullText(entity, searchVal);
     }
 }

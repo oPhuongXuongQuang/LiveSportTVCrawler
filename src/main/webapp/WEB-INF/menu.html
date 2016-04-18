@@ -11,14 +11,17 @@ and open the template in the editor.
             <span class="flex padding-left">User name</span>
         </ons-list-item>
         <ons-list-header>Main Pages</ons-list-header>
+        <ons-list-item modifier="chevron" ng-click="$nav.pushPage('login.html')">
+            Admin Dashboard
+        </ons-list-item>
         <ons-list-item modifier="chevron" onclick="$nav.resetToPage('home.html')">
           Upcoming Events
         </ons-list-item>
         <ons-list-item modifier="chevron" onclick="$nav.pushPage('videos.html')">
-          page2
+          Video Archive
         </ons-list-item>
-        <ons-list-item modifier="chevron" ng-click="$nav.pushPage('login.html')">
-          Admin Dashboard
+        <ons-list-item modifier="chevron" ng-click="$nav.pushPage('calendar.html')">
+            Calendar
         </ons-list-item>
         <ons-list-header>Favorite Sports</ons-list-header>
         <ons-list-item modifier="tappable">

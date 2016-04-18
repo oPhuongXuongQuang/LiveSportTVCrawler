@@ -18,7 +18,6 @@ module.controller('VideosController', function($rootScope, $scope, $http, $servi
     
     var getHighlights = function(linkByDate) {
         $http.post($service.back.getHighlights.url, linkByDate).success(function(result){
-            console.log(result)
             var videosByKind = _.groupBy(result, 'kind');
             var videos = {};
             for(var kind in videosByKind){
@@ -26,8 +25,22 @@ module.controller('VideosController', function($rootScope, $scope, $http, $servi
                 videos[kind] = videosByTour;
             }
             $scope.videos = videos;
-            console.log(videos)
         });
+    };
+
+    $scope.goToHighlight = function(link) {
+        cfpLoadingBar.start();
+        if(link.indexOf("/en/showvideo") > -1) {
+            //$http.post($service.back.getVideo.url, link).success(function (result) {
+            //
+            //
+            //});
+        } else if(link.indexOf("playwire.com") > -1) {
+
+        }
+        else {
+            $rootScope.$nav.pushPage("video.html",{param:link});
+        }
     };
 
 });
@@ -35,4 +48,4 @@ module.controller('VideosController', function($rootScope, $scope, $http, $servi
 module.config(function($mdThemingProvider) {
     $mdThemingProvider.theme('altTheme')
         .primaryPalette('purple');
-})
+});

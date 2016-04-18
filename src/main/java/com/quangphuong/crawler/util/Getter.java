@@ -4,6 +4,7 @@ import com.gargoylesoftware.htmlunit.BrowserVersion;
 import com.gargoylesoftware.htmlunit.WebClient;
 import com.gargoylesoftware.htmlunit.html.HtmlElement;
 import com.gargoylesoftware.htmlunit.html.HtmlPage;
+import com.quangphuong.crawler.dto.Calendar;
 import java.util.List;
 
 import org.springframework.stereotype.Component;
@@ -27,6 +28,11 @@ public class Getter {
     public static List<Event> getEvents() {
         Events events = XMLUtil.unmarshallUtil(AppConstant.comingUpData, Events.class);
         return events.getEvent();
+    }
+    
+    public static List<Calendar.Round> getCalendar(String calendar) {
+        Calendar calendar1 = XMLUtil.unmarshallUtil(calendar, Calendar.class);
+        return calendar1.getRound();
     }
 
     public static EventDetail getEventDetail(String eventLink, boolean isLive) {

@@ -46,7 +46,7 @@ public class Generator {
                 }
             });
             
-            File schema = new File(AppConstant.eventDetailSchema);
+            File schema = new File(AppConstant.calendarSchema);
             InputSource inputSource = new InputSource(schema.toURI().toString());
             compiler.parseSchema(inputSource);
             S2JJAXBModel model = compiler.bind();

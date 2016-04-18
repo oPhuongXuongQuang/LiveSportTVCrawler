@@ -6,6 +6,10 @@ input {
     height: auto !important;
 }
 
+.center {
+    text-align: center !important;
+}
+
 .thumb {
 	background: #77848a;
 }
@@ -103,7 +107,7 @@ md-list-item.md-3-line, md-list-item.md-3-line>._md-no-style {
     min-height: 88px !important;
 }
 
-div.md-primary.center.md-subheader.md-altTheme-theme {
+div.md-subheader.md-altTheme-theme {
     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 5px 0 rgba(0, 0, 0, 0.19);
     background-color: white;
 }
@@ -118,4 +122,21 @@ h8.ng-binding {
 
 img.md-avatar {
     margin-top: 0px !important;
+}
+
+.autocompletedemoCustomTemplate .autocomplete-custom-template li {
+    border-bottom: 1px solid #ccc;
+    height: auto;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    white-space: normal; }
+.autocompletedemoCustomTemplate .autocomplete-custom-template li:last-child {
+    border-bottom-width: 0; }
+.autocompletedemoCustomTemplate .autocomplete-custom-template .item-title,
+.autocompletedemoCustomTemplate .autocomplete-custom-template .item-metadata {
+    display: block;
+    line-height: 2; }
+.autocompletedemoCustomTemplate .autocomplete-custom-template .item-title md-icon {
+    height: 18px;
+    width: 18px;
 }

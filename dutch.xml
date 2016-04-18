@@ -1,0 +1,2383 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<calendar>
+    <round id="1">
+        <match>
+            <date>8 August, Saturday</date>
+            <link>/en/eventinfo/325265_roda_heracles/</link>
+            <teams>Roda – Heracles</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17552.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21162.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>8 August, Saturday</date>
+            <link>/en/eventinfo/325267_feyenoord_utrecht/</link>
+            <teams>Feyenoord – Utrecht</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10260.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10258.gif</logoTeam2>
+            <score>3:2</score>
+        </match>
+        <match>
+            <date>9 August, Sunday</date>
+            <link>/en/eventinfo/325268_az_alkmaar_ajax/</link>
+            <teams>AZ Alkmaar – Ajax</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10222.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10186.gif</logoTeam2>
+            <score>0:3</score>
+        </match>
+        <match>
+            <date>9 August, Sunday</date>
+            <link>/en/eventinfo/325271_willem_ii_vitesse/</link>
+            <teams>Willem II – Vitesse</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10257.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>11 August, Tuesday</date>
+            <link>/en/eventinfo/325266_den_haag_psv_eindhoven/</link>
+            <teams>Den Haag – PSV Eindhoven</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21161.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10198.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>11 August, Tuesday</date>
+            <link>/en/eventinfo/325263_heerenveen_de_graafschap/</link>
+            <teams>Heerenveen – De Graafschap</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17375.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10287.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>12 August, Wednesday</date>
+            <link>/en/eventinfo/325270_groningen_twente/</link>
+            <teams>Groningen – Twente</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10286.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10214.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>12 August, Wednesday</date>
+            <link>/en/eventinfo/325269_nec_excelsior/</link>
+            <teams>NEC – Excelsior</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17554.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17376.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>12 August, Wednesday</date>
+            <link>/en/eventinfo/325264_zwolle_cambuur/</link>
+            <teams>Zwolle – Cambuur</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10911.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17238.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+    </round>
+    <round id="2">
+        <match>
+            <date>14 August, Friday</date>
+            <link>/en/eventinfo/325272_vitesse_roda/</link>
+            <teams>Vitesse – Roda</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10257.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17552.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>15 August, Saturday</date>
+            <link>/en/eventinfo/325273_de_graafschap_zwolle/</link>
+            <teams>De Graafschap – Zwolle</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10287.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10911.gif</logoTeam2>
+            <score>0:3</score>
+        </match>
+        <match>
+            <date>15 August, Saturday</date>
+            <link>/en/eventinfo/325274_ajax_willem_ii/</link>
+            <teams>Ajax – Willem II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10186.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10901.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>15 August, Saturday</date>
+            <link>/en/eventinfo/325275_twente_den_haag/</link>
+            <teams>Twente – Den Haag</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10214.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21161.gif</logoTeam2>
+            <score>1:4</score>
+        </match>
+        <match>
+            <date>15 August, Saturday</date>
+            <link>/en/eventinfo/325276_excelsior_az_alkmaar/</link>
+            <teams>Excelsior – AZ Alkmaar</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17376.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10222.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>16 August, Sunday</date>
+            <link>/en/eventinfo/325277_psv_eindhoven_groningen/</link>
+            <teams>PSV Eindhoven – Groningen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10198.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10286.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>16 August, Sunday</date>
+            <link>/en/eventinfo/325279_utrecht_heerenveen/</link>
+            <teams>Utrecht – Heerenveen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10258.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17375.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>16 August, Sunday</date>
+            <link>/en/eventinfo/325278_cambuur_feyenoord/</link>
+            <teams>Cambuur – Feyenoord</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10260.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+    </round>
+    <round id="3">
+        <match>
+            <date>21 August, Friday</date>
+            <link>/en/eventinfo/330401_groningen_excelsior/</link>
+            <teams>Groningen – Excelsior</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10286.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17376.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>22 August, Saturday</date>
+            <link>/en/eventinfo/330402_roda_de_graafschap/</link>
+            <teams>Roda – De Graafschap</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17552.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10287.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>22 August, Saturday</date>
+            <link>/en/eventinfo/330403_heerenveen_psv_eindhoven/</link>
+            <teams>Heerenveen – PSV Eindhoven</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17375.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10198.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>22 August, Saturday</date>
+            <link>/en/eventinfo/330404_nec_ajax/</link>
+            <teams>NEC – Ajax</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17554.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10186.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>22 August, Saturday</date>
+            <link>/en/eventinfo/330405_cambuur_heracles/</link>
+            <teams>Cambuur – Heracles</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21162.gif</logoTeam2>
+            <score>1:6</score>
+        </match>
+        <match>
+            <date>23 August, Sunday</date>
+            <link>/en/eventinfo/330406_zwolle_twente/</link>
+            <teams>Zwolle – Twente</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10911.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10214.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>23 August, Sunday</date>
+            <link>/en/eventinfo/330408_den_haag_utrecht/</link>
+            <teams>Den Haag – Utrecht</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21161.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10258.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>23 August, Sunday</date>
+            <link>/en/eventinfo/330407_az_alkmaar_willem_ii/</link>
+            <teams>AZ Alkmaar – Willem II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10222.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10901.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>23 August, Sunday</date>
+            <link>/en/eventinfo/330409_feyenoord_vitesse/</link>
+            <teams>Feyenoord – Vitesse</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10260.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10257.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+    </round>
+    <round id="4">
+        <match>
+            <date>28 August, Friday</date>
+            <link>/en/eventinfo/330410_willem_ii_nec/</link>
+            <teams>Willem II – NEC</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17554.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>29 August, Saturday</date>
+            <link>/en/eventinfo/330411_utrecht_groningen/</link>
+            <teams>Utrecht – Groningen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10258.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10286.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>29 August, Saturday</date>
+            <link>/en/eventinfo/330413_excelsior_de_graafschap/</link>
+            <teams>Excelsior – De Graafschap</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17376.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10287.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>29 August, Saturday</date>
+            <link>/en/eventinfo/330412_heerenveen_zwolle/</link>
+            <teams>Heerenveen – Zwolle</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17375.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10911.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>29 August, Saturday</date>
+            <link>/en/eventinfo/330414_heracles_twente/</link>
+            <teams>Heracles – Twente</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21162.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10214.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>30 August, Sunday</date>
+            <link>/en/eventinfo/330415_ajax_den_haag/</link>
+            <teams>Ajax – Den Haag</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10186.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21161.gif</logoTeam2>
+            <score>4:0</score>
+        </match>
+        <match>
+            <date>30 August, Sunday</date>
+            <link>/en/eventinfo/330416_az_alkmaar_roda/</link>
+            <teams>AZ Alkmaar – Roda</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10222.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17552.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>30 August, Sunday</date>
+            <link>/en/eventinfo/330417_vitesse_cambuur/</link>
+            <teams>Vitesse – Cambuur</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10257.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17238.gif</logoTeam2>
+            <score>4:1</score>
+        </match>
+    </round>
+    <round id="5">
+        <match>
+            <date>12 September, Saturday</date>
+            <link>/en/eventinfo/338472_roda_nec/</link>
+            <teams>Roda – NEC</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17552.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17554.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>12 September, Saturday</date>
+            <link>/en/eventinfo/338471_de_graafschap_az_alkmaar/</link>
+            <teams>De Graafschap – AZ Alkmaar</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10287.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10222.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>12 September, Saturday</date>
+            <link>/en/eventinfo/338473_twente_ajax/</link>
+            <teams>Twente – Ajax</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10214.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10186.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>12 September, Saturday</date>
+            <link>/en/eventinfo/338475_zwolle_excelsior/</link>
+            <teams>Zwolle – Excelsior</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10911.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17376.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>12 September, Saturday</date>
+            <link>/en/eventinfo/338474_cambuur_psv_eindhoven/</link>
+            <teams>Cambuur – PSV Eindhoven</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10198.gif</logoTeam2>
+            <score>0:6</score>
+        </match>
+        <match>
+            <date>13 September, Sunday</date>
+            <link>/en/eventinfo/338476_groningen_heerenveen/</link>
+            <teams>Groningen – Heerenveen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10286.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17375.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>13 September, Sunday</date>
+            <link>/en/eventinfo/338477_feyenoord_willem_ii/</link>
+            <teams>Feyenoord – Willem II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10260.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10901.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>13 September, Sunday</date>
+            <link>/en/eventinfo/338478_den_haag_heracles/</link>
+            <teams>Den Haag – Heracles</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21161.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21162.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>13 September, Sunday</date>
+            <link>/en/eventinfo/338479_utrecht_vitesse/</link>
+            <teams>Utrecht – Vitesse</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10258.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10257.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+    </round>
+    <round id="6">
+        <match>
+            <date>18 September, Friday</date>
+            <link>/en/eventinfo/338480_nec_heerenveen/</link>
+            <teams>NEC – Heerenveen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17554.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17375.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>19 September, Saturday</date>
+            <link>/en/eventinfo/338481_cambuur_twente/</link>
+            <teams>Cambuur – Twente</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10214.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>19 September, Saturday</date>
+            <link>/en/eventinfo/338482_zwolle_den_haag/</link>
+            <teams>Zwolle – Den Haag</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10911.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21161.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>19 September, Saturday</date>
+            <link>/en/eventinfo/338483_heracles_psv_eindhoven/</link>
+            <teams>Heracles – PSV Eindhoven</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21162.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10198.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>19 September, Saturday</date>
+            <link>/en/eventinfo/338484_willem_ii_utrecht/</link>
+            <teams>Willem II – Utrecht</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10258.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>20 September, Sunday</date>
+            <link>/en/eventinfo/338485_roda_feyenoord/</link>
+            <teams>Roda – Feyenoord</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17552.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10260.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>20 September, Sunday</date>
+            <link>/en/eventinfo/338486_excelsior_ajax/</link>
+            <teams>Excelsior – Ajax</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17376.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10186.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>20 September, Sunday</date>
+            <link>/en/eventinfo/338487_vitesse_de_graafschap/</link>
+            <teams>Vitesse – De Graafschap</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10257.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10287.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+    </round>
+    <round id="7">
+        <match>
+            <date>26 September, Saturday</date>
+            <link>/en/eventinfo/338489_heerenveen_vitesse/</link>
+            <teams>Heerenveen – Vitesse</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17375.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10257.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>26 September, Saturday</date>
+            <link>/en/eventinfo/338490_utrecht_cambuur/</link>
+            <teams>Utrecht – Cambuur</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10258.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17238.gif</logoTeam2>
+            <score>3:3</score>
+        </match>
+        <match>
+            <date>26 September, Saturday</date>
+            <link>/en/eventinfo/338491_ajax_groningen/</link>
+            <teams>Ajax – Groningen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10186.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10286.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>26 September, Saturday</date>
+            <link>/en/eventinfo/338492_az_alkmaar_heracles/</link>
+            <teams>AZ Alkmaar – Heracles</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10222.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21162.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>26 September, Saturday</date>
+            <link>/en/eventinfo/338493_psv_eindhoven_nec/</link>
+            <teams>PSV Eindhoven – NEC</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10198.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17554.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>27 September, Sunday</date>
+            <link>/en/eventinfo/338494_de_graafschap_willem_ii/</link>
+            <teams>De Graafschap – Willem II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10287.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10901.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>27 September, Sunday</date>
+            <link>/en/eventinfo/338495_feyenoord_zwolle/</link>
+            <teams>Feyenoord – Zwolle</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10260.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10911.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>27 September, Sunday</date>
+            <link>/en/eventinfo/338496_den_haag_excelsior/</link>
+            <teams>Den Haag – Excelsior</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21161.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17376.gif</logoTeam2>
+            <score>3:3</score>
+        </match>
+        <match>
+            <date>27 September, Sunday</date>
+            <link>/en/eventinfo/338497_twente_roda/</link>
+            <teams>Twente – Roda</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10214.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17552.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+    </round>
+    <round id="8">
+        <match>
+            <date>2 October, Friday</date>
+            <link>/en/eventinfo/341631_heracles_heerenveen/</link>
+            <teams>Heracles – Heerenveen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21162.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17375.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>3 October, Saturday</date>
+            <link>/en/eventinfo/341632_nec_den_haag/</link>
+            <teams>NEC – Den Haag</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17554.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21161.gif</logoTeam2>
+            <score>4:1</score>
+        </match>
+        <match>
+            <date>3 October, Saturday</date>
+            <link>/en/eventinfo/341633_roda_cambuur/</link>
+            <teams>Roda – Cambuur</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17552.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17238.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>3 October, Saturday</date>
+            <link>/en/eventinfo/341634_willem_ii_zwolle/</link>
+            <teams>Willem II – Zwolle</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10911.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>3 October, Saturday</date>
+            <link>/en/eventinfo/341635_excelsior_utrecht/</link>
+            <teams>Excelsior – Utrecht</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17376.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10258.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>4 October, Sunday</date>
+            <link>/en/eventinfo/341636_de_graafschap_feyenoord/</link>
+            <teams>De Graafschap – Feyenoord</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10287.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10260.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>4 October, Sunday</date>
+            <link>/en/eventinfo/341637_ajax_psv_eindhoven/</link>
+            <teams>Ajax – PSV Eindhoven</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10186.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10198.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>4 October, Sunday</date>
+            <link>/en/eventinfo/341638_vitesse_groningen/</link>
+            <teams>Vitesse – Groningen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10257.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10286.gif</logoTeam2>
+            <score>5:0</score>
+        </match>
+    </round>
+    <round id="9">
+        <match>
+            <date>17 October, Saturday</date>
+            <link>/en/eventinfo/341641_groningen_willem_ii/</link>
+            <teams>Groningen – Willem II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10286.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10901.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>17 October, Saturday</date>
+            <link>/en/eventinfo/341640_cambuur_az_alkmaar/</link>
+            <teams>Cambuur – AZ Alkmaar</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10222.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>17 October, Saturday</date>
+            <link>/en/eventinfo/341642_heracles_ajax/</link>
+            <teams>Heracles – Ajax</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21162.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10186.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>17 October, Saturday</date>
+            <link>/en/eventinfo/341643_utrecht_roda/</link>
+            <teams>Utrecht – Roda</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10258.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17552.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>17 October, Saturday</date>
+            <link>/en/eventinfo/341644_psv_eindhoven_excelsior/</link>
+            <teams>PSV Eindhoven – Excelsior</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10198.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17376.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>18 October, Sunday</date>
+            <link>/en/eventinfo/341645_twente_nec/</link>
+            <teams>Twente – NEC</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10214.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17554.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>18 October, Sunday</date>
+            <link>/en/eventinfo/341646_heerenveen_feyenoord/</link>
+            <teams>Heerenveen – Feyenoord</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17375.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10260.gif</logoTeam2>
+            <score>2:5</score>
+        </match>
+        <match>
+            <date>18 October, Sunday</date>
+            <link>/en/eventinfo/341647_den_haag_de_graafschap/</link>
+            <teams>Den Haag – De Graafschap</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21161.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10287.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>18 October, Sunday</date>
+            <link>/en/eventinfo/341648_zwolle_vitesse/</link>
+            <teams>Zwolle – Vitesse</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10911.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10257.gif</logoTeam2>
+            <score>1:5</score>
+        </match>
+    </round>
+    <round id="10">
+        <match>
+            <date>23 October, Friday</date>
+            <link>/en/eventinfo/341649_zwolle_utrecht/</link>
+            <teams>Zwolle – Utrecht</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10911.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10258.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>24 October, Saturday</date>
+            <link>/en/eventinfo/341650_willem_ii_heerenveen/</link>
+            <teams>Willem II – Heerenveen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17375.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>24 October, Saturday</date>
+            <link>/en/eventinfo/341652_twente_psv_eindhoven/</link>
+            <teams>Twente – PSV Eindhoven</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10214.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10198.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>24 October, Saturday</date>
+            <link>/en/eventinfo/341651_de_graafschap_heracles/</link>
+            <teams>De Graafschap – Heracles</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10287.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21162.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>24 October, Saturday</date>
+            <link>/en/eventinfo/341653_roda_excelsior/</link>
+            <teams>Roda – Excelsior</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17552.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17376.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>25 October, Sunday</date>
+            <link>/en/eventinfo/341654_cambuur_den_haag/</link>
+            <teams>Cambuur – Den Haag</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21161.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>25 October, Sunday</date>
+            <link>/en/eventinfo/341655_vitesse_ajax/</link>
+            <teams>Vitesse – Ajax</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10257.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10186.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>25 October, Sunday</date>
+            <link>/en/eventinfo/341656_nec_groningen/</link>
+            <teams>NEC – Groningen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17554.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10286.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+    </round>
+    <round id="11">
+        <match>
+            <date>30 October, Friday</date>
+            <link>/en/eventinfo/354867_heracles_willem_ii/</link>
+            <teams>Heracles – Willem II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21162.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10901.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>31 October, Saturday</date>
+            <link>/en/eventinfo/354868_groningen_zwolle/</link>
+            <teams>Groningen – Zwolle</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10286.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10911.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>31 October, Saturday</date>
+            <link>/en/eventinfo/354870_excelsior_vitesse/</link>
+            <teams>Excelsior – Vitesse</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17376.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10257.gif</logoTeam2>
+            <score>0:3</score>
+        </match>
+        <match>
+            <date>31 October, Saturday</date>
+            <link>/en/eventinfo/354869_ajax_roda/</link>
+            <teams>Ajax – Roda</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10186.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17552.gif</logoTeam2>
+            <score>6:0</score>
+        </match>
+        <match>
+            <date>31 October, Saturday</date>
+            <link>/en/eventinfo/354871_de_graafschap_psv_eindhoven/</link>
+            <teams>De Graafschap – PSV Eindhoven</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10287.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10198.gif</logoTeam2>
+            <score>3:6</score>
+        </match>
+        <match>
+            <date>31 October, Saturday</date>
+            <link>/en/eventinfo/354872_den_haag_feyenoord/</link>
+            <teams>Den Haag – Feyenoord</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21161.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10260.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>31 October, Saturday</date>
+            <link>/en/eventinfo/354874_utrecht_twente/</link>
+            <teams>Utrecht – Twente</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10258.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10214.gif</logoTeam2>
+            <score>4:2</score>
+        </match>
+        <match>
+            <date>31 October, Saturday</date>
+            <link>/en/eventinfo/354873_heerenveen_cambuur/</link>
+            <teams>Heerenveen – Cambuur</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17375.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17238.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>31 October, Saturday</date>
+            <link>/en/eventinfo/354875_az_alkmaar_nec/</link>
+            <teams>AZ Alkmaar – NEC</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10222.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17554.gif</logoTeam2>
+            <score>2:4</score>
+        </match>
+    </round>
+    <round id="12">
+        <match>
+            <date>6 November, Friday</date>
+            <link>/en/eventinfo/354876_roda_den_haag/</link>
+            <teams>Roda – Den Haag</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17552.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21161.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>7 November, Saturday</date>
+            <link>/en/eventinfo/354877_twente_heerenveen/</link>
+            <teams>Twente – Heerenveen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10214.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17375.gif</logoTeam2>
+            <score>1:4</score>
+        </match>
+        <match>
+            <date>7 November, Saturday</date>
+            <link>/en/eventinfo/354879_willem_ii_excelsior/</link>
+            <teams>Willem II – Excelsior</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17376.gif</logoTeam2>
+            <score>2:3</score>
+        </match>
+        <match>
+            <date>7 November, Saturday</date>
+            <link>/en/eventinfo/354878_nec_de_graafschap/</link>
+            <teams>NEC – De Graafschap</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17554.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10287.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>7 November, Saturday</date>
+            <link>/en/eventinfo/354880_zwolle_heracles/</link>
+            <teams>Zwolle – Heracles</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10911.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21162.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>8 November, Sunday</date>
+            <link>/en/eventinfo/354881_psv_eindhoven_utrecht/</link>
+            <teams>PSV Eindhoven – Utrecht</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10198.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10258.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>8 November, Sunday</date>
+            <link>/en/eventinfo/354882_cambuur_groningen/</link>
+            <teams>Cambuur – Groningen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10286.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>8 November, Sunday</date>
+            <link>/en/eventinfo/354883_feyenoord_ajax/</link>
+            <teams>Feyenoord – Ajax</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10260.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10186.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+    </round>
+    <round id="13">
+        <match>
+            <date>21 November, Saturday</date>
+            <link>/en/eventinfo/354885_az_alkmaar_heerenveen/</link>
+            <teams>AZ Alkmaar – Heerenveen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10222.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17375.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>21 November, Saturday</date>
+            <link>/en/eventinfo/354886_roda_zwolle/</link>
+            <teams>Roda – Zwolle</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17552.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10911.gif</logoTeam2>
+            <score>0:5</score>
+        </match>
+        <match>
+            <date>21 November, Saturday</date>
+            <link>/en/eventinfo/354887_ajax_cambuur/</link>
+            <teams>Ajax – Cambuur</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10186.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17238.gif</logoTeam2>
+            <score>5:1</score>
+        </match>
+        <match>
+            <date>21 November, Saturday</date>
+            <link>/en/eventinfo/354888_willem_ii_psv_eindhoven/</link>
+            <teams>Willem II – PSV Eindhoven</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10198.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>21 November, Saturday</date>
+            <link>/en/eventinfo/354889_de_graafschap_groningen/</link>
+            <teams>De Graafschap – Groningen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10287.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10286.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>22 November, Sunday</date>
+            <link>/en/eventinfo/354890_heracles_excelsior/</link>
+            <teams>Heracles – Excelsior</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21162.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17376.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>22 November, Sunday</date>
+            <link>/en/eventinfo/354892_nec_utrecht/</link>
+            <teams>NEC – Utrecht</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17554.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10258.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>22 November, Sunday</date>
+            <link>/en/eventinfo/354891_feyenoord_twente/</link>
+            <teams>Feyenoord – Twente</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10260.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10214.gif</logoTeam2>
+            <score>5:0</score>
+        </match>
+        <match>
+            <date>22 November, Sunday</date>
+            <link>/en/eventinfo/354893_den_haag_vitesse/</link>
+            <teams>Den Haag – Vitesse</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21161.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10257.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+    </round>
+    <round id="14">
+        <match>
+            <date>27 November, Friday</date>
+            <link>/en/eventinfo/354894_cambuur_de_graafschap/</link>
+            <teams>Cambuur – De Graafschap</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10287.gif</logoTeam2>
+            <score>2:3</score>
+        </match>
+        <match>
+            <date>28 November, Saturday</date>
+            <link>/en/eventinfo/354895_heerenveen_roda/</link>
+            <teams>Heerenveen – Roda</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17375.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17552.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>28 November, Saturday</date>
+            <link>/en/eventinfo/354896_excelsior_feyenoord/</link>
+            <teams>Excelsior – Feyenoord</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17376.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10260.gif</logoTeam2>
+            <score>2:4</score>
+        </match>
+        <match>
+            <date>28 November, Saturday</date>
+            <link>/en/eventinfo/354897_twente_willem_ii/</link>
+            <teams>Twente – Willem II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10214.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10901.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>29 November, Sunday</date>
+            <link>/en/eventinfo/354898_vitesse_nec/</link>
+            <teams>Vitesse – NEC</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10257.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17554.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>29 November, Sunday</date>
+            <link>/en/eventinfo/354899_zwolle_ajax/</link>
+            <teams>Zwolle – Ajax</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10911.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10186.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>29 November, Sunday</date>
+            <link>/en/eventinfo/354901_utrecht_heracles/</link>
+            <teams>Utrecht – Heracles</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10258.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21162.gif</logoTeam2>
+            <score>4:2</score>
+        </match>
+        <match>
+            <date>29 November, Sunday</date>
+            <link>/en/eventinfo/354900_groningen_den_haag/</link>
+            <teams>Groningen – Den Haag</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10286.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21161.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+    </round>
+    <round id="15">
+        <match>
+            <date>4 December, Friday</date>
+            <link>/en/eventinfo/354903_az_alkmaar_den_haag/</link>
+            <teams>AZ Alkmaar – Den Haag</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10222.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21161.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>5 December, Saturday</date>
+            <link>/en/eventinfo/354904_excelsior_twente/</link>
+            <teams>Excelsior – Twente</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17376.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10214.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>5 December, Saturday</date>
+            <link>/en/eventinfo/354905_de_graafschap_utrecht/</link>
+            <teams>De Graafschap – Utrecht</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10287.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10258.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>5 December, Saturday</date>
+            <link>/en/eventinfo/354906_vitesse_psv_eindhoven/</link>
+            <teams>Vitesse – PSV Eindhoven</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10257.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10198.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>5 December, Saturday</date>
+            <link>/en/eventinfo/354907_ajax_heerenveen/</link>
+            <teams>Ajax – Heerenveen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10186.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17375.gif</logoTeam2>
+            <score>5:2</score>
+        </match>
+        <match>
+            <date>6 December, Sunday</date>
+            <link>/en/eventinfo/354908_willem_ii_cambuur/</link>
+            <teams>Willem II – Cambuur</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17238.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>6 December, Sunday</date>
+            <link>/en/eventinfo/354909_feyenoord_heracles/</link>
+            <teams>Feyenoord – Heracles</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10260.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21162.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>6 December, Sunday</date>
+            <link>/en/eventinfo/354910_nec_zwolle/</link>
+            <teams>NEC – Zwolle</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17554.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10911.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>6 December, Sunday</date>
+            <link>/en/eventinfo/354911_roda_groningen/</link>
+            <teams>Roda – Groningen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17552.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10286.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+    </round>
+    <round id="16">
+        <match>
+            <date>11 December, Friday</date>
+            <link>/en/eventinfo/354912_heerenveen_excelsior/</link>
+            <teams>Heerenveen – Excelsior</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17375.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17376.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>12 December, Saturday</date>
+            <link>/en/eventinfo/354913_den_haag_willem_ii/</link>
+            <teams>Den Haag – Willem II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21161.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10901.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>12 December, Saturday</date>
+            <link>/en/eventinfo/354915_psv_eindhoven_roda/</link>
+            <teams>PSV Eindhoven – Roda</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10198.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17552.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>12 December, Saturday</date>
+            <link>/en/eventinfo/354914_cambuur_nec/</link>
+            <teams>Cambuur – NEC</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17554.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>12 December, Saturday</date>
+            <link>/en/eventinfo/354916_twente_de_graafschap/</link>
+            <teams>Twente – De Graafschap</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10214.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10287.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>13 December, Sunday</date>
+            <link>/en/eventinfo/354917_utrecht_ajax/</link>
+            <teams>Utrecht – Ajax</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10258.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10186.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>13 December, Sunday</date>
+            <link>/en/eventinfo/354919_groningen_feyenoord/</link>
+            <teams>Groningen – Feyenoord</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10286.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10260.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>13 December, Sunday</date>
+            <link>/en/eventinfo/354918_zwolle_az_alkmaar/</link>
+            <teams>Zwolle – AZ Alkmaar</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10911.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10222.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+    </round>
+    <round id="17">
+        <match>
+            <date>18 December, Friday</date>
+            <link>/en/eventinfo/354921_vitesse_twente/</link>
+            <teams>Vitesse – Twente</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10257.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10214.gif</logoTeam2>
+            <score>5:1</score>
+        </match>
+        <match>
+            <date>19 December, Saturday</date>
+            <link>/en/eventinfo/354922_willem_ii_roda/</link>
+            <teams>Willem II – Roda</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17552.gif</logoTeam2>
+            <score>3:2</score>
+        </match>
+        <match>
+            <date>19 December, Saturday</date>
+            <link>/en/eventinfo/354923_psv_eindhoven_zwolle/</link>
+            <teams>PSV Eindhoven – Zwolle</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10198.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10911.gif</logoTeam2>
+            <score>3:2</score>
+        </match>
+        <match>
+            <date>19 December, Saturday</date>
+            <link>/en/eventinfo/354924_az_alkmaar_utrecht/</link>
+            <teams>AZ Alkmaar – Utrecht</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10222.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10258.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>19 December, Saturday</date>
+            <link>/en/eventinfo/354925_heracles_groningen/</link>
+            <teams>Heracles – Groningen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21162.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10286.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>20 December, Sunday</date>
+            <link>/en/eventinfo/354926_excelsior_cambuur/</link>
+            <teams>Excelsior – Cambuur</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17376.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17238.gif</logoTeam2>
+            <score>1:4</score>
+        </match>
+        <match>
+            <date>20 December, Sunday</date>
+            <link>/en/eventinfo/354927_heerenveen_den_haag/</link>
+            <teams>Heerenveen – Den Haag</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17375.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21161.gif</logoTeam2>
+            <score>0:4</score>
+        </match>
+        <match>
+            <date>20 December, Sunday</date>
+            <link>/en/eventinfo/354928_nec_feyenoord/</link>
+            <teams>NEC – Feyenoord</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17554.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10260.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>20 December, Sunday</date>
+            <link>/en/eventinfo/354929_ajax_de_graafschap/</link>
+            <teams>Ajax – De Graafschap</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10186.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10287.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+    </round>
+    <round id="18">
+        <match>
+            <date>15 January, Friday</date>
+            <link>/en/eventinfo/370127_twente_heracles/</link>
+            <teams>Twente – Heracles</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10214.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21162.gif</logoTeam2>
+            <score>4:0</score>
+        </match>
+        <match>
+            <date>16 January, Saturday</date>
+            <link>/en/eventinfo/370128_cambuur_vitesse/</link>
+            <teams>Cambuur – Vitesse</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10257.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>16 January, Saturday</date>
+            <link>/en/eventinfo/370130_roda_az_alkmaar/</link>
+            <teams>Roda – AZ Alkmaar</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17552.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10222.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>16 January, Saturday</date>
+            <link>/en/eventinfo/370129_zwolle_heerenveen/</link>
+            <teams>Zwolle – Heerenveen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10911.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17375.gif</logoTeam2>
+            <score>5:2</score>
+        </match>
+        <match>
+            <date>16 January, Saturday</date>
+            <link>/en/eventinfo/370131_de_graafschap_excelsior/</link>
+            <teams>De Graafschap – Excelsior</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10287.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17376.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>17 January, Sunday</date>
+            <link>/en/eventinfo/370132_den_haag_ajax/</link>
+            <teams>Den Haag – Ajax</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21161.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10186.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>17 January, Sunday</date>
+            <link>/en/eventinfo/370134_groningen_utrecht/</link>
+            <teams>Groningen – Utrecht</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10286.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10258.gif</logoTeam2>
+            <score>1:4</score>
+        </match>
+        <match>
+            <date>17 January, Sunday</date>
+            <link>/en/eventinfo/370133_feyenoord_psv_eindhoven/</link>
+            <teams>Feyenoord – PSV Eindhoven</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10260.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10198.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+    </round>
+    <round id="19">
+        <match>
+            <date>22 January, Friday</date>
+            <link>/en/eventinfo/370136_groningen_nec/</link>
+            <teams>Groningen – NEC</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10286.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17554.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>23 January, Saturday</date>
+            <link>/en/eventinfo/370137_heracles_de_graafschap/</link>
+            <teams>Heracles – De Graafschap</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21162.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10287.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>23 January, Saturday</date>
+            <link>/en/eventinfo/370139_excelsior_roda/</link>
+            <teams>Excelsior – Roda</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17376.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17552.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>23 January, Saturday</date>
+            <link>/en/eventinfo/370138_ajax_vitesse/</link>
+            <teams>Ajax – Vitesse</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10186.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10257.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>23 January, Saturday</date>
+            <link>/en/eventinfo/370140_heerenveen_willem_ii/</link>
+            <teams>Heerenveen – Willem II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17375.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10901.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>24 January, Sunday</date>
+            <link>/en/eventinfo/370141_az_alkmaar_feyenoord/</link>
+            <teams>AZ Alkmaar – Feyenoord</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10222.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10260.gif</logoTeam2>
+            <score>4:2</score>
+        </match>
+        <match>
+            <date>24 January, Sunday</date>
+            <link>/en/eventinfo/370143_psv_eindhoven_twente/</link>
+            <teams>PSV Eindhoven – Twente</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10198.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10214.gif</logoTeam2>
+            <score>4:2</score>
+        </match>
+        <match>
+            <date>24 January, Sunday</date>
+            <link>/en/eventinfo/370142_utrecht_zwolle/</link>
+            <teams>Utrecht – Zwolle</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10258.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10911.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>24 January, Sunday</date>
+            <link>/en/eventinfo/370144_den_haag_cambuur/</link>
+            <teams>Den Haag – Cambuur</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21161.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17238.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+    </round>
+    <round id="20">
+        <match>
+            <date>26 January, Tuesday</date>
+            <link>/en/eventinfo/370145_willem_ii_groningen/</link>
+            <teams>Willem II – Groningen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10286.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>26 January, Tuesday</date>
+            <link>/en/eventinfo/370146_ajax_heracles/</link>
+            <teams>Ajax – Heracles</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10186.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21162.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>27 January, Wednesday</date>
+            <link>/en/eventinfo/370148_nec_twente/</link>
+            <teams>NEC – Twente</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17554.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10214.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>27 January, Wednesday</date>
+            <link>/en/eventinfo/370147_az_alkmaar_cambuur/</link>
+            <teams>AZ Alkmaar – Cambuur</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10222.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17238.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>27 January, Wednesday</date>
+            <link>/en/eventinfo/370149_de_graafschap_den_haag/</link>
+            <teams>De Graafschap – Den Haag</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10287.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21161.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>27 January, Wednesday</date>
+            <link>/en/eventinfo/370151_vitesse_zwolle/</link>
+            <teams>Vitesse – Zwolle</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10257.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10911.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>27 January, Wednesday</date>
+            <link>/en/eventinfo/370150_excelsior_psv_eindhoven/</link>
+            <teams>Excelsior – PSV Eindhoven</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17376.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10198.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>28 January, Thursday</date>
+            <link>/en/eventinfo/370152_roda_utrecht/</link>
+            <teams>Roda – Utrecht</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17552.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10258.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+    </round>
+    <round id="21">
+        <match>
+            <date>29 January, Friday</date>
+            <link>/en/eventinfo/370154_willem_ii_heracles/</link>
+            <teams>Willem II – Heracles</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21162.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>30 January, Saturday</date>
+            <link>/en/eventinfo/370155_vitesse_excelsior/</link>
+            <teams>Vitesse – Excelsior</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10257.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17376.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>30 January, Saturday</date>
+            <link>/en/eventinfo/370156_zwolle_groningen/</link>
+            <teams>Zwolle – Groningen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10911.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10286.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>30 January, Saturday</date>
+            <link>/en/eventinfo/370157_psv_eindhoven_de_graafschap/</link>
+            <teams>PSV Eindhoven – De Graafschap</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10198.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10287.gif</logoTeam2>
+            <score>4:2</score>
+        </match>
+        <match>
+            <date>30 January, Saturday</date>
+            <link>/en/eventinfo/370158_nec_az_alkmaar/</link>
+            <teams>NEC – AZ Alkmaar</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17554.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10222.gif</logoTeam2>
+            <score>0:3</score>
+        </match>
+        <match>
+            <date>31 January, Sunday</date>
+            <link>/en/eventinfo/370159_roda_ajax/</link>
+            <teams>Roda – Ajax</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17552.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10186.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>31 January, Sunday</date>
+            <link>/en/eventinfo/370161_feyenoord_den_haag/</link>
+            <teams>Feyenoord – Den Haag</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10260.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21161.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>31 January, Sunday</date>
+            <link>/en/eventinfo/370160_cambuur_heerenveen/</link>
+            <teams>Cambuur – Heerenveen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17375.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>31 January, Sunday</date>
+            <link>/en/eventinfo/370162_twente_utrecht/</link>
+            <teams>Twente – Utrecht</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10214.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10258.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+    </round>
+    <round id="22">
+        <match>
+            <date>5 February, Friday</date>
+            <link>/en/eventinfo/370163_excelsior_willem_ii/</link>
+            <teams>Excelsior – Willem II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17376.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10901.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>6 February, Saturday</date>
+            <link>/en/eventinfo/370164_den_haag_roda/</link>
+            <teams>Den Haag – Roda</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21161.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17552.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>6 February, Saturday</date>
+            <link>/en/eventinfo/370165_heerenveen_twente/</link>
+            <teams>Heerenveen – Twente</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17375.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10214.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>6 February, Saturday</date>
+            <link>/en/eventinfo/383347_az_alkmaar_vitesse/</link>
+            <teams>AZ Alkmaar – Vitesse</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10222.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10257.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>6 February, Saturday</date>
+            <link>/en/eventinfo/370166_heracles_zwolle/</link>
+            <teams>Heracles – Zwolle</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21162.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10911.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>7 February, Sunday</date>
+            <link>/en/eventinfo/370167_ajax_feyenoord/</link>
+            <teams>Ajax – Feyenoord</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10186.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10260.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>7 February, Sunday</date>
+            <link>/en/eventinfo/370169_groningen_cambuur/</link>
+            <teams>Groningen – Cambuur</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10286.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17238.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>7 February, Sunday</date>
+            <link>/en/eventinfo/370168_de_graafschap_nec/</link>
+            <teams>De Graafschap – NEC</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10287.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17554.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+    </round>
+    <round id="23">
+        <match>
+            <date>12 February, Friday</date>
+            <link>/en/eventinfo/370171_cambuur_utrecht/</link>
+            <teams>Cambuur – Utrecht</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10258.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>13 February, Saturday</date>
+            <link>/en/eventinfo/370172_heracles_az_alkmaar/</link>
+            <teams>Heracles – AZ Alkmaar</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21162.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10222.gif</logoTeam2>
+            <score>3:6</score>
+        </match>
+        <match>
+            <date>13 February, Saturday</date>
+            <link>/en/eventinfo/370173_willem_ii_de_graafschap/</link>
+            <teams>Willem II – De Graafschap</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10287.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>13 February, Saturday</date>
+            <link>/en/eventinfo/370174_roda_twente/</link>
+            <teams>Roda – Twente</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17552.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10214.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>13 February, Saturday</date>
+            <link>/en/eventinfo/370175_vitesse_heerenveen/</link>
+            <teams>Vitesse – Heerenveen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10257.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17375.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>14 February, Sunday</date>
+            <link>/en/eventinfo/370176_groningen_ajax/</link>
+            <teams>Groningen – Ajax</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10286.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10186.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>14 February, Sunday</date>
+            <link>/en/eventinfo/370178_excelsior_den_haag/</link>
+            <teams>Excelsior – Den Haag</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17376.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21161.gif</logoTeam2>
+            <score>2:4</score>
+        </match>
+        <match>
+            <date>14 February, Sunday</date>
+            <link>/en/eventinfo/370177_zwolle_feyenoord/</link>
+            <teams>Zwolle – Feyenoord</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10911.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10260.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>14 February, Sunday</date>
+            <link>/en/eventinfo/370179_nec_psv_eindhoven/</link>
+            <teams>NEC – PSV Eindhoven</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17554.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10198.gif</logoTeam2>
+            <score>0:3</score>
+        </match>
+    </round>
+    <round id="24">
+        <match>
+            <date>19 February, Friday</date>
+            <link>/en/eventinfo/370180_den_haag_zwolle/</link>
+            <teams>Den Haag – Zwolle</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21161.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10911.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>20 February, Saturday</date>
+            <link>/en/eventinfo/370181_az_alkmaar_groningen/</link>
+            <teams>AZ Alkmaar – Groningen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10222.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10286.gif</logoTeam2>
+            <score>4:1</score>
+        </match>
+        <match>
+            <date>20 February, Saturday</date>
+            <link>/en/eventinfo/370183_psv_eindhoven_heracles/</link>
+            <teams>PSV Eindhoven – Heracles</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10198.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21162.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>20 February, Saturday</date>
+            <link>/en/eventinfo/370182_heerenveen_nec/</link>
+            <teams>Heerenveen – NEC</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17375.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17554.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>20 February, Saturday</date>
+            <link>/en/eventinfo/370184_twente_cambuur/</link>
+            <teams>Twente – Cambuur</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10214.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17238.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>21 February, Sunday</date>
+            <link>/en/eventinfo/370185_de_graafschap_vitesse/</link>
+            <teams>De Graafschap – Vitesse</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10287.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10257.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>21 February, Sunday</date>
+            <link>/en/eventinfo/370187_ajax_excelsior/</link>
+            <teams>Ajax – Excelsior</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10186.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17376.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>21 February, Sunday</date>
+            <link>/en/eventinfo/370186_utrecht_willem_ii/</link>
+            <teams>Utrecht – Willem II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10258.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10901.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+    </round>
+    <round id="25">
+        <match>
+            <date>26 February, Friday</date>
+            <link>/en/eventinfo/387924_excelsior_nec/</link>
+            <teams>Excelsior – NEC</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17376.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17554.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>27 February, Saturday</date>
+            <link>/en/eventinfo/387925_twente_groningen/</link>
+            <teams>Twente – Groningen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10214.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10286.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>27 February, Saturday</date>
+            <link>/en/eventinfo/387927_psv_eindhoven_den_haag/</link>
+            <teams>PSV Eindhoven – Den Haag</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10198.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21161.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>27 February, Saturday</date>
+            <link>/en/eventinfo/387926_cambuur_zwolle/</link>
+            <teams>Cambuur – Zwolle</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10911.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>27 February, Saturday</date>
+            <link>/en/eventinfo/387928_vitesse_willem_ii/</link>
+            <teams>Vitesse – Willem II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10257.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10901.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>28 February, Sunday</date>
+            <link>/en/eventinfo/387929_heracles_roda/</link>
+            <teams>Heracles – Roda</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21162.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17552.gif</logoTeam2>
+            <score>0:5</score>
+        </match>
+        <match>
+            <date>28 February, Sunday</date>
+            <link>/en/eventinfo/387931_utrecht_feyenoord/</link>
+            <teams>Utrecht – Feyenoord</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10258.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10260.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>28 February, Sunday</date>
+            <link>/en/eventinfo/387930_de_graafschap_heerenveen/</link>
+            <teams>De Graafschap – Heerenveen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10287.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17375.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>28 February, Sunday</date>
+            <link>/en/eventinfo/387932_ajax_az_alkmaar/</link>
+            <teams>Ajax – AZ Alkmaar</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10186.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10222.gif</logoTeam2>
+            <score>4:1</score>
+        </match>
+    </round>
+    <round id="26">
+        <match>
+            <date>4 March, Friday</date>
+            <link>/en/eventinfo/387933_den_haag_twente/</link>
+            <teams>Den Haag – Twente</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21161.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10214.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>5 March, Saturday</date>
+            <link>/en/eventinfo/387934_zwolle_de_graafschap/</link>
+            <teams>Zwolle – De Graafschap</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10911.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10287.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>5 March, Saturday</date>
+            <link>/en/eventinfo/387935_groningen_psv_eindhoven/</link>
+            <teams>Groningen – PSV Eindhoven</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10286.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10198.gif</logoTeam2>
+            <score>0:3</score>
+        </match>
+        <match>
+            <date>5 March, Saturday</date>
+            <link>/en/eventinfo/387936_heerenveen_utrecht/</link>
+            <teams>Heerenveen – Utrecht</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17375.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10258.gif</logoTeam2>
+            <score>0:4</score>
+        </match>
+        <match>
+            <date>6 March, Sunday</date>
+            <link>/en/eventinfo/387937_nec_heracles/</link>
+            <teams>NEC – Heracles</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17554.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21162.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>6 March, Sunday</date>
+            <link>/en/eventinfo/387939_willem_ii_ajax/</link>
+            <teams>Willem II – Ajax</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10186.gif</logoTeam2>
+            <score>0:4</score>
+        </match>
+        <match>
+            <date>6 March, Sunday</date>
+            <link>/en/eventinfo/387940_roda_vitesse/</link>
+            <teams>Roda – Vitesse</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17552.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10257.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>6 March, Sunday</date>
+            <link>/en/eventinfo/387938_az_alkmaar_excelsior/</link>
+            <teams>AZ Alkmaar – Excelsior</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10222.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17376.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+    </round>
+    <round id="27">
+        <match>
+            <date>11 March, Friday</date>
+            <link>/en/eventinfo/387942_de_graafschap_roda/</link>
+            <teams>De Graafschap – Roda</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10287.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17552.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>12 March, Saturday</date>
+            <link>/en/eventinfo/387943_twente_zwolle/</link>
+            <teams>Twente – Zwolle</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10214.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10911.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>12 March, Saturday</date>
+            <link>/en/eventinfo/387945_psv_eindhoven_heerenveen/</link>
+            <teams>PSV Eindhoven – Heerenveen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10198.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17375.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>12 March, Saturday</date>
+            <link>/en/eventinfo/387944_willem_ii_az_alkmaar/</link>
+            <teams>Willem II – AZ Alkmaar</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10222.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>12 March, Saturday</date>
+            <link>/en/eventinfo/387946_excelsior_groningen/</link>
+            <teams>Excelsior – Groningen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17376.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10286.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>13 March, Sunday</date>
+            <link>/en/eventinfo/387947_utrecht_den_haag/</link>
+            <teams>Utrecht – Den Haag</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10258.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21161.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>13 March, Sunday</date>
+            <link>/en/eventinfo/387948_heracles_cambuur/</link>
+            <teams>Heracles – Cambuur</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21162.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17238.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>13 March, Sunday</date>
+            <link>/en/eventinfo/387949_vitesse_feyenoord/</link>
+            <teams>Vitesse – Feyenoord</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10257.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10260.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>13 March, Sunday</date>
+            <link>/en/eventinfo/387950_ajax_nec/</link>
+            <teams>Ajax – NEC</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10186.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17554.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+    </round>
+    <round id="28">
+        <match>
+            <date>18 March, Friday</date>
+            <link>/en/eventinfo/387951_utrecht_excelsior/</link>
+            <teams>Utrecht – Excelsior</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10258.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17376.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>19 March, Saturday</date>
+            <link>/en/eventinfo/387952_heerenveen_heracles/</link>
+            <teams>Heerenveen – Heracles</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17375.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21162.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>19 March, Saturday</date>
+            <link>/en/eventinfo/387953_feyenoord_de_graafschap/</link>
+            <teams>Feyenoord – De Graafschap</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10260.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10287.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>19 March, Saturday</date>
+            <link>/en/eventinfo/387954_zwolle_willem_ii/</link>
+            <teams>Zwolle – Willem II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10911.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10901.gif</logoTeam2>
+            <score>4:1</score>
+        </match>
+        <match>
+            <date>19 March, Saturday</date>
+            <link>/en/eventinfo/387955_cambuur_roda/</link>
+            <teams>Cambuur – Roda</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17552.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>20 March, Sunday</date>
+            <link>/en/eventinfo/387956_twente_az_alkmaar/</link>
+            <teams>Twente – AZ Alkmaar</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10214.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10222.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>20 March, Sunday</date>
+            <link>/en/eventinfo/387958_den_haag_nec/</link>
+            <teams>Den Haag – NEC</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21161.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17554.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>20 March, Sunday</date>
+            <link>/en/eventinfo/387957_groningen_vitesse/</link>
+            <teams>Groningen – Vitesse</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10286.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10257.gif</logoTeam2>
+            <score>0:3</score>
+        </match>
+    </round>
+    <round id="29">
+        <match>
+            <date>2 April, Saturday</date>
+            <link>/en/eventinfo/401730_heracles_utrecht/</link>
+            <teams>Heracles – Utrecht</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21162.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10258.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>2 April, Saturday</date>
+            <link>/en/eventinfo/401731_de_graafschap_cambuur/</link>
+            <teams>De Graafschap – Cambuur</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10287.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17238.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>2 April, Saturday</date>
+            <link>/en/eventinfo/401732_az_alkmaar_psv_eindhoven/</link>
+            <teams>AZ Alkmaar – PSV Eindhoven</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10222.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10198.gif</logoTeam2>
+            <score>2:4</score>
+        </match>
+        <match>
+            <date>2 April, Saturday</date>
+            <link>/en/eventinfo/401733_feyenoord_excelsior/</link>
+            <teams>Feyenoord – Excelsior</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10260.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17376.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>2 April, Saturday</date>
+            <link>/en/eventinfo/401734_willem_ii_twente/</link>
+            <teams>Willem II – Twente</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10214.gif</logoTeam2>
+            <score>2:3</score>
+        </match>
+        <match>
+            <date>3 April, Sunday</date>
+            <link>/en/eventinfo/401735_nec_vitesse/</link>
+            <teams>NEC – Vitesse</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17554.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10257.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>3 April, Sunday</date>
+            <link>/en/eventinfo/401737_den_haag_groningen/</link>
+            <teams>Den Haag – Groningen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21161.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10286.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>3 April, Sunday</date>
+            <link>/en/eventinfo/401736_roda_heerenveen/</link>
+            <teams>Roda – Heerenveen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17552.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17375.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>3 April, Sunday</date>
+            <link>/en/eventinfo/401738_ajax_zwolle/</link>
+            <teams>Ajax – Zwolle</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10186.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10911.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+    </round>
+    <round id="30">
+        <match>
+            <date>8 April, Friday</date>
+            <link>/en/eventinfo/401739_zwolle_roda/</link>
+            <teams>Zwolle – Roda</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10911.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17552.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>9 April, Saturday</date>
+            <link>/en/eventinfo/401740_excelsior_heracles/</link>
+            <teams>Excelsior – Heracles</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17376.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21162.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>9 April, Saturday</date>
+            <link>/en/eventinfo/401741_cambuur_ajax/</link>
+            <teams>Cambuur – Ajax</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10186.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>9 April, Saturday</date>
+            <link>/en/eventinfo/401742_vitesse_den_haag/</link>
+            <teams>Vitesse – Den Haag</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10257.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21161.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>9 April, Saturday</date>
+            <link>/en/eventinfo/401743_psv_eindhoven_willem_ii/</link>
+            <teams>PSV Eindhoven – Willem II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10198.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10901.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>10 April, Sunday</date>
+            <link>/en/eventinfo/401744_heerenveen_az_alkmaar/</link>
+            <teams>Heerenveen – AZ Alkmaar</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17375.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10222.gif</logoTeam2>
+            <score>4:2</score>
+        </match>
+        <match>
+            <date>10 April, Sunday</date>
+            <link>/en/eventinfo/401746_groningen_de_graafschap/</link>
+            <teams>Groningen – De Graafschap</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10286.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10287.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>10 April, Sunday</date>
+            <link>/en/eventinfo/401745_utrecht_nec/</link>
+            <teams>Utrecht – NEC</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10258.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17554.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+    </round>
+    <round id="31">
+        <match>
+            <date>15 April, Friday</date>
+            <link>/en/eventinfo/401748_de_graafschap_twente/</link>
+            <teams>De Graafschap – Twente</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10287.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10214.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>16 April, Saturday</date>
+            <link>/en/eventinfo/401749_vitesse_heracles/</link>
+            <teams>Vitesse – Heracles</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10257.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21162.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>16 April, Saturday</date>
+            <link>/en/eventinfo/401751_az_alkmaar_zwolle/</link>
+            <teams>AZ Alkmaar – Zwolle</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10222.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10911.gif</logoTeam2>
+            <score>5:1</score>
+        </match>
+        <match>
+            <date>16 April, Saturday</date>
+            <link>/en/eventinfo/401750_feyenoord_groningen/</link>
+            <teams>Feyenoord – Groningen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10260.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10286.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>16 April, Saturday</date>
+            <link>/en/eventinfo/401752_roda_psv_eindhoven/</link>
+            <teams>Roda – PSV Eindhoven</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17552.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10198.gif</logoTeam2>
+            <score>0:3</score>
+        </match>
+        <match>
+            <date>17 April, Sunday</date>
+            <link>/en/eventinfo/401753_ajax_utrecht/</link>
+            <teams>Ajax – Utrecht</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10186.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10258.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>17 April, Sunday</date>
+            <link>/en/eventinfo/401755_nec_cambuur/</link>
+            <teams>NEC – Cambuur</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17554.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17238.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>17 April, Sunday</date>
+            <link>/en/eventinfo/401754_willem_ii_den_haag/</link>
+            <teams>Willem II – Den Haag</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21161.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>17 April, Sunday</date>
+            <link>/en/eventinfo/401756_excelsior_heerenveen/</link>
+            <teams>Excelsior – Heerenveen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17376.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17375.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+    </round>
+    <round id="32">
+        <match>
+            <date>19 April, Tuesday</date>
+            <link>/en/eventinfo/401757_groningen_roda/</link>
+            <teams>Groningen – Roda</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10286.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17552.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>19 April, Tuesday</date>
+            <link>/en/eventinfo/401758_psv_eindhoven_vitesse/</link>
+            <teams>PSV Eindhoven – Vitesse</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10198.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10257.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>20 April, Wednesday</date>
+            <link>/en/eventinfo/401759_zwolle_nec/</link>
+            <teams>Zwolle – NEC</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10911.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17554.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>20 April, Wednesday</date>
+            <link>/en/eventinfo/401761_utrecht_de_graafschap/</link>
+            <teams>Utrecht – De Graafschap</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10258.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10287.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>20 April, Wednesday</date>
+            <link>/en/eventinfo/401762_heracles_feyenoord/</link>
+            <teams>Heracles – Feyenoord</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21162.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10260.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>20 April, Wednesday</date>
+            <link>/en/eventinfo/401763_twente_excelsior/</link>
+            <teams>Twente – Excelsior</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10214.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17376.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>20 April, Wednesday</date>
+            <link>/en/eventinfo/401764_heerenveen_ajax/</link>
+            <teams>Heerenveen – Ajax</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17375.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10186.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>21 April, Thursday</date>
+            <link>/en/eventinfo/401766_cambuur_willem_ii/</link>
+            <teams>Cambuur – Willem II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10901.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+    </round>
+    <round id="33">
+        <match>
+            <date>30 April, Saturday</date>
+            <link></link>
+            <teams>NEC – Roda</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17554.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17552.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>30 April, Saturday</date>
+            <link></link>
+            <teams>Excelsior – Zwolle</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17376.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10911.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>30 April, Saturday</date>
+            <link></link>
+            <teams>Willem II – Feyenoord</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10260.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>30 April, Saturday</date>
+            <link></link>
+            <teams>Heracles – Den Haag</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21162.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21161.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>30 April, Saturday</date>
+            <link></link>
+            <teams>Vitesse – Utrecht</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10257.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10258.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>30 April, Saturday</date>
+            <link></link>
+            <teams>Heerenveen – Groningen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17375.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10286.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>30 April, Saturday</date>
+            <link></link>
+            <teams>AZ Alkmaar – De Graafschap</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10222.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10287.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>30 April, Saturday</date>
+            <link></link>
+            <teams>Ajax – Twente</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10186.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10214.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>30 April, Saturday</date>
+            <link></link>
+            <teams>PSV Eindhoven – Cambuur</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10198.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17238.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+    </round>
+    <round id="34">
+        <match>
+            <date>7 May, Saturday</date>
+            <link></link>
+            <teams>Zwolle – PSV Eindhoven</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10911.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10198.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>7 May, Saturday</date>
+            <link></link>
+            <teams>De Graafschap – Ajax</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10287.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10186.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>7 May, Saturday</date>
+            <link></link>
+            <teams>Den Haag – Heerenveen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21161.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17375.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>7 May, Saturday</date>
+            <link></link>
+            <teams>Utrecht – AZ Alkmaar</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10258.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10222.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>7 May, Saturday</date>
+            <link></link>
+            <teams>Groningen – Heracles</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10286.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21162.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>7 May, Saturday</date>
+            <link></link>
+            <teams>Feyenoord – NEC</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10260.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17554.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>7 May, Saturday</date>
+            <link></link>
+            <teams>Roda – Willem II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17552.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10901.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>7 May, Saturday</date>
+            <link></link>
+            <teams>Twente – Vitesse</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10214.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10257.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+    </round>
+</calendar>

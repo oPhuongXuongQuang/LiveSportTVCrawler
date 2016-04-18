@@ -1,0 +1,2967 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<calendar>
+    <round id="1">
+        <match>
+            <date>22 August, Saturday</date>
+            <link>/en/eventinfo/333209_verona_roma/</link>
+            <teams>Verona – Roma</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>22 August, Saturday</date>
+            <link>/en/eventinfo/333210_lazio_bologna/</link>
+            <teams>Lazio – Bologna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17214.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>23 August, Sunday</date>
+            <link>/en/eventinfo/333211_juventus_udinese/</link>
+            <teams>Juventus – Udinese</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>23 August, Sunday</date>
+            <link>/en/eventinfo/333214_frosinone_torino/</link>
+            <teams>Frosinone – Torino</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>23 August, Sunday</date>
+            <link>/en/eventinfo/333217_sassuolo_napoli/</link>
+            <teams>Sassuolo – Napoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17206.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>23 August, Sunday</date>
+            <link>/en/eventinfo/333213_fiorentina_milan/</link>
+            <teams>Fiorentina – Milan</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10185.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>23 August, Sunday</date>
+            <link>/en/eventinfo/333216_palermo_genoa/</link>
+            <teams>Palermo – Genoa</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>23 August, Sunday</date>
+            <link>/en/eventinfo/333212_empoli_chievo/</link>
+            <teams>Empoli – Chievo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>23 August, Sunday</date>
+            <link>/en/eventinfo/333215_inter_milan_atalanta/</link>
+            <teams>Inter Milan – Atalanta</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17196.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>24 August, Monday</date>
+            <link>/en/eventinfo/333218_sampdoria_carpi/</link>
+            <teams>Sampdoria – Carpi</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17199.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam2>
+            <score>5:2</score>
+        </match>
+    </round>
+    <round id="2">
+        <match>
+            <date>29 August, Saturday</date>
+            <link>/en/eventinfo/333220_bologna_sassuolo/</link>
+            <teams>Bologna – Sassuolo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>29 August, Saturday</date>
+            <link>/en/eventinfo/333221_milan_empoli/</link>
+            <teams>Milan – Empoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10185.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>30 August, Sunday</date>
+            <link>/en/eventinfo/333222_roma_juventus/</link>
+            <teams>Roma – Juventus</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>30 August, Sunday</date>
+            <link>/en/eventinfo/333224_carpi_inter_milan/</link>
+            <teams>Carpi – Inter Milan</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17196.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>30 August, Sunday</date>
+            <link>/en/eventinfo/333226_genoa_verona/</link>
+            <teams>Genoa – Verona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>30 August, Sunday</date>
+            <link>/en/eventinfo/333227_napoli_sampdoria/</link>
+            <teams>Napoli – Sampdoria</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17206.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17199.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>30 August, Sunday</date>
+            <link>/en/eventinfo/333225_chievo_lazio/</link>
+            <teams>Chievo – Lazio</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17214.gif</logoTeam2>
+            <score>4:0</score>
+        </match>
+        <match>
+            <date>30 August, Sunday</date>
+            <link>/en/eventinfo/333228_torino_fiorentina/</link>
+            <teams>Torino – Fiorentina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>30 August, Sunday</date>
+            <link>/en/eventinfo/333229_udinese_palermo/</link>
+            <teams>Udinese – Palermo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+    </round>
+    <round id="3">
+        <match>
+            <date>12 September, Saturday</date>
+            <link>/en/eventinfo/340707_fiorentina_genoa/</link>
+            <teams>Fiorentina – Genoa</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>12 September, Saturday</date>
+            <link>/en/eventinfo/340708_frosinone_roma/</link>
+            <teams>Frosinone – Roma</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>12 September, Saturday</date>
+            <link>/en/eventinfo/340709_juventus_chievo/</link>
+            <teams>Juventus – Chievo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>13 September, Sunday</date>
+            <link>/en/eventinfo/340710_verona_torino/</link>
+            <teams>Verona – Torino</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>13 September, Sunday</date>
+            <link>/en/eventinfo/340711_empoli_napoli/</link>
+            <teams>Empoli – Napoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17206.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>13 September, Sunday</date>
+            <link>/en/eventinfo/340712_palermo_carpi/</link>
+            <teams>Palermo – Carpi</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>13 September, Sunday</date>
+            <link>/en/eventinfo/340714_sassuolo_atalanta/</link>
+            <teams>Sassuolo – Atalanta</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>13 September, Sunday</date>
+            <link>/en/eventinfo/340715_lazio_udinese/</link>
+            <teams>Lazio – Udinese</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17214.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>13 September, Sunday</date>
+            <link>/en/eventinfo/340716_inter_milan_milan/</link>
+            <teams>Inter Milan – Milan</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17196.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10185.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>14 September, Monday</date>
+            <link>/en/eventinfo/340713_sampdoria_bologna/</link>
+            <teams>Sampdoria – Bologna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17199.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+    </round>
+    <round id="4">
+        <match>
+            <date>19 September, Saturday</date>
+            <link>/en/eventinfo/340718_udinese_empoli/</link>
+            <teams>Udinese – Empoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>19 September, Saturday</date>
+            <link>/en/eventinfo/340719_milan_palermo/</link>
+            <teams>Milan – Palermo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10185.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam2>
+            <score>3:2</score>
+        </match>
+        <match>
+            <date>20 September, Sunday</date>
+            <link>/en/eventinfo/340720_chievo_inter_milan/</link>
+            <teams>Chievo – Inter Milan</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17196.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>20 September, Sunday</date>
+            <link>/en/eventinfo/340723_genoa_juventus/</link>
+            <teams>Genoa – Juventus</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>20 September, Sunday</date>
+            <link>/en/eventinfo/340722_bologna_frosinone/</link>
+            <teams>Bologna – Frosinone</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>20 September, Sunday</date>
+            <link>/en/eventinfo/340725_torino_sampdoria/</link>
+            <teams>Torino – Sampdoria</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17199.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>20 September, Sunday</date>
+            <link>/en/eventinfo/340721_atalanta_verona/</link>
+            <teams>Atalanta – Verona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>20 September, Sunday</date>
+            <link>/en/eventinfo/340724_roma_sassuolo/</link>
+            <teams>Roma – Sassuolo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>20 September, Sunday</date>
+            <link>/en/eventinfo/340726_carpi_fiorentina/</link>
+            <teams>Carpi – Fiorentina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+    </round>
+    <round id="5">
+        <match>
+            <date>22 September, Tuesday</date>
+            <link>/en/eventinfo/341540_udinese_milan/</link>
+            <teams>Udinese – Milan</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10185.gif</logoTeam2>
+            <score>2:3</score>
+        </match>
+        <match>
+            <date>23 September, Wednesday</date>
+            <link>/en/eventinfo/341541_carpi_napoli/</link>
+            <teams>Carpi – Napoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17206.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>23 September, Wednesday</date>
+            <link>/en/eventinfo/341545_juventus_frosinone/</link>
+            <teams>Juventus – Frosinone</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>23 September, Wednesday</date>
+            <link>/en/eventinfo/341542_chievo_torino/</link>
+            <teams>Chievo – Torino</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>23 September, Wednesday</date>
+            <link>/en/eventinfo/341548_sampdoria_roma/</link>
+            <teams>Sampdoria – Roma</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17199.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>23 September, Wednesday</date>
+            <link>/en/eventinfo/341543_fiorentina_bologna/</link>
+            <teams>Fiorentina – Bologna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>23 September, Wednesday</date>
+            <link>/en/eventinfo/341547_palermo_sassuolo/</link>
+            <teams>Palermo – Sassuolo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>23 September, Wednesday</date>
+            <link>/en/eventinfo/341546_lazio_genoa/</link>
+            <teams>Lazio – Genoa</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17214.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>23 September, Wednesday</date>
+            <link>/en/eventinfo/341544_inter_milan_verona/</link>
+            <teams>Inter Milan – Verona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17196.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>24 September, Thursday</date>
+            <link>/en/eventinfo/341549_empoli_atalanta/</link>
+            <teams>Empoli – Atalanta</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+    </round>
+    <round id="6">
+        <match>
+            <date>26 September, Saturday</date>
+            <link>/en/eventinfo/341550_roma_carpi/</link>
+            <teams>Roma – Carpi</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam2>
+            <score>5:1</score>
+        </match>
+        <match>
+            <date>26 September, Saturday</date>
+            <link>/en/eventinfo/341551_napoli_juventus/</link>
+            <teams>Napoli – Juventus</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17206.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>27 September, Sunday</date>
+            <link>/en/eventinfo/341552_genoa_milan/</link>
+            <teams>Genoa – Milan</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10185.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>27 September, Sunday</date>
+            <link>/en/eventinfo/341558_torino_palermo/</link>
+            <teams>Torino – Palermo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>27 September, Sunday</date>
+            <link>/en/eventinfo/341556_verona_lazio/</link>
+            <teams>Verona – Lazio</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17214.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>27 September, Sunday</date>
+            <link>/en/eventinfo/341555_bologna_udinese/</link>
+            <teams>Bologna – Udinese</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>27 September, Sunday</date>
+            <link>/en/eventinfo/341557_sassuolo_chievo/</link>
+            <teams>Sassuolo – Chievo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>27 September, Sunday</date>
+            <link>/en/eventinfo/341559_inter_milan_fiorentina/</link>
+            <teams>Inter Milan – Fiorentina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17196.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam2>
+            <score>1:4</score>
+        </match>
+        <match>
+            <date>28 September, Monday</date>
+            <link>/en/eventinfo/341560_frosinone_empoli/</link>
+            <teams>Frosinone – Empoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+    </round>
+    <round id="7">
+        <match>
+            <date>3 October, Saturday</date>
+            <link>/en/eventinfo/341562_carpi_torino/</link>
+            <teams>Carpi – Torino</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>3 October, Saturday</date>
+            <link>/en/eventinfo/341563_chievo_verona/</link>
+            <teams>Chievo – Verona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>4 October, Sunday</date>
+            <link>/en/eventinfo/341564_empoli_sassuolo/</link>
+            <teams>Empoli – Sassuolo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>4 October, Sunday</date>
+            <link>/en/eventinfo/341568_udinese_genoa/</link>
+            <teams>Udinese – Genoa</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>4 October, Sunday</date>
+            <link>/en/eventinfo/341567_sampdoria_inter_milan/</link>
+            <teams>Sampdoria – Inter Milan</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17199.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17196.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>4 October, Sunday</date>
+            <link>/en/eventinfo/341566_palermo_roma/</link>
+            <teams>Palermo – Roma</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam2>
+            <score>2:4</score>
+        </match>
+        <match>
+            <date>4 October, Sunday</date>
+            <link>/en/eventinfo/341570_lazio_frosinone/</link>
+            <teams>Lazio – Frosinone</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17214.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>4 October, Sunday</date>
+            <link>/en/eventinfo/341569_juventus_bologna/</link>
+            <teams>Juventus – Bologna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>4 October, Sunday</date>
+            <link>/en/eventinfo/341572_milan_napoli/</link>
+            <teams>Milan – Napoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10185.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17206.gif</logoTeam2>
+            <score>0:4</score>
+        </match>
+        <match>
+            <date>4 October, Sunday</date>
+            <link>/en/eventinfo/341571_fiorentina_atalanta/</link>
+            <teams>Fiorentina – Atalanta</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+    </round>
+    <round id="8">
+        <match>
+            <date>17 October, Saturday</date>
+            <link>/en/eventinfo/341573_roma_empoli/</link>
+            <teams>Roma – Empoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>17 October, Saturday</date>
+            <link>/en/eventinfo/341574_torino_milan/</link>
+            <teams>Torino – Milan</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10185.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>18 October, Sunday</date>
+            <link>/en/eventinfo/341575_bologna_palermo/</link>
+            <teams>Bologna – Palermo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>18 October, Sunday</date>
+            <link>/en/eventinfo/341579_frosinone_sampdoria/</link>
+            <teams>Frosinone – Sampdoria</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17199.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>18 October, Sunday</date>
+            <link>/en/eventinfo/341583_sassuolo_lazio/</link>
+            <teams>Sassuolo – Lazio</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17214.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>18 October, Sunday</date>
+            <link>/en/eventinfo/341580_genoa_chievo/</link>
+            <teams>Genoa – Chievo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam2>
+            <score>3:2</score>
+        </match>
+        <match>
+            <date>18 October, Sunday</date>
+            <link>/en/eventinfo/341582_napoli_fiorentina/</link>
+            <teams>Napoli – Fiorentina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17206.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>18 October, Sunday</date>
+            <link>/en/eventinfo/341581_verona_udinese/</link>
+            <teams>Verona – Udinese</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>18 October, Sunday</date>
+            <link>/en/eventinfo/341578_atalanta_carpi/</link>
+            <teams>Atalanta – Carpi</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+    </round>
+    <round id="9">
+        <match>
+            <date>24 October, Saturday</date>
+            <link>/en/eventinfo/341585_empoli_genoa/</link>
+            <teams>Empoli – Genoa</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>24 October, Saturday</date>
+            <link>/en/eventinfo/341586_carpi_bologna/</link>
+            <teams>Carpi – Bologna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>24 October, Saturday</date>
+            <link>/en/eventinfo/341587_palermo_inter_milan/</link>
+            <teams>Palermo – Inter Milan</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17196.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>25 October, Sunday</date>
+            <link>/en/eventinfo/341589_sampdoria_verona/</link>
+            <teams>Sampdoria – Verona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17199.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam2>
+            <score>4:1</score>
+        </match>
+        <match>
+            <date>25 October, Sunday</date>
+            <link>/en/eventinfo/341591_milan_sassuolo/</link>
+            <teams>Milan – Sassuolo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10185.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>25 October, Sunday</date>
+            <link>/en/eventinfo/341592_udinese_frosinone/</link>
+            <teams>Udinese – Frosinone</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>25 October, Sunday</date>
+            <link>/en/eventinfo/341590_juventus_atalanta/</link>
+            <teams>Juventus – Atalanta</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>25 October, Sunday</date>
+            <link>/en/eventinfo/341594_lazio_torino/</link>
+            <teams>Lazio – Torino</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17214.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>25 October, Sunday</date>
+            <link>/en/eventinfo/341593_fiorentina_roma/</link>
+            <teams>Fiorentina – Roma</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>25 October, Sunday</date>
+            <link>/en/eventinfo/341595_chievo_napoli/</link>
+            <teams>Chievo – Napoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17206.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+    </round>
+    <round id="10">
+        <match>
+            <date>27 October, Tuesday</date>
+            <link>/en/eventinfo/341596_bologna_inter_milan/</link>
+            <teams>Bologna – Inter Milan</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17196.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>28 October, Wednesday</date>
+            <link>/en/eventinfo/341599_frosinone_carpi/</link>
+            <teams>Frosinone – Carpi</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>28 October, Wednesday</date>
+            <link>/en/eventinfo/341604_sassuolo_juventus/</link>
+            <teams>Sassuolo – Juventus</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>28 October, Wednesday</date>
+            <link>/en/eventinfo/341602_napoli_palermo/</link>
+            <teams>Napoli – Palermo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17206.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>28 October, Wednesday</date>
+            <link>/en/eventinfo/341600_verona_fiorentina/</link>
+            <teams>Verona – Fiorentina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>28 October, Wednesday</date>
+            <link>/en/eventinfo/341605_torino_genoa/</link>
+            <teams>Torino – Genoa</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam2>
+            <score>3:3</score>
+        </match>
+        <match>
+            <date>28 October, Wednesday</date>
+            <link>/en/eventinfo/341598_atalanta_lazio/</link>
+            <teams>Atalanta – Lazio</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17214.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>28 October, Wednesday</date>
+            <link>/en/eventinfo/341601_milan_chievo/</link>
+            <teams>Milan – Chievo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10185.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>28 October, Wednesday</date>
+            <link>/en/eventinfo/341603_roma_udinese/</link>
+            <teams>Roma – Udinese</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+    </round>
+    <round id="11">
+        <match>
+            <date>31 October, Saturday</date>
+            <link>/en/eventinfo/353767_juventus_torino/</link>
+            <teams>Juventus – Torino</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>31 October, Saturday</date>
+            <link>/en/eventinfo/353768_inter_milan_roma/</link>
+            <teams>Inter Milan – Roma</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17196.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>1 November, Sunday</date>
+            <link>/en/eventinfo/353769_fiorentina_frosinone/</link>
+            <teams>Fiorentina – Frosinone</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam2>
+            <score>4:1</score>
+        </match>
+        <match>
+            <date>1 November, Sunday</date>
+            <link>/en/eventinfo/353773_udinese_sassuolo/</link>
+            <teams>Udinese – Sassuolo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>1 November, Sunday</date>
+            <link>/en/eventinfo/353770_bologna_atalanta/</link>
+            <teams>Bologna – Atalanta</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>1 November, Sunday</date>
+            <link>/en/eventinfo/353772_genoa_napoli/</link>
+            <teams>Genoa – Napoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17206.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>1 November, Sunday</date>
+            <link>/en/eventinfo/353771_carpi_verona/</link>
+            <teams>Carpi – Verona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>1 November, Sunday</date>
+            <link>/en/eventinfo/353774_lazio_milan/</link>
+            <teams>Lazio – Milan</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17214.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10185.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>2 November, Monday</date>
+            <link>/en/eventinfo/353775_chievo_sampdoria/</link>
+            <teams>Chievo – Sampdoria</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17199.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>2 November, Monday</date>
+            <link>/en/eventinfo/353777_palermo_empoli/</link>
+            <teams>Palermo – Empoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+    </round>
+    <round id="12">
+        <match>
+            <date>7 November, Saturday</date>
+            <link>/en/eventinfo/353778_verona_bologna/</link>
+            <teams>Verona – Bologna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>7 November, Saturday</date>
+            <link>/en/eventinfo/353779_milan_atalanta/</link>
+            <teams>Milan – Atalanta</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10185.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>8 November, Sunday</date>
+            <link>/en/eventinfo/353780_torino_inter_milan/</link>
+            <teams>Torino – Inter Milan</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17196.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>8 November, Sunday</date>
+            <link>/en/eventinfo/353782_frosinone_genoa/</link>
+            <teams>Frosinone – Genoa</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>8 November, Sunday</date>
+            <link>/en/eventinfo/353785_sassuolo_carpi/</link>
+            <teams>Sassuolo – Carpi</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>8 November, Sunday</date>
+            <link>/en/eventinfo/353783_palermo_chievo/</link>
+            <teams>Palermo – Chievo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>8 November, Sunday</date>
+            <link>/en/eventinfo/353781_empoli_juventus/</link>
+            <teams>Empoli – Juventus</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>8 November, Sunday</date>
+            <link>/en/eventinfo/353784_roma_lazio/</link>
+            <teams>Roma – Lazio</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17214.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>8 November, Sunday</date>
+            <link>/en/eventinfo/353786_napoli_udinese/</link>
+            <teams>Napoli – Udinese</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17206.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+    </round>
+    <round id="13">
+        <match>
+            <date>21 November, Saturday</date>
+            <link>/en/eventinfo/353789_bologna_roma/</link>
+            <teams>Bologna – Roma</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>21 November, Saturday</date>
+            <link>/en/eventinfo/353790_juventus_milan/</link>
+            <teams>Juventus – Milan</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10185.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>22 November, Sunday</date>
+            <link>/en/eventinfo/353791_udinese_sampdoria/</link>
+            <teams>Udinese – Sampdoria</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17199.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>22 November, Sunday</date>
+            <link>/en/eventinfo/353793_carpi_chievo/</link>
+            <teams>Carpi – Chievo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>22 November, Sunday</date>
+            <link>/en/eventinfo/353795_genoa_sassuolo/</link>
+            <teams>Genoa – Sassuolo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>22 November, Sunday</date>
+            <link>/en/eventinfo/353796_verona_napoli/</link>
+            <teams>Verona – Napoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17206.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>22 November, Sunday</date>
+            <link>/en/eventinfo/353792_atalanta_torino/</link>
+            <teams>Atalanta – Torino</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>22 November, Sunday</date>
+            <link>/en/eventinfo/353794_fiorentina_empoli/</link>
+            <teams>Fiorentina – Empoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>22 November, Sunday</date>
+            <link>/en/eventinfo/353797_lazio_palermo/</link>
+            <teams>Lazio – Palermo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17214.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>22 November, Sunday</date>
+            <link>/en/eventinfo/353799_inter_milan_frosinone/</link>
+            <teams>Inter Milan – Frosinone</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17196.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam2>
+            <score>4:0</score>
+        </match>
+    </round>
+    <round id="14">
+        <match>
+            <date>28 November, Saturday</date>
+            <link>/en/eventinfo/353800_torino_bologna/</link>
+            <teams>Torino – Bologna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>28 November, Saturday</date>
+            <link>/en/eventinfo/353801_milan_sampdoria/</link>
+            <teams>Milan – Sampdoria</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10185.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17199.gif</logoTeam2>
+            <score>4:1</score>
+        </match>
+        <match>
+            <date>29 November, Sunday</date>
+            <link>/en/eventinfo/353805_roma_atalanta/</link>
+            <teams>Roma – Atalanta</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>29 November, Sunday</date>
+            <link>/en/eventinfo/353802_chievo_udinese/</link>
+            <teams>Chievo – Udinese</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam2>
+            <score>2:3</score>
+        </match>
+        <match>
+            <date>29 November, Sunday</date>
+            <link>/en/eventinfo/353804_genoa_carpi/</link>
+            <teams>Genoa – Carpi</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>29 November, Sunday</date>
+            <link>/en/eventinfo/353803_frosinone_verona/</link>
+            <teams>Frosinone – Verona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam2>
+            <score>3:2</score>
+        </match>
+        <match>
+            <date>29 November, Sunday</date>
+            <link>/en/eventinfo/353806_empoli_lazio/</link>
+            <teams>Empoli – Lazio</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17214.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>29 November, Sunday</date>
+            <link>/en/eventinfo/353807_palermo_juventus/</link>
+            <teams>Palermo – Juventus</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam2>
+            <score>0:3</score>
+        </match>
+        <match>
+            <date>30 November, Monday</date>
+            <link>/en/eventinfo/353808_sassuolo_fiorentina/</link>
+            <teams>Sassuolo – Fiorentina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+    </round>
+    <round id="15">
+        <match>
+            <date>4 December, Friday</date>
+            <link>/en/eventinfo/353811_lazio_juventus/</link>
+            <teams>Lazio – Juventus</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17214.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>5 December, Saturday</date>
+            <link>/en/eventinfo/353812_torino_roma/</link>
+            <teams>Torino – Roma</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>5 December, Saturday</date>
+            <link>/en/eventinfo/353813_inter_milan_genoa/</link>
+            <teams>Inter Milan – Genoa</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17196.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>6 December, Sunday</date>
+            <link>/en/eventinfo/353814_bologna_napoli/</link>
+            <teams>Bologna – Napoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17206.gif</logoTeam2>
+            <score>3:2</score>
+        </match>
+        <match>
+            <date>6 December, Sunday</date>
+            <link>/en/eventinfo/353816_fiorentina_udinese/</link>
+            <teams>Fiorentina – Udinese</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>6 December, Sunday</date>
+            <link>/en/eventinfo/353815_atalanta_palermo/</link>
+            <teams>Atalanta – Palermo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>6 December, Sunday</date>
+            <link>/en/eventinfo/353818_verona_empoli/</link>
+            <teams>Verona – Empoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>6 December, Sunday</date>
+            <link>/en/eventinfo/353817_frosinone_chievo/</link>
+            <teams>Frosinone – Chievo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>6 December, Sunday</date>
+            <link>/en/eventinfo/353819_sampdoria_sassuolo/</link>
+            <teams>Sampdoria – Sassuolo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17199.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>6 December, Sunday</date>
+            <link>/en/eventinfo/353821_carpi_milan/</link>
+            <teams>Carpi – Milan</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10185.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+    </round>
+    <round id="16">
+        <match>
+            <date>12 December, Saturday</date>
+            <link>/en/eventinfo/353822_genoa_bologna/</link>
+            <teams>Genoa – Bologna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>12 December, Saturday</date>
+            <link>/en/eventinfo/353823_palermo_frosinone/</link>
+            <teams>Palermo – Frosinone</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam2>
+            <score>4:1</score>
+        </match>
+        <match>
+            <date>12 December, Saturday</date>
+            <link>/en/eventinfo/353825_udinese_inter_milan/</link>
+            <teams>Udinese – Inter Milan</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17196.gif</logoTeam2>
+            <score>0:4</score>
+        </match>
+        <match>
+            <date>13 December, Sunday</date>
+            <link>/en/eventinfo/353826_chievo_atalanta/</link>
+            <teams>Chievo – Atalanta</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>13 December, Sunday</date>
+            <link>/en/eventinfo/353827_empoli_carpi/</link>
+            <teams>Empoli – Carpi</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>13 December, Sunday</date>
+            <link>/en/eventinfo/353828_milan_verona/</link>
+            <teams>Milan – Verona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10185.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>13 December, Sunday</date>
+            <link>/en/eventinfo/353829_napoli_roma/</link>
+            <teams>Napoli – Roma</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17206.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>13 December, Sunday</date>
+            <link>/en/eventinfo/353830_juventus_fiorentina/</link>
+            <teams>Juventus – Fiorentina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>14 December, Monday</date>
+            <link>/en/eventinfo/353832_lazio_sampdoria/</link>
+            <teams>Lazio – Sampdoria</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17214.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17199.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+    </round>
+    <round id="17">
+        <match>
+            <date>18 December, Friday</date>
+            <link>/en/eventinfo/353833_bologna_empoli/</link>
+            <teams>Bologna – Empoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam2>
+            <score>2:3</score>
+        </match>
+        <match>
+            <date>19 December, Saturday</date>
+            <link>/en/eventinfo/353836_fiorentina_chievo/</link>
+            <teams>Fiorentina – Chievo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>19 December, Saturday</date>
+            <link>/en/eventinfo/353840_frosinone_milan/</link>
+            <teams>Frosinone – Milan</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10185.gif</logoTeam2>
+            <score>2:4</score>
+        </match>
+        <match>
+            <date>19 December, Saturday</date>
+            <link>/en/eventinfo/353834_carpi_juventus/</link>
+            <teams>Carpi – Juventus</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam2>
+            <score>2:3</score>
+        </match>
+        <match>
+            <date>19 December, Saturday</date>
+            <link>/en/eventinfo/353837_verona_sassuolo/</link>
+            <teams>Verona – Sassuolo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>19 December, Saturday</date>
+            <link>/en/eventinfo/353839_torino_udinese/</link>
+            <teams>Torino – Udinese</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>19 December, Saturday</date>
+            <link>/en/eventinfo/353841_sampdoria_palermo/</link>
+            <teams>Sampdoria – Palermo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17199.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>19 December, Saturday</date>
+            <link>/en/eventinfo/353842_inter_milan_lazio/</link>
+            <teams>Inter Milan – Lazio</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17196.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17214.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>19 December, Saturday</date>
+            <link>/en/eventinfo/353838_roma_genoa/</link>
+            <teams>Roma – Genoa</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>19 December, Saturday</date>
+            <link>/en/eventinfo/353835_atalanta_napoli/</link>
+            <teams>Atalanta – Napoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17206.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+    </round>
+    <round id="18">
+        <match>
+            <date>5 January, Tuesday</date>
+            <link>/en/eventinfo/373166_genoa_sampdoria/</link>
+            <teams>Genoa – Sampdoria</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17199.gif</logoTeam2>
+            <score>2:3</score>
+        </match>
+        <match>
+            <date>6 January, Wednesday</date>
+            <link>/en/eventinfo/373167_udinese_atalanta/</link>
+            <teams>Udinese – Atalanta</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>6 January, Wednesday</date>
+            <link>/en/eventinfo/373173_sassuolo_frosinone/</link>
+            <teams>Sassuolo – Frosinone</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>6 January, Wednesday</date>
+            <link>/en/eventinfo/373169_juventus_verona/</link>
+            <teams>Juventus – Verona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>6 January, Wednesday</date>
+            <link>/en/eventinfo/373168_chievo_roma/</link>
+            <teams>Chievo – Roma</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam2>
+            <score>3:3</score>
+        </match>
+        <match>
+            <date>6 January, Wednesday</date>
+            <link>/en/eventinfo/373172_palermo_fiorentina/</link>
+            <teams>Palermo – Fiorentina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>6 January, Wednesday</date>
+            <link>/en/eventinfo/373171_milan_bologna/</link>
+            <teams>Milan – Bologna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10185.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>6 January, Wednesday</date>
+            <link>/en/eventinfo/373170_lazio_carpi/</link>
+            <teams>Lazio – Carpi</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17214.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>6 January, Wednesday</date>
+            <link>/en/eventinfo/373174_empoli_inter_milan/</link>
+            <teams>Empoli – Inter Milan</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17196.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+    </round>
+    <round id="19">
+        <match>
+            <date>9 January, Saturday</date>
+            <link>/en/eventinfo/373177_carpi_udinese/</link>
+            <teams>Carpi – Udinese</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>9 January, Saturday</date>
+            <link>/en/eventinfo/373178_fiorentina_lazio/</link>
+            <teams>Fiorentina – Lazio</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17214.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>9 January, Saturday</date>
+            <link>/en/eventinfo/373179_roma_milan/</link>
+            <teams>Roma – Milan</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10185.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>10 January, Sunday</date>
+            <link>/en/eventinfo/373180_inter_milan_sassuolo/</link>
+            <teams>Inter Milan – Sassuolo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17196.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>10 January, Sunday</date>
+            <link>/en/eventinfo/373181_atalanta_genoa/</link>
+            <teams>Atalanta – Genoa</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>10 January, Sunday</date>
+            <link>/en/eventinfo/373185_torino_empoli/</link>
+            <teams>Torino – Empoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>10 January, Sunday</date>
+            <link>/en/eventinfo/373182_bologna_chievo/</link>
+            <teams>Bologna – Chievo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>10 January, Sunday</date>
+            <link>/en/eventinfo/373183_frosinone_napoli/</link>
+            <teams>Frosinone – Napoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17206.gif</logoTeam2>
+            <score>1:5</score>
+        </match>
+        <match>
+            <date>10 January, Sunday</date>
+            <link>/en/eventinfo/373184_verona_palermo/</link>
+            <teams>Verona – Palermo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>10 January, Sunday</date>
+            <link>/en/eventinfo/373186_sampdoria_juventus/</link>
+            <teams>Sampdoria – Juventus</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17199.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+    </round>
+    <round id="20">
+        <match>
+            <date>16 January, Saturday</date>
+            <link>/en/eventinfo/373188_atalanta_inter_milan/</link>
+            <teams>Atalanta – Inter Milan</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17196.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>16 January, Saturday</date>
+            <link>/en/eventinfo/373189_torino_frosinone/</link>
+            <teams>Torino – Frosinone</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam2>
+            <score>4:2</score>
+        </match>
+        <match>
+            <date>16 January, Saturday</date>
+            <link>/en/eventinfo/373190_napoli_sassuolo/</link>
+            <teams>Napoli – Sassuolo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17206.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>17 January, Sunday</date>
+            <link>/en/eventinfo/373191_genoa_palermo/</link>
+            <teams>Genoa – Palermo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam2>
+            <score>4:0</score>
+        </match>
+        <match>
+            <date>17 January, Sunday</date>
+            <link>/en/eventinfo/373193_roma_verona/</link>
+            <teams>Roma – Verona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>17 January, Sunday</date>
+            <link>/en/eventinfo/373194_udinese_juventus/</link>
+            <teams>Udinese – Juventus</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam2>
+            <score>0:4</score>
+        </match>
+        <match>
+            <date>17 January, Sunday</date>
+            <link>/en/eventinfo/373192_chievo_empoli/</link>
+            <teams>Chievo – Empoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>17 January, Sunday</date>
+            <link>/en/eventinfo/373195_bologna_lazio/</link>
+            <teams>Bologna – Lazio</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17214.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>17 January, Sunday</date>
+            <link>/en/eventinfo/373196_carpi_sampdoria/</link>
+            <teams>Carpi – Sampdoria</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17199.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+    </round>
+    <round id="21">
+        <match>
+            <date>23 January, Saturday</date>
+            <link>/en/eventinfo/373201_frosinone_atalanta/</link>
+            <teams>Frosinone – Atalanta</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>23 January, Saturday</date>
+            <link>/en/eventinfo/373202_empoli_milan/</link>
+            <teams>Empoli – Milan</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10185.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>24 January, Sunday</date>
+            <link>/en/eventinfo/373203_fiorentina_torino/</link>
+            <teams>Fiorentina – Torino</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>24 January, Sunday</date>
+            <link>/en/eventinfo/373204_sassuolo_bologna/</link>
+            <teams>Sassuolo – Bologna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>24 January, Sunday</date>
+            <link>/en/eventinfo/373206_verona_genoa/</link>
+            <teams>Verona – Genoa</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>24 January, Sunday</date>
+            <link>/en/eventinfo/373207_sampdoria_napoli/</link>
+            <teams>Sampdoria – Napoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17199.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17206.gif</logoTeam2>
+            <score>2:4</score>
+        </match>
+        <match>
+            <date>24 January, Sunday</date>
+            <link>/en/eventinfo/373208_palermo_udinese/</link>
+            <teams>Palermo – Udinese</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam2>
+            <score>4:1</score>
+        </match>
+        <match>
+            <date>24 January, Sunday</date>
+            <link>/en/eventinfo/373205_lazio_chievo/</link>
+            <teams>Lazio – Chievo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17214.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam2>
+            <score>4:1</score>
+        </match>
+        <match>
+            <date>24 January, Sunday</date>
+            <link>/en/eventinfo/373200_inter_milan_carpi/</link>
+            <teams>Inter Milan – Carpi</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17196.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>24 January, Sunday</date>
+            <link>/en/eventinfo/373209_juventus_roma/</link>
+            <teams>Juventus – Roma</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+    </round>
+    <round id="22">
+        <match>
+            <date>30 January, Saturday</date>
+            <link>/en/eventinfo/373676_carpi_palermo/</link>
+            <teams>Carpi – Palermo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>30 January, Saturday</date>
+            <link>/en/eventinfo/373677_atalanta_sassuolo/</link>
+            <teams>Atalanta – Sassuolo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>30 January, Saturday</date>
+            <link>/en/eventinfo/373678_roma_frosinone/</link>
+            <teams>Roma – Frosinone</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>31 January, Sunday</date>
+            <link>/en/eventinfo/373679_chievo_juventus/</link>
+            <teams>Chievo – Juventus</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam2>
+            <score>0:4</score>
+        </match>
+        <match>
+            <date>31 January, Sunday</date>
+            <link>/en/eventinfo/373681_genoa_fiorentina/</link>
+            <teams>Genoa – Fiorentina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>31 January, Sunday</date>
+            <link>/en/eventinfo/373680_napoli_empoli/</link>
+            <teams>Napoli – Empoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17206.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam2>
+            <score>5:1</score>
+        </match>
+        <match>
+            <date>31 January, Sunday</date>
+            <link>/en/eventinfo/373684_bologna_sampdoria/</link>
+            <teams>Bologna – Sampdoria</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17199.gif</logoTeam2>
+            <score>3:2</score>
+        </match>
+        <match>
+            <date>31 January, Sunday</date>
+            <link>/en/eventinfo/373682_torino_verona/</link>
+            <teams>Torino – Verona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>31 January, Sunday</date>
+            <link>/en/eventinfo/373683_udinese_lazio/</link>
+            <teams>Udinese – Lazio</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17214.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+    </round>
+    <round id="23">
+        <match>
+            <date>2 February, Tuesday</date>
+            <link>/en/eventinfo/373687_sassuolo_roma/</link>
+            <teams>Sassuolo – Roma</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>3 February, Wednesday</date>
+            <link>/en/eventinfo/373688_frosinone_bologna/</link>
+            <teams>Frosinone – Bologna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>3 February, Wednesday</date>
+            <link>/en/eventinfo/373692_juventus_genoa/</link>
+            <teams>Juventus – Genoa</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>3 February, Wednesday</date>
+            <link>/en/eventinfo/373689_verona_atalanta/</link>
+            <teams>Verona – Atalanta</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>3 February, Wednesday</date>
+            <link>/en/eventinfo/373695_sampdoria_torino/</link>
+            <teams>Sampdoria – Torino</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17199.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>3 February, Wednesday</date>
+            <link>/en/eventinfo/373690_fiorentina_carpi/</link>
+            <teams>Fiorentina – Carpi</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>3 February, Wednesday</date>
+            <link>/en/eventinfo/373693_palermo_milan/</link>
+            <teams>Palermo – Milan</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10185.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>3 February, Wednesday</date>
+            <link>/en/eventinfo/373697_empoli_udinese/</link>
+            <teams>Empoli – Udinese</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>3 February, Wednesday</date>
+            <link>/en/eventinfo/373694_lazio_napoli/</link>
+            <teams>Lazio – Napoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17214.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17206.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>3 February, Wednesday</date>
+            <link>/en/eventinfo/373691_inter_milan_chievo/</link>
+            <teams>Inter Milan – Chievo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17196.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+    </round>
+    <round id="24">
+        <match>
+            <date>6 February, Saturday</date>
+            <link>/en/eventinfo/373698_bologna_fiorentina/</link>
+            <teams>Bologna – Fiorentina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>6 February, Saturday</date>
+            <link>/en/eventinfo/373699_genoa_lazio/</link>
+            <teams>Genoa – Lazio</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17214.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>7 February, Sunday</date>
+            <link>/en/eventinfo/373700_verona_inter_milan/</link>
+            <teams>Verona – Inter Milan</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17196.gif</logoTeam2>
+            <score>3:3</score>
+        </match>
+        <match>
+            <date>7 February, Sunday</date>
+            <link>/en/eventinfo/373705_milan_udinese/</link>
+            <teams>Milan – Udinese</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10185.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>7 February, Sunday</date>
+            <link>/en/eventinfo/373702_torino_chievo/</link>
+            <teams>Torino – Chievo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>7 February, Sunday</date>
+            <link>/en/eventinfo/373701_napoli_carpi/</link>
+            <teams>Napoli – Carpi</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17206.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>7 February, Sunday</date>
+            <link>/en/eventinfo/373704_sassuolo_palermo/</link>
+            <teams>Sassuolo – Palermo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>7 February, Sunday</date>
+            <link>/en/eventinfo/373703_frosinone_juventus/</link>
+            <teams>Frosinone – Juventus</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>7 February, Sunday</date>
+            <link>/en/eventinfo/373706_atalanta_empoli/</link>
+            <teams>Atalanta – Empoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+    </round>
+    <round id="25">
+        <match>
+            <date>11 February, Thursday</date>
+            <link>/en/eventinfo/373708_lazio_verona/</link>
+            <teams>Lazio – Verona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17214.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam2>
+            <score>5:2</score>
+        </match>
+        <match>
+            <date>12 February, Friday</date>
+            <link>/en/eventinfo/373709_carpi_roma/</link>
+            <teams>Carpi – Roma</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>13 February, Saturday</date>
+            <link>/en/eventinfo/373710_empoli_frosinone/</link>
+            <teams>Empoli – Frosinone</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>13 February, Saturday</date>
+            <link>/en/eventinfo/373711_chievo_sassuolo/</link>
+            <teams>Chievo – Sassuolo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>13 February, Saturday</date>
+            <link>/en/eventinfo/373712_juventus_napoli/</link>
+            <teams>Juventus – Napoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17206.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>14 February, Sunday</date>
+            <link>/en/eventinfo/373714_milan_genoa/</link>
+            <teams>Milan – Genoa</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10185.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>14 February, Sunday</date>
+            <link>/en/eventinfo/373717_palermo_torino/</link>
+            <teams>Palermo – Torino</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>14 February, Sunday</date>
+            <link>/en/eventinfo/373715_sampdoria_atalanta/</link>
+            <teams>Sampdoria – Atalanta</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17199.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>14 February, Sunday</date>
+            <link>/en/eventinfo/373716_udinese_bologna/</link>
+            <teams>Udinese – Bologna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>14 February, Sunday</date>
+            <link>/en/eventinfo/373718_fiorentina_inter_milan/</link>
+            <teams>Fiorentina – Inter Milan</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17196.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+    </round>
+    <round id="26">
+        <match>
+            <date>19 February, Friday</date>
+            <link>/en/eventinfo/373719_bologna_juventus/</link>
+            <teams>Bologna – Juventus</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>20 February, Saturday</date>
+            <link>/en/eventinfo/373720_verona_chievo/</link>
+            <teams>Verona – Chievo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>20 February, Saturday</date>
+            <link>/en/eventinfo/373721_inter_milan_sampdoria/</link>
+            <teams>Inter Milan – Sampdoria</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17196.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17199.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>21 February, Sunday</date>
+            <link>/en/eventinfo/373724_sassuolo_empoli/</link>
+            <teams>Sassuolo – Empoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam2>
+            <score>3:2</score>
+        </match>
+        <match>
+            <date>21 February, Sunday</date>
+            <link>/en/eventinfo/373726_genoa_udinese/</link>
+            <teams>Genoa – Udinese</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>21 February, Sunday</date>
+            <link>/en/eventinfo/373723_torino_carpi/</link>
+            <teams>Torino – Carpi</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>21 February, Sunday</date>
+            <link>/en/eventinfo/373725_atalanta_fiorentina/</link>
+            <teams>Atalanta – Fiorentina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam2>
+            <score>2:3</score>
+        </match>
+        <match>
+            <date>21 February, Sunday</date>
+            <link>/en/eventinfo/373727_frosinone_lazio/</link>
+            <teams>Frosinone – Lazio</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17214.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>21 February, Sunday</date>
+            <link>/en/eventinfo/373728_roma_palermo/</link>
+            <teams>Roma – Palermo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam2>
+            <score>5:0</score>
+        </match>
+    </round>
+    <round id="27">
+        <match>
+            <date>27 February, Saturday</date>
+            <link>/en/eventinfo/373732_empoli_roma/</link>
+            <teams>Empoli – Roma</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>27 February, Saturday</date>
+            <link>/en/eventinfo/373733_milan_torino/</link>
+            <teams>Milan – Torino</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10185.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>28 February, Sunday</date>
+            <link>/en/eventinfo/373734_palermo_bologna/</link>
+            <teams>Palermo – Bologna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>28 February, Sunday</date>
+            <link>/en/eventinfo/373735_sampdoria_frosinone/</link>
+            <teams>Sampdoria – Frosinone</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17199.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>28 February, Sunday</date>
+            <link>/en/eventinfo/373737_udinese_verona/</link>
+            <teams>Udinese – Verona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>28 February, Sunday</date>
+            <link>/en/eventinfo/373736_chievo_genoa/</link>
+            <teams>Chievo – Genoa</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>28 February, Sunday</date>
+            <link>/en/eventinfo/373731_carpi_atalanta/</link>
+            <teams>Carpi – Atalanta</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>28 February, Sunday</date>
+            <link>/en/eventinfo/373738_juventus_inter_milan/</link>
+            <teams>Juventus – Inter Milan</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17196.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>29 February, Monday</date>
+            <link>/en/eventinfo/373739_lazio_sassuolo/</link>
+            <teams>Lazio – Sassuolo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17214.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>29 February, Monday</date>
+            <link>/en/eventinfo/373740_fiorentina_napoli/</link>
+            <teams>Fiorentina – Napoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17206.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+    </round>
+    <round id="28">
+        <match>
+            <date>4 March, Friday</date>
+            <link>/en/eventinfo/389683_roma_fiorentina/</link>
+            <teams>Roma – Fiorentina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam2>
+            <score>4:1</score>
+        </match>
+        <match>
+            <date>5 March, Saturday</date>
+            <link>/en/eventinfo/389684_verona_sampdoria/</link>
+            <teams>Verona – Sampdoria</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17199.gif</logoTeam2>
+            <score>0:3</score>
+        </match>
+        <match>
+            <date>5 March, Saturday</date>
+            <link>/en/eventinfo/389685_napoli_chievo/</link>
+            <teams>Napoli – Chievo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17206.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>6 March, Sunday</date>
+            <link>/en/eventinfo/389686_torino_lazio/</link>
+            <teams>Torino – Lazio</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17214.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>6 March, Sunday</date>
+            <link>/en/eventinfo/389691_frosinone_udinese/</link>
+            <teams>Frosinone – Udinese</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>6 March, Sunday</date>
+            <link>/en/eventinfo/389690_sassuolo_milan/</link>
+            <teams>Sassuolo – Milan</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10185.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>6 March, Sunday</date>
+            <link>/en/eventinfo/389688_genoa_empoli/</link>
+            <teams>Genoa – Empoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>6 March, Sunday</date>
+            <link>/en/eventinfo/389687_bologna_carpi/</link>
+            <teams>Bologna – Carpi</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>6 March, Sunday</date>
+            <link>/en/eventinfo/389689_atalanta_juventus/</link>
+            <teams>Atalanta – Juventus</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+    </round>
+    <round id="29">
+        <match>
+            <date>11 March, Friday</date>
+            <link>/en/eventinfo/389694_juventus_sassuolo/</link>
+            <teams>Juventus – Sassuolo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>12 March, Saturday</date>
+            <link>/en/eventinfo/389695_empoli_sampdoria/</link>
+            <teams>Empoli – Sampdoria</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17199.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>12 March, Saturday</date>
+            <link>/en/eventinfo/389696_inter_milan_bologna/</link>
+            <teams>Inter Milan – Bologna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17196.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>13 March, Sunday</date>
+            <link>/en/eventinfo/389697_chievo_milan/</link>
+            <teams>Chievo – Milan</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10185.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>13 March, Sunday</date>
+            <link>/en/eventinfo/389699_carpi_frosinone/</link>
+            <teams>Carpi – Frosinone</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>13 March, Sunday</date>
+            <link>/en/eventinfo/389703_genoa_torino/</link>
+            <teams>Genoa – Torino</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam2>
+            <score>3:2</score>
+        </match>
+        <match>
+            <date>13 March, Sunday</date>
+            <link>/en/eventinfo/389702_udinese_roma/</link>
+            <teams>Udinese – Roma</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>13 March, Sunday</date>
+            <link>/en/eventinfo/389700_fiorentina_verona/</link>
+            <teams>Fiorentina – Verona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>13 March, Sunday</date>
+            <link>/en/eventinfo/389698_lazio_atalanta/</link>
+            <teams>Lazio – Atalanta</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17214.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>13 March, Sunday</date>
+            <link>/en/eventinfo/389701_palermo_napoli/</link>
+            <teams>Palermo – Napoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17206.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+    </round>
+    <round id="30">
+        <match>
+            <date>19 March, Saturday</date>
+            <link>/en/eventinfo/389705_empoli_palermo/</link>
+            <teams>Empoli – Palermo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>19 March, Saturday</date>
+            <link>/en/eventinfo/389706_roma_inter_milan/</link>
+            <teams>Roma – Inter Milan</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17196.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>20 March, Sunday</date>
+            <link>/en/eventinfo/389707_atalanta_bologna/</link>
+            <teams>Atalanta – Bologna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>20 March, Sunday</date>
+            <link>/en/eventinfo/389709_sampdoria_chievo/</link>
+            <teams>Sampdoria – Chievo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17199.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>20 March, Sunday</date>
+            <link>/en/eventinfo/389712_torino_juventus/</link>
+            <teams>Torino – Juventus</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam2>
+            <score>1:4</score>
+        </match>
+        <match>
+            <date>20 March, Sunday</date>
+            <link>/en/eventinfo/389708_verona_carpi/</link>
+            <teams>Verona – Carpi</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>20 March, Sunday</date>
+            <link>/en/eventinfo/389714_sassuolo_udinese/</link>
+            <teams>Sassuolo – Udinese</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>20 March, Sunday</date>
+            <link>/en/eventinfo/389710_frosinone_fiorentina/</link>
+            <teams>Frosinone – Fiorentina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>20 March, Sunday</date>
+            <link>/en/eventinfo/389711_napoli_genoa/</link>
+            <teams>Napoli – Genoa</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17206.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+    </round>
+    <round id="31">
+        <match>
+            <date>2 April, Saturday</date>
+            <link>/en/eventinfo/401676_carpi_sassuolo/</link>
+            <teams>Carpi – Sassuolo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>2 April, Saturday</date>
+            <link>/en/eventinfo/401677_juventus_empoli/</link>
+            <teams>Juventus – Empoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>3 April, Sunday</date>
+            <link>/en/eventinfo/401678_udinese_napoli/</link>
+            <teams>Udinese – Napoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17206.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>3 April, Sunday</date>
+            <link>/en/eventinfo/401679_genoa_frosinone/</link>
+            <teams>Genoa – Frosinone</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam2>
+            <score>4:0</score>
+        </match>
+        <match>
+            <date>3 April, Sunday</date>
+            <link>/en/eventinfo/401681_chievo_palermo/</link>
+            <teams>Chievo – Palermo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>3 April, Sunday</date>
+            <link>/en/eventinfo/401680_atalanta_milan/</link>
+            <teams>Atalanta – Milan</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10185.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>3 April, Sunday</date>
+            <link>/en/eventinfo/401683_fiorentina_sampdoria/</link>
+            <teams>Fiorentina – Sampdoria</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17199.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>3 April, Sunday</date>
+            <link>/en/eventinfo/401682_lazio_roma/</link>
+            <teams>Lazio – Roma</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17214.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam2>
+            <score>1:4</score>
+        </match>
+        <match>
+            <date>3 April, Sunday</date>
+            <link>/en/eventinfo/401684_inter_milan_torino/</link>
+            <teams>Inter Milan – Torino</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17196.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>4 April, Monday</date>
+            <link>/en/eventinfo/401685_bologna_verona/</link>
+            <teams>Bologna – Verona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+    </round>
+    <round id="32">
+        <match>
+            <date>9 April, Saturday</date>
+            <link>/en/eventinfo/401687_frosinone_inter_milan/</link>
+            <teams>Frosinone – Inter Milan</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17196.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>9 April, Saturday</date>
+            <link>/en/eventinfo/401688_chievo_carpi/</link>
+            <teams>Chievo – Carpi</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>9 April, Saturday</date>
+            <link>/en/eventinfo/401689_sassuolo_genoa/</link>
+            <teams>Sassuolo – Genoa</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>9 April, Saturday</date>
+            <link>/en/eventinfo/401690_milan_juventus/</link>
+            <teams>Milan – Juventus</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10185.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>10 April, Sunday</date>
+            <link>/en/eventinfo/401691_empoli_fiorentina/</link>
+            <teams>Empoli – Fiorentina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>10 April, Sunday</date>
+            <link>/en/eventinfo/401693_napoli_verona/</link>
+            <teams>Napoli – Verona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17206.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>10 April, Sunday</date>
+            <link>/en/eventinfo/401692_torino_atalanta/</link>
+            <teams>Torino – Atalanta</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>10 April, Sunday</date>
+            <link>/en/eventinfo/401694_sampdoria_udinese/</link>
+            <teams>Sampdoria – Udinese</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17199.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>10 April, Sunday</date>
+            <link>/en/eventinfo/401695_palermo_lazio/</link>
+            <teams>Palermo – Lazio</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17214.gif</logoTeam2>
+            <score>0:3</score>
+        </match>
+    </round>
+    <round id="33">
+        <match>
+            <date>16 April, Saturday</date>
+            <link>/en/eventinfo/401698_bologna_torino/</link>
+            <teams>Bologna – Torino</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>16 April, Saturday</date>
+            <link>/en/eventinfo/401699_carpi_genoa/</link>
+            <teams>Carpi – Genoa</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam2>
+            <score>4:1</score>
+        </match>
+        <match>
+            <date>16 April, Saturday</date>
+            <link>/en/eventinfo/401700_inter_milan_napoli/</link>
+            <teams>Inter Milan – Napoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17196.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17206.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>17 April, Sunday</date>
+            <link>/en/eventinfo/401701_atalanta_roma/</link>
+            <teams>Atalanta – Roma</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam2>
+            <score>3:3</score>
+        </match>
+        <match>
+            <date>17 April, Sunday</date>
+            <link>/en/eventinfo/401705_fiorentina_sassuolo/</link>
+            <teams>Fiorentina – Sassuolo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>17 April, Sunday</date>
+            <link>/en/eventinfo/401702_udinese_chievo/</link>
+            <teams>Udinese – Chievo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>17 April, Sunday</date>
+            <link>/en/eventinfo/401703_verona_frosinone/</link>
+            <teams>Verona – Frosinone</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>17 April, Sunday</date>
+            <link>/en/eventinfo/401704_juventus_palermo/</link>
+            <teams>Juventus – Palermo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam2>
+            <score>4:0</score>
+        </match>
+        <match>
+            <date>17 April, Sunday</date>
+            <link>/en/eventinfo/401706_lazio_empoli/</link>
+            <teams>Lazio – Empoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17214.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>17 April, Sunday</date>
+            <link>/en/eventinfo/401707_sampdoria_milan/</link>
+            <teams>Sampdoria – Milan</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17199.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10185.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+    </round>
+    <round id="34">
+        <match>
+            <date>19 April, Tuesday</date>
+            <link>/en/eventinfo/401709_napoli_bologna/</link>
+            <teams>Napoli – Bologna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17206.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>20 April, Wednesday</date>
+            <link>/en/eventinfo/401710_sassuolo_sampdoria/</link>
+            <teams>Sassuolo – Sampdoria</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17199.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>20 April, Wednesday</date>
+            <link>/en/eventinfo/401716_juventus_lazio/</link>
+            <teams>Juventus – Lazio</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17214.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>20 April, Wednesday</date>
+            <link>/en/eventinfo/401715_genoa_inter_milan/</link>
+            <teams>Genoa – Inter Milan</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17196.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>20 April, Wednesday</date>
+            <link>/en/eventinfo/401713_chievo_frosinone/</link>
+            <teams>Chievo – Frosinone</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>20 April, Wednesday</date>
+            <link>/en/eventinfo/401712_udinese_fiorentina/</link>
+            <teams>Udinese – Fiorentina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>20 April, Wednesday</date>
+            <link>/en/eventinfo/401711_palermo_atalanta/</link>
+            <teams>Palermo – Atalanta</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>20 April, Wednesday</date>
+            <link>/en/eventinfo/401714_empoli_verona/</link>
+            <teams>Empoli – Verona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>20 April, Wednesday</date>
+            <link>/en/eventinfo/401717_roma_torino/</link>
+            <teams>Roma – Torino</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+    </round>
+    <round id="35">
+        <match>
+            <date>23 April, Saturday</date>
+            <link></link>
+            <teams>Frosinone – Palermo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>23 April, Saturday</date>
+            <link></link>
+            <teams>Carpi – Empoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>23 April, Saturday</date>
+            <link></link>
+            <teams>Bologna – Genoa</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>23 April, Saturday</date>
+            <link></link>
+            <teams>Verona – Milan</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10185.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>23 April, Saturday</date>
+            <link></link>
+            <teams>Torino – Sassuolo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>23 April, Saturday</date>
+            <link></link>
+            <teams>Sampdoria – Lazio</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17199.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17214.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>23 April, Saturday</date>
+            <link></link>
+            <teams>Atalanta – Chievo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>23 April, Saturday</date>
+            <link></link>
+            <teams>Fiorentina – Juventus</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>23 April, Saturday</date>
+            <link></link>
+            <teams>Roma – Napoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17206.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>23 April, Saturday</date>
+            <link></link>
+            <teams>Inter Milan – Udinese</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17196.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+    </round>
+    <round id="36">
+        <match>
+            <date>30 April, Saturday</date>
+            <link></link>
+            <teams>Napoli – Atalanta</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17206.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>30 April, Saturday</date>
+            <link></link>
+            <teams>Genoa – Roma</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>30 April, Saturday</date>
+            <link></link>
+            <teams>Juventus – Carpi</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>30 April, Saturday</date>
+            <link></link>
+            <teams>Sassuolo – Verona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>30 April, Saturday</date>
+            <link></link>
+            <teams>Chievo – Fiorentina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>30 April, Saturday</date>
+            <link></link>
+            <teams>Udinese – Torino</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>30 April, Saturday</date>
+            <link></link>
+            <teams>Palermo – Sampdoria</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17199.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>30 April, Saturday</date>
+            <link></link>
+            <teams>Empoli – Bologna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>30 April, Saturday</date>
+            <link></link>
+            <teams>Milan – Frosinone</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10185.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+    </round>
+    <round id="37">
+        <match>
+            <date>7 May, Saturday</date>
+            <link></link>
+            <teams>Verona – Juventus</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>7 May, Saturday</date>
+            <link></link>
+            <teams>Bologna – Milan</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10185.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>7 May, Saturday</date>
+            <link></link>
+            <teams>Carpi – Lazio</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17214.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>7 May, Saturday</date>
+            <link></link>
+            <teams>Frosinone – Sassuolo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17200.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>7 May, Saturday</date>
+            <link></link>
+            <teams>Torino – Napoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17206.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>7 May, Saturday</date>
+            <link></link>
+            <teams>Sampdoria – Genoa</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17199.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>7 May, Saturday</date>
+            <link></link>
+            <teams>Atalanta – Udinese</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>7 May, Saturday</date>
+            <link></link>
+            <teams>Fiorentina – Palermo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>7 May, Saturday</date>
+            <link></link>
+            <teams>Roma – Chievo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>7 May, Saturday</date>
+            <link></link>
+            <teams>Inter Milan – Empoli</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17196.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+    </round>
+    <round id="38">
+        <match>
+            <date>14 May, Saturday</date>
+            <link></link>
+            <teams>Juventus – Sampdoria</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/238.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17199.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>14 May, Saturday</date>
+            <link></link>
+            <teams>Genoa – Atalanta</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10306.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10238.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>14 May, Saturday</date>
+            <link></link>
+            <teams>Napoli – Frosinone</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17206.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17695.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>14 May, Saturday</date>
+            <link></link>
+            <teams>Chievo – Bologna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/4931.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10284.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>14 May, Saturday</date>
+            <link></link>
+            <teams>Udinese – Carpi</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17202.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12533.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>14 May, Saturday</date>
+            <link></link>
+            <teams>Palermo – Verona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/241.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13743.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>14 May, Saturday</date>
+            <link></link>
+            <teams>Empoli – Torino</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17216.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17201.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>14 May, Saturday</date>
+            <link></link>
+            <teams>Milan – Roma</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10185.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17198.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>14 May, Saturday</date>
+            <link></link>
+            <teams>Lazio – Fiorentina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17214.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/256.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+    </round>
+</calendar>

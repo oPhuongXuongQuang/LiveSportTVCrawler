@@ -1,0 +1,2383 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<calendar>
+    <round id="1">
+        <match>
+            <date>14 August, Friday</date>
+            <link>/en/eventinfo/325136_bayern_hamburg/</link>
+            <teams>Bayern – Hamburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/35.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17252.gif</logoTeam2>
+            <score>5:0</score>
+        </match>
+        <match>
+            <date>15 August, Saturday</date>
+            <link>/en/eventinfo/325139_werder_schalke_04/</link>
+            <teams>Werder – Schalke 04</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17244.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/37.gif</logoTeam2>
+            <score>0:3</score>
+        </match>
+        <match>
+            <date>15 August, Saturday</date>
+            <link>/en/eventinfo/325137_leverkusen_hoffenheim/</link>
+            <teams>Leverkusen – Hoffenheim</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10182.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17242.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>15 August, Saturday</date>
+            <link>/en/eventinfo/325140_mainz_ingolstadt/</link>
+            <teams>Mainz – Ingolstadt</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/820.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10611.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>15 August, Saturday</date>
+            <link>/en/eventinfo/325138_augsburg_hertha_berlin/</link>
+            <teams>Augsburg – Hertha Berlin</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12943.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10254.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>15 August, Saturday</date>
+            <link>/en/eventinfo/325141_darmstadt_hanover/</link>
+            <teams>Darmstadt – Hanover</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12955.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10201.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>15 August, Saturday</date>
+            <link>/en/eventinfo/325142_dortmund_moenchengladbach/</link>
+            <teams>Dortmund – Moenchengladbach</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12940.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17250.gif</logoTeam2>
+            <score>4:0</score>
+        </match>
+        <match>
+            <date>16 August, Sunday</date>
+            <link>/en/eventinfo/325143_wolfsburg_eintracht/</link>
+            <teams>Wolfsburg – Eintracht</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12945.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17243.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>16 August, Sunday</date>
+            <link>/en/eventinfo/325144_stuttgart_cologne/</link>
+            <teams>Stuttgart – Cologne</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17251.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/819.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+    </round>
+    <round id="2">
+        <match>
+            <date>21 August, Friday</date>
+            <link>/en/eventinfo/325147_hertha_berlin_werder/</link>
+            <teams>Hertha Berlin – Werder</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10254.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17244.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>22 August, Saturday</date>
+            <link>/en/eventinfo/325152_hoffenheim_bayern/</link>
+            <teams>Hoffenheim – Bayern</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17242.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/35.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>22 August, Saturday</date>
+            <link>/en/eventinfo/325150_cologne_wolfsburg/</link>
+            <teams>Cologne – Wolfsburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/819.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12945.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>22 August, Saturday</date>
+            <link>/en/eventinfo/325149_eintracht_augsburg/</link>
+            <teams>Eintracht – Augsburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17243.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12943.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>22 August, Saturday</date>
+            <link>/en/eventinfo/325151_hanover_leverkusen/</link>
+            <teams>Hanover – Leverkusen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10201.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10182.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>22 August, Saturday</date>
+            <link>/en/eventinfo/325148_schalke_04_darmstadt/</link>
+            <teams>Schalke 04 – Darmstadt</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/37.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12955.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>22 August, Saturday</date>
+            <link>/en/eventinfo/325153_hamburg_stuttgart/</link>
+            <teams>Hamburg – Stuttgart</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17252.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17251.gif</logoTeam2>
+            <score>3:2</score>
+        </match>
+        <match>
+            <date>23 August, Sunday</date>
+            <link>/en/eventinfo/325154_ingolstadt_dortmund/</link>
+            <teams>Ingolstadt – Dortmund</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10611.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12940.gif</logoTeam2>
+            <score>0:4</score>
+        </match>
+    </round>
+    <round id="3">
+        <match>
+            <date>28 August, Friday</date>
+            <link>/en/eventinfo/325156_wolfsburg_schalke_04/</link>
+            <teams>Wolfsburg – Schalke 04</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12945.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/37.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>29 August, Saturday</date>
+            <link>/en/eventinfo/325161_darmstadt_hoffenheim/</link>
+            <teams>Darmstadt – Hoffenheim</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12955.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17242.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>29 August, Saturday</date>
+            <link>/en/eventinfo/325157_stuttgart_eintracht/</link>
+            <teams>Stuttgart – Eintracht</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17251.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17243.gif</logoTeam2>
+            <score>1:4</score>
+        </match>
+        <match>
+            <date>29 August, Saturday</date>
+            <link>/en/eventinfo/325158_augsburg_ingolstadt/</link>
+            <teams>Augsburg – Ingolstadt</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12943.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10611.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>29 August, Saturday</date>
+            <link>/en/eventinfo/325159_cologne_hamburg/</link>
+            <teams>Cologne – Hamburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/819.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17252.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>29 August, Saturday</date>
+            <link>/en/eventinfo/325160_mainz_hanover/</link>
+            <teams>Mainz – Hanover</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/820.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10201.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>29 August, Saturday</date>
+            <link>/en/eventinfo/325162_bayern_leverkusen/</link>
+            <teams>Bayern – Leverkusen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/35.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10182.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>30 August, Sunday</date>
+            <link>/en/eventinfo/325163_dortmund_hertha_berlin/</link>
+            <teams>Dortmund – Hertha Berlin</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12940.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10254.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>30 August, Sunday</date>
+            <link>/en/eventinfo/325164_werder_moenchengladbach/</link>
+            <teams>Werder – Moenchengladbach</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17244.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17250.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+    </round>
+    <round id="4">
+        <match>
+            <date>11 September, Friday</date>
+            <link>/en/eventinfo/338218_moenchengladbach_hamburg/</link>
+            <teams>Moenchengladbach – Hamburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17250.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17252.gif</logoTeam2>
+            <score>0:3</score>
+        </match>
+        <match>
+            <date>12 September, Saturday</date>
+            <link>/en/eventinfo/338223_ingolstadt_wolfsburg/</link>
+            <teams>Ingolstadt – Wolfsburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10611.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12945.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>12 September, Saturday</date>
+            <link>/en/eventinfo/338222_hertha_berlin_stuttgart/</link>
+            <teams>Hertha Berlin – Stuttgart</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10254.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17251.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>12 September, Saturday</date>
+            <link>/en/eventinfo/338221_hanover_dortmund/</link>
+            <teams>Hanover – Dortmund</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10201.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12940.gif</logoTeam2>
+            <score>2:4</score>
+        </match>
+        <match>
+            <date>12 September, Saturday</date>
+            <link>/en/eventinfo/338220_leverkusen_darmstadt/</link>
+            <teams>Leverkusen – Darmstadt</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10182.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12955.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>12 September, Saturday</date>
+            <link>/en/eventinfo/338219_bayern_augsburg/</link>
+            <teams>Bayern – Augsburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/35.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12943.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>12 September, Saturday</date>
+            <link>/en/eventinfo/338224_eintracht_cologne/</link>
+            <teams>Eintracht – Cologne</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17243.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/819.gif</logoTeam2>
+            <score>6:2</score>
+        </match>
+        <match>
+            <date>13 September, Sunday</date>
+            <link>/en/eventinfo/338225_hoffenheim_werder/</link>
+            <teams>Hoffenheim – Werder</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17242.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17244.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+    </round>
+    <round id="5">
+        <match>
+            <date>18 September, Friday</date>
+            <link>/en/eventinfo/338228_mainz_hoffenheim/</link>
+            <teams>Mainz – Hoffenheim</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/820.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17242.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>19 September, Saturday</date>
+            <link>/en/eventinfo/338233_darmstadt_bayern/</link>
+            <teams>Darmstadt – Bayern</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12955.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/35.gif</logoTeam2>
+            <score>0:3</score>
+        </match>
+        <match>
+            <date>19 September, Saturday</date>
+            <link>/en/eventinfo/338232_cologne_moenchengladbach/</link>
+            <teams>Cologne – Moenchengladbach</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/819.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17250.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>19 September, Saturday</date>
+            <link>/en/eventinfo/338229_wolfsburg_hertha_berlin/</link>
+            <teams>Wolfsburg – Hertha Berlin</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12945.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10254.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>19 September, Saturday</date>
+            <link>/en/eventinfo/338230_hamburg_eintracht/</link>
+            <teams>Hamburg – Eintracht</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17252.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17243.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>19 September, Saturday</date>
+            <link>/en/eventinfo/338231_werder_ingolstadt/</link>
+            <teams>Werder – Ingolstadt</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17244.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10611.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>20 September, Sunday</date>
+            <link>/en/eventinfo/338234_stuttgart_schalke_04/</link>
+            <teams>Stuttgart – Schalke 04</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17251.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/37.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>20 September, Sunday</date>
+            <link>/en/eventinfo/338235_dortmund_leverkusen/</link>
+            <teams>Dortmund – Leverkusen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12940.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10182.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>20 September, Sunday</date>
+            <link>/en/eventinfo/338236_augsburg_hanover/</link>
+            <teams>Augsburg – Hanover</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12943.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10201.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+    </round>
+    <round id="6">
+        <match>
+            <date>22 September, Tuesday</date>
+            <link>/en/eventinfo/338373_darmstadt_werder/</link>
+            <teams>Darmstadt – Werder</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12955.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17244.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>22 September, Tuesday</date>
+            <link>/en/eventinfo/338372_ingolstadt_hamburg/</link>
+            <teams>Ingolstadt – Hamburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10611.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17252.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>22 September, Tuesday</date>
+            <link>/en/eventinfo/338381_hertha_berlin_cologne/</link>
+            <teams>Hertha Berlin – Cologne</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10254.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/819.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>22 September, Tuesday</date>
+            <link>/en/eventinfo/338371_bayern_wolfsburg/</link>
+            <teams>Bayern – Wolfsburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/35.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12945.gif</logoTeam2>
+            <score>5:1</score>
+        </match>
+        <match>
+            <date>23 September, Wednesday</date>
+            <link>/en/eventinfo/338376_moenchengladbach_augsburg/</link>
+            <teams>Moenchengladbach – Augsburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17250.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12943.gif</logoTeam2>
+            <score>4:2</score>
+        </match>
+        <match>
+            <date>23 September, Wednesday</date>
+            <link>/en/eventinfo/338378_hoffenheim_dortmund/</link>
+            <teams>Hoffenheim – Dortmund</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17242.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12940.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>23 September, Wednesday</date>
+            <link>/en/eventinfo/338377_hanover_stuttgart/</link>
+            <teams>Hanover – Stuttgart</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10201.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17251.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>23 September, Wednesday</date>
+            <link>/en/eventinfo/338375_leverkusen_mainz/</link>
+            <teams>Leverkusen – Mainz</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10182.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/820.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+    </round>
+    <round id="7">
+        <match>
+            <date>25 September, Friday</date>
+            <link>/en/eventinfo/338383_cologne_ingolstadt/</link>
+            <teams>Cologne – Ingolstadt</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/819.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10611.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>26 September, Saturday</date>
+            <link>/en/eventinfo/338385_stuttgart_moenchengladbach/</link>
+            <teams>Stuttgart – Moenchengladbach</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17251.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17250.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>26 September, Saturday</date>
+            <link>/en/eventinfo/338386_augsburg_hoffenheim/</link>
+            <teams>Augsburg – Hoffenheim</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12943.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17242.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>26 September, Saturday</date>
+            <link>/en/eventinfo/338388_mainz_bayern/</link>
+            <teams>Mainz – Bayern</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/820.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/35.gif</logoTeam2>
+            <score>0:3</score>
+        </match>
+        <match>
+            <date>26 September, Saturday</date>
+            <link>/en/eventinfo/338384_wolfsburg_hanover/</link>
+            <teams>Wolfsburg – Hanover</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12945.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10201.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>26 September, Saturday</date>
+            <link>/en/eventinfo/338387_werder_leverkusen/</link>
+            <teams>Werder – Leverkusen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17244.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10182.gif</logoTeam2>
+            <score>0:3</score>
+        </match>
+        <match>
+            <date>26 September, Saturday</date>
+            <link>/en/eventinfo/338389_hamburg_schalke_04/</link>
+            <teams>Hamburg – Schalke 04</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17252.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/37.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>27 September, Sunday</date>
+            <link>/en/eventinfo/338390_eintracht_hertha_berlin/</link>
+            <teams>Eintracht – Hertha Berlin</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17243.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10254.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>27 September, Sunday</date>
+            <link>/en/eventinfo/338391_dortmund_darmstadt/</link>
+            <teams>Dortmund – Darmstadt</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12940.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12955.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+    </round>
+    <round id="8">
+        <match>
+            <date>2 October, Friday</date>
+            <link>/en/eventinfo/341489_darmstadt_mainz/</link>
+            <teams>Darmstadt – Mainz</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12955.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/820.gif</logoTeam2>
+            <score>2:3</score>
+        </match>
+        <match>
+            <date>3 October, Saturday</date>
+            <link>/en/eventinfo/341494_ingolstadt_eintracht/</link>
+            <teams>Ingolstadt – Eintracht</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10611.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17243.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>3 October, Saturday</date>
+            <link>/en/eventinfo/341490_moenchengladbach_wolfsburg/</link>
+            <teams>Moenchengladbach – Wolfsburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17250.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12945.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>3 October, Saturday</date>
+            <link>/en/eventinfo/341493_hoffenheim_stuttgart/</link>
+            <teams>Hoffenheim – Stuttgart</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17242.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17251.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>3 October, Saturday</date>
+            <link>/en/eventinfo/341492_hertha_berlin_hamburg/</link>
+            <teams>Hertha Berlin – Hamburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10254.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17252.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>3 October, Saturday</date>
+            <link>/en/eventinfo/341491_hanover_werder/</link>
+            <teams>Hanover – Werder</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10201.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17244.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>4 October, Sunday</date>
+            <link>/en/eventinfo/341495_schalke_04_cologne/</link>
+            <teams>Schalke 04 – Cologne</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/37.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/819.gif</logoTeam2>
+            <score>0:3</score>
+        </match>
+        <match>
+            <date>4 October, Sunday</date>
+            <link>/en/eventinfo/341496_bayern_dortmund/</link>
+            <teams>Bayern – Dortmund</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/35.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12940.gif</logoTeam2>
+            <score>5:1</score>
+        </match>
+    </round>
+    <round id="9">
+        <match>
+            <date>16 October, Friday</date>
+            <link>/en/eventinfo/341498_mainz_dortmund/</link>
+            <teams>Mainz – Dortmund</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/820.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12940.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>17 October, Saturday</date>
+            <link>/en/eventinfo/341502_augsburg_darmstadt/</link>
+            <teams>Augsburg – Darmstadt</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12943.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12955.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>17 October, Saturday</date>
+            <link>/en/eventinfo/341500_wolfsburg_hoffenheim/</link>
+            <teams>Wolfsburg – Hoffenheim</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12945.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17242.gif</logoTeam2>
+            <score>4:2</score>
+        </match>
+        <match>
+            <date>17 October, Saturday</date>
+            <link>/en/eventinfo/341501_hamburg_leverkusen/</link>
+            <teams>Hamburg – Leverkusen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17252.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10182.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>17 October, Saturday</date>
+            <link>/en/eventinfo/341503_werder_bayern/</link>
+            <teams>Werder – Bayern</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17244.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/35.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>17 October, Saturday</date>
+            <link>/en/eventinfo/341499_schalke_04_hertha_berlin/</link>
+            <teams>Schalke 04 – Hertha Berlin</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/37.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10254.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>17 October, Saturday</date>
+            <link>/en/eventinfo/341504_eintracht_moenchengladbach/</link>
+            <teams>Eintracht – Moenchengladbach</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17243.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17250.gif</logoTeam2>
+            <score>1:5</score>
+        </match>
+        <match>
+            <date>18 October, Sunday</date>
+            <link>/en/eventinfo/341505_cologne_hanover/</link>
+            <teams>Cologne – Hanover</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/819.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10201.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>18 October, Sunday</date>
+            <link>/en/eventinfo/341506_stuttgart_ingolstadt/</link>
+            <teams>Stuttgart – Ingolstadt</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17251.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10611.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+    </round>
+    <round id="10">
+        <match>
+            <date>23 October, Friday</date>
+            <link>/en/eventinfo/341507_hoffenheim_hamburg/</link>
+            <teams>Hoffenheim – Hamburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17242.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17252.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>24 October, Saturday</date>
+            <link>/en/eventinfo/341514_darmstadt_wolfsburg/</link>
+            <teams>Darmstadt – Wolfsburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12955.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12945.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>24 October, Saturday</date>
+            <link>/en/eventinfo/341513_mainz_werder/</link>
+            <teams>Mainz – Werder</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/820.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17244.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>24 October, Saturday</date>
+            <link>/en/eventinfo/341512_hanover_eintracht/</link>
+            <teams>Hanover – Eintracht</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10201.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17243.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>24 October, Saturday</date>
+            <link>/en/eventinfo/341509_leverkusen_stuttgart/</link>
+            <teams>Leverkusen – Stuttgart</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10182.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17251.gif</logoTeam2>
+            <score>4:3</score>
+        </match>
+        <match>
+            <date>24 October, Saturday</date>
+            <link>/en/eventinfo/341508_bayern_cologne/</link>
+            <teams>Bayern – Cologne</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/35.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/819.gif</logoTeam2>
+            <score>4:0</score>
+        </match>
+        <match>
+            <date>24 October, Saturday</date>
+            <link>/en/eventinfo/341515_ingolstadt_hertha_berlin/</link>
+            <teams>Ingolstadt – Hertha Berlin</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10611.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10254.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>25 October, Sunday</date>
+            <link>/en/eventinfo/341516_dortmund_augsburg/</link>
+            <teams>Dortmund – Augsburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12940.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12943.gif</logoTeam2>
+            <score>5:1</score>
+        </match>
+    </round>
+    <round id="11">
+        <match>
+            <date>30 October, Friday</date>
+            <link>/en/eventinfo/353658_eintracht_bayern/</link>
+            <teams>Eintracht – Bayern</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17243.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/35.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>31 October, Saturday</date>
+            <link>/en/eventinfo/353660_augsburg_mainz/</link>
+            <teams>Augsburg – Mainz</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12943.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/820.gif</logoTeam2>
+            <score>3:3</score>
+        </match>
+        <match>
+            <date>31 October, Saturday</date>
+            <link>/en/eventinfo/353662_cologne_hoffenheim/</link>
+            <teams>Cologne – Hoffenheim</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/819.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17242.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>31 October, Saturday</date>
+            <link>/en/eventinfo/353663_hertha_berlin_moenchengladbach/</link>
+            <teams>Hertha Berlin – Moenchengladbach</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10254.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17250.gif</logoTeam2>
+            <score>1:4</score>
+        </match>
+        <match>
+            <date>31 October, Saturday</date>
+            <link>/en/eventinfo/353661_werder_dortmund/</link>
+            <teams>Werder – Dortmund</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17244.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12940.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>31 October, Saturday</date>
+            <link>/en/eventinfo/353659_schalke_04_ingolstadt/</link>
+            <teams>Schalke 04 – Ingolstadt</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/37.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10611.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>31 October, Saturday</date>
+            <link>/en/eventinfo/353664_wolfsburg_leverkusen/</link>
+            <teams>Wolfsburg – Leverkusen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12945.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10182.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>1 November, Sunday</date>
+            <link>/en/eventinfo/353665_stuttgart_darmstadt/</link>
+            <teams>Stuttgart – Darmstadt</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17251.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12955.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>1 November, Sunday</date>
+            <link>/en/eventinfo/353666_hamburg_hanover/</link>
+            <teams>Hamburg – Hanover</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17252.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10201.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+    </round>
+    <round id="12">
+        <match>
+            <date>6 November, Friday</date>
+            <link>/en/eventinfo/353667_hanover_hertha_berlin/</link>
+            <teams>Hanover – Hertha Berlin</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10201.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10254.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>7 November, Saturday</date>
+            <link>/en/eventinfo/353671_moenchengladbach_ingolstadt/</link>
+            <teams>Moenchengladbach – Ingolstadt</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17250.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10611.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>7 November, Saturday</date>
+            <link>/en/eventinfo/353672_hoffenheim_eintracht/</link>
+            <teams>Hoffenheim – Eintracht</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17242.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17243.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>7 November, Saturday</date>
+            <link>/en/eventinfo/353673_mainz_wolfsburg/</link>
+            <teams>Mainz – Wolfsburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/820.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12945.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>7 November, Saturday</date>
+            <link>/en/eventinfo/353670_leverkusen_cologne/</link>
+            <teams>Leverkusen – Cologne</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10182.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/819.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>7 November, Saturday</date>
+            <link>/en/eventinfo/353669_bayern_stuttgart/</link>
+            <teams>Bayern – Stuttgart</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/35.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17251.gif</logoTeam2>
+            <score>4:0</score>
+        </match>
+        <match>
+            <date>7 November, Saturday</date>
+            <link>/en/eventinfo/353674_darmstadt_hamburg/</link>
+            <teams>Darmstadt – Hamburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12955.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17252.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>8 November, Sunday</date>
+            <link>/en/eventinfo/353675_dortmund_schalke_04/</link>
+            <teams>Dortmund – Schalke 04</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12940.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/37.gif</logoTeam2>
+            <score>3:2</score>
+        </match>
+    </round>
+    <round id="13">
+        <match>
+            <date>20 November, Friday</date>
+            <link>/en/eventinfo/353677_hamburg_dortmund/</link>
+            <teams>Hamburg – Dortmund</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17252.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12940.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>21 November, Saturday</date>
+            <link>/en/eventinfo/353682_eintracht_leverkusen/</link>
+            <teams>Eintracht – Leverkusen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17243.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10182.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>21 November, Saturday</date>
+            <link>/en/eventinfo/353680_wolfsburg_werder/</link>
+            <teams>Wolfsburg – Werder</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12945.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17244.gif</logoTeam2>
+            <score>6:0</score>
+        </match>
+        <match>
+            <date>21 November, Saturday</date>
+            <link>/en/eventinfo/353683_cologne_mainz/</link>
+            <teams>Cologne – Mainz</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/819.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/820.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>21 November, Saturday</date>
+            <link>/en/eventinfo/353678_moenchengladbach_hanover/</link>
+            <teams>Moenchengladbach – Hanover</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17250.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10201.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>21 November, Saturday</date>
+            <link>/en/eventinfo/353681_stuttgart_augsburg/</link>
+            <teams>Stuttgart – Augsburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17251.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12943.gif</logoTeam2>
+            <score>0:4</score>
+        </match>
+        <match>
+            <date>21 November, Saturday</date>
+            <link>/en/eventinfo/353684_schalke_04_bayern/</link>
+            <teams>Schalke 04 – Bayern</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/37.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/35.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>22 November, Sunday</date>
+            <link>/en/eventinfo/353685_hertha_berlin_hoffenheim/</link>
+            <teams>Hertha Berlin – Hoffenheim</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10254.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17242.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>22 November, Sunday</date>
+            <link>/en/eventinfo/353686_ingolstadt_darmstadt/</link>
+            <teams>Ingolstadt – Darmstadt</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10611.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12955.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+    </round>
+    <round id="14">
+        <match>
+            <date>27 November, Friday</date>
+            <link>/en/eventinfo/353687_darmstadt_cologne/</link>
+            <teams>Darmstadt – Cologne</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12955.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/819.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>28 November, Saturday</date>
+            <link>/en/eventinfo/353692_hoffenheim_moenchengladbach/</link>
+            <teams>Hoffenheim – Moenchengladbach</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17242.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17250.gif</logoTeam2>
+            <score>3:3</score>
+        </match>
+        <match>
+            <date>28 November, Saturday</date>
+            <link>/en/eventinfo/353693_mainz_eintracht/</link>
+            <teams>Mainz – Eintracht</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/820.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17243.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>28 November, Saturday</date>
+            <link>/en/eventinfo/353691_hanover_ingolstadt/</link>
+            <teams>Hanover – Ingolstadt</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10201.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10611.gif</logoTeam2>
+            <score>4:0</score>
+        </match>
+        <match>
+            <date>28 November, Saturday</date>
+            <link>/en/eventinfo/353689_werder_hamburg/</link>
+            <teams>Werder – Hamburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17244.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17252.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>28 November, Saturday</date>
+            <link>/en/eventinfo/353688_bayern_hertha_berlin/</link>
+            <teams>Bayern – Hertha Berlin</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/35.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10254.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>29 November, Sunday</date>
+            <link>/en/eventinfo/353694_dortmund_stuttgart/</link>
+            <teams>Dortmund – Stuttgart</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12940.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17251.gif</logoTeam2>
+            <score>4:1</score>
+        </match>
+        <match>
+            <date>29 November, Sunday</date>
+            <link>/en/eventinfo/353696_augsburg_wolfsburg/</link>
+            <teams>Augsburg – Wolfsburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12943.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12945.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+    </round>
+    <round id="15">
+        <match>
+            <date>4 December, Friday</date>
+            <link>/en/eventinfo/353698_schalke_04_hanover/</link>
+            <teams>Schalke 04 – Hanover</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/37.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10201.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>5 December, Saturday</date>
+            <link>/en/eventinfo/353702_hertha_berlin_leverkusen/</link>
+            <teams>Hertha Berlin – Leverkusen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10254.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10182.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>5 December, Saturday</date>
+            <link>/en/eventinfo/353700_hamburg_mainz/</link>
+            <teams>Hamburg – Mainz</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17252.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/820.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>5 December, Saturday</date>
+            <link>/en/eventinfo/353701_cologne_augsburg/</link>
+            <teams>Cologne – Augsburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/819.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12943.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>5 December, Saturday</date>
+            <link>/en/eventinfo/353699_moenchengladbach_bayern/</link>
+            <teams>Moenchengladbach – Bayern</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17250.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/35.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>5 December, Saturday</date>
+            <link>/en/eventinfo/353703_ingolstadt_hoffenheim/</link>
+            <teams>Ingolstadt – Hoffenheim</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10611.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17242.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>5 December, Saturday</date>
+            <link>/en/eventinfo/353704_wolfsburg_dortmund/</link>
+            <teams>Wolfsburg – Dortmund</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12945.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12940.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>6 December, Sunday</date>
+            <link>/en/eventinfo/353705_stuttgart_werder/</link>
+            <teams>Stuttgart – Werder</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17251.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17244.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>6 December, Sunday</date>
+            <link>/en/eventinfo/353706_eintracht_darmstadt/</link>
+            <teams>Eintracht – Darmstadt</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17243.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12955.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+    </round>
+    <round id="16">
+        <match>
+            <date>11 December, Friday</date>
+            <link>/en/eventinfo/364920_mainz_stuttgart/</link>
+            <teams>Mainz – Stuttgart</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/820.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17251.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>12 December, Saturday</date>
+            <link>/en/eventinfo/364921_bayern_ingolstadt/</link>
+            <teams>Bayern – Ingolstadt</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/35.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10611.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>12 December, Saturday</date>
+            <link>/en/eventinfo/364923_werder_cologne/</link>
+            <teams>Werder – Cologne</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17244.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/819.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>12 December, Saturday</date>
+            <link>/en/eventinfo/364922_wolfsburg_hamburg/</link>
+            <teams>Wolfsburg – Hamburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12945.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17252.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>12 December, Saturday</date>
+            <link>/en/eventinfo/364924_hoffenheim_hanover/</link>
+            <teams>Hoffenheim – Hanover</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17242.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10201.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>12 December, Saturday</date>
+            <link>/en/eventinfo/364925_darmstadt_hertha_berlin/</link>
+            <teams>Darmstadt – Hertha Berlin</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12955.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10254.gif</logoTeam2>
+            <score>0:4</score>
+        </match>
+        <match>
+            <date>12 December, Saturday</date>
+            <link>/en/eventinfo/364926_leverkusen_moenchengladbach/</link>
+            <teams>Leverkusen – Moenchengladbach</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10182.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17250.gif</logoTeam2>
+            <score>5:0</score>
+        </match>
+        <match>
+            <date>13 December, Sunday</date>
+            <link>/en/eventinfo/364927_augsburg_schalke_04/</link>
+            <teams>Augsburg – Schalke 04</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12943.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/37.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+    </round>
+    <round id="17">
+        <match>
+            <date>18 December, Friday</date>
+            <link>/en/eventinfo/364930_schalke_04_hoffenheim/</link>
+            <teams>Schalke 04 – Hoffenheim</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/37.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17242.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>19 December, Saturday</date>
+            <link>/en/eventinfo/364934_hanover_bayern/</link>
+            <teams>Hanover – Bayern</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10201.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/35.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>19 December, Saturday</date>
+            <link>/en/eventinfo/364931_hamburg_augsburg/</link>
+            <teams>Hamburg – Augsburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17252.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12943.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>19 December, Saturday</date>
+            <link>/en/eventinfo/364932_eintracht_werder/</link>
+            <teams>Eintracht – Werder</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17243.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17244.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>19 December, Saturday</date>
+            <link>/en/eventinfo/364933_cologne_dortmund/</link>
+            <teams>Cologne – Dortmund</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/819.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12940.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>19 December, Saturday</date>
+            <link>/en/eventinfo/364935_ingolstadt_leverkusen/</link>
+            <teams>Ingolstadt – Leverkusen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10611.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10182.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>19 December, Saturday</date>
+            <link>/en/eventinfo/364936_stuttgart_wolfsburg/</link>
+            <teams>Stuttgart – Wolfsburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17251.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12945.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>20 December, Sunday</date>
+            <link>/en/eventinfo/364937_hertha_berlin_mainz/</link>
+            <teams>Hertha Berlin – Mainz</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10254.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/820.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>20 December, Sunday</date>
+            <link>/en/eventinfo/364938_moenchengladbach_darmstadt/</link>
+            <teams>Moenchengladbach – Darmstadt</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17250.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12955.gif</logoTeam2>
+            <score>3:2</score>
+        </match>
+    </round>
+    <round id="18">
+        <match>
+            <date>22 January, Friday</date>
+            <link>/en/eventinfo/364939_hamburg_bayern/</link>
+            <teams>Hamburg – Bayern</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17252.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/35.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>23 January, Saturday</date>
+            <link>/en/eventinfo/364941_hanover_darmstadt/</link>
+            <teams>Hanover – Darmstadt</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10201.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12955.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>23 January, Saturday</date>
+            <link>/en/eventinfo/364942_hertha_berlin_augsburg/</link>
+            <teams>Hertha Berlin – Augsburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10254.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12943.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>23 January, Saturday</date>
+            <link>/en/eventinfo/364940_cologne_stuttgart/</link>
+            <teams>Cologne – Stuttgart</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/819.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17251.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>23 January, Saturday</date>
+            <link>/en/eventinfo/364943_hoffenheim_leverkusen/</link>
+            <teams>Hoffenheim – Leverkusen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17242.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10182.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>23 January, Saturday</date>
+            <link>/en/eventinfo/364944_ingolstadt_mainz/</link>
+            <teams>Ingolstadt – Mainz</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10611.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/820.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>23 January, Saturday</date>
+            <link>/en/eventinfo/364945_moenchengladbach_dortmund/</link>
+            <teams>Moenchengladbach – Dortmund</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17250.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12940.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>24 January, Sunday</date>
+            <link>/en/eventinfo/364946_eintracht_wolfsburg/</link>
+            <teams>Eintracht – Wolfsburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17243.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12945.gif</logoTeam2>
+            <score>3:2</score>
+        </match>
+    </round>
+    <round id="19">
+        <match>
+            <date>29 January, Friday</date>
+            <link>/en/eventinfo/370107_mainz_moenchengladbach/</link>
+            <teams>Mainz – Moenchengladbach</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/820.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17250.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>30 January, Saturday</date>
+            <link>/en/eventinfo/370112_darmstadt_schalke_04/</link>
+            <teams>Darmstadt – Schalke 04</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12955.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/37.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>30 January, Saturday</date>
+            <link>/en/eventinfo/370110_augsburg_eintracht/</link>
+            <teams>Augsburg – Eintracht</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12943.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17243.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>30 January, Saturday</date>
+            <link>/en/eventinfo/370108_dortmund_ingolstadt/</link>
+            <teams>Dortmund – Ingolstadt</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12940.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10611.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>30 January, Saturday</date>
+            <link>/en/eventinfo/370109_leverkusen_hanover/</link>
+            <teams>Leverkusen – Hanover</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10182.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10201.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>30 January, Saturday</date>
+            <link>/en/eventinfo/370111_werder_hertha_berlin/</link>
+            <teams>Werder – Hertha Berlin</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17244.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10254.gif</logoTeam2>
+            <score>3:3</score>
+        </match>
+        <match>
+            <date>30 January, Saturday</date>
+            <link>/en/eventinfo/370113_stuttgart_hamburg/</link>
+            <teams>Stuttgart – Hamburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17251.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17252.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>31 January, Sunday</date>
+            <link>/en/eventinfo/370114_wolfsburg_cologne/</link>
+            <teams>Wolfsburg – Cologne</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12945.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/819.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>31 January, Sunday</date>
+            <link>/en/eventinfo/370115_bayern_hoffenheim/</link>
+            <teams>Bayern – Hoffenheim</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/35.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17242.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+    </round>
+    <round id="20">
+        <match>
+            <date>5 February, Friday</date>
+            <link>/en/eventinfo/370117_moenchengladbach_werder/</link>
+            <teams>Moenchengladbach – Werder</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17250.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17244.gif</logoTeam2>
+            <score>5:1</score>
+        </match>
+        <match>
+            <date>6 February, Saturday</date>
+            <link>/en/eventinfo/370122_ingolstadt_augsburg/</link>
+            <teams>Ingolstadt – Augsburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10611.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12943.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>6 February, Saturday</date>
+            <link>/en/eventinfo/370119_eintracht_stuttgart/</link>
+            <teams>Eintracht – Stuttgart</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17243.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17251.gif</logoTeam2>
+            <score>2:4</score>
+        </match>
+        <match>
+            <date>6 February, Saturday</date>
+            <link>/en/eventinfo/370121_hertha_berlin_dortmund/</link>
+            <teams>Hertha Berlin – Dortmund</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10254.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12940.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>6 February, Saturday</date>
+            <link>/en/eventinfo/370120_hanover_mainz/</link>
+            <teams>Hanover – Mainz</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10201.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/820.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>6 February, Saturday</date>
+            <link>/en/eventinfo/370118_schalke_04_wolfsburg/</link>
+            <teams>Schalke 04 – Wolfsburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/37.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12945.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>6 February, Saturday</date>
+            <link>/en/eventinfo/370123_leverkusen_bayern/</link>
+            <teams>Leverkusen – Bayern</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10182.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/35.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>7 February, Sunday</date>
+            <link>/en/eventinfo/370124_hamburg_cologne/</link>
+            <teams>Hamburg – Cologne</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17252.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/819.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+    </round>
+    <round id="21">
+        <match>
+            <date>12 February, Friday</date>
+            <link>/en/eventinfo/373568_mainz_schalke_04/</link>
+            <teams>Mainz – Schalke 04</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/820.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/37.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>13 February, Saturday</date>
+            <link>/en/eventinfo/373573_darmstadt_leverkusen/</link>
+            <teams>Darmstadt – Leverkusen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12955.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10182.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>13 February, Saturday</date>
+            <link>/en/eventinfo/373571_stuttgart_hertha_berlin/</link>
+            <teams>Stuttgart – Hertha Berlin</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17251.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10254.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>13 February, Saturday</date>
+            <link>/en/eventinfo/373570_wolfsburg_ingolstadt/</link>
+            <teams>Wolfsburg – Ingolstadt</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12945.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10611.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>13 February, Saturday</date>
+            <link>/en/eventinfo/373569_dortmund_hanover/</link>
+            <teams>Dortmund – Hanover</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12940.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10201.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>13 February, Saturday</date>
+            <link>/en/eventinfo/373572_werder_hoffenheim/</link>
+            <teams>Werder – Hoffenheim</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17244.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17242.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>13 February, Saturday</date>
+            <link>/en/eventinfo/373574_cologne_eintracht/</link>
+            <teams>Cologne – Eintracht</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/819.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17243.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>14 February, Sunday</date>
+            <link>/en/eventinfo/373575_hamburg_moenchengladbach/</link>
+            <teams>Hamburg – Moenchengladbach</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17252.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17250.gif</logoTeam2>
+            <score>3:2</score>
+        </match>
+        <match>
+            <date>14 February, Sunday</date>
+            <link>/en/eventinfo/373576_augsburg_bayern/</link>
+            <teams>Augsburg – Bayern</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12943.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/35.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+    </round>
+    <round id="22">
+        <match>
+            <date>19 February, Friday</date>
+            <link>/en/eventinfo/373579_eintracht_hamburg/</link>
+            <teams>Eintracht – Hamburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17243.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17252.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>20 February, Saturday</date>
+            <link>/en/eventinfo/373584_ingolstadt_werder/</link>
+            <teams>Ingolstadt – Werder</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10611.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17244.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>20 February, Saturday</date>
+            <link>/en/eventinfo/373581_moenchengladbach_cologne/</link>
+            <teams>Moenchengladbach – Cologne</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17250.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/819.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>20 February, Saturday</date>
+            <link>/en/eventinfo/373583_hoffenheim_mainz/</link>
+            <teams>Hoffenheim – Mainz</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17242.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/820.gif</logoTeam2>
+            <score>3:2</score>
+        </match>
+        <match>
+            <date>20 February, Saturday</date>
+            <link>/en/eventinfo/373582_hertha_berlin_wolfsburg/</link>
+            <teams>Hertha Berlin – Wolfsburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10254.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12945.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>20 February, Saturday</date>
+            <link>/en/eventinfo/373580_bayern_darmstadt/</link>
+            <teams>Bayern – Darmstadt</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/35.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12955.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>21 February, Sunday</date>
+            <link>/en/eventinfo/373585_leverkusen_dortmund/</link>
+            <teams>Leverkusen – Dortmund</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10182.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12940.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>21 February, Sunday</date>
+            <link>/en/eventinfo/373586_schalke_04_stuttgart/</link>
+            <teams>Schalke 04 – Stuttgart</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/37.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17251.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+    </round>
+    <round id="23">
+        <match>
+            <date>26 February, Friday</date>
+            <link>/en/eventinfo/373589_cologne_hertha_berlin/</link>
+            <teams>Cologne – Hertha Berlin</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/819.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10254.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>27 February, Saturday</date>
+            <link>/en/eventinfo/373592_stuttgart_hanover/</link>
+            <teams>Stuttgart – Hanover</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17251.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10201.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>27 February, Saturday</date>
+            <link>/en/eventinfo/373590_wolfsburg_bayern/</link>
+            <teams>Wolfsburg – Bayern</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12945.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/35.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>27 February, Saturday</date>
+            <link>/en/eventinfo/373591_hamburg_ingolstadt/</link>
+            <teams>Hamburg – Ingolstadt</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17252.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10611.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>27 February, Saturday</date>
+            <link>/en/eventinfo/373593_werder_darmstadt/</link>
+            <teams>Werder – Darmstadt</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17244.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12955.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>28 February, Sunday</date>
+            <link>/en/eventinfo/373594_augsburg_moenchengladbach/</link>
+            <teams>Augsburg – Moenchengladbach</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12943.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17250.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>28 February, Sunday</date>
+            <link>/en/eventinfo/373595_dortmund_hoffenheim/</link>
+            <teams>Dortmund – Hoffenheim</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12940.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17242.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>28 February, Sunday</date>
+            <link>/en/eventinfo/373596_mainz_leverkusen/</link>
+            <teams>Mainz – Leverkusen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/820.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10182.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>28 February, Sunday</date>
+            <link>/en/eventinfo/373597_eintracht_schalke_04/</link>
+            <teams>Eintracht – Schalke 04</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17243.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/37.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+    </round>
+    <round id="24">
+        <match>
+            <date>1 March, Tuesday</date>
+            <link>/en/eventinfo/389849_hanover_wolfsburg/</link>
+            <teams>Hanover – Wolfsburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10201.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12945.gif</logoTeam2>
+            <score>0:4</score>
+        </match>
+        <match>
+            <date>1 March, Tuesday</date>
+            <link>/en/eventinfo/389850_ingolstadt_cologne/</link>
+            <teams>Ingolstadt – Cologne</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10611.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/819.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>2 March, Wednesday</date>
+            <link>/en/eventinfo/389857_darmstadt_dortmund/</link>
+            <teams>Darmstadt – Dortmund</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12955.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12940.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>2 March, Wednesday</date>
+            <link>/en/eventinfo/389854_moenchengladbach_stuttgart/</link>
+            <teams>Moenchengladbach – Stuttgart</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17250.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17251.gif</logoTeam2>
+            <score>4:0</score>
+        </match>
+        <match>
+            <date>2 March, Wednesday</date>
+            <link>/en/eventinfo/389856_hoffenheim_augsburg/</link>
+            <teams>Hoffenheim – Augsburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17242.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12943.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>2 March, Wednesday</date>
+            <link>/en/eventinfo/389855_hertha_berlin_eintracht/</link>
+            <teams>Hertha Berlin – Eintracht</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10254.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17243.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>2 March, Wednesday</date>
+            <link>/en/eventinfo/389853_leverkusen_werder/</link>
+            <teams>Leverkusen – Werder</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10182.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17244.gif</logoTeam2>
+            <score>1:4</score>
+        </match>
+        <match>
+            <date>2 March, Wednesday</date>
+            <link>/en/eventinfo/389852_schalke_04_hamburg/</link>
+            <teams>Schalke 04 – Hamburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/37.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17252.gif</logoTeam2>
+            <score>3:2</score>
+        </match>
+    </round>
+    <round id="25">
+        <match>
+            <date>5 March, Saturday</date>
+            <link>/en/eventinfo/389860_stuttgart_hoffenheim/</link>
+            <teams>Stuttgart – Hoffenheim</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17251.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17242.gif</logoTeam2>
+            <score>5:1</score>
+        </match>
+        <match>
+            <date>5 March, Saturday</date>
+            <link>/en/eventinfo/389861_augsburg_leverkusen/</link>
+            <teams>Augsburg – Leverkusen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12943.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10182.gif</logoTeam2>
+            <score>3:3</score>
+        </match>
+        <match>
+            <date>5 March, Saturday</date>
+            <link>/en/eventinfo/389864_cologne_schalke_04/</link>
+            <teams>Cologne – Schalke 04</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/819.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/37.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>5 March, Saturday</date>
+            <link>/en/eventinfo/389859_wolfsburg_moenchengladbach/</link>
+            <teams>Wolfsburg – Moenchengladbach</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12945.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17250.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>5 March, Saturday</date>
+            <link>/en/eventinfo/389863_eintracht_ingolstadt/</link>
+            <teams>Eintracht – Ingolstadt</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17243.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10611.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>5 March, Saturday</date>
+            <link>/en/eventinfo/389862_werder_hanover/</link>
+            <teams>Werder – Hanover</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17244.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10201.gif</logoTeam2>
+            <score>4:1</score>
+        </match>
+        <match>
+            <date>5 March, Saturday</date>
+            <link>/en/eventinfo/389865_dortmund_bayern/</link>
+            <teams>Dortmund – Bayern</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12940.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/35.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>6 March, Sunday</date>
+            <link>/en/eventinfo/389866_mainz_darmstadt/</link>
+            <teams>Mainz – Darmstadt</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/820.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12955.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>6 March, Sunday</date>
+            <link>/en/eventinfo/389867_hamburg_hertha_berlin/</link>
+            <teams>Hamburg – Hertha Berlin</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17252.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10254.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+    </round>
+    <round id="26">
+        <match>
+            <date>11 March, Friday</date>
+            <link>/en/eventinfo/393875_hertha_berlin_schalke_04/</link>
+            <teams>Hertha Berlin – Schalke 04</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10254.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/37.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>12 March, Saturday</date>
+            <link>/en/eventinfo/393880_darmstadt_augsburg/</link>
+            <teams>Darmstadt – Augsburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12955.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12943.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>12 March, Saturday</date>
+            <link>/en/eventinfo/393879_ingolstadt_stuttgart/</link>
+            <teams>Ingolstadt – Stuttgart</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10611.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17251.gif</logoTeam2>
+            <score>3:3</score>
+        </match>
+        <match>
+            <date>12 March, Saturday</date>
+            <link>/en/eventinfo/393876_moenchengladbach_eintracht/</link>
+            <teams>Moenchengladbach – Eintracht</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17250.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17243.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>12 March, Saturday</date>
+            <link>/en/eventinfo/393878_hoffenheim_wolfsburg/</link>
+            <teams>Hoffenheim – Wolfsburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17242.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12945.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>12 March, Saturday</date>
+            <link>/en/eventinfo/393877_hanover_cologne/</link>
+            <teams>Hanover – Cologne</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10201.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/819.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>12 March, Saturday</date>
+            <link>/en/eventinfo/393881_bayern_werder/</link>
+            <teams>Bayern – Werder</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/35.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17244.gif</logoTeam2>
+            <score>5:0</score>
+        </match>
+        <match>
+            <date>13 March, Sunday</date>
+            <link>/en/eventinfo/393882_leverkusen_hamburg/</link>
+            <teams>Leverkusen – Hamburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10182.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17252.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+    </round>
+    <round id="27">
+        <match>
+            <date>18 March, Friday</date>
+            <link>/en/eventinfo/393884_schalke_04_moenchengladbach/</link>
+            <teams>Schalke 04 – Moenchengladbach</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/37.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17250.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>19 March, Saturday</date>
+            <link>/en/eventinfo/393889_cologne_bayern/</link>
+            <teams>Cologne – Bayern</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/819.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/35.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>19 March, Saturday</date>
+            <link>/en/eventinfo/393886_wolfsburg_darmstadt/</link>
+            <teams>Wolfsburg – Darmstadt</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12945.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12955.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>19 March, Saturday</date>
+            <link>/en/eventinfo/393887_hamburg_hoffenheim/</link>
+            <teams>Hamburg – Hoffenheim</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17252.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17242.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>19 March, Saturday</date>
+            <link>/en/eventinfo/393890_hertha_berlin_ingolstadt/</link>
+            <teams>Hertha Berlin – Ingolstadt</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10254.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10611.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>19 March, Saturday</date>
+            <link>/en/eventinfo/393888_werder_mainz/</link>
+            <teams>Werder – Mainz</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17244.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/820.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>19 March, Saturday</date>
+            <link>/en/eventinfo/393891_eintracht_hanover/</link>
+            <teams>Eintracht – Hanover</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17243.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10201.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>20 March, Sunday</date>
+            <link>/en/eventinfo/393892_stuttgart_leverkusen/</link>
+            <teams>Stuttgart – Leverkusen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17251.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10182.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>20 March, Sunday</date>
+            <link>/en/eventinfo/393893_augsburg_dortmund/</link>
+            <teams>Augsburg – Dortmund</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12943.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12940.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+    </round>
+    <round id="28">
+        <match>
+            <date>1 April, Friday</date>
+            <link>/en/eventinfo/400951_leverkusen_wolfsburg/</link>
+            <teams>Leverkusen – Wolfsburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10182.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12945.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>2 April, Saturday</date>
+            <link>/en/eventinfo/400956_darmstadt_stuttgart/</link>
+            <teams>Darmstadt – Stuttgart</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12955.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17251.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>2 April, Saturday</date>
+            <link>/en/eventinfo/400955_ingolstadt_schalke_04/</link>
+            <teams>Ingolstadt – Schalke 04</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10611.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/37.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>2 April, Saturday</date>
+            <link>/en/eventinfo/400954_mainz_augsburg/</link>
+            <teams>Mainz – Augsburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/820.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12943.gif</logoTeam2>
+            <score>4:2</score>
+        </match>
+        <match>
+            <date>2 April, Saturday</date>
+            <link>/en/eventinfo/400953_hanover_hamburg/</link>
+            <teams>Hanover – Hamburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10201.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17252.gif</logoTeam2>
+            <score>0:3</score>
+        </match>
+        <match>
+            <date>2 April, Saturday</date>
+            <link>/en/eventinfo/400952_bayern_eintracht/</link>
+            <teams>Bayern – Eintracht</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/35.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17243.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>2 April, Saturday</date>
+            <link>/en/eventinfo/400957_dortmund_werder/</link>
+            <teams>Dortmund – Werder</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12940.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17244.gif</logoTeam2>
+            <score>3:2</score>
+        </match>
+        <match>
+            <date>3 April, Sunday</date>
+            <link>/en/eventinfo/400958_moenchengladbach_hertha_berlin/</link>
+            <teams>Moenchengladbach – Hertha Berlin</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17250.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10254.gif</logoTeam2>
+            <score>5:0</score>
+        </match>
+    </round>
+    <round id="29">
+        <match>
+            <date>8 April, Friday</date>
+            <link>/en/eventinfo/400960_hertha_berlin_hanover/</link>
+            <teams>Hertha Berlin – Hanover</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10254.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10201.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>9 April, Saturday</date>
+            <link>/en/eventinfo/400963_stuttgart_bayern/</link>
+            <teams>Stuttgart – Bayern</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17251.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/35.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>9 April, Saturday</date>
+            <link>/en/eventinfo/400966_ingolstadt_moenchengladbach/</link>
+            <teams>Ingolstadt – Moenchengladbach</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10611.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17250.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>9 April, Saturday</date>
+            <link>/en/eventinfo/400965_eintracht_hoffenheim/</link>
+            <teams>Eintracht – Hoffenheim</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17243.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17242.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>9 April, Saturday</date>
+            <link>/en/eventinfo/400962_hamburg_darmstadt/</link>
+            <teams>Hamburg – Darmstadt</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17252.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12955.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>9 April, Saturday</date>
+            <link>/en/eventinfo/400964_werder_augsburg/</link>
+            <teams>Werder – Augsburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17244.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12943.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>9 April, Saturday</date>
+            <link>/en/eventinfo/400967_wolfsburg_mainz/</link>
+            <teams>Wolfsburg – Mainz</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12945.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/820.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>10 April, Sunday</date>
+            <link>/en/eventinfo/400968_schalke_04_dortmund/</link>
+            <teams>Schalke 04 – Dortmund</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/37.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12940.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>10 April, Sunday</date>
+            <link>/en/eventinfo/400969_cologne_leverkusen/</link>
+            <teams>Cologne – Leverkusen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/819.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10182.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+    </round>
+    <round id="30">
+        <match>
+            <date>15 April, Friday</date>
+            <link>/en/eventinfo/400970_hanover_moenchengladbach/</link>
+            <teams>Hanover – Moenchengladbach</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10201.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17250.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>16 April, Saturday</date>
+            <link>/en/eventinfo/400975_werder_wolfsburg/</link>
+            <teams>Werder – Wolfsburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17244.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12945.gif</logoTeam2>
+            <score>3:2</score>
+        </match>
+        <match>
+            <date>16 April, Saturday</date>
+            <link>/en/eventinfo/400971_leverkusen_eintracht/</link>
+            <teams>Leverkusen – Eintracht</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10182.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17243.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>16 April, Saturday</date>
+            <link>/en/eventinfo/400976_hoffenheim_hertha_berlin/</link>
+            <teams>Hoffenheim – Hertha Berlin</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17242.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10254.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>16 April, Saturday</date>
+            <link>/en/eventinfo/400974_augsburg_stuttgart/</link>
+            <teams>Augsburg – Stuttgart</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12943.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17251.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>16 April, Saturday</date>
+            <link>/en/eventinfo/400977_darmstadt_ingolstadt/</link>
+            <teams>Darmstadt – Ingolstadt</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12955.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10611.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>16 April, Saturday</date>
+            <link>/en/eventinfo/400978_bayern_schalke_04/</link>
+            <teams>Bayern – Schalke 04</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/35.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/37.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>17 April, Sunday</date>
+            <link>/en/eventinfo/400979_dortmund_hamburg/</link>
+            <teams>Dortmund – Hamburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12940.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17252.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+    </round>
+    <round id="31">
+        <match>
+            <date>22 April, Friday</date>
+            <link></link>
+            <teams>Stuttgart – Dortmund</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17251.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12940.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>22 April, Friday</date>
+            <link></link>
+            <teams>Ingolstadt – Hanover</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10611.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10201.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>22 April, Friday</date>
+            <link></link>
+            <teams>Moenchengladbach – Hoffenheim</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17250.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17242.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>22 April, Friday</date>
+            <link></link>
+            <teams>Cologne – Darmstadt</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/819.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12955.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>22 April, Friday</date>
+            <link></link>
+            <teams>Wolfsburg – Augsburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12945.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12943.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>22 April, Friday</date>
+            <link></link>
+            <teams>Eintracht – Mainz</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17243.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/820.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>22 April, Friday</date>
+            <link></link>
+            <teams>Hamburg – Werder</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17252.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17244.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>22 April, Friday</date>
+            <link></link>
+            <teams>Hertha Berlin – Bayern</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10254.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/35.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>22 April, Friday</date>
+            <link></link>
+            <teams>Schalke 04 – Leverkusen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/37.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10182.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+    </round>
+    <round id="32">
+        <match>
+            <date>29 April, Friday</date>
+            <link></link>
+            <teams>Darmstadt – Eintracht</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12955.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17243.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>29 April, Friday</date>
+            <link></link>
+            <teams>Augsburg – Cologne</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12943.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/819.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>29 April, Friday</date>
+            <link></link>
+            <teams>Hoffenheim – Ingolstadt</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17242.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10611.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>29 April, Friday</date>
+            <link></link>
+            <teams>Mainz – Hamburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/820.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17252.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>29 April, Friday</date>
+            <link></link>
+            <teams>Dortmund – Wolfsburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12940.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12945.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>29 April, Friday</date>
+            <link></link>
+            <teams>Hanover – Schalke 04</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10201.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/37.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>29 April, Friday</date>
+            <link></link>
+            <teams>Leverkusen – Hertha Berlin</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10182.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10254.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>29 April, Friday</date>
+            <link></link>
+            <teams>Werder – Stuttgart</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17244.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17251.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+    </round>
+    <round id="33">
+        <match>
+            <date>6 May, Friday</date>
+            <link></link>
+            <teams>Stuttgart – Mainz</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17251.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/820.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>6 May, Friday</date>
+            <link></link>
+            <teams>Ingolstadt – Bayern</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10611.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/35.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>6 May, Friday</date>
+            <link></link>
+            <teams>Moenchengladbach – Leverkusen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17250.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10182.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>6 May, Friday</date>
+            <link></link>
+            <teams>Cologne – Werder</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/819.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17244.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>6 May, Friday</date>
+            <link></link>
+            <teams>Eintracht – Dortmund</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17243.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12940.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>6 May, Friday</date>
+            <link></link>
+            <teams>Hamburg – Wolfsburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17252.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12945.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>6 May, Friday</date>
+            <link></link>
+            <teams>Hertha Berlin – Darmstadt</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10254.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12955.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>6 May, Friday</date>
+            <link></link>
+            <teams>Hanover – Hoffenheim</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10201.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17242.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>6 May, Friday</date>
+            <link></link>
+            <teams>Schalke 04 – Augsburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/37.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/12943.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+    </round>
+    <round id="34">
+        <match>
+            <date>13 May, Friday</date>
+            <link></link>
+            <teams>Augsburg – Hamburg</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12943.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17252.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>13 May, Friday</date>
+            <link></link>
+            <teams>Hoffenheim – Schalke 04</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17242.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/37.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>13 May, Friday</date>
+            <link></link>
+            <teams>Mainz – Hertha Berlin</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/820.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10254.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>13 May, Friday</date>
+            <link></link>
+            <teams>Wolfsburg – Stuttgart</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12945.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17251.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>13 May, Friday</date>
+            <link></link>
+            <teams>Dortmund – Cologne</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/12940.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/819.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>13 May, Friday</date>
+            <link></link>
+            <teams>Leverkusen – Ingolstadt</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10182.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10611.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>13 May, Friday</date>
+            <link></link>
+            <teams>Werder – Eintracht</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17244.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17243.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>13 May, Friday</date>
+            <link></link>
+            <teams>Bayern – Hanover</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/35.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10201.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+    </round>
+</calendar>

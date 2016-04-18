@@ -9,25 +9,16 @@
             </ons-toolbar-button>
         </div>
         <div class="center">Videos</div>
+        <div class="right">
+            <md-button aria-label="Search" ng-click="showSearch = !showSearch">
+                <ng-md-icon icon="search"></ng-md-icon>
+            </md-button>
+        </div>
     </ons-toolbar>
 
     <md-content style="height: 100%;" md-theme="altTheme" >
         <form ng-submit="$event.preventDefault()" class="md-padding">
-            <p>Use <code>md-autocomplete</code> to search for matches from local or remote data sources.</p>
-            <div layout-gt-sm="row">
-                <md-autocomplete flex="" md-no-cache="searchBox.noCache"
-                                 md-selected-item="searchBox.selectedItem" md-search-text-change="searchBox.searchTextChange(searchBox.searchText)"
-                                 md-search-text="searchBox.searchText" md-selected-item-change="searchBox.selectedItemChange(item)"
-                                 md-items="item in searchBox.querySearch(searchBox.searchText)" md-item-text="item.display" md-max-length="50%"
-                                 placeholder="Enter video keyword (team, match, kind)">
-                    <md-item-template>
-                        <span md-highlight-text="searchBox.searchText" md-highlight-flags="^i">{{item.display}}</span>
-                    </md-item-template>
-                    <md-not-found>
-                        No states matching "{{searchBox.searchText}}" were found.
-                        <a ng-click="searchBox.newState(searchBox.searchText)">Create a new one!</a>
-                    </md-not-found>
-                </md-autocomplete>
+            <p>Select date from <code>date picker</code> to search for videos.</p>
                 <md-datepicker flex="" ng-model="date" md-max-length="50%" md-placeholder="Enter date" required></md-datepicker>
 
 
@@ -38,14 +29,31 @@
 
         </form>
             <section ng-repeat="(kind,val) in videos">
-                <md-subheader class="md-primary center">{{kind}}</md-subheader>
+                <md-subheader class="md-primary">{{kind}}</md-subheader>
                 <md-list layout="column" ng-repeat="(tournament,value) in val">
                     <ons-list-header>{{tournament}}</ons-list-header>
                     <md-list-item layout-padding=""  class="md-3-line" ng-repeat="video in value">
-                        <h8>{{video.time}}</h8>
-                        <img ng-src="{{video.logoTeam1}}" class="md-avatar">
-                        <h5 style="margin-top: 10px;">{{video.matches}}</h5>
-                        <img ng-src="{{video.logoTeam2}}" class="md-avatar">
+                        <ons-col width="8.5%" class="center">
+                            <h8>{{video.time}}</h8>
+                        </ons-col>
+                        <ons-col width="8.5%">
+                            <img ng-src="{{video.logoTeam1}}" class="md-avatar">
+                        </ons-col>
+                        <ons-col width="36%" class="center">
+                            <h5 style="margin-top: 10px;">{{video.matches}}</h5>
+                        </ons-col>
+                        <ons-col width="8.5%">
+                            <img ng-src="{{video.logoTeam2}}" class="md-avatar">
+                        </ons-col>
+                        <ons-col width="8.5%" class="center">
+                            <a ng-show="{{video.highlightLink != null && video.highlightLink != ''}}" href="#inline" ng-click="goToHighlight(video.highlightLink)">Highlight</a>
+                        </ons-col>
+                        <ons-col width="15%" class="center">
+                            <a ng-show="{{video.longHighlightLink != null && video.longHighlightLink != ''}}" href="#inline" ng-click="goToHighlight(video.longHighlightLink)">Long Highlight</a>
+                        </ons-col>
+                        <ons-col width="15%" class="center">
+                            <a ng-show="{{video.fullmatchLink != null && video.fullmatchLink != ''}}" href="#inline" ng-click="goToHighlight(video.fullmatchLink)">Full match highlight</a>
+                        </ons-col>
                         <md-divider ng-if="!$last"></md-divider>
                     </md-list-item>
                 </md-list>

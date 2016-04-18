@@ -1,0 +1,3615 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<calendar>
+    <round id="1">
+        <match>
+            <date>22 August, Saturday</date>
+            <link>/en/eventinfo/333187_athletic_bilbao_ii_girona/</link>
+            <teams>Athletic Bilbao II – Girona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>22 August, Saturday</date>
+            <link>/en/eventinfo/333189_huesca_alaves/</link>
+            <teams>Huesca – Alaves</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam2>
+            <score>2:3</score>
+        </match>
+        <match>
+            <date>22 August, Saturday</date>
+            <link>/en/eventinfo/333190_alcorcon_mallorca/</link>
+            <teams>Alcorcon – Mallorca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>22 August, Saturday</date>
+            <link>/en/eventinfo/333188_llagostera_osasuna/</link>
+            <teams>Llagostera – Osasuna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>22 August, Saturday</date>
+            <link>/en/eventinfo/333191_cordoba_valladolid/</link>
+            <teams>Cordoba – Valladolid</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>23 August, Sunday</date>
+            <link>/en/eventinfo/333192_mirandes_zaragoza/</link>
+            <teams>Mirandes – Zaragoza</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>23 August, Sunday</date>
+            <link>/en/eventinfo/333193_oviedo_lugo/</link>
+            <teams>Oviedo – Lugo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>23 August, Sunday</date>
+            <link>/en/eventinfo/333194_almeria_leganes/</link>
+            <teams>Almeria – Leganes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam2>
+            <score>3:2</score>
+        </match>
+        <match>
+            <date>23 August, Sunday</date>
+            <link>/en/eventinfo/333196_numancia_tenerife/</link>
+            <teams>Numancia – Tenerife</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam2>
+            <score>6:3</score>
+        </match>
+        <match>
+            <date>23 August, Sunday</date>
+            <link>/en/eventinfo/333197_ponferradina_elche/</link>
+            <teams>Ponferradina – Elche</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>23 August, Sunday</date>
+            <link>/en/eventinfo/333195_gimnastic_tarragona_albacete/</link>
+            <teams>Gimnastic Tarragona – Albacete</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+    </round>
+    <round id="2">
+        <match>
+            <date>29 August, Saturday</date>
+            <link>/en/eventinfo/333198_lugo_llagostera/</link>
+            <teams>Lugo – Llagostera</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>29 August, Saturday</date>
+            <link>/en/eventinfo/333199_leganes_cordoba/</link>
+            <teams>Leganes – Cordoba</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>29 August, Saturday</date>
+            <link>/en/eventinfo/333201_girona_numancia/</link>
+            <teams>Girona – Numancia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam2>
+            <score>2:3</score>
+        </match>
+        <match>
+            <date>29 August, Saturday</date>
+            <link>/en/eventinfo/333200_albacete_huesca/</link>
+            <teams>Albacete – Huesca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>29 August, Saturday</date>
+            <link>/en/eventinfo/333202_zaragoza_almeria/</link>
+            <teams>Zaragoza – Almeria</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam2>
+            <score>3:2</score>
+        </match>
+        <match>
+            <date>30 August, Sunday</date>
+            <link>/en/eventinfo/333203_osasuna_mirandes/</link>
+            <teams>Osasuna – Mirandes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>30 August, Sunday</date>
+            <link>/en/eventinfo/333204_alaves_oviedo/</link>
+            <teams>Alaves – Oviedo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>30 August, Sunday</date>
+            <link>/en/eventinfo/333205_tenerife_gimnastic_tarragona/</link>
+            <teams>Tenerife – Gimnastic Tarragona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>30 August, Sunday</date>
+            <link>/en/eventinfo/333208_valladolid_alcorcon/</link>
+            <teams>Valladolid – Alcorcon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>30 August, Sunday</date>
+            <link>/en/eventinfo/333206_elche_athletic_bilbao_ii/</link>
+            <teams>Elche – Athletic Bilbao II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+    </round>
+    <round id="3">
+        <match>
+            <date>5 September, Saturday</date>
+            <link>/en/eventinfo/338330_numancia_elche/</link>
+            <teams>Numancia – Elche</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>5 September, Saturday</date>
+            <link>/en/eventinfo/338328_huesca_tenerife/</link>
+            <teams>Huesca – Tenerife</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>5 September, Saturday</date>
+            <link>/en/eventinfo/338329_gimnastic_tarragona_girona/</link>
+            <teams>Gimnastic Tarragona – Girona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>5 September, Saturday</date>
+            <link>/en/eventinfo/338327_mirandes_lugo/</link>
+            <teams>Mirandes – Lugo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>6 September, Sunday</date>
+            <link>/en/eventinfo/338331_athletic_bilbao_ii_mallorca/</link>
+            <teams>Athletic Bilbao II – Mallorca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>6 September, Sunday</date>
+            <link>/en/eventinfo/338332_llagostera_alaves/</link>
+            <teams>Llagostera – Alaves</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>6 September, Sunday</date>
+            <link>/en/eventinfo/338333_oviedo_albacete/</link>
+            <teams>Oviedo – Albacete</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>6 September, Sunday</date>
+            <link>/en/eventinfo/338335_cordoba_alcorcon/</link>
+            <teams>Cordoba – Alcorcon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>6 September, Sunday</date>
+            <link>/en/eventinfo/338334_ponferradina_valladolid/</link>
+            <teams>Ponferradina – Valladolid</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>6 September, Sunday</date>
+            <link>/en/eventinfo/338337_almeria_osasuna/</link>
+            <teams>Almeria – Osasuna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>6 September, Sunday</date>
+            <link>/en/eventinfo/338336_leganes_zaragoza/</link>
+            <teams>Leganes – Zaragoza</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+    </round>
+    <round id="4">
+        <match>
+            <date>12 September, Saturday</date>
+            <link>/en/eventinfo/338338_osasuna_leganes/</link>
+            <teams>Osasuna – Leganes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>12 September, Saturday</date>
+            <link>/en/eventinfo/338340_elche_gimnastic_tarragona/</link>
+            <teams>Elche – Gimnastic Tarragona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>12 September, Saturday</date>
+            <link>/en/eventinfo/338341_valladolid_athletic_bilbao_ii/</link>
+            <teams>Valladolid – Athletic Bilbao II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>12 September, Saturday</date>
+            <link>/en/eventinfo/338339_alaves_mirandes/</link>
+            <teams>Alaves – Mirandes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam2>
+            <score>2:3</score>
+        </match>
+        <match>
+            <date>12 September, Saturday</date>
+            <link>/en/eventinfo/338342_zaragoza_cordoba/</link>
+            <teams>Zaragoza – Cordoba</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>13 September, Sunday</date>
+            <link>/en/eventinfo/338343_girona_huesca/</link>
+            <teams>Girona – Huesca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>13 September, Sunday</date>
+            <link>/en/eventinfo/338346_mallorca_numancia/</link>
+            <teams>Mallorca – Numancia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>13 September, Sunday</date>
+            <link>/en/eventinfo/338345_albacete_llagostera/</link>
+            <teams>Albacete – Llagostera</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>13 September, Sunday</date>
+            <link>/en/eventinfo/338347_alcorcon_ponferradina/</link>
+            <teams>Alcorcon – Ponferradina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>13 September, Sunday</date>
+            <link>/en/eventinfo/338344_lugo_almeria/</link>
+            <teams>Lugo – Almeria</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+    </round>
+    <round id="5">
+        <match>
+            <date>19 September, Saturday</date>
+            <link>/en/eventinfo/338352_athletic_bilbao_ii_alcorcon/</link>
+            <teams>Athletic Bilbao II – Alcorcon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>19 September, Saturday</date>
+            <link>/en/eventinfo/338350_mirandes_albacete/</link>
+            <teams>Mirandes – Albacete</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>19 September, Saturday</date>
+            <link>/en/eventinfo/338351_llagostera_tenerife/</link>
+            <teams>Llagostera – Tenerife</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>19 September, Saturday</date>
+            <link>/en/eventinfo/338349_leganes_lugo/</link>
+            <teams>Leganes – Lugo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>19 September, Saturday</date>
+            <link>/en/eventinfo/338353_oviedo_girona/</link>
+            <teams>Oviedo – Girona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>20 September, Sunday</date>
+            <link>/en/eventinfo/338354_zaragoza_osasuna/</link>
+            <teams>Zaragoza – Osasuna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>20 September, Sunday</date>
+            <link>/en/eventinfo/338357_gimnastic_tarragona_mallorca/</link>
+            <teams>Gimnastic Tarragona – Mallorca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>20 September, Sunday</date>
+            <link>/en/eventinfo/338356_huesca_elche/</link>
+            <teams>Huesca – Elche</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>20 September, Sunday</date>
+            <link>/en/eventinfo/338358_numancia_valladolid/</link>
+            <teams>Numancia – Valladolid</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>20 September, Sunday</date>
+            <link>/en/eventinfo/338355_almeria_alaves/</link>
+            <teams>Almeria – Alaves</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>20 September, Sunday</date>
+            <link>/en/eventinfo/338359_cordoba_ponferradina/</link>
+            <teams>Cordoba – Ponferradina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+    </round>
+    <round id="6">
+        <match>
+            <date>26 September, Saturday</date>
+            <link>/en/eventinfo/338361_mallorca_huesca/</link>
+            <teams>Mallorca – Huesca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>26 September, Saturday</date>
+            <link>/en/eventinfo/338363_ponferradina_athletic_bilbao_ii/</link>
+            <teams>Ponferradina – Athletic Bilbao II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>26 September, Saturday</date>
+            <link>/en/eventinfo/338362_alcorcon_numancia/</link>
+            <teams>Alcorcon – Numancia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>26 September, Saturday</date>
+            <link>/en/eventinfo/338360_lugo_zaragoza/</link>
+            <teams>Lugo – Zaragoza</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>26 September, Saturday</date>
+            <link>/en/eventinfo/338364_osasuna_cordoba/</link>
+            <teams>Osasuna – Cordoba</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>27 September, Sunday</date>
+            <link>/en/eventinfo/338365_elche_oviedo/</link>
+            <teams>Elche – Oviedo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>27 September, Sunday</date>
+            <link>/en/eventinfo/338369_valladolid_gimnastic_tarragona/</link>
+            <teams>Valladolid – Gimnastic Tarragona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>27 September, Sunday</date>
+            <link>/en/eventinfo/338367_tenerife_mirandes/</link>
+            <teams>Tenerife – Mirandes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>27 September, Sunday</date>
+            <link>/en/eventinfo/338366_alaves_leganes/</link>
+            <teams>Alaves – Leganes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>27 September, Sunday</date>
+            <link>/en/eventinfo/338368_girona_llagostera/</link>
+            <teams>Girona – Llagostera</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+    </round>
+    <round id="7">
+        <match>
+            <date>3 October, Saturday</date>
+            <link>/en/eventinfo/341529_gimnastic_tarragona_alcorcon/</link>
+            <teams>Gimnastic Tarragona – Alcorcon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>3 October, Saturday</date>
+            <link>/en/eventinfo/341531_cordoba_athletic_bilbao_ii/</link>
+            <teams>Cordoba – Athletic Bilbao II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>3 October, Saturday</date>
+            <link>/en/eventinfo/341530_numancia_ponferradina/</link>
+            <teams>Numancia – Ponferradina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>3 October, Saturday</date>
+            <link>/en/eventinfo/341528_almeria_tenerife/</link>
+            <teams>Almeria – Tenerife</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>3 October, Saturday</date>
+            <link>/en/eventinfo/341532_zaragoza_alaves/</link>
+            <teams>Zaragoza – Alaves</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>4 October, Sunday</date>
+            <link>/en/eventinfo/341533_oviedo_mallorca/</link>
+            <teams>Oviedo – Mallorca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>4 October, Sunday</date>
+            <link>/en/eventinfo/341536_mirandes_girona/</link>
+            <teams>Mirandes – Girona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>4 October, Sunday</date>
+            <link>/en/eventinfo/341537_llagostera_elche/</link>
+            <teams>Llagostera – Elche</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam2>
+            <score>4:1</score>
+        </match>
+        <match>
+            <date>4 October, Sunday</date>
+            <link>/en/eventinfo/341535_leganes_albacete/</link>
+            <teams>Leganes – Albacete</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam2>
+            <score>3:2</score>
+        </match>
+        <match>
+            <date>4 October, Sunday</date>
+            <link>/en/eventinfo/341534_osasuna_lugo/</link>
+            <teams>Osasuna – Lugo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam2>
+            <score>4:0</score>
+        </match>
+        <match>
+            <date>4 October, Sunday</date>
+            <link>/en/eventinfo/341538_huesca_valladolid/</link>
+            <teams>Huesca – Valladolid</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+    </round>
+    <round id="8">
+        <match>
+            <date>10 October, Saturday</date>
+            <link>/en/eventinfo/346091_elche_mirandes/</link>
+            <teams>Elche – Mirandes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam2>
+            <score>1:4</score>
+        </match>
+        <match>
+            <date>10 October, Saturday</date>
+            <link>/en/eventinfo/346090_tenerife_leganes/</link>
+            <teams>Tenerife – Leganes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>10 October, Saturday</date>
+            <link>/en/eventinfo/346092_ponferradina_gimnastic_tarragona/</link>
+            <teams>Ponferradina – Gimnastic Tarragona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>10 October, Saturday</date>
+            <link>/en/eventinfo/346093_athletic_bilbao_ii_numancia/</link>
+            <teams>Athletic Bilbao II – Numancia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>10 October, Saturday</date>
+            <link>/en/eventinfo/346094_alaves_osasuna/</link>
+            <teams>Alaves – Osasuna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>11 October, Sunday</date>
+            <link>/en/eventinfo/346095_valladolid_oviedo/</link>
+            <teams>Valladolid – Oviedo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam2>
+            <score>2:3</score>
+        </match>
+        <match>
+            <date>11 October, Sunday</date>
+            <link>/en/eventinfo/346098_mallorca_llagostera/</link>
+            <teams>Mallorca – Llagostera</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>11 October, Sunday</date>
+            <link>/en/eventinfo/346097_albacete_zaragoza/</link>
+            <teams>Albacete – Zaragoza</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>11 October, Sunday</date>
+            <link>/en/eventinfo/346099_alcorcon_huesca/</link>
+            <teams>Alcorcon – Huesca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>11 October, Sunday</date>
+            <link>/en/eventinfo/346096_lugo_cordoba/</link>
+            <teams>Lugo – Cordoba</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+    </round>
+    <round id="9">
+        <match>
+            <date>17 October, Saturday</date>
+            <link>/en/eventinfo/346102_mirandes_mallorca/</link>
+            <teams>Mirandes – Mallorca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>17 October, Saturday</date>
+            <link>/en/eventinfo/346104_gimnastic_tarragona_athletic_bilbao_ii/</link>
+            <teams>Gimnastic Tarragona – Athletic Bilbao II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>17 October, Saturday</date>
+            <link>/en/eventinfo/346101_leganes_girona/</link>
+            <teams>Leganes – Girona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>17 October, Saturday</date>
+            <link>/en/eventinfo/346103_oviedo_alcorcon/</link>
+            <teams>Oviedo – Alcorcon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam2>
+            <score>3:2</score>
+        </match>
+        <match>
+            <date>17 October, Saturday</date>
+            <link>/en/eventinfo/346105_osasuna_albacete/</link>
+            <teams>Osasuna – Albacete</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>18 October, Sunday</date>
+            <link>/en/eventinfo/346106_almeria_elche/</link>
+            <teams>Almeria – Elche</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam2>
+            <score>2:3</score>
+        </match>
+        <match>
+            <date>18 October, Sunday</date>
+            <link>/en/eventinfo/346108_llagostera_valladolid/</link>
+            <teams>Llagostera – Valladolid</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>18 October, Sunday</date>
+            <link>/en/eventinfo/346107_lugo_alaves/</link>
+            <teams>Lugo – Alaves</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>18 October, Sunday</date>
+            <link>/en/eventinfo/346109_huesca_ponferradina/</link>
+            <teams>Huesca – Ponferradina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>18 October, Sunday</date>
+            <link>/en/eventinfo/346110_cordoba_numancia/</link>
+            <teams>Cordoba – Numancia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam2>
+            <score>3:2</score>
+        </match>
+        <match>
+            <date>18 October, Sunday</date>
+            <link>/en/eventinfo/346111_zaragoza_tenerife/</link>
+            <teams>Zaragoza – Tenerife</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+    </round>
+    <round id="10">
+        <match>
+            <date>24 October, Saturday</date>
+            <link>/en/eventinfo/346113_elche_leganes/</link>
+            <teams>Elche – Leganes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>24 October, Saturday</date>
+            <link>/en/eventinfo/346112_alaves_cordoba/</link>
+            <teams>Alaves – Cordoba</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam2>
+            <score>3:2</score>
+        </match>
+        <match>
+            <date>24 October, Saturday</date>
+            <link>/en/eventinfo/346114_alcorcon_llagostera/</link>
+            <teams>Alcorcon – Llagostera</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam2>
+            <score>6:1</score>
+        </match>
+        <match>
+            <date>24 October, Saturday</date>
+            <link>/en/eventinfo/346115_athletic_bilbao_ii_huesca/</link>
+            <teams>Athletic Bilbao II – Huesca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>24 October, Saturday</date>
+            <link>/en/eventinfo/346116_girona_zaragoza/</link>
+            <teams>Girona – Zaragoza</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>25 October, Sunday</date>
+            <link>/en/eventinfo/346117_mallorca_almeria/</link>
+            <teams>Mallorca – Almeria</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>25 October, Sunday</date>
+            <link>/en/eventinfo/346119_valladolid_mirandes/</link>
+            <teams>Valladolid – Mirandes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>25 October, Sunday</date>
+            <link>/en/eventinfo/346121_numancia_gimnastic_tarragona/</link>
+            <teams>Numancia – Gimnastic Tarragona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>25 October, Sunday</date>
+            <link>/en/eventinfo/346118_albacete_lugo/</link>
+            <teams>Albacete – Lugo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>25 October, Sunday</date>
+            <link>/en/eventinfo/346120_ponferradina_oviedo/</link>
+            <teams>Ponferradina – Oviedo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam2>
+            <score>4:2</score>
+        </match>
+    </round>
+    <round id="11">
+        <match>
+            <date>31 October, Saturday</date>
+            <link>/en/eventinfo/355134_llagostera_ponferradina/</link>
+            <teams>Llagostera – Ponferradina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>31 October, Saturday</date>
+            <link>/en/eventinfo/355133_lugo_tenerife/</link>
+            <teams>Lugo – Tenerife</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>31 October, Saturday</date>
+            <link>/en/eventinfo/355135_huesca_numancia/</link>
+            <teams>Huesca – Numancia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>31 October, Saturday</date>
+            <link>/en/eventinfo/355136_cordoba_gimnastic_tarragona/</link>
+            <teams>Cordoba – Gimnastic Tarragona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>31 October, Saturday</date>
+            <link>/en/eventinfo/355137_mirandes_alcorcon/</link>
+            <teams>Mirandes – Alcorcon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>1 November, Sunday</date>
+            <link>/en/eventinfo/355138_zaragoza_elche/</link>
+            <teams>Zaragoza – Elche</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>1 November, Sunday</date>
+            <link>/en/eventinfo/355141_leganes_mallorca/</link>
+            <teams>Leganes – Mallorca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>1 November, Sunday</date>
+            <link>/en/eventinfo/355142_oviedo_athletic_bilbao_ii/</link>
+            <teams>Oviedo – Athletic Bilbao II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>1 November, Sunday</date>
+            <link>/en/eventinfo/355139_alaves_albacete/</link>
+            <teams>Alaves – Albacete</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>1 November, Sunday</date>
+            <link>/en/eventinfo/355140_osasuna_girona/</link>
+            <teams>Osasuna – Girona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>1 November, Sunday</date>
+            <link>/en/eventinfo/355143_almeria_valladolid/</link>
+            <teams>Almeria – Valladolid</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+    </round>
+    <round id="12">
+        <match>
+            <date>7 November, Saturday</date>
+            <link>/en/eventinfo/355145_valladolid_leganes/</link>
+            <teams>Valladolid – Leganes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>7 November, Saturday</date>
+            <link>/en/eventinfo/355144_tenerife_alaves/</link>
+            <teams>Tenerife – Alaves</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>7 November, Saturday</date>
+            <link>/en/eventinfo/355146_ponferradina_mirandes/</link>
+            <teams>Ponferradina – Mirandes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>7 November, Saturday</date>
+            <link>/en/eventinfo/355147_mallorca_zaragoza/</link>
+            <teams>Mallorca – Zaragoza</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>8 November, Sunday</date>
+            <link>/en/eventinfo/355148_elche_osasuna/</link>
+            <teams>Elche – Osasuna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>8 November, Sunday</date>
+            <link>/en/eventinfo/355151_numancia_oviedo/</link>
+            <teams>Numancia – Oviedo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>8 November, Sunday</date>
+            <link>/en/eventinfo/355149_albacete_cordoba/</link>
+            <teams>Albacete – Cordoba</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>8 November, Sunday</date>
+            <link>/en/eventinfo/355150_girona_lugo/</link>
+            <teams>Girona – Lugo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>8 November, Sunday</date>
+            <link>/en/eventinfo/355152_gimnastic_tarragona_huesca/</link>
+            <teams>Gimnastic Tarragona – Huesca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>8 November, Sunday</date>
+            <link>/en/eventinfo/355153_alcorcon_almeria/</link>
+            <teams>Alcorcon – Almeria</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+    </round>
+    <round id="13">
+        <match>
+            <date>14 November, Saturday</date>
+            <link>/en/eventinfo/355155_albacete_tenerife/</link>
+            <teams>Albacete – Tenerife</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>14 November, Saturday</date>
+            <link>/en/eventinfo/355156_alaves_girona/</link>
+            <teams>Alaves – Girona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>14 November, Saturday</date>
+            <link>/en/eventinfo/355157_leganes_alcorcon/</link>
+            <teams>Leganes – Alcorcon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>14 November, Saturday</date>
+            <link>/en/eventinfo/355158_mirandes_athletic_bilbao_ii/</link>
+            <teams>Mirandes – Athletic Bilbao II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>14 November, Saturday</date>
+            <link>/en/eventinfo/355159_lugo_elche/</link>
+            <teams>Lugo – Elche</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>15 November, Sunday</date>
+            <link>/en/eventinfo/355160_zaragoza_valladolid/</link>
+            <teams>Zaragoza – Valladolid</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>15 November, Sunday</date>
+            <link>/en/eventinfo/355162_llagostera_numancia/</link>
+            <teams>Llagostera – Numancia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>15 November, Sunday</date>
+            <link>/en/eventinfo/355163_oviedo_gimnastic_tarragona/</link>
+            <teams>Oviedo – Gimnastic Tarragona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>15 November, Sunday</date>
+            <link>/en/eventinfo/355164_cordoba_huesca/</link>
+            <teams>Cordoba – Huesca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>15 November, Sunday</date>
+            <link>/en/eventinfo/355161_almeria_ponferradina/</link>
+            <teams>Almeria – Ponferradina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>15 November, Sunday</date>
+            <link>/en/eventinfo/355165_osasuna_mallorca/</link>
+            <teams>Osasuna – Mallorca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+    </round>
+    <round id="14">
+        <match>
+            <date>21 November, Saturday</date>
+            <link>/en/eventinfo/355167_athletic_bilbao_ii_almeria/</link>
+            <teams>Athletic Bilbao II – Almeria</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>21 November, Saturday</date>
+            <link>/en/eventinfo/355169_huesca_oviedo/</link>
+            <teams>Huesca – Oviedo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>21 November, Saturday</date>
+            <link>/en/eventinfo/355168_numancia_mirandes/</link>
+            <teams>Numancia – Mirandes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>21 November, Saturday</date>
+            <link>/en/eventinfo/355166_mallorca_lugo/</link>
+            <teams>Mallorca – Lugo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>21 November, Saturday</date>
+            <link>/en/eventinfo/355170_elche_alaves/</link>
+            <teams>Elche – Alaves</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>22 November, Sunday</date>
+            <link>/en/eventinfo/355171_valladolid_osasuna/</link>
+            <teams>Valladolid – Osasuna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>22 November, Sunday</date>
+            <link>/en/eventinfo/355172_tenerife_cordoba/</link>
+            <teams>Tenerife – Cordoba</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>22 November, Sunday</date>
+            <link>/en/eventinfo/355174_ponferradina_leganes/</link>
+            <teams>Ponferradina – Leganes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>22 November, Sunday</date>
+            <link>/en/eventinfo/355173_girona_albacete/</link>
+            <teams>Girona – Albacete</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>22 November, Sunday</date>
+            <link>/en/eventinfo/355175_gimnastic_tarragona_llagostera/</link>
+            <teams>Gimnastic Tarragona – Llagostera</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+    </round>
+    <round id="15">
+        <match>
+            <date>28 November, Saturday</date>
+            <link>/en/eventinfo/360694_osasuna_alcorcon/</link>
+            <teams>Osasuna – Alcorcon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>28 November, Saturday</date>
+            <link>/en/eventinfo/360696_almeria_numancia/</link>
+            <teams>Almeria – Numancia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>28 November, Saturday</date>
+            <link>/en/eventinfo/360695_leganes_athletic_bilbao_ii/</link>
+            <teams>Leganes – Athletic Bilbao II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>28 November, Saturday</date>
+            <link>/en/eventinfo/360697_llagostera_huesca/</link>
+            <teams>Llagostera – Huesca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>28 November, Saturday</date>
+            <link>/en/eventinfo/360698_alaves_mallorca/</link>
+            <teams>Alaves – Mallorca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>29 November, Sunday</date>
+            <link>/en/eventinfo/360699_lugo_valladolid/</link>
+            <teams>Lugo – Valladolid</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>29 November, Sunday</date>
+            <link>/en/eventinfo/360703_mirandes_gimnastic_tarragona/</link>
+            <teams>Mirandes – Gimnastic Tarragona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>29 November, Sunday</date>
+            <link>/en/eventinfo/360700_tenerife_girona/</link>
+            <teams>Tenerife – Girona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>29 November, Sunday</date>
+            <link>/en/eventinfo/360701_albacete_elche/</link>
+            <teams>Albacete – Elche</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>29 November, Sunday</date>
+            <link>/en/eventinfo/360702_zaragoza_ponferradina/</link>
+            <teams>Zaragoza – Ponferradina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>29 November, Sunday</date>
+            <link>/en/eventinfo/360704_cordoba_oviedo/</link>
+            <teams>Cordoba – Oviedo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+    </round>
+    <round id="16">
+        <match>
+            <date>5 December, Saturday</date>
+            <link>/en/eventinfo/360705_elche_tenerife/</link>
+            <teams>Elche – Tenerife</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>5 December, Saturday</date>
+            <link>/en/eventinfo/360706_valladolid_alaves/</link>
+            <teams>Valladolid – Alaves</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>5 December, Saturday</date>
+            <link>/en/eventinfo/360707_alcorcon_lugo/</link>
+            <teams>Alcorcon – Lugo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>5 December, Saturday</date>
+            <link>/en/eventinfo/360708_gimnastic_tarragona_almeria/</link>
+            <teams>Gimnastic Tarragona – Almeria</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>6 December, Sunday</date>
+            <link>/en/eventinfo/360709_ponferradina_osasuna/</link>
+            <teams>Ponferradina – Osasuna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>6 December, Sunday</date>
+            <link>/en/eventinfo/360710_mallorca_albacete/</link>
+            <teams>Mallorca – Albacete</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>6 December, Sunday</date>
+            <link>/en/eventinfo/360711_numancia_leganes/</link>
+            <teams>Numancia – Leganes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>6 December, Sunday</date>
+            <link>/en/eventinfo/360713_oviedo_llagostera/</link>
+            <teams>Oviedo – Llagostera</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>6 December, Sunday</date>
+            <link>/en/eventinfo/360712_huesca_mirandes/</link>
+            <teams>Huesca – Mirandes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>6 December, Sunday</date>
+            <link>/en/eventinfo/360714_girona_cordoba/</link>
+            <teams>Girona – Cordoba</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+    </round>
+    <round id="17">
+        <match>
+            <date>12 December, Saturday</date>
+            <link>/en/eventinfo/360717_alaves_alcorcon/</link>
+            <teams>Alaves – Alcorcon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>12 December, Saturday</date>
+            <link>/en/eventinfo/360716_girona_elche/</link>
+            <teams>Girona – Elche</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>12 December, Saturday</date>
+            <link>/en/eventinfo/360719_cordoba_llagostera/</link>
+            <teams>Cordoba – Llagostera</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>12 December, Saturday</date>
+            <link>/en/eventinfo/360718_lugo_ponferradina/</link>
+            <teams>Lugo – Ponferradina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>12 December, Saturday</date>
+            <link>/en/eventinfo/360720_tenerife_mallorca/</link>
+            <teams>Tenerife – Mallorca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>13 December, Sunday</date>
+            <link>/en/eventinfo/360721_zaragoza_numancia/</link>
+            <teams>Zaragoza – Numancia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>13 December, Sunday</date>
+            <link>/en/eventinfo/360724_leganes_gimnastic_tarragona/</link>
+            <teams>Leganes – Gimnastic Tarragona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>13 December, Sunday</date>
+            <link>/en/eventinfo/360722_albacete_valladolid/</link>
+            <teams>Albacete – Valladolid</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>13 December, Sunday</date>
+            <link>/en/eventinfo/360725_almeria_huesca/</link>
+            <teams>Almeria – Huesca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>13 December, Sunday</date>
+            <link>/en/eventinfo/360723_osasuna_athletic_bilbao_ii/</link>
+            <teams>Osasuna – Athletic Bilbao II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>13 December, Sunday</date>
+            <link>/en/eventinfo/360726_mirandes_oviedo/</link>
+            <teams>Mirandes – Oviedo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+    </round>
+    <round id="18">
+        <match>
+            <date>18 December, Friday</date>
+            <link>/en/eventinfo/364831_elche_cordoba/</link>
+            <teams>Elche – Cordoba</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>19 December, Saturday</date>
+            <link>/en/eventinfo/364834_gimnastic_tarragona_zaragoza/</link>
+            <teams>Gimnastic Tarragona – Zaragoza</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>19 December, Saturday</date>
+            <link>/en/eventinfo/364833_ponferradina_alaves/</link>
+            <teams>Ponferradina – Alaves</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>19 December, Saturday</date>
+            <link>/en/eventinfo/364832_mallorca_girona/</link>
+            <teams>Mallorca – Girona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>19 December, Saturday</date>
+            <link>/en/eventinfo/364835_numancia_osasuna/</link>
+            <teams>Numancia – Osasuna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>20 December, Sunday</date>
+            <link>/en/eventinfo/364836_valladolid_tenerife/</link>
+            <teams>Valladolid – Tenerife</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam2>
+            <score>4:1</score>
+        </match>
+        <match>
+            <date>20 December, Sunday</date>
+            <link>/en/eventinfo/364838_huesca_leganes/</link>
+            <teams>Huesca – Leganes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>20 December, Sunday</date>
+            <link>/en/eventinfo/364837_alcorcon_albacete/</link>
+            <teams>Alcorcon – Albacete</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>20 December, Sunday</date>
+            <link>/en/eventinfo/364840_llagostera_mirandes/</link>
+            <teams>Llagostera – Mirandes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>20 December, Sunday</date>
+            <link>/en/eventinfo/364841_oviedo_almeria/</link>
+            <teams>Oviedo – Almeria</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+    </round>
+    <round id="19">
+        <match>
+            <date>2 January, Saturday</date>
+            <link>/en/eventinfo/370233_osasuna_gimnastic_tarragona/</link>
+            <teams>Osasuna – Gimnastic Tarragona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>2 January, Saturday</date>
+            <link>/en/eventinfo/370232_alaves_athletic_bilbao_ii/</link>
+            <teams>Alaves – Athletic Bilbao II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>2 January, Saturday</date>
+            <link>/en/eventinfo/370234_elche_mallorca/</link>
+            <teams>Elche – Mallorca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>3 January, Sunday</date>
+            <link>/en/eventinfo/370235_cordoba_mirandes/</link>
+            <teams>Cordoba – Mirandes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>3 January, Sunday</date>
+            <link>/en/eventinfo/370238_leganes_oviedo/</link>
+            <teams>Leganes – Oviedo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>3 January, Sunday</date>
+            <link>/en/eventinfo/370237_lugo_numancia/</link>
+            <teams>Lugo – Numancia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam2>
+            <score>2:3</score>
+        </match>
+        <match>
+            <date>3 January, Sunday</date>
+            <link>/en/eventinfo/370236_albacete_ponferradina/</link>
+            <teams>Albacete – Ponferradina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>3 January, Sunday</date>
+            <link>/en/eventinfo/370239_almeria_llagostera/</link>
+            <teams>Almeria – Llagostera</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>3 January, Sunday</date>
+            <link>/en/eventinfo/370240_zaragoza_huesca/</link>
+            <teams>Zaragoza – Huesca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam2>
+            <score>3:3</score>
+        </match>
+        <match>
+            <date>4 January, Monday</date>
+            <link>/en/eventinfo/370242_tenerife_alcorcon/</link>
+            <teams>Tenerife – Alcorcon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>4 January, Monday</date>
+            <link>/en/eventinfo/370241_girona_valladolid/</link>
+            <teams>Girona – Valladolid</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+    </round>
+    <round id="20">
+        <match>
+            <date>9 January, Saturday</date>
+            <link>/en/eventinfo/370245_athletic_bilbao_ii_albacete/</link>
+            <teams>Athletic Bilbao II – Albacete</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>9 January, Saturday</date>
+            <link>/en/eventinfo/370246_gimnastic_tarragona_lugo/</link>
+            <teams>Gimnastic Tarragona – Lugo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>9 January, Saturday</date>
+            <link>/en/eventinfo/370244_alcorcon_girona/</link>
+            <teams>Alcorcon – Girona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>9 January, Saturday</date>
+            <link>/en/eventinfo/370243_valladolid_elche/</link>
+            <teams>Valladolid – Elche</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>9 January, Saturday</date>
+            <link>/en/eventinfo/370247_numancia_alaves/</link>
+            <teams>Numancia – Alaves</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>10 January, Sunday</date>
+            <link>/en/eventinfo/370248_oviedo_zaragoza/</link>
+            <teams>Oviedo – Zaragoza</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>10 January, Sunday</date>
+            <link>/en/eventinfo/370252_mirandes_almeria/</link>
+            <teams>Mirandes – Almeria</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>10 January, Sunday</date>
+            <link>/en/eventinfo/370251_llagostera_leganes/</link>
+            <teams>Llagostera – Leganes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>10 January, Sunday</date>
+            <link>/en/eventinfo/370250_huesca_osasuna/</link>
+            <teams>Huesca – Osasuna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>10 January, Sunday</date>
+            <link>/en/eventinfo/370249_ponferradina_tenerife/</link>
+            <teams>Ponferradina – Tenerife</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+    </round>
+    <round id="21">
+        <match>
+            <date>16 January, Saturday</date>
+            <link>/en/eventinfo/370257_zaragoza_llagostera/</link>
+            <teams>Zaragoza – Llagostera</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>16 January, Saturday</date>
+            <link>/en/eventinfo/370254_elche_alcorcon/</link>
+            <teams>Elche – Alcorcon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>16 January, Saturday</date>
+            <link>/en/eventinfo/370256_albacete_numancia/</link>
+            <teams>Albacete – Numancia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>16 January, Saturday</date>
+            <link>/en/eventinfo/370255_tenerife_athletic_bilbao_ii/</link>
+            <teams>Tenerife – Athletic Bilbao II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>16 January, Saturday</date>
+            <link>/en/eventinfo/370258_osasuna_oviedo/</link>
+            <teams>Osasuna – Oviedo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>17 January, Sunday</date>
+            <link>/en/eventinfo/370259_mallorca_valladolid/</link>
+            <teams>Mallorca – Valladolid</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>17 January, Sunday</date>
+            <link>/en/eventinfo/370261_alaves_gimnastic_tarragona/</link>
+            <teams>Alaves – Gimnastic Tarragona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>17 January, Sunday</date>
+            <link>/en/eventinfo/370260_girona_ponferradina/</link>
+            <teams>Girona – Ponferradina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam2>
+            <score>4:0</score>
+        </match>
+        <match>
+            <date>17 January, Sunday</date>
+            <link>/en/eventinfo/370262_lugo_huesca/</link>
+            <teams>Lugo – Huesca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>17 January, Sunday</date>
+            <link>/en/eventinfo/370263_leganes_mirandes/</link>
+            <teams>Leganes – Mirandes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam2>
+            <score>4:0</score>
+        </match>
+        <match>
+            <date>17 January, Sunday</date>
+            <link>/en/eventinfo/370264_almeria_cordoba/</link>
+            <teams>Almeria – Cordoba</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+    </round>
+    <round id="22">
+        <match>
+            <date>23 January, Saturday</date>
+            <link>/en/eventinfo/377788_lugo_oviedo/</link>
+            <teams>Lugo – Oviedo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>23 January, Saturday</date>
+            <link>/en/eventinfo/377790_girona_athletic_bilbao_ii/</link>
+            <teams>Girona – Athletic Bilbao II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>23 January, Saturday</date>
+            <link>/en/eventinfo/377789_alaves_huesca/</link>
+            <teams>Alaves – Huesca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>23 January, Saturday</date>
+            <link>/en/eventinfo/377796_mallorca_alcorcon/</link>
+            <teams>Mallorca – Alcorcon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>23 January, Saturday</date>
+            <link>/en/eventinfo/377797_leganes_almeria/</link>
+            <teams>Leganes – Almeria</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>24 January, Sunday</date>
+            <link>/en/eventinfo/377791_valladolid_cordoba/</link>
+            <teams>Valladolid – Cordoba</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>24 January, Sunday</date>
+            <link>/en/eventinfo/377795_tenerife_numancia/</link>
+            <teams>Tenerife – Numancia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>24 January, Sunday</date>
+            <link>/en/eventinfo/377794_albacete_gimnastic_tarragona/</link>
+            <teams>Albacete – Gimnastic Tarragona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>24 January, Sunday</date>
+            <link>/en/eventinfo/377793_osasuna_llagostera/</link>
+            <teams>Osasuna – Llagostera</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>24 January, Sunday</date>
+            <link>/en/eventinfo/377792_zaragoza_mirandes/</link>
+            <teams>Zaragoza – Mirandes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+    </round>
+    <round id="23">
+        <match>
+            <date>30 January, Saturday</date>
+            <link>/en/eventinfo/374257_cordoba_leganes/</link>
+            <teams>Cordoba – Leganes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam2>
+            <score>2:3</score>
+        </match>
+        <match>
+            <date>30 January, Saturday</date>
+            <link>/en/eventinfo/374259_huesca_albacete/</link>
+            <teams>Huesca – Albacete</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>30 January, Saturday</date>
+            <link>/en/eventinfo/374260_alcorcon_valladolid/</link>
+            <teams>Alcorcon – Valladolid</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>30 January, Saturday</date>
+            <link>/en/eventinfo/374258_llagostera_lugo/</link>
+            <teams>Llagostera – Lugo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>30 January, Saturday</date>
+            <link>/en/eventinfo/374261_oviedo_alaves/</link>
+            <teams>Oviedo – Alaves</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>31 January, Sunday</date>
+            <link>/en/eventinfo/374262_almeria_zaragoza/</link>
+            <teams>Almeria – Zaragoza</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>31 January, Sunday</date>
+            <link>/en/eventinfo/374289_numancia_girona/</link>
+            <teams>Numancia – Girona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>31 January, Sunday</date>
+            <link>/en/eventinfo/374291_ponferradina_mallorca/</link>
+            <teams>Ponferradina – Mallorca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>31 January, Sunday</date>
+            <link>/en/eventinfo/374263_gimnastic_tarragona_tenerife/</link>
+            <teams>Gimnastic Tarragona – Tenerife</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>31 January, Sunday</date>
+            <link>/en/eventinfo/374290_athletic_bilbao_ii_elche/</link>
+            <teams>Athletic Bilbao II – Elche</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>31 January, Sunday</date>
+            <link>/en/eventinfo/374292_mirandes_osasuna/</link>
+            <teams>Mirandes – Osasuna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam2>
+            <score>4:0</score>
+        </match>
+    </round>
+    <round id="24">
+        <match>
+            <date>6 February, Saturday</date>
+            <link>/en/eventinfo/377801_tenerife_huesca/</link>
+            <teams>Tenerife – Huesca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>6 February, Saturday</date>
+            <link>/en/eventinfo/377800_albacete_oviedo/</link>
+            <teams>Albacete – Oviedo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>6 February, Saturday</date>
+            <link>/en/eventinfo/377802_valladolid_ponferradina/</link>
+            <teams>Valladolid – Ponferradina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>6 February, Saturday</date>
+            <link>/en/eventinfo/377799_zaragoza_leganes/</link>
+            <teams>Zaragoza – Leganes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>6 February, Saturday</date>
+            <link>/en/eventinfo/377803_elche_numancia/</link>
+            <teams>Elche – Numancia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>7 February, Sunday</date>
+            <link>/en/eventinfo/377804_alcorcon_cordoba/</link>
+            <teams>Alcorcon – Cordoba</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam2>
+            <score>3:3</score>
+        </match>
+        <match>
+            <date>7 February, Sunday</date>
+            <link>/en/eventinfo/377805_lugo_mirandes/</link>
+            <teams>Lugo – Mirandes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam2>
+            <score>1:4</score>
+        </match>
+        <match>
+            <date>7 February, Sunday</date>
+            <link>/en/eventinfo/377807_girona_gimnastic_tarragona/</link>
+            <teams>Girona – Gimnastic Tarragona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>7 February, Sunday</date>
+            <link>/en/eventinfo/377806_alaves_llagostera/</link>
+            <teams>Alaves – Llagostera</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>7 February, Sunday</date>
+            <link>/en/eventinfo/377808_mallorca_athletic_bilbao_ii/</link>
+            <teams>Mallorca – Athletic Bilbao II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam2>
+            <score>2:3</score>
+        </match>
+    </round>
+    <round id="25">
+        <match>
+            <date>13 February, Saturday</date>
+            <link>/en/eventinfo/377810_almeria_lugo/</link>
+            <teams>Almeria – Lugo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>13 February, Saturday</date>
+            <link>/en/eventinfo/377813_ponferradina_alcorcon/</link>
+            <teams>Ponferradina – Alcorcon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>13 February, Saturday</date>
+            <link>/en/eventinfo/377811_gimnastic_tarragona_elche/</link>
+            <teams>Gimnastic Tarragona – Elche</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>13 February, Saturday</date>
+            <link>/en/eventinfo/377812_athletic_bilbao_ii_valladolid/</link>
+            <teams>Athletic Bilbao II – Valladolid</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>13 February, Saturday</date>
+            <link>/en/eventinfo/377814_mirandes_alaves/</link>
+            <teams>Mirandes – Alaves</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>14 February, Sunday</date>
+            <link>/en/eventinfo/377815_cordoba_zaragoza/</link>
+            <teams>Cordoba – Zaragoza</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>14 February, Sunday</date>
+            <link>/en/eventinfo/377818_oviedo_tenerife/</link>
+            <teams>Oviedo – Tenerife</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>14 February, Sunday</date>
+            <link>/en/eventinfo/377819_huesca_girona/</link>
+            <teams>Huesca – Girona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>14 February, Sunday</date>
+            <link>/en/eventinfo/377816_leganes_osasuna/</link>
+            <teams>Leganes – Osasuna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>14 February, Sunday</date>
+            <link>/en/eventinfo/377817_llagostera_albacete/</link>
+            <teams>Llagostera – Albacete</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>14 February, Sunday</date>
+            <link>/en/eventinfo/377820_numancia_mallorca/</link>
+            <teams>Numancia – Mallorca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+    </round>
+    <round id="26">
+        <match>
+            <date>20 February, Saturday</date>
+            <link>/en/eventinfo/383563_lugo_leganes/</link>
+            <teams>Lugo – Leganes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>20 February, Saturday</date>
+            <link>/en/eventinfo/383566_alcorcon_athletic_bilbao_ii/</link>
+            <teams>Alcorcon – Athletic Bilbao II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>20 February, Saturday</date>
+            <link>/en/eventinfo/383564_albacete_mirandes/</link>
+            <teams>Albacete – Mirandes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>20 February, Saturday</date>
+            <link>/en/eventinfo/383565_mallorca_gimnastic_tarragona/</link>
+            <teams>Mallorca – Gimnastic Tarragona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>20 February, Saturday</date>
+            <link>/en/eventinfo/383570_ponferradina_cordoba/</link>
+            <teams>Ponferradina – Cordoba</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>21 February, Sunday</date>
+            <link>/en/eventinfo/383567_alaves_almeria/</link>
+            <teams>Alaves – Almeria</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>21 February, Sunday</date>
+            <link>/en/eventinfo/383569_girona_oviedo/</link>
+            <teams>Girona – Oviedo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>21 February, Sunday</date>
+            <link>/en/eventinfo/383568_tenerife_llagostera/</link>
+            <teams>Tenerife – Llagostera</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>21 February, Sunday</date>
+            <link>/en/eventinfo/383572_valladolid_numancia/</link>
+            <teams>Valladolid – Numancia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>21 February, Sunday</date>
+            <link>/en/eventinfo/383571_elche_huesca/</link>
+            <teams>Elche – Huesca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+    </round>
+    <round id="27">
+        <match>
+            <date>27 February, Saturday</date>
+            <link>/en/eventinfo/383576_numancia_alcorcon/</link>
+            <teams>Numancia – Alcorcon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>27 February, Saturday</date>
+            <link>/en/eventinfo/383574_llagostera_girona/</link>
+            <teams>Llagostera – Girona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>27 February, Saturday</date>
+            <link>/en/eventinfo/383577_athletic_bilbao_ii_ponferradina/</link>
+            <teams>Athletic Bilbao II – Ponferradina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam2>
+            <score>4:2</score>
+        </match>
+        <match>
+            <date>27 February, Saturday</date>
+            <link>/en/eventinfo/383578_cordoba_osasuna/</link>
+            <teams>Cordoba – Osasuna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>28 February, Sunday</date>
+            <link>/en/eventinfo/383579_leganes_alaves/</link>
+            <teams>Leganes – Alaves</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>28 February, Sunday</date>
+            <link>/en/eventinfo/383580_zaragoza_lugo/</link>
+            <teams>Zaragoza – Lugo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>28 February, Sunday</date>
+            <link>/en/eventinfo/383581_almeria_albacete/</link>
+            <teams>Almeria – Albacete</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>28 February, Sunday</date>
+            <link>/en/eventinfo/383583_gimnastic_tarragona_valladolid/</link>
+            <teams>Gimnastic Tarragona – Valladolid</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>28 February, Sunday</date>
+            <link>/en/eventinfo/383582_mirandes_tenerife/</link>
+            <teams>Mirandes – Tenerife</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>28 February, Sunday</date>
+            <link>/en/eventinfo/383584_oviedo_elche/</link>
+            <teams>Oviedo – Elche</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>16 March, Wednesday</date>
+            <link>/en/eventinfo/383575_huesca_mallorca/</link>
+            <teams>Huesca – Mallorca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+    </round>
+    <round id="28">
+        <match>
+            <date>5 March, Saturday</date>
+            <link>/en/eventinfo/389988_elche_llagostera/</link>
+            <teams>Elche – Llagostera</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>5 March, Saturday</date>
+            <link>/en/eventinfo/389990_athletic_bilbao_ii_cordoba/</link>
+            <teams>Athletic Bilbao II – Cordoba</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>5 March, Saturday</date>
+            <link>/en/eventinfo/389989_mallorca_oviedo/</link>
+            <teams>Mallorca – Oviedo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>5 March, Saturday</date>
+            <link>/en/eventinfo/389987_girona_mirandes/</link>
+            <teams>Girona – Mirandes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>5 March, Saturday</date>
+            <link>/en/eventinfo/389991_lugo_osasuna/</link>
+            <teams>Lugo – Osasuna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>6 March, Sunday</date>
+            <link>/en/eventinfo/389992_alaves_zaragoza/</link>
+            <teams>Alaves – Zaragoza</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>6 March, Sunday</date>
+            <link>/en/eventinfo/393191_tenerife_almeria/</link>
+            <teams>Tenerife – Almeria</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>6 March, Sunday</date>
+            <link>/en/eventinfo/389996_ponferradina_numancia/</link>
+            <teams>Ponferradina – Numancia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>6 March, Sunday</date>
+            <link>/en/eventinfo/389995_alcorcon_gimnastic_tarragona/</link>
+            <teams>Alcorcon – Gimnastic Tarragona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>6 March, Sunday</date>
+            <link>/en/eventinfo/389994_valladolid_huesca/</link>
+            <teams>Valladolid – Huesca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+    </round>
+    <round id="29">
+        <match>
+            <date>12 March, Saturday</date>
+            <link>/en/eventinfo/389998_zaragoza_albacete/</link>
+            <teams>Zaragoza – Albacete</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>12 March, Saturday</date>
+            <link>/en/eventinfo/389999_almeria_girona/</link>
+            <teams>Almeria – Girona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>12 March, Saturday</date>
+            <link>/en/eventinfo/390001_numancia_athletic_bilbao_ii/</link>
+            <teams>Numancia – Athletic Bilbao II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam2>
+            <score>3:2</score>
+        </match>
+        <match>
+            <date>12 March, Saturday</date>
+            <link>/en/eventinfo/390000_mirandes_elche/</link>
+            <teams>Mirandes – Elche</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>12 March, Saturday</date>
+            <link>/en/eventinfo/390002_oviedo_valladolid/</link>
+            <teams>Oviedo – Valladolid</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam2>
+            <score>2:4</score>
+        </match>
+        <match>
+            <date>13 March, Sunday</date>
+            <link>/en/eventinfo/390003_osasuna_alaves/</link>
+            <teams>Osasuna – Alaves</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>13 March, Sunday</date>
+            <link>/en/eventinfo/390007_gimnastic_tarragona_ponferradina/</link>
+            <teams>Gimnastic Tarragona – Ponferradina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>13 March, Sunday</date>
+            <link>/en/eventinfo/390005_llagostera_mallorca/</link>
+            <teams>Llagostera – Mallorca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>13 March, Sunday</date>
+            <link>/en/eventinfo/390006_huesca_alcorcon/</link>
+            <teams>Huesca – Alcorcon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>13 March, Sunday</date>
+            <link>/en/eventinfo/390004_cordoba_lugo/</link>
+            <teams>Cordoba – Lugo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>13 March, Sunday</date>
+            <link>/en/eventinfo/393978_leganes_tenerife/</link>
+            <teams>Leganes – Tenerife</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+    </round>
+    <round id="30">
+        <match>
+            <date>19 March, Saturday</date>
+            <link>/en/eventinfo/395725_alcorcon_oviedo/</link>
+            <teams>Alcorcon – Oviedo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>19 March, Saturday</date>
+            <link>/en/eventinfo/395722_alaves_lugo/</link>
+            <teams>Alaves – Lugo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>19 March, Saturday</date>
+            <link>/en/eventinfo/395723_albacete_osasuna/</link>
+            <teams>Albacete – Osasuna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>19 March, Saturday</date>
+            <link>/en/eventinfo/395724_valladolid_llagostera/</link>
+            <teams>Valladolid – Llagostera</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>19 March, Saturday</date>
+            <link>/en/eventinfo/395726_elche_almeria/</link>
+            <teams>Elche – Almeria</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>20 March, Sunday</date>
+            <link>/en/eventinfo/395727_tenerife_zaragoza/</link>
+            <teams>Tenerife – Zaragoza</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>20 March, Sunday</date>
+            <link>/en/eventinfo/395731_athletic_bilbao_ii_gimnastic_tarragona/</link>
+            <teams>Athletic Bilbao II – Gimnastic Tarragona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam2>
+            <score>0:4</score>
+        </match>
+        <match>
+            <date>20 March, Sunday</date>
+            <link>/en/eventinfo/395728_girona_leganes/</link>
+            <teams>Girona – Leganes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>20 March, Sunday</date>
+            <link>/en/eventinfo/395730_ponferradina_huesca/</link>
+            <teams>Ponferradina – Huesca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>20 March, Sunday</date>
+            <link>/en/eventinfo/395729_mallorca_mirandes/</link>
+            <teams>Mallorca – Mirandes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+    </round>
+    <round id="31">
+        <match>
+            <date>26 March, Saturday</date>
+            <link>/en/eventinfo/395733_osasuna_tenerife/</link>
+            <teams>Osasuna – Tenerife</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>26 March, Saturday</date>
+            <link>/en/eventinfo/395735_huesca_athletic_bilbao_ii/</link>
+            <teams>Huesca – Athletic Bilbao II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>26 March, Saturday</date>
+            <link>/en/eventinfo/395734_leganes_elche/</link>
+            <teams>Leganes – Elche</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>26 March, Saturday</date>
+            <link>/en/eventinfo/395736_gimnastic_tarragona_numancia/</link>
+            <teams>Gimnastic Tarragona – Numancia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>26 March, Saturday</date>
+            <link>/en/eventinfo/395737_oviedo_ponferradina/</link>
+            <teams>Oviedo – Ponferradina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>27 March, Sunday</date>
+            <link>/en/eventinfo/395738_cordoba_alaves/</link>
+            <teams>Cordoba – Alaves</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>27 March, Sunday</date>
+            <link>/en/eventinfo/395740_zaragoza_girona/</link>
+            <teams>Zaragoza – Girona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam2>
+            <score>0:3</score>
+        </match>
+        <match>
+            <date>27 March, Sunday</date>
+            <link>/en/eventinfo/395741_almeria_mallorca/</link>
+            <teams>Almeria – Mallorca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>27 March, Sunday</date>
+            <link>/en/eventinfo/395739_lugo_albacete/</link>
+            <teams>Lugo – Albacete</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>27 March, Sunday</date>
+            <link>/en/eventinfo/395743_llagostera_alcorcon/</link>
+            <teams>Llagostera – Alcorcon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam2>
+            <score>4:0</score>
+        </match>
+        <match>
+            <date>27 March, Sunday</date>
+            <link>/en/eventinfo/395742_mirandes_valladolid/</link>
+            <teams>Mirandes – Valladolid</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam2>
+            <score>4:1</score>
+        </match>
+    </round>
+    <round id="32">
+        <match>
+            <date>2 April, Saturday</date>
+            <link>/en/eventinfo/401114_alcorcon_mirandes/</link>
+            <teams>Alcorcon – Mirandes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>2 April, Saturday</date>
+            <link>/en/eventinfo/401107_ponferradina_llagostera/</link>
+            <teams>Ponferradina – Llagostera</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>2 April, Saturday</date>
+            <link>/en/eventinfo/401105_elche_zaragoza/</link>
+            <teams>Elche – Zaragoza</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>2 April, Saturday</date>
+            <link>/en/eventinfo/401106_mallorca_leganes/</link>
+            <teams>Mallorca – Leganes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>3 April, Sunday</date>
+            <link>/en/eventinfo/401108_gimnastic_tarragona_cordoba/</link>
+            <teams>Gimnastic Tarragona – Cordoba</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam2>
+            <score>4:4</score>
+        </match>
+        <match>
+            <date>3 April, Sunday</date>
+            <link>/en/eventinfo/401110_girona_osasuna/</link>
+            <teams>Girona – Osasuna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>3 April, Sunday</date>
+            <link>/en/eventinfo/401109_tenerife_lugo/</link>
+            <teams>Tenerife – Lugo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>3 April, Sunday</date>
+            <link>/en/eventinfo/401112_numancia_huesca/</link>
+            <teams>Numancia – Huesca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam2>
+            <score>3:2</score>
+        </match>
+        <match>
+            <date>3 April, Sunday</date>
+            <link>/en/eventinfo/401111_valladolid_almeria/</link>
+            <teams>Valladolid – Almeria</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>3 April, Sunday</date>
+            <link>/en/eventinfo/401113_albacete_alaves/</link>
+            <teams>Albacete – Alaves</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+    </round>
+    <round id="33">
+        <match>
+            <date>9 April, Saturday</date>
+            <link>/en/eventinfo/401124_almeria_alcorcon/</link>
+            <teams>Almeria – Alcorcon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>9 April, Saturday</date>
+            <link>/en/eventinfo/401116_lugo_girona/</link>
+            <teams>Lugo – Girona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>9 April, Saturday</date>
+            <link>/en/eventinfo/401118_llagostera_athletic_bilbao_ii/</link>
+            <teams>Llagostera – Athletic Bilbao II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>9 April, Saturday</date>
+            <link>/en/eventinfo/401117_mirandes_ponferradina/</link>
+            <teams>Mirandes – Ponferradina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>9 April, Saturday</date>
+            <link>/en/eventinfo/401119_leganes_valladolid/</link>
+            <teams>Leganes – Valladolid</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam2>
+            <score>4:0</score>
+        </match>
+        <match>
+            <date>10 April, Sunday</date>
+            <link>/en/eventinfo/401120_zaragoza_mallorca/</link>
+            <teams>Zaragoza – Mallorca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>10 April, Sunday</date>
+            <link>/en/eventinfo/401122_alaves_tenerife/</link>
+            <teams>Alaves – Tenerife</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>10 April, Sunday</date>
+            <link>/en/eventinfo/401121_cordoba_albacete/</link>
+            <teams>Cordoba – Albacete</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam2>
+            <score>2:3</score>
+        </match>
+        <match>
+            <date>10 April, Sunday</date>
+            <link>/en/eventinfo/401123_oviedo_numancia/</link>
+            <teams>Oviedo – Numancia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>10 April, Sunday</date>
+            <link>/en/eventinfo/401125_huesca_gimnastic_tarragona/</link>
+            <teams>Huesca – Gimnastic Tarragona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>10 April, Sunday</date>
+            <link>/en/eventinfo/401126_osasuna_elche/</link>
+            <teams>Osasuna – Elche</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+    </round>
+    <round id="34">
+        <match>
+            <date>16 April, Saturday</date>
+            <link>/en/eventinfo/401129_athletic_bilbao_ii_mirandes/</link>
+            <teams>Athletic Bilbao II – Mirandes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>16 April, Saturday</date>
+            <link>/en/eventinfo/401127_girona_alaves/</link>
+            <teams>Girona – Alaves</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>16 April, Saturday</date>
+            <link>/en/eventinfo/401130_numancia_llagostera/</link>
+            <teams>Numancia – Llagostera</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>16 April, Saturday</date>
+            <link>/en/eventinfo/401128_elche_lugo/</link>
+            <teams>Elche – Lugo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>16 April, Saturday</date>
+            <link>/en/eventinfo/401131_valladolid_zaragoza/</link>
+            <teams>Valladolid – Zaragoza</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>17 April, Sunday</date>
+            <link>/en/eventinfo/401132_gimnastic_tarragona_oviedo/</link>
+            <teams>Gimnastic Tarragona – Oviedo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>17 April, Sunday</date>
+            <link>/en/eventinfo/401134_alcorcon_leganes/</link>
+            <teams>Alcorcon – Leganes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>17 April, Sunday</date>
+            <link>/en/eventinfo/401136_huesca_cordoba/</link>
+            <teams>Huesca – Cordoba</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>17 April, Sunday</date>
+            <link>/en/eventinfo/401135_ponferradina_almeria/</link>
+            <teams>Ponferradina – Almeria</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>17 April, Sunday</date>
+            <link>/en/eventinfo/401133_tenerife_albacete/</link>
+            <teams>Tenerife – Albacete</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+    </round>
+    <round id="35">
+        <match>
+            <date>23 April, Saturday</date>
+            <link></link>
+            <teams>Mirandes – Numancia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>23 April, Saturday</date>
+            <link></link>
+            <teams>Llagostera – Gimnastic Tarragona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>23 April, Saturday</date>
+            <link></link>
+            <teams>Leganes – Ponferradina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>23 April, Saturday</date>
+            <link></link>
+            <teams>Lugo – Mallorca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>23 April, Saturday</date>
+            <link></link>
+            <teams>Oviedo – Huesca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>23 April, Saturday</date>
+            <link></link>
+            <teams>Cordoba – Tenerife</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>23 April, Saturday</date>
+            <link></link>
+            <teams>Alaves – Elche</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>23 April, Saturday</date>
+            <link></link>
+            <teams>Albacete – Girona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>23 April, Saturday</date>
+            <link></link>
+            <teams>Almeria – Athletic Bilbao II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>23 April, Saturday</date>
+            <link></link>
+            <teams>Osasuna – Valladolid</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>23 April, Saturday</date>
+            <link></link>
+            <teams>Zaragoza – Alcorcon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+    </round>
+    <round id="36">
+        <match>
+            <date>30 April, Saturday</date>
+            <link></link>
+            <teams>Huesca – Llagostera</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>30 April, Saturday</date>
+            <link></link>
+            <teams>Alcorcon – Osasuna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>30 April, Saturday</date>
+            <link></link>
+            <teams>Gimnastic Tarragona – Mirandes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>30 April, Saturday</date>
+            <link></link>
+            <teams>Athletic Bilbao II – Leganes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>30 April, Saturday</date>
+            <link></link>
+            <teams>Oviedo – Cordoba</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>30 April, Saturday</date>
+            <link></link>
+            <teams>Girona – Tenerife</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>30 April, Saturday</date>
+            <link></link>
+            <teams>Ponferradina – Zaragoza</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>30 April, Saturday</date>
+            <link></link>
+            <teams>Numancia – Almeria</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>30 April, Saturday</date>
+            <link></link>
+            <teams>Valladolid – Lugo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>30 April, Saturday</date>
+            <link></link>
+            <teams>Elche – Albacete</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+    </round>
+    <round id="37">
+        <match>
+            <date>7 May, Saturday</date>
+            <link></link>
+            <teams>Lugo – Alcorcon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>7 May, Saturday</date>
+            <link></link>
+            <teams>Leganes – Numancia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>7 May, Saturday</date>
+            <link></link>
+            <teams>Llagostera – Oviedo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>7 May, Saturday</date>
+            <link></link>
+            <teams>Mirandes – Huesca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>7 May, Saturday</date>
+            <link></link>
+            <teams>Cordoba – Girona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>7 May, Saturday</date>
+            <link></link>
+            <teams>Alaves – Valladolid</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>7 May, Saturday</date>
+            <link></link>
+            <teams>Tenerife – Elche</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>7 May, Saturday</date>
+            <link></link>
+            <teams>Albacete – Mallorca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>7 May, Saturday</date>
+            <link></link>
+            <teams>Almeria – Gimnastic Tarragona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>7 May, Saturday</date>
+            <link></link>
+            <teams>Osasuna – Ponferradina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>7 May, Saturday</date>
+            <link></link>
+            <teams>Zaragoza – Athletic Bilbao II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+    </round>
+    <round id="38">
+        <match>
+            <date>10 May, Tuesday</date>
+            <link></link>
+            <teams>Alcorcon – Alaves</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>10 May, Tuesday</date>
+            <link></link>
+            <teams>Llagostera – Cordoba</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>10 May, Tuesday</date>
+            <link></link>
+            <teams>Gimnastic Tarragona – Leganes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>10 May, Tuesday</date>
+            <link></link>
+            <teams>Athletic Bilbao II – Osasuna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>10 May, Tuesday</date>
+            <link></link>
+            <teams>Huesca – Almeria</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>10 May, Tuesday</date>
+            <link></link>
+            <teams>Oviedo – Mirandes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>10 May, Tuesday</date>
+            <link></link>
+            <teams>Ponferradina – Lugo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>10 May, Tuesday</date>
+            <link></link>
+            <teams>Numancia – Zaragoza</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>10 May, Tuesday</date>
+            <link></link>
+            <teams>Valladolid – Albacete</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>10 May, Tuesday</date>
+            <link></link>
+            <teams>Elche – Girona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+    </round>
+    <round id="39">
+        <match>
+            <date>14 May, Saturday</date>
+            <link></link>
+            <teams>Cordoba – Elche</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>14 May, Saturday</date>
+            <link></link>
+            <teams>Lugo – Athletic Bilbao II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>14 May, Saturday</date>
+            <link></link>
+            <teams>Leganes – Huesca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>14 May, Saturday</date>
+            <link></link>
+            <teams>Mirandes – Llagostera</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>14 May, Saturday</date>
+            <link></link>
+            <teams>Girona – Mallorca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>14 May, Saturday</date>
+            <link></link>
+            <teams>Alaves – Ponferradina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>14 May, Saturday</date>
+            <link></link>
+            <teams>Tenerife – Valladolid</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>14 May, Saturday</date>
+            <link></link>
+            <teams>Albacete – Alcorcon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>14 May, Saturday</date>
+            <link></link>
+            <teams>Almeria – Oviedo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>14 May, Saturday</date>
+            <link></link>
+            <teams>Osasuna – Numancia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>14 May, Saturday</date>
+            <link></link>
+            <teams>Zaragoza – Gimnastic Tarragona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+    </round>
+    <round id="40">
+        <match>
+            <date>21 May, Saturday</date>
+            <link></link>
+            <teams>Llagostera – Almeria</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>21 May, Saturday</date>
+            <link></link>
+            <teams>Gimnastic Tarragona – Osasuna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>21 May, Saturday</date>
+            <link></link>
+            <teams>Mirandes – Cordoba</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>21 May, Saturday</date>
+            <link></link>
+            <teams>Athletic Bilbao II – Alaves</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>21 May, Saturday</date>
+            <link></link>
+            <teams>Alcorcon – Tenerife</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>21 May, Saturday</date>
+            <link></link>
+            <teams>Huesca – Zaragoza</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>21 May, Saturday</date>
+            <link></link>
+            <teams>Oviedo – Leganes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>21 May, Saturday</date>
+            <link></link>
+            <teams>Ponferradina – Albacete</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>21 May, Saturday</date>
+            <link></link>
+            <teams>Numancia – Lugo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>21 May, Saturday</date>
+            <link></link>
+            <teams>Valladolid – Girona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+    </round>
+    <round id="41">
+        <match>
+            <date>28 May, Saturday</date>
+            <link></link>
+            <teams>Alaves – Numancia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>28 May, Saturday</date>
+            <link></link>
+            <teams>Girona – Alcorcon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>28 May, Saturday</date>
+            <link></link>
+            <teams>Lugo – Gimnastic Tarragona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>28 May, Saturday</date>
+            <link></link>
+            <teams>Leganes – Llagostera</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>28 May, Saturday</date>
+            <link></link>
+            <teams>Tenerife – Ponferradina</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/363.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>28 May, Saturday</date>
+            <link></link>
+            <teams>Albacete – Athletic Bilbao II</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/16105.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>28 May, Saturday</date>
+            <link></link>
+            <teams>Almeria – Mirandes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>28 May, Saturday</date>
+            <link></link>
+            <teams>Elche – Valladolid</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>28 May, Saturday</date>
+            <link></link>
+            <teams>Osasuna – Huesca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>28 May, Saturday</date>
+            <link></link>
+            <teams>Mallorca – Cordoba</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>28 May, Saturday</date>
+            <link></link>
+            <teams>Zaragoza – Oviedo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+    </round>
+    <round id="42">
+        <match>
+            <date>4 June, Saturday</date>
+            <link></link>
+            <teams>Alcorcon – Elche</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10579.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17419.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>4 June, Saturday</date>
+            <link></link>
+            <teams>Llagostera – Zaragoza</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21590.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17901.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>4 June, Saturday</date>
+            <link></link>
+            <teams>Gimnastic Tarragona – Alaves</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/15836.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17898.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>4 June, Saturday</date>
+            <link></link>
+            <teams>Mirandes – Leganes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/11738.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/8310.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>4 June, Saturday</date>
+            <link></link>
+            <teams>Huesca – Lugo</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10592.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17897.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>4 June, Saturday</date>
+            <link></link>
+            <teams>Oviedo – Osasuna</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17978.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/342.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>4 June, Saturday</date>
+            <link></link>
+            <teams>Cordoba – Almeria</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17417.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17422.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>4 June, Saturday</date>
+            <link></link>
+            <teams>Ponferradina – Girona</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17900.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10585.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>4 June, Saturday</date>
+            <link></link>
+            <teams>Numancia – Albacete</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10588.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/364.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>4 June, Saturday</date>
+            <link></link>
+            <teams>Valladolid – Mallorca</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10581.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10289.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+    </round>
+</calendar>

@@ -1,17 +1,19 @@
 /**
  * Created by Quang on 09-Apr-16.
  */
-module.service('$service', function ($http, $q) {
+module.service('$service', function ($http, $q, $timeout) {
     this.isReady = false;
-    this._d = $q.defer();
-    this._canceller = $q.defer();
-    /** CORE DEFFER **/
-    //this.waitForCoreStart = function () {
-    //    if (this._d.promise.$$state.status) this._d = $q.defer();
-    //    if (this.isReady)
-    //        this._d.resolve(this.networkList);
-    //    return this._d.promise;
-    //};
+    this.querySearch = function(value) {
+        return $http.post(this.back.globalSearch.url, value)
+
+            .then(function(response) {
+                console.log(response);
+
+                var deferred = $q.defer();
+                $timeout(function () { deferred.resolve(response.data); }, 0, false);
+                return deferred.promise;
+            });
+    };
 
     var ConfigService = function () {
         this.back.url = this.url + 'LiveSportTVCrawler';
@@ -29,7 +31,7 @@ module.service('$service', function ($http, $q) {
     };
 
     ConfigService.prototype = {
-        url: "http://192.168.1.104:8080/",
+        url: "http://192.168.1.102:8080/",
         back: {
             comingUp: {
                 path: "/comingup.htm"
@@ -42,6 +44,15 @@ module.service('$service', function ($http, $q) {
             },
             getHighlights: {
                 path: "/getHighlights.htm"
+            },
+            globalSearch: {
+                path: "/globalSearch.htm"
+            },
+            advanceSearch: {
+                path: "/advanceSearch.htm"
+            },
+            loadCalendar: {
+                path: "/loadCalendar.htm"
             }
         }
     };

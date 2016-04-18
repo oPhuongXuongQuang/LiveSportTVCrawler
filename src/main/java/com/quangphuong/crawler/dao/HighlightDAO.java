@@ -23,4 +23,12 @@ public class HighlightDAO {
     public List<Highlight> getHighlights(String date) {
         return (List<Highlight>) (Object)dBWrapper.getEntitiesByCondition(new Highlight(date),true,"matches");
     }
+    
+    public List<Highlight> getSearchResult(String value) {
+        return (List<Highlight>) (Object)dBWrapper.searchFullText(new Highlight(), value);
+    }
+    
+    public List<Highlight> getSearchResult(String value, int down, int up) {
+        return (List<Highlight>) (Object)dBWrapper.searchFullTextRange(new Highlight(), value, down, up);
+    }
 }

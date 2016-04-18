@@ -1,5 +1,5 @@
 module.controller('HomeController', function($rootScope, $scope, $timeout, $http, $service, cfpLoadingBar) {
-
+    $scope.querySearch = null;
     $http.post($service.back.comingUp.url).success( function(response) {
       var Events = response;
       $scope.Events = _.groupBy(Events,'kind');
@@ -9,16 +9,10 @@ module.controller('HomeController', function($rootScope, $scope, $timeout, $http
       $timeout(function() {
         $http.post($service.back.comingUp.url)
           .success(function(response) {
-            $scope.Events.unshift({
-              desc: response.data,
-              rand: Math.random()
-            });
+            $scope.Events = _.groupBy(response,'kind');
           })
           .error(function() {
-            $scope.Events.unshift({
-              desc: 'No data',
-              rand: Math.random()
-            });
+            console.log("Error!");
           })
           .finally(function() {
             $done();
@@ -50,5 +44,26 @@ module.controller('HomeController', function($rootScope, $scope, $timeout, $http
         console.log($rootScope.team1);
         console.log($rootScope.team2);
         $rootScope.$nav.pushPage("eventDetail.html");
+    };
+
+    $scope.isDisabled = false;
+
+    $scope.querySearch = function(value) {
+        return $service.querySearch(value);
+    };
+
+    $scope.goToHighlight = function(link) {
+        cfpLoadingBar.start();
+        if(link.indexOf("/en/showvideo") > -1) {
+            //$http.post($service.back.getVideo.url, link).success(function (result) {
+            //
+            //
+            //});
+        } else if(link.indexOf("playwire.com") > -1) {
+
+        }
+        else {
+            $rootScope.$nav.pushPage("video.html",{param:link});
+        }
     };
 });

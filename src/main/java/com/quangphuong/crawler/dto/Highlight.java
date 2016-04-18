@@ -6,7 +6,10 @@
 package com.quangphuong.crawler.dto;
 
 import com.quangphuong.crawler.dbutil.AutoIncrement;
+import com.quangphuong.crawler.dbutil.FullTextIndex;
 import com.quangphuong.crawler.dbutil.Id;
+import com.quangphuong.crawler.dbutil.Ignore;
+import com.quangphuong.crawler.dbutil.Mark;
 import java.io.Serializable;
 
 /**
@@ -17,8 +20,12 @@ public class Highlight implements Serializable{
     @Id
     @AutoIncrement
     private int id;
+    @FullTextIndex
     private String kind;
+    @FullTextIndex
     private String tournament;
+    @Mark
+    @FullTextIndex
     private String matches;
     private String logoTeam1;
     private String logoTeam2;
@@ -26,8 +33,12 @@ public class Highlight implements Serializable{
     private String longHighlightLink;
     private String fullmatchLink;
     private String score;
+    @Mark
+    @FullTextIndex
     private String date;
     private String time;
+    @Ignore
+    public double rank;
 
     public Highlight() {
     }
@@ -36,6 +47,22 @@ public class Highlight implements Serializable{
         this.date = date;
     }
 
+    public Highlight(int id, String kind, String tournament, String matches, String logoTeam1, String logoTeam2, String highlightLink, String longHighlightLink, String fullmatchLink, String score, String date, String time, double rank) {
+        this.id = id;
+        this.kind = kind;
+        this.tournament = tournament;
+        this.matches = matches;
+        this.logoTeam1 = logoTeam1;
+        this.logoTeam2 = logoTeam2;
+        this.highlightLink = highlightLink;
+        this.longHighlightLink = longHighlightLink;
+        this.fullmatchLink = fullmatchLink;
+        this.score = score;
+        this.date = date;
+        this.time = time;
+        this.rank = rank;
+    }
+    
     public Highlight(int id, String kind, String tournament, String matches, String logoTeam1, String logoTeam2, String highlightLink, String longHighlightLink, String fullmatchLink, String score, String date, String time) {
         this.id = id;
         this.kind = kind;

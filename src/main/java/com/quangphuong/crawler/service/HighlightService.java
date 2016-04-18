@@ -14,4 +14,6 @@ import java.util.List;
  */
 public interface HighlightService {
     List<Highlight> getHighlights(String date);
+    List<Highlight> getSearchResult(String value);
+    List<Highlight> getSearchResult(String value, String range);
 }

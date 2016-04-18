@@ -25,5 +25,18 @@ public class HighlightServiceImpl implements HighlightService{
     public List<Highlight> getHighlights(String date) {
         return highlightDAO.getHighlights(date);
     }
+
+    @Override
+    public List<Highlight> getSearchResult(String value) {
+        return highlightDAO.getSearchResult(value);
+    }
+
+    @Override
+    public List<Highlight> getSearchResult(String value, String range) {
+        String[] arrs = range.split("-");
+        int down = Integer.parseInt(arrs[0]);
+        int up = Integer.parseInt(arrs[1]);
+        return highlightDAO.getSearchResult(value, down, up);
+    }
     
 }

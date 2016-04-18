@@ -5,8 +5,10 @@
  */
 package com.quangphuong.crawler.service;
 
+import com.quangphuong.crawler.dto.Calendar;
 import com.quangphuong.crawler.dto.Event;
 import com.quangphuong.crawler.dto.EventDetail;
+import com.quangphuong.crawler.util.AppConstant;
 import com.quangphuong.crawler.util.Crawler;
 import com.quangphuong.crawler.util.Getter;
 
@@ -36,5 +38,30 @@ public class EventServiceImpl implements EventService{
     public String getVideoStream(String videoLink) {
         return Getter.getVideoStream(videoLink);
     }
+
+    @Override
+    public List<Calendar.Round> getCalendar(String id) {
+        String calendar = idToCalendar(id);
+        return Getter.getCalendar(calendar);
+    }
     
+    public String idToCalendar(String id) {
+        switch (id) {
+            case "england":
+                return AppConstant.EnglandCalendar;
+            case "spain":
+                return AppConstant.SpainCalendar;
+            case "italy":
+                return AppConstant.ItalyCalendar;
+            case "dutch":
+                return AppConstant.DutchCalendar;
+            case "german":
+                return AppConstant.GermanCalendar;
+            case "france":
+                return AppConstant.FranceCalendar;
+            case "brazil":
+                return AppConstant.BrazilCalendar;
+        }
+        return "";
+    }
 }

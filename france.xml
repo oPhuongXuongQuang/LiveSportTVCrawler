@@ -1,0 +1,2967 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<calendar>
+    <round id="1">
+        <match>
+            <date>7 August, Friday</date>
+            <link>/en/eventinfo/327514_lille_psg/</link>
+            <teams>Lille – PSG</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17015.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>8 August, Saturday</date>
+            <link>/en/eventinfo/327519_marseille_caen/</link>
+            <teams>Marseille – Caen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/81.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>8 August, Saturday</date>
+            <link>/en/eventinfo/327518_nice_monaco/</link>
+            <teams>Nice – Monaco</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17042.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>8 August, Saturday</date>
+            <link>/en/eventinfo/327515_nantes_guingamp/</link>
+            <teams>Nantes – Guingamp</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>8 August, Saturday</date>
+            <link>/en/eventinfo/327520_bastia_rennes/</link>
+            <teams>Bastia – Rennes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10221.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>8 August, Saturday</date>
+            <link>/en/eventinfo/327517_montpellier_angers/</link>
+            <teams>Montpellier – Angers</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>8 August, Saturday</date>
+            <link>/en/eventinfo/327516_gazelec_ajaccio_troyes/</link>
+            <teams>Gazelec Ajaccio – Troyes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17601.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>9 August, Sunday</date>
+            <link>/en/eventinfo/327522_toulouse_saint_etienne/</link>
+            <teams>Toulouse – Saint-Etienne</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17293.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>9 August, Sunday</date>
+            <link>/en/eventinfo/327521_bordeaux_reims/</link>
+            <teams>Bordeaux – Reims</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>9 August, Sunday</date>
+            <link>/en/eventinfo/327523_lyon_lorient/</link>
+            <teams>Lyon – Lorient</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17296.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+    </round>
+    <round id="2">
+        <match>
+            <date>14 August, Friday</date>
+            <link>/en/eventinfo/327526_monaco_lille/</link>
+            <teams>Monaco – Lille</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>15 August, Saturday</date>
+            <link>/en/eventinfo/327527_saint_etienne_bordeaux/</link>
+            <teams>Saint-Etienne – Bordeaux</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17293.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>15 August, Saturday</date>
+            <link>/en/eventinfo/327531_caen_toulouse/</link>
+            <teams>Caen – Toulouse</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>15 August, Saturday</date>
+            <link>/en/eventinfo/327528_angers_nantes/</link>
+            <teams>Angers – Nantes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>15 August, Saturday</date>
+            <link>/en/eventinfo/327529_guingamp_lyon/</link>
+            <teams>Guingamp – Lyon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17296.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>15 August, Saturday</date>
+            <link>/en/eventinfo/327530_troyes_nice/</link>
+            <teams>Troyes – Nice</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17042.gif</logoTeam2>
+            <score>3:3</score>
+        </match>
+        <match>
+            <date>15 August, Saturday</date>
+            <link>/en/eventinfo/327532_rennes_montpellier/</link>
+            <teams>Rennes – Montpellier</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10221.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>16 August, Sunday</date>
+            <link>/en/eventinfo/327533_reims_marseille/</link>
+            <teams>Reims – Marseille</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/81.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>16 August, Sunday</date>
+            <link>/en/eventinfo/327534_lorient_bastia/</link>
+            <teams>Lorient – Bastia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+    </round>
+    <round id="3">
+        <match>
+            <date>21 August, Friday</date>
+            <link>/en/eventinfo/330516_montpellier_psg/</link>
+            <teams>Montpellier – PSG</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17015.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>22 August, Saturday</date>
+            <link>/en/eventinfo/330517_lyon_rennes/</link>
+            <teams>Lyon – Rennes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17296.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10221.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>22 August, Saturday</date>
+            <link>/en/eventinfo/330518_lorient_saint_etienne/</link>
+            <teams>Lorient – Saint-Etienne</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17293.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>22 August, Saturday</date>
+            <link>/en/eventinfo/330522_gazelec_ajaccio_angers/</link>
+            <teams>Gazelec Ajaccio – Angers</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17601.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>22 August, Saturday</date>
+            <link>/en/eventinfo/330524_bastia_guingamp/</link>
+            <teams>Bastia – Guingamp</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>22 August, Saturday</date>
+            <link>/en/eventinfo/330521_nantes_reims/</link>
+            <teams>Nantes – Reims</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>22 August, Saturday</date>
+            <link>/en/eventinfo/330523_nice_caen/</link>
+            <teams>Nice – Caen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17042.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>22 August, Saturday</date>
+            <link>/en/eventinfo/330519_lille_bordeaux/</link>
+            <teams>Lille – Bordeaux</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>22 August, Saturday</date>
+            <link>/en/eventinfo/330520_toulouse_monaco/</link>
+            <teams>Toulouse – Monaco</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>23 August, Sunday</date>
+            <link>/en/eventinfo/330525_marseille_troyes/</link>
+            <teams>Marseille – Troyes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/81.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam2>
+            <score>6:0</score>
+        </match>
+    </round>
+    <round id="4">
+        <match>
+            <date>28 August, Friday</date>
+            <link>/en/eventinfo/330527_guingamp_marseille/</link>
+            <teams>Guingamp – Marseille</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/81.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>29 August, Saturday</date>
+            <link>/en/eventinfo/330528_caen_lyon/</link>
+            <teams>Caen – Lyon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17296.gif</logoTeam2>
+            <score>0:4</score>
+        </match>
+        <match>
+            <date>29 August, Saturday</date>
+            <link>/en/eventinfo/330529_angers_nice/</link>
+            <teams>Angers – Nice</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17042.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>29 August, Saturday</date>
+            <link>/en/eventinfo/330532_reims_lorient/</link>
+            <teams>Reims – Lorient</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam2>
+            <score>4:1</score>
+        </match>
+        <match>
+            <date>29 August, Saturday</date>
+            <link>/en/eventinfo/330530_troyes_montpellier/</link>
+            <teams>Troyes – Montpellier</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>29 August, Saturday</date>
+            <link>/en/eventinfo/330531_lille_gazelec_ajaccio/</link>
+            <teams>Lille – Gazelec Ajaccio</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17601.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>29 August, Saturday</date>
+            <link>/en/eventinfo/330533_rennes_toulouse/</link>
+            <teams>Rennes – Toulouse</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10221.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>30 August, Sunday</date>
+            <link>/en/eventinfo/330535_bordeaux_nantes/</link>
+            <teams>Bordeaux – Nantes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>30 August, Sunday</date>
+            <link>/en/eventinfo/330534_saint_etienne_bastia/</link>
+            <teams>Saint-Etienne – Bastia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17293.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+    </round>
+    <round id="5">
+        <match>
+            <date>11 September, Friday</date>
+            <link>/en/eventinfo/338580_psg_bordeaux/</link>
+            <teams>PSG – Bordeaux</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17015.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>12 September, Saturday</date>
+            <link>/en/eventinfo/338581_lyon_lille/</link>
+            <teams>Lyon – Lille</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17296.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>12 September, Saturday</date>
+            <link>/en/eventinfo/338586_toulouse_reims/</link>
+            <teams>Toulouse – Reims</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>12 September, Saturday</date>
+            <link>/en/eventinfo/338585_nice_guingamp/</link>
+            <teams>Nice – Guingamp</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17042.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>12 September, Saturday</date>
+            <link>/en/eventinfo/338582_troyes_caen/</link>
+            <teams>Troyes – Caen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>12 September, Saturday</date>
+            <link>/en/eventinfo/338584_montpellier_saint_etienne/</link>
+            <teams>Montpellier – Saint-Etienne</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17293.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>12 September, Saturday</date>
+            <link>/en/eventinfo/338583_lorient_angers/</link>
+            <teams>Lorient – Angers</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>13 September, Sunday</date>
+            <link>/en/eventinfo/338587_gazelec_ajaccio_monaco/</link>
+            <teams>Gazelec Ajaccio – Monaco</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17601.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>13 September, Sunday</date>
+            <link>/en/eventinfo/338588_nantes_rennes/</link>
+            <teams>Nantes – Rennes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10221.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>13 September, Sunday</date>
+            <link>/en/eventinfo/338589_marseille_bastia/</link>
+            <teams>Marseille – Bastia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/81.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam2>
+            <score>4:1</score>
+        </match>
+    </round>
+    <round id="6">
+        <match>
+            <date>18 September, Friday</date>
+            <link>/en/eventinfo/338592_rennes_lille/</link>
+            <teams>Rennes – Lille</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10221.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>19 September, Saturday</date>
+            <link>/en/eventinfo/338593_reims_psg/</link>
+            <teams>Reims – PSG</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17015.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>19 September, Saturday</date>
+            <link>/en/eventinfo/338597_caen_montpellier/</link>
+            <teams>Caen – Montpellier</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>19 September, Saturday</date>
+            <link>/en/eventinfo/338594_angers_troyes/</link>
+            <teams>Angers – Troyes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>19 September, Saturday</date>
+            <link>/en/eventinfo/338595_guingamp_gazelec_ajaccio/</link>
+            <teams>Guingamp – Gazelec Ajaccio</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17601.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>19 September, Saturday</date>
+            <link>/en/eventinfo/338596_bastia_nice/</link>
+            <teams>Bastia – Nice</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17042.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>20 September, Sunday</date>
+            <link>/en/eventinfo/338598_bordeaux_toulouse/</link>
+            <teams>Bordeaux – Toulouse</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>20 September, Sunday</date>
+            <link>/en/eventinfo/338600_saint_etienne_nantes/</link>
+            <teams>Saint-Etienne – Nantes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17293.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>20 September, Sunday</date>
+            <link>/en/eventinfo/338599_monaco_lorient/</link>
+            <teams>Monaco – Lorient</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam2>
+            <score>2:3</score>
+        </match>
+    </round>
+    <round id="7">
+        <match>
+            <date>22 September, Tuesday</date>
+            <link>/en/eventinfo/341829_angers_reims/</link>
+            <teams>Angers – Reims</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>22 September, Tuesday</date>
+            <link>/en/eventinfo/341830_psg_guingamp/</link>
+            <teams>PSG – Guingamp</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17015.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>23 September, Wednesday</date>
+            <link>/en/eventinfo/341835_lyon_bastia/</link>
+            <teams>Lyon – Bastia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17296.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>23 September, Wednesday</date>
+            <link>/en/eventinfo/341834_nice_bordeaux/</link>
+            <teams>Nice – Bordeaux</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17042.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam2>
+            <score>6:1</score>
+        </match>
+        <match>
+            <date>23 September, Wednesday</date>
+            <link>/en/eventinfo/341831_troyes_saint_etienne/</link>
+            <teams>Troyes – Saint-Etienne</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17293.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>23 September, Wednesday</date>
+            <link>/en/eventinfo/341833_gazelec_ajaccio_rennes/</link>
+            <teams>Gazelec Ajaccio – Rennes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17601.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10221.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>23 September, Wednesday</date>
+            <link>/en/eventinfo/341832_lorient_caen/</link>
+            <teams>Lorient – Caen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>23 September, Wednesday</date>
+            <link>/en/eventinfo/341836_toulouse_marseille/</link>
+            <teams>Toulouse – Marseille</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/81.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>24 September, Thursday</date>
+            <link>/en/eventinfo/341837_montpellier_monaco/</link>
+            <teams>Montpellier – Monaco</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam2>
+            <score>2:3</score>
+        </match>
+        <match>
+            <date>29 September, Tuesday</date>
+            <link>/en/eventinfo/341847_lille_nantes/</link>
+            <teams>Lille – Nantes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+    </round>
+    <round id="8">
+        <match>
+            <date>25 September, Friday</date>
+            <link>/en/eventinfo/341838_reims_lille/</link>
+            <teams>Reims – Lille</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>26 September, Saturday</date>
+            <link>/en/eventinfo/341839_nantes_psg/</link>
+            <teams>Nantes – PSG</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17015.gif</logoTeam2>
+            <score>1:4</score>
+        </match>
+        <match>
+            <date>26 September, Saturday</date>
+            <link>/en/eventinfo/341842_caen_gazelec_ajaccio/</link>
+            <teams>Caen – Gazelec Ajaccio</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17601.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>26 September, Saturday</date>
+            <link>/en/eventinfo/341841_bastia_toulouse/</link>
+            <teams>Bastia – Toulouse</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>26 September, Saturday</date>
+            <link>/en/eventinfo/341843_rennes_troyes/</link>
+            <teams>Rennes – Troyes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10221.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>26 September, Saturday</date>
+            <link>/en/eventinfo/341840_bordeaux_lyon/</link>
+            <teams>Bordeaux – Lyon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17296.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>27 September, Sunday</date>
+            <link>/en/eventinfo/341844_marseille_angers/</link>
+            <teams>Marseille – Angers</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/81.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>27 September, Sunday</date>
+            <link>/en/eventinfo/341845_guingamp_monaco/</link>
+            <teams>Guingamp – Monaco</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam2>
+            <score>3:3</score>
+        </match>
+        <match>
+            <date>27 September, Sunday</date>
+            <link>/en/eventinfo/341855_montpellier_lorient/</link>
+            <teams>Montpellier – Lorient</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+    </round>
+    <round id="9">
+        <match>
+            <date>2 October, Friday</date>
+            <link>/en/eventinfo/341848_lille_montpellier/</link>
+            <teams>Lille – Montpellier</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>3 October, Saturday</date>
+            <link>/en/eventinfo/341849_lyon_reims/</link>
+            <teams>Lyon – Reims</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17296.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>3 October, Saturday</date>
+            <link>/en/eventinfo/341852_gazelec_ajaccio_toulouse/</link>
+            <teams>Gazelec Ajaccio – Toulouse</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17601.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>3 October, Saturday</date>
+            <link>/en/eventinfo/341850_angers_bastia/</link>
+            <teams>Angers – Bastia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>3 October, Saturday</date>
+            <link>/en/eventinfo/341851_troyes_guingamp/</link>
+            <teams>Troyes – Guingamp</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>3 October, Saturday</date>
+            <link>/en/eventinfo/341853_nice_nantes/</link>
+            <teams>Nice – Nantes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17042.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>4 October, Sunday</date>
+            <link>/en/eventinfo/341854_monaco_rennes/</link>
+            <teams>Monaco – Rennes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10221.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>4 October, Sunday</date>
+            <link>/en/eventinfo/341857_caen_saint_etienne/</link>
+            <teams>Caen – Saint-Etienne</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17293.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>4 October, Sunday</date>
+            <link>/en/eventinfo/341856_lorient_bordeaux/</link>
+            <teams>Lorient – Bordeaux</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam2>
+            <score>3:2</score>
+        </match>
+        <match>
+            <date>4 October, Sunday</date>
+            <link>/en/eventinfo/341858_psg_marseille/</link>
+            <teams>PSG – Marseille</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17015.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/81.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+    </round>
+    <round id="10">
+        <match>
+            <date>16 October, Friday</date>
+            <link>/en/eventinfo/346187_monaco_lyon/</link>
+            <teams>Monaco – Lyon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17296.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>17 October, Saturday</date>
+            <link>/en/eventinfo/346188_bastia_psg/</link>
+            <teams>Bastia – PSG</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17015.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>17 October, Saturday</date>
+            <link>/en/eventinfo/346190_guingamp_lille/</link>
+            <teams>Guingamp – Lille</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>17 October, Saturday</date>
+            <link>/en/eventinfo/346192_reims_caen/</link>
+            <teams>Reims – Caen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>17 October, Saturday</date>
+            <link>/en/eventinfo/346191_nantes_troyes/</link>
+            <teams>Nantes – Troyes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>17 October, Saturday</date>
+            <link>/en/eventinfo/346189_saint_etienne_gazelec_ajaccio/</link>
+            <teams>Saint-Etienne – Gazelec Ajaccio</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17293.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17601.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>17 October, Saturday</date>
+            <link>/en/eventinfo/346193_toulouse_angers/</link>
+            <teams>Toulouse – Angers</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>18 October, Sunday</date>
+            <link>/en/eventinfo/346194_marseille_lorient/</link>
+            <teams>Marseille – Lorient</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/81.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>18 October, Sunday</date>
+            <link>/en/eventinfo/346195_bordeaux_montpellier/</link>
+            <teams>Bordeaux – Montpellier</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+    </round>
+    <round id="11">
+        <match>
+            <date>23 October, Friday</date>
+            <link>/en/eventinfo/346198_caen_nantes/</link>
+            <teams>Caen – Nantes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>23 October, Friday</date>
+            <link>/en/eventinfo/346199_lyon_toulouse/</link>
+            <teams>Lyon – Toulouse</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17296.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>24 October, Saturday</date>
+            <link>/en/eventinfo/346200_lorient_rennes/</link>
+            <teams>Lorient – Rennes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10221.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>24 October, Saturday</date>
+            <link>/en/eventinfo/346203_montpellier_bastia/</link>
+            <teams>Montpellier – Bastia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>24 October, Saturday</date>
+            <link>/en/eventinfo/346201_angers_guingamp/</link>
+            <teams>Angers – Guingamp</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>24 October, Saturday</date>
+            <link>/en/eventinfo/346202_gazelec_ajaccio_nice/</link>
+            <teams>Gazelec Ajaccio – Nice</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17601.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17042.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>25 October, Sunday</date>
+            <link>/en/eventinfo/346204_reims_monaco/</link>
+            <teams>Reims – Monaco</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>25 October, Sunday</date>
+            <link>/en/eventinfo/346206_lille_marseille/</link>
+            <teams>Lille – Marseille</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/81.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>25 October, Sunday</date>
+            <link>/en/eventinfo/346205_bordeaux_troyes/</link>
+            <teams>Bordeaux – Troyes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>25 October, Sunday</date>
+            <link>/en/eventinfo/346207_psg_saint_etienne/</link>
+            <teams>PSG – Saint-Etienne</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17015.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17293.gif</logoTeam2>
+            <score>4:1</score>
+        </match>
+    </round>
+    <round id="12">
+        <match>
+            <date>30 October, Friday</date>
+            <link>/en/eventinfo/353603_rennes_psg/</link>
+            <teams>Rennes – PSG</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10221.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17015.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>31 October, Saturday</date>
+            <link>/en/eventinfo/353604_saint_etienne_reims/</link>
+            <teams>Saint-Etienne – Reims</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17293.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>31 October, Saturday</date>
+            <link>/en/eventinfo/353607_gazelec_ajaccio_bordeaux/</link>
+            <teams>Gazelec Ajaccio – Bordeaux</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17601.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>31 October, Saturday</date>
+            <link>/en/eventinfo/353605_guingamp_lorient/</link>
+            <teams>Guingamp – Lorient</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>31 October, Saturday</date>
+            <link>/en/eventinfo/353608_bastia_caen/</link>
+            <teams>Bastia – Caen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>31 October, Saturday</date>
+            <link>/en/eventinfo/353606_troyes_lyon/</link>
+            <teams>Troyes – Lyon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17296.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>31 October, Saturday</date>
+            <link>/en/eventinfo/353609_toulouse_montpellier/</link>
+            <teams>Toulouse – Montpellier</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>1 November, Sunday</date>
+            <link>/en/eventinfo/353610_nice_lille/</link>
+            <teams>Nice – Lille</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17042.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>1 November, Sunday</date>
+            <link>/en/eventinfo/353611_monaco_angers/</link>
+            <teams>Monaco – Angers</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+    </round>
+    <round id="13">
+        <match>
+            <date>6 November, Friday</date>
+            <link>/en/eventinfo/353614_angers_rennes/</link>
+            <teams>Angers – Rennes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10221.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>7 November, Saturday</date>
+            <link>/en/eventinfo/353615_psg_toulouse/</link>
+            <teams>PSG – Toulouse</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17015.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam2>
+            <score>5:0</score>
+        </match>
+        <match>
+            <date>7 November, Saturday</date>
+            <link>/en/eventinfo/353617_lille_bastia/</link>
+            <teams>Lille – Bastia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>7 November, Saturday</date>
+            <link>/en/eventinfo/353620_reims_gazelec_ajaccio/</link>
+            <teams>Reims – Gazelec Ajaccio</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17601.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>7 November, Saturday</date>
+            <link>/en/eventinfo/353618_montpellier_nantes/</link>
+            <teams>Montpellier – Nantes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>7 November, Saturday</date>
+            <link>/en/eventinfo/353619_caen_guingamp/</link>
+            <teams>Caen – Guingamp</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>7 November, Saturday</date>
+            <link>/en/eventinfo/353616_lorient_troyes/</link>
+            <teams>Lorient – Troyes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam2>
+            <score>4:1</score>
+        </match>
+        <match>
+            <date>8 November, Sunday</date>
+            <link>/en/eventinfo/353621_marseille_nice/</link>
+            <teams>Marseille – Nice</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/81.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17042.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>8 November, Sunday</date>
+            <link>/en/eventinfo/353625_lyon_saint_etienne/</link>
+            <teams>Lyon – Saint-Etienne</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17296.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17293.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>8 November, Sunday</date>
+            <link>/en/eventinfo/353622_bordeaux_monaco/</link>
+            <teams>Bordeaux – Monaco</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+    </round>
+    <round id="14">
+        <match>
+            <date>20 November, Friday</date>
+            <link>/en/eventinfo/353626_nice_lyon/</link>
+            <teams>Nice – Lyon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17042.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17296.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>21 November, Saturday</date>
+            <link>/en/eventinfo/353627_lorient_psg/</link>
+            <teams>Lorient – PSG</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17015.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>21 November, Saturday</date>
+            <link>/en/eventinfo/353631_montpellier_reims/</link>
+            <teams>Montpellier – Reims</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>21 November, Saturday</date>
+            <link>/en/eventinfo/353629_guingamp_toulouse/</link>
+            <teams>Guingamp – Toulouse</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>21 November, Saturday</date>
+            <link>/en/eventinfo/353630_troyes_lille/</link>
+            <teams>Troyes – Lille</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>21 November, Saturday</date>
+            <link>/en/eventinfo/353628_monaco_nantes/</link>
+            <teams>Monaco – Nantes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>22 November, Sunday</date>
+            <link>/en/eventinfo/353633_caen_angers/</link>
+            <teams>Caen – Angers</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>22 November, Sunday</date>
+            <link>/en/eventinfo/353634_rennes_bordeaux/</link>
+            <teams>Rennes – Bordeaux</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10221.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>22 November, Sunday</date>
+            <link>/en/eventinfo/353632_bastia_gazelec_ajaccio/</link>
+            <teams>Bastia – Gazelec Ajaccio</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17601.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+    </round>
+    <round id="15">
+        <match>
+            <date>27 November, Friday</date>
+            <link>/en/eventinfo/360620_lyon_montpellier/</link>
+            <teams>Lyon – Montpellier</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17296.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam2>
+            <score>2:4</score>
+        </match>
+        <match>
+            <date>28 November, Saturday</date>
+            <link>/en/eventinfo/360621_psg_troyes/</link>
+            <teams>PSG – Troyes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17015.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam2>
+            <score>4:1</score>
+        </match>
+        <match>
+            <date>28 November, Saturday</date>
+            <link>/en/eventinfo/360629_gazelec_ajaccio_lorient/</link>
+            <teams>Gazelec Ajaccio – Lorient</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17601.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>28 November, Saturday</date>
+            <link>/en/eventinfo/360622_angers_lille/</link>
+            <teams>Angers – Lille</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>28 November, Saturday</date>
+            <link>/en/eventinfo/360624_reims_rennes/</link>
+            <teams>Reims – Rennes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10221.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>28 November, Saturday</date>
+            <link>/en/eventinfo/360623_nantes_bastia/</link>
+            <teams>Nantes – Bastia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>28 November, Saturday</date>
+            <link>/en/eventinfo/360625_toulouse_nice/</link>
+            <teams>Toulouse – Nice</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17042.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>29 November, Sunday</date>
+            <link>/en/eventinfo/360626_saint_etienne_guingamp/</link>
+            <teams>Saint-Etienne – Guingamp</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17293.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>29 November, Sunday</date>
+            <link>/en/eventinfo/360627_bordeaux_caen/</link>
+            <teams>Bordeaux – Caen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam2>
+            <score>1:4</score>
+        </match>
+        <match>
+            <date>29 November, Sunday</date>
+            <link>/en/eventinfo/360628_marseille_monaco/</link>
+            <teams>Marseille – Monaco</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/81.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam2>
+            <score>3:3</score>
+        </match>
+    </round>
+    <round id="16">
+        <match>
+            <date>1 December, Tuesday</date>
+            <link>/en/eventinfo/360632_lorient_nice/</link>
+            <teams>Lorient – Nice</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17042.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>1 December, Tuesday</date>
+            <link>/en/eventinfo/360631_angers_psg/</link>
+            <teams>Angers – PSG</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17015.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>1 December, Tuesday</date>
+            <link>/en/eventinfo/360633_nantes_lyon/</link>
+            <teams>Nantes – Lyon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17296.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>2 December, Wednesday</date>
+            <link>/en/eventinfo/360637_montpellier_gazelec_ajaccio/</link>
+            <teams>Montpellier – Gazelec Ajaccio</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17601.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>2 December, Wednesday</date>
+            <link>/en/eventinfo/360635_guingamp_reims/</link>
+            <teams>Guingamp – Reims</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>2 December, Wednesday</date>
+            <link>/en/eventinfo/360638_bastia_bordeaux/</link>
+            <teams>Bastia – Bordeaux</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>2 December, Wednesday</date>
+            <link>/en/eventinfo/360636_troyes_toulouse/</link>
+            <teams>Troyes – Toulouse</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam2>
+            <score>0:3</score>
+        </match>
+        <match>
+            <date>2 December, Wednesday</date>
+            <link>/en/eventinfo/360634_monaco_caen/</link>
+            <teams>Monaco – Caen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>2 December, Wednesday</date>
+            <link>/en/eventinfo/360639_lille_saint_etienne/</link>
+            <teams>Lille – Saint-Etienne</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17293.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+    </round>
+    <round id="17">
+        <match>
+            <date>4 December, Friday</date>
+            <link>/en/eventinfo/360642_nice_psg/</link>
+            <teams>Nice – PSG</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17042.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17015.gif</logoTeam2>
+            <score>0:3</score>
+        </match>
+        <match>
+            <date>5 December, Saturday</date>
+            <link>/en/eventinfo/360643_lyon_angers/</link>
+            <teams>Lyon – Angers</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17296.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>5 December, Saturday</date>
+            <link>/en/eventinfo/360648_toulouse_lorient/</link>
+            <teams>Toulouse – Lorient</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam2>
+            <score>2:3</score>
+        </match>
+        <match>
+            <date>5 December, Saturday</date>
+            <link>/en/eventinfo/360645_bastia_monaco/</link>
+            <teams>Bastia – Monaco</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>5 December, Saturday</date>
+            <link>/en/eventinfo/360647_reims_troyes/</link>
+            <teams>Reims – Troyes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>5 December, Saturday</date>
+            <link>/en/eventinfo/360646_caen_lille/</link>
+            <teams>Caen – Lille</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>5 December, Saturday</date>
+            <link>/en/eventinfo/360644_gazelec_ajaccio_nantes/</link>
+            <teams>Gazelec Ajaccio – Nantes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17601.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>6 December, Sunday</date>
+            <link>/en/eventinfo/360649_marseille_montpellier/</link>
+            <teams>Marseille – Montpellier</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/81.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>6 December, Sunday</date>
+            <link>/en/eventinfo/360650_bordeaux_guingamp/</link>
+            <teams>Bordeaux – Guingamp</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>6 December, Sunday</date>
+            <link>/en/eventinfo/360651_saint_etienne_rennes/</link>
+            <teams>Saint-Etienne – Rennes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17293.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10221.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+    </round>
+    <round id="18">
+        <match>
+            <date>11 December, Friday</date>
+            <link>/en/eventinfo/360653_rennes_caen/</link>
+            <teams>Rennes – Caen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10221.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>12 December, Saturday</date>
+            <link>/en/eventinfo/360654_reims_nice/</link>
+            <teams>Reims – Nice</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17042.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>12 December, Saturday</date>
+            <link>/en/eventinfo/360658_montpellier_guingamp/</link>
+            <teams>Montpellier – Guingamp</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>12 December, Saturday</date>
+            <link>/en/eventinfo/360656_nantes_toulouse/</link>
+            <teams>Nantes – Toulouse</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>12 December, Saturday</date>
+            <link>/en/eventinfo/360655_troyes_bastia/</link>
+            <teams>Troyes – Bastia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>12 December, Saturday</date>
+            <link>/en/eventinfo/360657_lille_lorient/</link>
+            <teams>Lille – Lorient</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>13 December, Sunday</date>
+            <link>/en/eventinfo/360659_monaco_saint_etienne/</link>
+            <teams>Monaco – Saint-Etienne</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17293.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>13 December, Sunday</date>
+            <link>/en/eventinfo/360661_marseille_gazelec_ajaccio/</link>
+            <teams>Marseille – Gazelec Ajaccio</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/81.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17601.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>13 December, Sunday</date>
+            <link>/en/eventinfo/360660_angers_bordeaux/</link>
+            <teams>Angers – Bordeaux</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+    </round>
+    <round id="19">
+        <match>
+            <date>18 December, Friday</date>
+            <link>/en/eventinfo/364909_nice_montpellier/</link>
+            <teams>Nice – Montpellier</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17042.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>19 December, Saturday</date>
+            <link>/en/eventinfo/364910_caen_psg/</link>
+            <teams>Caen – PSG</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17015.gif</logoTeam2>
+            <score>0:3</score>
+        </match>
+        <match>
+            <date>19 December, Saturday</date>
+            <link>/en/eventinfo/364913_lorient_nantes/</link>
+            <teams>Lorient – Nantes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>19 December, Saturday</date>
+            <link>/en/eventinfo/364911_guingamp_rennes/</link>
+            <teams>Guingamp – Rennes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10221.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>19 December, Saturday</date>
+            <link>/en/eventinfo/364914_bastia_reims/</link>
+            <teams>Bastia – Reims</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>19 December, Saturday</date>
+            <link>/en/eventinfo/364912_troyes_monaco/</link>
+            <teams>Troyes – Monaco</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>19 December, Saturday</date>
+            <link>/en/eventinfo/364915_toulouse_lille/</link>
+            <teams>Toulouse – Lille</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>20 December, Sunday</date>
+            <link>/en/eventinfo/364916_saint_etienne_angers/</link>
+            <teams>Saint-Etienne – Angers</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17293.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>20 December, Sunday</date>
+            <link>/en/eventinfo/364917_gazelec_ajaccio_lyon/</link>
+            <teams>Gazelec Ajaccio – Lyon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17601.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17296.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>20 December, Sunday</date>
+            <link>/en/eventinfo/364918_bordeaux_marseille/</link>
+            <teams>Bordeaux – Marseille</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/81.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+    </round>
+    <round id="20">
+        <match>
+            <date>8 January, Friday</date>
+            <link>/en/eventinfo/370095_psg_bastia/</link>
+            <teams>PSG – Bastia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17015.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>9 January, Saturday</date>
+            <link>/en/eventinfo/370096_lyon_troyes/</link>
+            <teams>Lyon – Troyes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17296.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam2>
+            <score>4:1</score>
+        </match>
+        <match>
+            <date>9 January, Saturday</date>
+            <link>/en/eventinfo/370101_rennes_lorient/</link>
+            <teams>Rennes – Lorient</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10221.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>9 January, Saturday</date>
+            <link>/en/eventinfo/370098_monaco_gazelec_ajaccio/</link>
+            <teams>Monaco – Gazelec Ajaccio</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17601.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>9 January, Saturday</date>
+            <link>/en/eventinfo/370100_reims_toulouse/</link>
+            <teams>Reims – Toulouse</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>9 January, Saturday</date>
+            <link>/en/eventinfo/370099_montpellier_bordeaux/</link>
+            <teams>Montpellier – Bordeaux</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>9 January, Saturday</date>
+            <link>/en/eventinfo/370097_angers_caen/</link>
+            <teams>Angers – Caen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>10 January, Sunday</date>
+            <link>/en/eventinfo/370102_nantes_saint_etienne/</link>
+            <teams>Nantes – Saint-Etienne</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17293.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>10 January, Sunday</date>
+            <link>/en/eventinfo/370103_lille_nice/</link>
+            <teams>Lille – Nice</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17042.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+    </round>
+    <round id="21">
+        <match>
+            <date>15 January, Friday</date>
+            <link>/en/eventinfo/373543_nice_angers/</link>
+            <teams>Nice – Angers</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17042.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>16 January, Saturday</date>
+            <link>/en/eventinfo/373544_toulouse_psg/</link>
+            <teams>Toulouse – PSG</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17015.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>16 January, Saturday</date>
+            <link>/en/eventinfo/373548_gazelec_ajaccio_reims/</link>
+            <teams>Gazelec Ajaccio – Reims</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17601.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>16 January, Saturday</date>
+            <link>/en/eventinfo/373545_guingamp_nantes/</link>
+            <teams>Guingamp – Nantes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>16 January, Saturday</date>
+            <link>/en/eventinfo/373549_bastia_montpellier/</link>
+            <teams>Bastia – Montpellier</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>16 January, Saturday</date>
+            <link>/en/eventinfo/373546_troyes_rennes/</link>
+            <teams>Troyes – Rennes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10221.gif</logoTeam2>
+            <score>2:4</score>
+        </match>
+        <match>
+            <date>16 January, Saturday</date>
+            <link>/en/eventinfo/373547_bordeaux_lille/</link>
+            <teams>Bordeaux – Lille</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>17 January, Sunday</date>
+            <link>/en/eventinfo/373550_lorient_monaco/</link>
+            <teams>Lorient – Monaco</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>17 January, Sunday</date>
+            <link>/en/eventinfo/373551_caen_marseille/</link>
+            <teams>Caen – Marseille</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/81.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>17 January, Sunday</date>
+            <link>/en/eventinfo/373552_saint_etienne_lyon/</link>
+            <teams>Saint-Etienne – Lyon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17293.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17296.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+    </round>
+    <round id="22">
+        <match>
+            <date>22 January, Friday</date>
+            <link>/en/eventinfo/377725_rennes_gazelec_ajaccio/</link>
+            <teams>Rennes – Gazelec Ajaccio</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10221.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17601.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>23 January, Saturday</date>
+            <link>/en/eventinfo/377726_psg_angers/</link>
+            <teams>PSG – Angers</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17015.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam2>
+            <score>5:1</score>
+        </match>
+        <match>
+            <date>23 January, Saturday</date>
+            <link>/en/eventinfo/377730_montpellier_caen/</link>
+            <teams>Montpellier – Caen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>23 January, Saturday</date>
+            <link>/en/eventinfo/377727_guingamp_bastia/</link>
+            <teams>Guingamp – Bastia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>23 January, Saturday</date>
+            <link>/en/eventinfo/377728_nantes_bordeaux/</link>
+            <teams>Nantes – Bordeaux</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>23 January, Saturday</date>
+            <link>/en/eventinfo/377731_nice_lorient/</link>
+            <teams>Nice – Lorient</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17042.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>23 January, Saturday</date>
+            <link>/en/eventinfo/377729_lille_troyes/</link>
+            <teams>Lille – Troyes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>24 January, Sunday</date>
+            <link>/en/eventinfo/377732_monaco_toulouse/</link>
+            <teams>Monaco – Toulouse</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam2>
+            <score>4:0</score>
+        </match>
+        <match>
+            <date>24 January, Sunday</date>
+            <link>/en/eventinfo/377733_reims_saint_etienne/</link>
+            <teams>Reims – Saint-Etienne</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17293.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+    </round>
+    <round id="23">
+        <match>
+            <date>29 January, Friday</date>
+            <link>/en/eventinfo/377736_marseille_lille/</link>
+            <teams>Marseille – Lille</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/81.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>30 January, Saturday</date>
+            <link>/en/eventinfo/377737_angers_monaco/</link>
+            <teams>Angers – Monaco</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>30 January, Saturday</date>
+            <link>/en/eventinfo/377742_toulouse_guingamp/</link>
+            <teams>Toulouse – Guingamp</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>30 January, Saturday</date>
+            <link>/en/eventinfo/377738_troyes_nantes/</link>
+            <teams>Troyes – Nantes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>30 January, Saturday</date>
+            <link>/en/eventinfo/377741_bastia_lyon/</link>
+            <teams>Bastia – Lyon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17296.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>30 January, Saturday</date>
+            <link>/en/eventinfo/377740_gazelec_ajaccio_montpellier/</link>
+            <teams>Gazelec Ajaccio – Montpellier</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17601.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam2>
+            <score>0:4</score>
+        </match>
+        <match>
+            <date>30 January, Saturday</date>
+            <link>/en/eventinfo/377739_lorient_reims/</link>
+            <teams>Lorient – Reims</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>31 January, Sunday</date>
+            <link>/en/eventinfo/377743_caen_nice/</link>
+            <teams>Caen – Nice</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17042.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>31 January, Sunday</date>
+            <link>/en/eventinfo/377744_bordeaux_rennes/</link>
+            <teams>Bordeaux – Rennes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10221.gif</logoTeam2>
+            <score>4:0</score>
+        </match>
+        <match>
+            <date>31 January, Sunday</date>
+            <link>/en/eventinfo/377745_saint_etienne_psg/</link>
+            <teams>Saint-Etienne – PSG</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17293.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17015.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+    </round>
+    <round id="24">
+        <match>
+            <date>2 February, Tuesday</date>
+            <link>/en/eventinfo/380437_monaco_bastia/</link>
+            <teams>Monaco – Bastia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>2 February, Tuesday</date>
+            <link>/en/eventinfo/380438_montpellier_marseille/</link>
+            <teams>Montpellier – Marseille</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/81.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>3 February, Wednesday</date>
+            <link>/en/eventinfo/380439_guingamp_troyes/</link>
+            <teams>Guingamp – Troyes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam2>
+            <score>4:0</score>
+        </match>
+        <match>
+            <date>3 February, Wednesday</date>
+            <link>/en/eventinfo/380444_reims_angers/</link>
+            <teams>Reims – Angers</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>3 February, Wednesday</date>
+            <link>/en/eventinfo/380440_nantes_gazelec_ajaccio/</link>
+            <teams>Nantes – Gazelec Ajaccio</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17601.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>3 February, Wednesday</date>
+            <link>/en/eventinfo/380442_nice_toulouse/</link>
+            <teams>Nice – Toulouse</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17042.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>3 February, Wednesday</date>
+            <link>/en/eventinfo/380441_lille_caen/</link>
+            <teams>Lille – Caen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>3 February, Wednesday</date>
+            <link>/en/eventinfo/380443_lyon_bordeaux/</link>
+            <teams>Lyon – Bordeaux</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17296.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>3 February, Wednesday</date>
+            <link>/en/eventinfo/380445_psg_lorient/</link>
+            <teams>PSG – Lorient</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17015.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+    </round>
+    <round id="25">
+        <match>
+            <date>6 February, Saturday</date>
+            <link>/en/eventinfo/380449_monaco_nice/</link>
+            <teams>Monaco – Nice</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17042.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>6 February, Saturday</date>
+            <link>/en/eventinfo/380450_angers_lyon/</link>
+            <teams>Angers – Lyon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17296.gif</logoTeam2>
+            <score>0:3</score>
+        </match>
+        <match>
+            <date>6 February, Saturday</date>
+            <link>/en/eventinfo/380455_toulouse_nantes/</link>
+            <teams>Toulouse – Nantes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>6 February, Saturday</date>
+            <link>/en/eventinfo/380453_bastia_troyes/</link>
+            <teams>Bastia – Troyes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>6 February, Saturday</date>
+            <link>/en/eventinfo/380454_caen_reims/</link>
+            <teams>Caen – Reims</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>6 February, Saturday</date>
+            <link>/en/eventinfo/380452_gazelec_ajaccio_guingamp/</link>
+            <teams>Gazelec Ajaccio – Guingamp</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17601.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>6 February, Saturday</date>
+            <link>/en/eventinfo/380451_lorient_montpellier/</link>
+            <teams>Lorient – Montpellier</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>7 February, Sunday</date>
+            <link>/en/eventinfo/380456_lille_rennes/</link>
+            <teams>Lille – Rennes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10221.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>7 February, Sunday</date>
+            <link>/en/eventinfo/380457_bordeaux_saint_etienne/</link>
+            <teams>Bordeaux – Saint-Etienne</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17293.gif</logoTeam2>
+            <score>1:4</score>
+        </match>
+        <match>
+            <date>7 February, Sunday</date>
+            <link>/en/eventinfo/380458_marseille_psg/</link>
+            <teams>Marseille – PSG</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/81.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17015.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+    </round>
+    <round id="26">
+        <match>
+            <date>12 February, Friday</date>
+            <link>/en/eventinfo/383474_rennes_angers/</link>
+            <teams>Rennes – Angers</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10221.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>13 February, Saturday</date>
+            <link>/en/eventinfo/383475_psg_lille/</link>
+            <teams>PSG – Lille</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17015.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>13 February, Saturday</date>
+            <link>/en/eventinfo/383479_montpellier_toulouse/</link>
+            <teams>Montpellier – Toulouse</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>13 February, Saturday</date>
+            <link>/en/eventinfo/383477_guingamp_bordeaux/</link>
+            <teams>Guingamp – Bordeaux</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam2>
+            <score>2:4</score>
+        </match>
+        <match>
+            <date>13 February, Saturday</date>
+            <link>/en/eventinfo/383480_reims_bastia/</link>
+            <teams>Reims – Bastia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>13 February, Saturday</date>
+            <link>/en/eventinfo/383478_nantes_lorient/</link>
+            <teams>Nantes – Lorient</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>13 February, Saturday</date>
+            <link>/en/eventinfo/383476_troyes_gazelec_ajaccio/</link>
+            <teams>Troyes – Gazelec Ajaccio</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17601.gif</logoTeam2>
+            <score>3:2</score>
+        </match>
+        <match>
+            <date>14 February, Sunday</date>
+            <link>/en/eventinfo/383481_lyon_caen/</link>
+            <teams>Lyon – Caen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17296.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam2>
+            <score>4:1</score>
+        </match>
+        <match>
+            <date>14 February, Sunday</date>
+            <link>/en/eventinfo/383482_saint_etienne_monaco/</link>
+            <teams>Saint-Etienne – Monaco</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17293.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+    </round>
+    <round id="27">
+        <match>
+            <date>19 February, Friday</date>
+            <link>/en/eventinfo/383485_bordeaux_nice/</link>
+            <teams>Bordeaux – Nice</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17042.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>20 February, Saturday</date>
+            <link>/en/eventinfo/383486_psg_reims/</link>
+            <teams>PSG – Reims</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17015.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam2>
+            <score>4:1</score>
+        </match>
+        <match>
+            <date>20 February, Saturday</date>
+            <link>/en/eventinfo/383489_lorient_guingamp/</link>
+            <teams>Lorient – Guingamp</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam2>
+            <score>4:3</score>
+        </match>
+        <match>
+            <date>20 February, Saturday</date>
+            <link>/en/eventinfo/383487_angers_montpellier/</link>
+            <teams>Angers – Montpellier</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam2>
+            <score>2:3</score>
+        </match>
+        <match>
+            <date>20 February, Saturday</date>
+            <link>/en/eventinfo/383488_monaco_troyes/</link>
+            <teams>Monaco – Troyes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>20 February, Saturday</date>
+            <link>/en/eventinfo/383491_toulouse_gazelec_ajaccio/</link>
+            <teams>Toulouse – Gazelec Ajaccio</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17601.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>21 February, Sunday</date>
+            <link>/en/eventinfo/383492_marseille_saint_etienne/</link>
+            <teams>Marseille – Saint-Etienne</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/81.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17293.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>21 February, Sunday</date>
+            <link>/en/eventinfo/383493_caen_rennes/</link>
+            <teams>Caen – Rennes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10221.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>21 February, Sunday</date>
+            <link>/en/eventinfo/383494_lille_lyon/</link>
+            <teams>Lille – Lyon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17296.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>9 March, Wednesday</date>
+            <link>/en/eventinfo/383490_bastia_nantes/</link>
+            <teams>Bastia – Nantes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+    </round>
+    <round id="28">
+        <match>
+            <date>26 February, Friday</date>
+            <link>/en/eventinfo/383496_nice_bastia/</link>
+            <teams>Nice – Bastia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17042.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>27 February, Saturday</date>
+            <link>/en/eventinfo/383497_montpellier_lille/</link>
+            <teams>Montpellier – Lille</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>27 February, Saturday</date>
+            <link>/en/eventinfo/383501_toulouse_rennes/</link>
+            <teams>Toulouse – Rennes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10221.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>27 February, Saturday</date>
+            <link>/en/eventinfo/383499_troyes_lorient/</link>
+            <teams>Troyes – Lorient</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>27 February, Saturday</date>
+            <link>/en/eventinfo/383500_reims_bordeaux/</link>
+            <teams>Reims – Bordeaux</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam2>
+            <score>4:1</score>
+        </match>
+        <match>
+            <date>27 February, Saturday</date>
+            <link>/en/eventinfo/383498_guingamp_angers/</link>
+            <teams>Guingamp – Angers</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>28 February, Sunday</date>
+            <link>/en/eventinfo/383502_nantes_monaco/</link>
+            <teams>Nantes – Monaco</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>28 February, Sunday</date>
+            <link>/en/eventinfo/383503_saint_etienne_caen/</link>
+            <teams>Saint-Etienne – Caen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17293.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>28 February, Sunday</date>
+            <link>/en/eventinfo/383505_lyon_psg/</link>
+            <teams>Lyon – PSG</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17296.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17015.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+    </round>
+    <round id="29">
+        <match>
+            <date>4 March, Friday</date>
+            <link>/en/eventinfo/389837_caen_monaco/</link>
+            <teams>Caen – Monaco</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>5 March, Saturday</date>
+            <link>/en/eventinfo/389838_psg_montpellier/</link>
+            <teams>PSG – Montpellier</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17015.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>5 March, Saturday</date>
+            <link>/en/eventinfo/389840_bordeaux_gazelec_ajaccio/</link>
+            <teams>Bordeaux – Gazelec Ajaccio</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17601.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>5 March, Saturday</date>
+            <link>/en/eventinfo/389842_nice_troyes/</link>
+            <teams>Nice – Troyes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17042.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>5 March, Saturday</date>
+            <link>/en/eventinfo/389843_bastia_lorient/</link>
+            <teams>Bastia – Lorient</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>5 March, Saturday</date>
+            <link>/en/eventinfo/389839_angers_saint_etienne/</link>
+            <teams>Angers – Saint-Etienne</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17293.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>5 March, Saturday</date>
+            <link>/en/eventinfo/389841_lille_reims/</link>
+            <teams>Lille – Reims</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>6 March, Sunday</date>
+            <link>/en/eventinfo/389844_marseille_toulouse/</link>
+            <teams>Marseille – Toulouse</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/81.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>6 March, Sunday</date>
+            <link>/en/eventinfo/389845_rennes_nantes/</link>
+            <teams>Rennes – Nantes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10221.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam2>
+            <score>4:1</score>
+        </match>
+        <match>
+            <date>6 March, Sunday</date>
+            <link>/en/eventinfo/389846_lyon_guingamp/</link>
+            <teams>Lyon – Guingamp</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17296.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam2>
+            <score>5:1</score>
+        </match>
+    </round>
+    <round id="30">
+        <match>
+            <date>11 March, Friday</date>
+            <link>/en/eventinfo/392770_monaco_reims/</link>
+            <teams>Monaco – Reims</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>12 March, Saturday</date>
+            <link>/en/eventinfo/392771_lorient_marseille/</link>
+            <teams>Lorient – Marseille</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/81.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>12 March, Saturday</date>
+            <link>/en/eventinfo/392773_gazelec_ajaccio_caen/</link>
+            <teams>Gazelec Ajaccio – Caen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17601.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>12 March, Saturday</date>
+            <link>/en/eventinfo/392774_montpellier_nice/</link>
+            <teams>Montpellier – Nice</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17042.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>12 March, Saturday</date>
+            <link>/en/eventinfo/392772_guingamp_saint_etienne/</link>
+            <teams>Guingamp – Saint-Etienne</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17293.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>12 March, Saturday</date>
+            <link>/en/eventinfo/392775_bastia_lille/</link>
+            <teams>Bastia – Lille</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>12 March, Saturday</date>
+            <link>/en/eventinfo/392776_toulouse_bordeaux/</link>
+            <teams>Toulouse – Bordeaux</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam2>
+            <score>4:0</score>
+        </match>
+        <match>
+            <date>13 March, Sunday</date>
+            <link>/en/eventinfo/392777_troyes_psg/</link>
+            <teams>Troyes – PSG</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17015.gif</logoTeam2>
+            <score>0:9</score>
+        </match>
+        <match>
+            <date>13 March, Sunday</date>
+            <link>/en/eventinfo/392778_nantes_angers/</link>
+            <teams>Nantes – Angers</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+    </round>
+    <round id="31">
+        <match>
+            <date>18 March, Friday</date>
+            <link>/en/eventinfo/392781_marseille_rennes/</link>
+            <teams>Marseille – Rennes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/81.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10221.gif</logoTeam2>
+            <score>2:5</score>
+        </match>
+        <match>
+            <date>19 March, Saturday</date>
+            <link>/en/eventinfo/392782_saint_etienne_montpellier/</link>
+            <teams>Saint-Etienne – Montpellier</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17293.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>19 March, Saturday</date>
+            <link>/en/eventinfo/392785_caen_troyes/</link>
+            <teams>Caen – Troyes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>19 March, Saturday</date>
+            <link>/en/eventinfo/392783_angers_lorient/</link>
+            <teams>Angers – Lorient</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam2>
+            <score>5:1</score>
+        </match>
+        <match>
+            <date>19 March, Saturday</date>
+            <link>/en/eventinfo/392786_reims_guingamp/</link>
+            <teams>Reims – Guingamp</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>19 March, Saturday</date>
+            <link>/en/eventinfo/392784_lille_toulouse/</link>
+            <teams>Lille – Toulouse</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>19 March, Saturday</date>
+            <link>/en/eventinfo/392787_lyon_nantes/</link>
+            <teams>Lyon – Nantes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17296.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>20 March, Sunday</date>
+            <link>/en/eventinfo/392788_bordeaux_bastia/</link>
+            <teams>Bordeaux – Bastia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>20 March, Sunday</date>
+            <link>/en/eventinfo/392789_nice_gazelec_ajaccio/</link>
+            <teams>Nice – Gazelec Ajaccio</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17042.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17601.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>20 March, Sunday</date>
+            <link>/en/eventinfo/392790_psg_monaco/</link>
+            <teams>PSG – Monaco</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17015.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+    </round>
+    <round id="32">
+        <match>
+            <date>1 April, Friday</date>
+            <link>/en/eventinfo/400904_monaco_bordeaux/</link>
+            <teams>Monaco – Bordeaux</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>2 April, Saturday</date>
+            <link>/en/eventinfo/400905_psg_nice/</link>
+            <teams>PSG – Nice</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17015.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17042.gif</logoTeam2>
+            <score>4:1</score>
+        </match>
+        <match>
+            <date>2 April, Saturday</date>
+            <link>/en/eventinfo/400909_rennes_reims/</link>
+            <teams>Rennes – Reims</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10221.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam2>
+            <score>3:1</score>
+        </match>
+        <match>
+            <date>2 April, Saturday</date>
+            <link>/en/eventinfo/400910_toulouse_caen/</link>
+            <teams>Toulouse – Caen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam2>
+            <score>2:0</score>
+        </match>
+        <match>
+            <date>2 April, Saturday</date>
+            <link>/en/eventinfo/400907_troyes_angers/</link>
+            <teams>Troyes – Angers</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>2 April, Saturday</date>
+            <link>/en/eventinfo/400906_guingamp_montpellier/</link>
+            <teams>Guingamp – Montpellier</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam2>
+            <score>2:2</score>
+        </match>
+        <match>
+            <date>2 April, Saturday</date>
+            <link>/en/eventinfo/400908_gazelec_ajaccio_saint_etienne/</link>
+            <teams>Gazelec Ajaccio – Saint-Etienne</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17601.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17293.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>3 April, Sunday</date>
+            <link>/en/eventinfo/400911_nantes_lille/</link>
+            <teams>Nantes – Lille</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam2>
+            <score>0:3</score>
+        </match>
+        <match>
+            <date>3 April, Sunday</date>
+            <link>/en/eventinfo/400912_bastia_marseille/</link>
+            <teams>Bastia – Marseille</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/81.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+    </round>
+    <round id="33">
+        <match>
+            <date>8 April, Friday</date>
+            <link>/en/eventinfo/400915_montpellier_lyon/</link>
+            <teams>Montpellier – Lyon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17296.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>9 April, Saturday</date>
+            <link>/en/eventinfo/400916_guingamp_psg/</link>
+            <teams>Guingamp – PSG</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17015.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>9 April, Saturday</date>
+            <link>/en/eventinfo/400919_caen_lorient/</link>
+            <teams>Caen – Lorient</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam2>
+            <score>1:2</score>
+        </match>
+        <match>
+            <date>9 April, Saturday</date>
+            <link>/en/eventinfo/400917_angers_gazelec_ajaccio/</link>
+            <teams>Angers – Gazelec Ajaccio</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17601.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+        <match>
+            <date>9 April, Saturday</date>
+            <link>/en/eventinfo/400920_reims_nantes/</link>
+            <teams>Reims – Nantes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>9 April, Saturday</date>
+            <link>/en/eventinfo/400918_saint_etienne_troyes/</link>
+            <teams>Saint-Etienne – Troyes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17293.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam2>
+            <score>1:0</score>
+        </match>
+        <match>
+            <date>9 April, Saturday</date>
+            <link>/en/eventinfo/400921_toulouse_bastia/</link>
+            <teams>Toulouse – Bastia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam2>
+            <score>4:0</score>
+        </match>
+        <match>
+            <date>10 April, Sunday</date>
+            <link>/en/eventinfo/400922_lille_monaco/</link>
+            <teams>Lille – Monaco</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam2>
+            <score>4:1</score>
+        </match>
+        <match>
+            <date>10 April, Sunday</date>
+            <link>/en/eventinfo/400923_nice_rennes/</link>
+            <teams>Nice – Rennes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17042.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10221.gif</logoTeam2>
+            <score>3:0</score>
+        </match>
+        <match>
+            <date>10 April, Sunday</date>
+            <link>/en/eventinfo/400924_marseille_bordeaux/</link>
+            <teams>Marseille – Bordeaux</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/81.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam2>
+            <score>0:0</score>
+        </match>
+    </round>
+    <round id="34">
+        <match>
+            <date>15 April, Friday</date>
+            <link>/en/eventinfo/403720_lyon_nice/</link>
+            <teams>Lyon – Nice</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17296.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17042.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>16 April, Saturday</date>
+            <link>/en/eventinfo/403721_psg_caen/</link>
+            <teams>PSG – Caen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17015.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam2>
+            <score>6:0</score>
+        </match>
+        <match>
+            <date>16 April, Saturday</date>
+            <link>/en/eventinfo/403724_lorient_toulouse/</link>
+            <teams>Lorient – Toulouse</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam2>
+            <score>1:1</score>
+        </match>
+        <match>
+            <date>16 April, Saturday</date>
+            <link>/en/eventinfo/403725_gazelec_ajaccio_lille/</link>
+            <teams>Gazelec Ajaccio – Lille</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17601.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam2>
+            <score>2:4</score>
+        </match>
+        <match>
+            <date>16 April, Saturday</date>
+            <link>/en/eventinfo/403726_bastia_saint_etienne/</link>
+            <teams>Bastia – Saint-Etienne</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17293.gif</logoTeam2>
+            <score>0:1</score>
+        </match>
+        <match>
+            <date>16 April, Saturday</date>
+            <link>/en/eventinfo/403722_troyes_reims/</link>
+            <teams>Troyes – Reims</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam2>
+            <score>2:1</score>
+        </match>
+        <match>
+            <date>16 April, Saturday</date>
+            <link>/en/eventinfo/403723_bordeaux_angers/</link>
+            <teams>Bordeaux – Angers</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam2>
+            <score>1:3</score>
+        </match>
+        <match>
+            <date>17 April, Sunday</date>
+            <link>/en/eventinfo/403727_nantes_montpellier/</link>
+            <teams>Nantes – Montpellier</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam2>
+            <score>0:2</score>
+        </match>
+        <match>
+            <date>17 April, Sunday</date>
+            <link>/en/eventinfo/403728_rennes_guingamp/</link>
+            <teams>Rennes – Guingamp</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10221.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+    </round>
+    <round id="35">
+        <match>
+            <date>23 April, Saturday</date>
+            <link></link>
+            <teams>Nice – Reims</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17042.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>23 April, Saturday</date>
+            <link></link>
+            <teams>Guingamp – Caen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>23 April, Saturday</date>
+            <link></link>
+            <teams>Montpellier – Troyes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>23 April, Saturday</date>
+            <link></link>
+            <teams>Gazelec Ajaccio – Bastia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17601.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>23 April, Saturday</date>
+            <link></link>
+            <teams>Lille – Angers</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>23 April, Saturday</date>
+            <link></link>
+            <teams>Saint-Etienne – Lorient</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17293.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>23 April, Saturday</date>
+            <link></link>
+            <teams>Toulouse – Lyon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17296.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>23 April, Saturday</date>
+            <link></link>
+            <teams>Rennes – Monaco</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10221.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>23 April, Saturday</date>
+            <link></link>
+            <teams>Marseille – Nantes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/81.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>23 April, Saturday</date>
+            <link></link>
+            <teams>Bordeaux – PSG</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17015.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+    </round>
+    <round id="36">
+        <match>
+            <date>29 April, Friday</date>
+            <link></link>
+            <teams>Reims – Montpellier</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>29 April, Friday</date>
+            <link></link>
+            <teams>Angers – Marseille</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/81.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>29 April, Friday</date>
+            <link></link>
+            <teams>Caen – Bastia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>29 April, Friday</date>
+            <link></link>
+            <teams>Lorient – Lille</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>29 April, Friday</date>
+            <link></link>
+            <teams>Nantes – Nice</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17042.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>29 April, Friday</date>
+            <link></link>
+            <teams>Troyes – Bordeaux</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>29 April, Friday</date>
+            <link></link>
+            <teams>Monaco – Guingamp</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>29 April, Friday</date>
+            <link></link>
+            <teams>Saint-Etienne – Toulouse</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17293.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>29 April, Friday</date>
+            <link></link>
+            <teams>Lyon – Gazelec Ajaccio</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17296.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17601.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+    </round>
+    <round id="37">
+        <match>
+            <date>6 May, Friday</date>
+            <link></link>
+            <teams>Nantes – Caen</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>6 May, Friday</date>
+            <link></link>
+            <teams>Bastia – Angers</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>6 May, Friday</date>
+            <link></link>
+            <teams>Montpellier – Rennes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10221.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>6 May, Friday</date>
+            <link></link>
+            <teams>Gazelec Ajaccio – PSG</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17601.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17015.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>6 May, Friday</date>
+            <link></link>
+            <teams>Nice – Saint-Etienne</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17042.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17293.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>6 May, Friday</date>
+            <link></link>
+            <teams>Lille – Guingamp</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>6 May, Friday</date>
+            <link></link>
+            <teams>Toulouse – Troyes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>6 May, Friday</date>
+            <link></link>
+            <teams>Marseille – Reims</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/81.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>6 May, Friday</date>
+            <link></link>
+            <teams>Bordeaux – Lorient</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10244.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>6 May, Friday</date>
+            <link></link>
+            <teams>Lyon – Monaco</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17296.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+    </round>
+    <round id="38">
+        <match>
+            <date>13 May, Friday</date>
+            <link></link>
+            <teams>Caen – Bordeaux</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17030.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17291.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>13 May, Friday</date>
+            <link></link>
+            <teams>Angers – Toulouse</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17600.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17294.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>13 May, Friday</date>
+            <link></link>
+            <teams>Guingamp – Nice</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10570.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17042.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>13 May, Friday</date>
+            <link></link>
+            <teams>Reims – Lyon</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10575.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17296.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>13 May, Friday</date>
+            <link></link>
+            <teams>Troyes – Marseille</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/3312.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/81.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>13 May, Friday</date>
+            <link></link>
+            <teams>Monaco – Montpellier</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17016.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/10291.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>13 May, Friday</date>
+            <link></link>
+            <teams>Saint-Etienne – Lille</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17293.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/13504.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>13 May, Friday</date>
+            <link></link>
+            <teams>Rennes – Bastia</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/10221.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/17295.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+        <match>
+            <date>13 May, Friday</date>
+            <link></link>
+            <teams>PSG – Nantes</teams>
+            <logoTeam1>http://cdn.livetvcdn.net/img/teams/18/17015.gif</logoTeam1>
+            <logoTeam2>http://cdn.livetvcdn.net/img/teams/18/21156.gif</logoTeam2>
+            <score>- : -</score>
+        </match>
+    </round>
+</calendar>

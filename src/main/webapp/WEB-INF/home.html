@@ -9,51 +9,101 @@ and open the template in the editor.
     </ons-sliding-menu>
     <ons-template id="page-home">
         <ons-page>
-            <ons-toolbar>
-              <div class="left">
-                <ons-toolbar-button ng-click="menu.toggleMenu()">
-                  <ons-icon icon="ion-navicon" style="font-size: 32px; width: 1em;"></ons-icon>
-                </ons-toolbar-button>
-              </div>
-              <div class="center">Upcoming Events</div>
-            </ons-toolbar>
-                <ons-pull-hook ng-action="load($done)" var="loader">
-                <span ng-switch="loader.getCurrentState()">
-                      <span ng-switch-when="initial"><ons-icon size="35px" icon="ion-arrow-down-a"></ons-icon> Pull down to refresh</span>
-                <span ng-switch-when="preaction"><ons-icon size="35px" icon="ion-arrow-up-a"></ons-icon> Release to refresh</span>
-                <span ng-switch-when="action"><ons-icon size="35px" spin="true" icon="ion-load-d"></ons-icon> Loading data...</span>
-                </span>
-              </ons-pull-hook>
-                <ons-list ng-repeat="(kind,value) in Events | byKind:kindfilters" style="text-align: center; color: #999;">
+                <md-toolbar>
+                    <div class="md-toolbar-tools" ng-show="!showSearch">
+                        <md-button class="md-icon-button" ng-click="menu.toggleMenu()" aria-label="Menu">
+                            <i class="material-icons">menu</i>
+                        </md-button>
+                        <h3>
+                            Upcoming Events
+                        </h3>
+                        <span flex></span>
+                        <md-button class="md-icon-button"  aria-label="Search" ng-click="showSearch = !showSearch">
+                            <i class="material-icons">search</i>
+                        </md-button>
+                    </div>
+                    <div class="md-toolbar-tools" ng-show="showSearch">
+                        <md-button class="md-icon-button" ng-click="showSearch = !showSearch" aria-label="Back">
+                            <i class="material-icons">arrow_back</i>
+                        </md-button>
+                        <md-autocomplete flex="" ng-disabled="false"
+                                         md-selected-item="selectedItem"
+                                         md-search-text="searchText" md-search-text-change="querySearch(searchText)"
+                                         md-items="item in querySearch(searchText)" md-min-length="1" md-item-text="item.matches"
+                                         placeholder="Enter video keyword (team, match, kind)">
+                            <md-item-template>
+                                <md-content ng-click="goToHighlight(item.highlightLink)">
+                                    <span class="item-title">
+                                        <i class="material-icons">video_library</i>
+                                        <span> {{item.matches}} </span>
 
-                    <ons-list-header style="padding: 10px; font-size: 16px; text-align: center;">{{kind}}</ons-list-header>
-                    <ons-list-item modifier="chevron" class="list-item-container" ng-repeat="Event in value" ng-click="onSelectItem(Event)">
-                        <ons-row>
-                            <ons-col width="95px">
-                              <img src="{{Event.image}}" >
-                            </ons-col>
-                            <ons-col width="95px">
-                              <div class="location" ng-class="Event.live ? 'red' : 'normal'">
-                                <i class="fa fa-clock-o"></i> {{Event.time}}
-                              </div>
-                            </ons-col>
-                            <ons-col width="95px" >
-                                    <div class="location">
-                                            <img ng-show="Event.live" src="lib/img/live-logo.jpg" width="30px" height="20px">
-                                    </div>
-                            </ons-col>
-                            <ons-col>
-                              <div class="name">
-                                {{Event.match}}
-                              </div>
-                              <div class="desc">
-                                ({{Event.tournament}})
-                              </div>
-                            </ons-col>
-                            <ons-col width="40px"></ons-col>
-                        </ons-row>
-                    </ons-list-item>
-                </ons-list>
+                                        <i class="material-icons">access_time</i>
+                                        <span> {{item.time}} {{item.date}}</span>
+
+
+                                      </span>
+                                    <br/>
+                                    <span class="item-metadata">
+                                        <i class="fa fa-trophy" aria-hidden="true"></i>
+                                        <span>{{item.tournament}}</span>
+                                        <span class="item-metastat">
+                                          <strong>{{item.watchers}}</strong> watchers
+                                        </span>
+                                    </span>
+                                </md-content>
+
+                            </md-item-template>
+                            <md-not-found>
+                                No states matching "{{searchText}}" were found.
+                                <a ng-click="newState(searchText)">Create a new one!</a>
+                            </md-not-found>
+                        </md-autocomplete>
+                        <md-button class="md-icon-button" aria-label="Search" ng-click="showSearch = !showSearch; $nav.pushPage('searchResult.html',{param: searchText});">
+                            <i class="material-icons">search</i>
+                        </md-button>
+                    </div>
+                </md-toolbar>
+                <ons-scroller>
+                    <ons-pull-hook ng-action="load($done)" var="loader">
+                        <span ng-switch="loader.getCurrentState()">
+                              <span ng-switch-when="initial"><ons-icon size="35px" icon="ion-arrow-down-a"></ons-icon> Pull down to refresh</span>
+                        <span ng-switch-when="preaction"><ons-icon size="35px" icon="ion-arrow-up-a"></ons-icon> Release to refresh</span>
+                        <span ng-switch-when="action"><ons-icon size="35px" spin="true" icon="ion-load-d"></ons-icon> Loading data...</span>
+                        </span>
+                    </ons-pull-hook>
+                    <md-content flex md-scroll-y>
+                        <ons-list ng-repeat="(kind,value) in Events | byKind:kindfilters" style="text-align: center; color: #999;">
+
+                            <ons-list-header style="padding: 10px; font-size: 16px; text-align: center;">{{kind}}</ons-list-header>
+                            <ons-list-item modifier="chevron" class="list-item-container" ng-repeat="Event in value" ng-click="onSelectItem(Event)">
+                                <ons-row>
+                                    <ons-col width="95px">
+                                      <img src="{{Event.image}}" >
+                                    </ons-col>
+                                    <ons-col width="95px">
+                                      <div class="location" ng-class="Event.live ? 'red' : 'normal'">
+                                        <i class="fa fa-clock-o"></i> {{Event.time}}
+                                      </div>
+                                    </ons-col>
+                                    <ons-col width="95px" >
+                                            <div class="location">
+                                                    <img ng-show="Event.live" src="lib/img/live-logo.jpg" width="30px" height="20px">
+                                            </div>
+                                    </ons-col>
+                                    <ons-col>
+                                      <div class="name">
+                                        {{Event.match}}
+                                      </div>
+                                      <div class="desc">
+                                        ({{Event.tournament}})
+                                      </div>
+                                    </ons-col>
+                                    <ons-col width="40px"></ons-col>
+                                </ons-row>
+                            </ons-list-item>
+                        </ons-list>
+                    </md-content>
+                </ons-scroller>
             </ons-page>
         </ons-template>
       </ons-page>
