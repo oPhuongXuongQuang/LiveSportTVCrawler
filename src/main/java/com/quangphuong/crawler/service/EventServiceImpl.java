@@ -11,8 +11,16 @@ import com.quangphuong.crawler.dto.EventDetail;
 import com.quangphuong.crawler.util.AppConstant;
 import com.quangphuong.crawler.util.Crawler;
 import com.quangphuong.crawler.util.Getter;
+import com.quangphuong.crawler.util.XMLUtil;
+import java.io.ByteArrayOutputStream;
+import java.io.File;
+import java.io.IOException;
+import java.io.OutputStream;
 
 import java.util.List;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+import org.apache.commons.lang3.RandomStringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -63,5 +71,18 @@ public class EventServiceImpl implements EventService{
                 return AppConstant.BrazilCalendar;
         }
         return "";
+    }
+
+    @Override
+    public ByteArrayOutputStream printCalendar(String id) {
+        try {
+            String calendar = idToCalendar(id);
+            String filename = String.format("%s.%s",RandomStringUtils.randomAlphanumeric(10),"pdf");
+            ByteArrayOutputStream out = XMLUtil.convertToPDF(calendar, AppConstant.calendarXSL, filename);
+            return out;
+        } catch (IOException ex) {
+            Logger.getLogger(EventServiceImpl.class.getName()).log(Level.SEVERE, null, ex);
+        }
+        return null;
     }
 }

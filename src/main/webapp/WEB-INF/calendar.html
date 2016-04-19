@@ -15,6 +15,9 @@
             <md-button class="md-icon-button"  aria-label="Search" ng-click="showSearch = !showSearch">
                 <i class="material-icons">search</i>
             </md-button>
+            <md-button class="md-icon-button" aria-label="Print" ng-click="printCalendar()">
+                <i class="material-icons">print</i>
+            </md-button>
         </div>
         <div class="md-toolbar-tools" ng-show="showSearch">
             <md-button class="md-icon-button" ng-click="showSearch = !showSearch" aria-label="Back">
@@ -55,6 +58,9 @@
             </md-autocomplete>
             <md-button class="md-icon-button" aria-label="Search" ng-click="showSearch = !showSearch; $nav.pushPage('searchResult.html',{param: searchText});">
                 <i class="material-icons">search</i>
+            </md-button>
+            <md-button class="md-icon-button" aria-label="Print" ng-click="printCalendar()">
+                <i class="material-icons">print</i>
             </md-button>
         </div>
 

@@ -53,6 +53,9 @@ module.service('$service', function ($http, $q, $timeout) {
             },
             loadCalendar: {
                 path: "/loadCalendar.htm"
+            },
+            printCalendar: {
+                path: "/printCalendar.htm"
             }
         }
     };

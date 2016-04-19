@@ -5,6 +5,7 @@
  */
 package com.quangphuong.crawler.util;
 
+import java.io.ByteArrayOutputStream;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -76,14 +77,14 @@ public class XMLUtil {
         return null;
     }
     
-    public OutputStream convertToPDF(String xmlPath, String xsltInputPath, String pdfOutputPath){
+    public static ByteArrayOutputStream convertToPDF(String xmlPath, String xsltInputPath, String pdfOutputPath) throws IOException{
         File xsltFile = new File(xsltInputPath);
         StreamSource xmlSource = new StreamSource(new File(xmlPath));
         FopFactory fopFactory = FopFactory.newInstance(new File(".").toURI());
         FOUserAgent foUserAgent = fopFactory.newFOUserAgent();
-        OutputStream out = null;
+        ByteArrayOutputStream out = null;
         try {
-            out = new FileOutputStream(pdfOutputPath);
+            out = new ByteArrayOutputStream();
             Fop fop = fopFactory.newFop(MimeConstants.MIME_PDF, foUserAgent, out);
             TransformerFactory factory = TransformerFactory.newInstance();
             Transformer transformer = factory.newTransformer(new StreamSource(xsltFile));
@@ -91,11 +92,11 @@ public class XMLUtil {
             transformer.transform(xmlSource, res);
         } catch (Exception e) {
             e.printStackTrace();
-        }
+        } 
         return out;
     }
     
-    public void convertToFO(String xmlPath, String xsltInputPath, String foOutputPath)  throws IOException, FOPException, TransformerException {
+    public static void convertToFO(String xmlPath, String xsltInputPath, String foOutputPath)  throws IOException, FOPException, TransformerException {
         File xsltFile = new File(xsltInputPath);
         StreamSource xmlSource = new StreamSource(new File(xmlPath));
         OutputStream out;

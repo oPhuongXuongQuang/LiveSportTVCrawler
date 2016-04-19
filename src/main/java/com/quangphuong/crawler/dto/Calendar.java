@@ -64,12 +64,23 @@ import javax.xml.bind.annotation.XmlType;
 public class Calendar {
 
     protected List<Calendar.Round> round;
+    @XmlAttribute(name = "id")
+    protected Integer id;
 
     public Calendar() {
     }
 
-    public Calendar(List<Round> round) {
+    public Calendar(List<Round> round, Integer id) {
         this.round = round;
+        this.id = id;
+    }
+
+    public Integer getId() {
+        return id;
+    }
+
+    public void setId(Integer id) {
+        this.id = id;
     }
 
     /**

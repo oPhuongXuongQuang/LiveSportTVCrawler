@@ -22,11 +22,6 @@
                 <md-datepicker flex="" ng-model="date" md-max-length="50%" md-placeholder="Enter date" required></md-datepicker>
 
 
-            </div>
-            <br>
-            <md-checkbox ng-model="searchBox.simulateQuery">Simulate query for results?</md-checkbox>
-            <md-checkbox ng-model="searchBox.noCache">Disable caching of queries?</md-checkbox>
-
         </form>
             <section ng-repeat="(kind,val) in videos">
                 <md-subheader class="md-primary">{{kind}}</md-subheader>

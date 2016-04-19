@@ -1,7 +1,7 @@
 /**
  * Created by Quang on 17-Apr-16.
  */
-module.controller('CalendarController', function($http, $rootScope ,$scope, $service, cfpLoadingBar){
+module.controller('CalendarController', function($http, $rootScope ,$scope, $service, cfpLoadingBar, $mdDialog){
     $scope.querySearch = function(value) {
         return $service.querySearch(value);
     };
@@ -23,6 +23,7 @@ module.controller('CalendarController', function($http, $rootScope ,$scope, $ser
                 console.log(response);
 
                 tab.content = response;
+                $scope.currentTab = tab;
             })
             .error(function() {
                 console.log("Error!");
@@ -42,5 +43,17 @@ module.controller('CalendarController', function($http, $rootScope ,$scope, $ser
         else {
             $rootScope.$nav.pushPage("video.html",{param:link});
         }
+    };
+
+    $scope.printCalendar = function() {
+        var confirm = $mdDialog.confirm()
+            .title('Do you want to print?')
+            .textContent('Print? Nice choice!')
+            .ok('Print')
+            .cancel('Cancel');
+        $mdDialog.show(confirm).then(function() {
+            $rootScope.$nav.pushPage("printPage.html",{param:$scope.currentTab.id});
+            
+        });
     };
 });

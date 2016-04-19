@@ -25,7 +25,7 @@ public class AppConstant {
 
     public static final String eventDetailData = "/Users/quangphuong/NetBeansProjects/LiveSportTVCrawler/eventDetail.xml";
     public static final String eventDetailSchema = "eventDetail.xsd";
-    public static final String calendarSchema = "calendar.xsd";
+    
 
     public static final String eventDemo = "http://livetv.sx/en/eventinfo/403949_tokyo_iwate/";
     public static final String eventVideoRows = "//*[@id='links_block']/table[2]/tbody/tr";
@@ -87,4 +87,7 @@ public class AppConstant {
     public static final String GermanCalendar = "german.xml";
     public static final String FranceCalendar = "france.xml";
     public static final String BrazilCalendar = "brazil.xml";
+    
+    public static final String calendarSchema = "calendar.xsd";
+    public static final String calendarXSL = "calendar.xsl";
 }

@@ -8,6 +8,8 @@ package com.quangphuong.crawler.service;
 import com.quangphuong.crawler.dto.Calendar;
 import com.quangphuong.crawler.dto.Event;
 import com.quangphuong.crawler.dto.EventDetail;
+import java.io.ByteArrayOutputStream;
+import java.io.OutputStream;
 import java.util.List;
 
 /**
@@ -19,4 +21,5 @@ public interface EventService {
     EventDetail getEventDetail(String eventLink, boolean isLive);
     String getVideoStream(String videoLink);
     List<Calendar.Round> getCalendar(String id);
+    ByteArrayOutputStream printCalendar(String id);
 }
