@@ -16,17 +16,19 @@ import com.quangphuong.crawler.service.EventService;
 import com.quangphuong.crawler.service.UserService;
 import com.quangphuong.crawler.service.HighlightService;
 import java.io.ByteArrayOutputStream;
-import java.io.IOException;
-import java.io.OutputStream;
+import java.io.File;
+import java.io.FileOutputStream;
+import java.net.URLDecoder;
+import java.nio.file.Files;
 import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import org.apache.commons.codec.binary.Base64;
-import org.apache.commons.codec.binary.StringUtils;
+import org.apache.commons.lang3.RandomStringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
@@ -130,15 +132,36 @@ public class AjaxController {
         return eventService.getCalendar(value);
     }
     
-    @RequestMapping(value = "/printCalendar.htm", method = RequestMethod.POST)
+    @RequestMapping(value = "/printCalendar/{id}", method = RequestMethod.GET)
+    public void printCalendar(HttpServletRequest request, 
+            HttpServletResponse response, @PathVariable String id) {
+        try {
+            response.setHeader("Access-Control-Allow-Origin", "*");
+            ByteArrayOutputStream out = eventService.printCalendar(id);
+            byte[] bytes = out.toByteArray();
+            response.setHeader("Content-Type", "application/pdf");
+            response.setHeader("Content-Length", String.valueOf(bytes.length));
+            response.getOutputStream().write(bytes);
+            response.getOutputStream().flush();
+            
+        } catch (Exception ex) {
+            Logger.getLogger(AjaxController.class.getName()).log(Level.SEVERE, null, ex);
+        }
+    }
+    
+    @RequestMapping(value = "/getSuggestVideos.htm", method = RequestMethod.POST)
     @ResponseBody
-    public String printCalendar(HttpServletRequest request, 
+    public List<Highlight> getSuggestVideos(HttpServletRequest request, 
             HttpServletResponse response, @RequestBody String value) {
         response.setHeader("Access-Control-Allow-Origin", "*");
-        ByteArrayOutputStream out = eventService.printCalendar(value);
-        
-        String base64str = StringUtils.newStringUtf8(Base64.encodeBase64(out.toByteArray(), false));
-        System.out.println("------" + base64str);
-        return "data:application/pdf;base64," + base64str;
+        return highlightService.getSuggest(value);
+    }
+    
+    @RequestMapping(value = "/updateSeen.htm", method = RequestMethod.POST)
+    @ResponseBody
+    public void updateSeen(HttpServletRequest request, 
+            HttpServletResponse response, @RequestBody Highlight value) {
+        response.setHeader("Access-Control-Allow-Origin", "*");
+        highlightService.updateSeen(value);
     }
 }

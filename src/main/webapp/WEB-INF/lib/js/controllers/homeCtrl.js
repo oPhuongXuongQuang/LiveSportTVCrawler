@@ -49,21 +49,22 @@ module.controller('HomeController', function($rootScope, $scope, $timeout, $http
     $scope.isDisabled = false;
 
     $scope.querySearch = function(value) {
+        $scope.searchVal = value;
         return $service.querySearch(value);
     };
 
-    $scope.goToHighlight = function(link) {
+    $scope.goToSuggest = function(video) {
         cfpLoadingBar.start();
-        if(link.indexOf("/en/showvideo") > -1) {
+        if(video.highlightLink.indexOf("/en/showvideo") > -1) {
             //$http.post($service.back.getVideo.url, link).success(function (result) {
             //
             //
             //});
-        } else if(link.indexOf("playwire.com") > -1) {
+        } else if(video.highlightLink.indexOf("playwire.com") > -1) {
 
         }
         else {
-            $rootScope.$nav.pushPage("video.html",{param:link});
+            $rootScope.$nav.pushPage("videoSuggest.html",{param:video, param2:$scope.searchVal});
         }
     };
 });

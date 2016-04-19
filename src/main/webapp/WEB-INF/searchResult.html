@@ -21,6 +21,7 @@
                                      md-items="item in querySearch(searchText)" md-min-length="1"
                                      placeholder="Enter video keyword (team, match, kind)">
                         <md-item-template>
+                            <md-content ng-click="goToSuggest(item)">
                                         <span class="item-title">
                                             <i class="material-icons">video_library</i>
                                             <layout-mdclass="center">
@@ -39,11 +40,11 @@
                                                 <span>{{item.tournament}}</span>
                                             </layout-md>
                                             <layout-md class="center">
-                                                <strong>{{item.watchers}}</strong> watchers
+                                                <strong>{{item.seen}}</strong> seen
                                             </layout-md>
                                             </span>
                                         </span>
-
+                            </md-content>
                         </md-item-template>
                         <md-not-found>
                             No states matching "{{searchText}}" were found.

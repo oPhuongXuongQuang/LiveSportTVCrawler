@@ -1,0 +1,29 @@
+<ons-page ng-controller="VideoSuggestController">
+    <ons-toolbar>
+        <div class="left">
+            <ons-toolbar-button ng-click="$nav.popPage('home.html')">
+                <ons-icon icon="ion-android-arrow-back" style="font-size: 32px; width: 1em;"></ons-icon>
+            </ons-toolbar-button>
+        </div>
+        <div class="center">Match Highlight</div>
+    </ons-toolbar>
+    <iframe frameborder="0" width="400px" height="300px"
+            src="{{link}}" ></iframe>
+
+    <h5>Some videos you also like</h5>
+
+    <md-grid-list md-cols-xs="1" md-cols-sm="4"
+                  md-cols-md="4"
+                  md-cols-gt-md="10"
+                  md-row-height-gt-md="1:1" md-row-height="2:2" style="margin: 10px;">
+
+
+
+        <md-grid-tile ng-repeat="video in videos" class="green">
+            <md-grid-tile-footer>
+                <h3>{{video.matches}} (seen by {{video.seen}})</h3>
+            </md-grid-tile-footer>
+        </md-grid-tile>
+
+    </md-grid-list>
+</ons-page>

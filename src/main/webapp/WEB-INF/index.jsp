@@ -36,7 +36,6 @@
   <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-messages.min.js"></script>
   <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/t-114/svg-assets-cache.js"></script>
 
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/onsen/1.3.15/js/onsenui.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/onsen/1.3.15/js/onsenui_all.js"></script>
   <!--<script src="lib/onsen/js/onsenui.js"></script>-->
   <!-- Angular Material Library -->
@@ -91,5 +90,6 @@
   <script src="lib/js/controllers/searchResultCtrl.js"></script>
   <script src="lib/js/controllers/calendarCtrl.js"></script>
   <script src="lib/js/controllers/videoCtrl.js"></script>
+  <script src="lib/js/controllers/videoSuggestCtrl.js"></script>
   </body>
   </html>

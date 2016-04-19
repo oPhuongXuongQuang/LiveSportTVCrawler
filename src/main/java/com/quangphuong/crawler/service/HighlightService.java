@@ -16,4 +16,6 @@ public interface HighlightService {
     List<Highlight> getHighlights(String date);
     List<Highlight> getSearchResult(String value);
     List<Highlight> getSearchResult(String value, String range);
+    List<Highlight> getSuggest(String value);
+    void updateSeen(Highlight id);
 }

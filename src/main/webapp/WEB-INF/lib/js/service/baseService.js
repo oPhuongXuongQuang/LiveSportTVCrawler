@@ -31,7 +31,7 @@ module.service('$service', function ($http, $q, $timeout) {
     };
 
     ConfigService.prototype = {
-        url: "http://192.168.1.102:8080/",
+        url: "http://localhost:8080/",
         back: {
             comingUp: {
                 path: "/comingup.htm"
@@ -54,8 +54,17 @@ module.service('$service', function ($http, $q, $timeout) {
             loadCalendar: {
                 path: "/loadCalendar.htm"
             },
-            printCalendar: {
+            printCalendarAjax: {
                 path: "/printCalendar.htm"
+            },
+            printCalendar: {
+                path: "/printCalendar/"
+            },
+            getSuggestVideos: {
+                path: "/getSuggestVideos.htm"
+            },
+            updateSeen: {
+                path: "/updateSeen.htm"
             }
         }
     };

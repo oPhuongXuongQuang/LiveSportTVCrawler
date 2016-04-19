@@ -37,8 +37,10 @@ public class Highlight implements Serializable{
     @FullTextIndex
     private String date;
     private String time;
+    public int seen;
     @Ignore
     public double rank;
+    
 
     public Highlight() {
     }
@@ -47,7 +49,7 @@ public class Highlight implements Serializable{
         this.date = date;
     }
 
-    public Highlight(int id, String kind, String tournament, String matches, String logoTeam1, String logoTeam2, String highlightLink, String longHighlightLink, String fullmatchLink, String score, String date, String time, double rank) {
+    public Highlight(int id, String kind, String tournament, String matches, String logoTeam1, String logoTeam2, String highlightLink, String longHighlightLink, String fullmatchLink, String score, String date, String time, int seen, double rank) {
         this.id = id;
         this.kind = kind;
         this.tournament = tournament;
@@ -61,8 +63,24 @@ public class Highlight implements Serializable{
         this.date = date;
         this.time = time;
         this.rank = rank;
+        this.seen = seen;
     }
     
+    public Highlight(int id, String kind, String tournament, String matches, String logoTeam1, String logoTeam2, String highlightLink, String longHighlightLink, String fullmatchLink, String score, String date, String time, int seen) {
+        this.id = id;
+        this.kind = kind;
+        this.tournament = tournament;
+        this.matches = matches;
+        this.logoTeam1 = logoTeam1;
+        this.logoTeam2 = logoTeam2;
+        this.highlightLink = highlightLink;
+        this.longHighlightLink = longHighlightLink;
+        this.fullmatchLink = fullmatchLink;
+        this.score = score;
+        this.date = date;
+        this.time = time;
+        this.seen = seen;
+    }
     public Highlight(int id, String kind, String tournament, String matches, String logoTeam1, String logoTeam2, String highlightLink, String longHighlightLink, String fullmatchLink, String score, String date, String time) {
         this.id = id;
         this.kind = kind;
@@ -172,6 +190,14 @@ public class Highlight implements Serializable{
 
     public void setTime(String time) {
         this.time = time;
+    }
+
+    public int getSeen() {
+        return seen;
+    }
+
+    public void setSeen(int seen) {
+        this.seen = seen;
     }
     
 }

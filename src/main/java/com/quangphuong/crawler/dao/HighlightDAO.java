@@ -31,4 +31,15 @@ public class HighlightDAO {
     public List<Highlight> getSearchResult(String value, int down, int up) {
         return (List<Highlight>) (Object)dBWrapper.searchFullTextRange(new Highlight(), value, down, up);
     }
+    
+    public List<Highlight> getSuggest(String value) {
+        return (List<Highlight>) (Object)dBWrapper.suggest(new Highlight(), value);
+    }
+    
+    public void updateSeen(Highlight oldHighlight) {
+        Highlight updateSeen = new Highlight();
+        updateSeen.setId(oldHighlight.getId());
+        updateSeen.setSeen(oldHighlight.getSeen()+1);
+        dBWrapper.updateEntity(updateSeen);
+    }
 }

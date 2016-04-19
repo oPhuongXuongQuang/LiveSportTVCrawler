@@ -24,47 +24,45 @@
         <fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format">
             <fo:layout-master-set>
                 <fo:simple-page-master master-name="calendar">
-                    <fo:region-body margin-top="0.5in"/>
+                    <fo:region-body margin-top="3px"/>
                     <fo:region-before extent="1in"/>
                     <fo:region-after margin-top="1in"/>
                 </fo:simple-page-master>
             </fo:layout-master-set>
             <fo:page-sequence master-reference="calendar">
-                <fo:static-content>
-                    <fo:block text-align="center">
+                <fo:flow flow-name="xsl-region-body">
+                    <fo:block text-align="center" margin-bottom="10px">
                         <xsl:choose>
                             <xsl:when test="calendar/@id=1">
-                                <fo:external-graphic src="{concat('url('$pathPrefix,epl.png')')}">
+                                <fo:external-graphic src="{concat('url(',$pathPrefix ,'epl.png', ')')}" content-height="scale-to-fit" height="2.00in"  content-width="2.00in" scaling="non-uniform">
                                 </fo:external-graphic>
                             </xsl:when>
                             <xsl:when test="calendar/@id=10">
-                                <fo:external-graphic src="{concat('url('$pathPrefix,laliga.jpg')')}">
+                                <fo:external-graphic src="{concat('url(',$pathPrefix ,'laliga.jpg', ')')}" content-height="scale-to-fit" height="2.00in"  content-width="2.00in" scaling="non-uniform">
                                 </fo:external-graphic>
                             </xsl:when>
                             <xsl:when test="calendar/@id=11">
-                                <fo:external-graphic src="{concat('url('$pathPrefix,seriea.png')')}">
+                                <fo:external-graphic src="{concat('url(',$pathPrefix ,'seriea.png', ')')}" content-height="scale-to-fit" height="2.00in"  content-width="2.00in" scaling="non-uniform">
                                 </fo:external-graphic>
                             </xsl:when>
                             <xsl:when test="calendar/@id=22">
-                                <fo:external-graphic src="{concat('url('$pathPrefix,eredivisie.png')')}">
+                                <fo:external-graphic src="{concat('url(',$pathPrefix ,'eredivisie.png', ')')}" content-height="scale-to-fit" height="2.00in"  content-width="2.00in" scaling="non-uniform">
                                 </fo:external-graphic>
                             </xsl:when>
                             <xsl:when test="calendar/@id=36">
-                                <fo:external-graphic src="{concat('url('$pathPrefix,bundesliga.jpeg')')}">
+                                <fo:external-graphic src="{concat('url(',$pathPrefix ,'bundesliga.jpeg', ')')}" content-height="scale-to-fit" height="2.00in"  content-width="2.00in" scaling="non-uniform">
                                 </fo:external-graphic>
                             </xsl:when>
                             <xsl:when test="calendar/@id=37">
-                                <fo:external-graphic src="{concat('url('$pathPrefix,ligue1.png')')}">
+                                <fo:external-graphic src="{concat('url(',$pathPrefix ,'ligue1.png', ')')}" content-height="scale-to-fit" height="2.00in"  content-width="2.00in" scaling="non-uniform">
                                 </fo:external-graphic>
                             </xsl:when>
                             <xsl:when test="calendar/@id=93">
-                                <fo:external-graphic src="{concat('url('$pathPrefix,brazil.png')')}">
+                                <fo:external-graphic src="{concat('url(',$pathPrefix ,'brazil.png', ')')}" content-height="scale-to-fit" height="2.00in"  content-width="2.00in" scaling="non-uniform">
                                 </fo:external-graphic>
                             </xsl:when>
                         </xsl:choose>
                     </fo:block>
-                </fo:static-content>
-                <fo:flow flow-name="xsl-region-body">
                     <xsl:for-each select="calendar/round">
                         <fo:block text-align="center" background-color="orange" font-weight="bold" font-size="14pt"
                             xsl:use-attribute-sets="padding-header">

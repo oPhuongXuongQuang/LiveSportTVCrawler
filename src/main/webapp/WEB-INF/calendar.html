@@ -30,7 +30,7 @@
                              md-item-text="item.matches"
                              placeholder="Enter video keyword (team, match, kind)">
                 <md-item-template>
-                    <md-content ng-click="goToHighlight(item.highlightLink)">
+                    <md-content ng-click="goToSuggest(item)">
                                     <span class="item-title">
                                         <i class="material-icons">video_library</i>
                                         <span> {{item.matches}} </span>
@@ -45,7 +45,7 @@
                                         <i class="fa fa-trophy" aria-hidden="true"></i>
                                         <span>{{item.tournament}}</span>
                                         <span class="item-metastat">
-                                          <strong>{{item.watchers}}</strong> watchers
+                                          <strong>{{item.seen}}</strong> seen
                                         </span>
                                     </span>
                     </md-content>

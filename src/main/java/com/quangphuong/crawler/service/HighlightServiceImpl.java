@@ -38,5 +38,15 @@ public class HighlightServiceImpl implements HighlightService{
         int up = Integer.parseInt(arrs[1]);
         return highlightDAO.getSearchResult(value, down, up);
     }
+
+    @Override
+    public List<Highlight> getSuggest(String value) {
+        return highlightDAO.getSuggest(value);
+    }
+
+    @Override
+    public void updateSeen(Highlight id) {
+        highlightDAO.updateSeen(id);
+    }
     
 }

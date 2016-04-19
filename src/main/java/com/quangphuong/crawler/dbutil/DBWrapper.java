@@ -33,6 +33,7 @@ public class DBWrapper {
 
     private static final String fulltextClause = "SELECT *, MATCH(@)";
     private static final String searchByBoolClause = " AGAINST ('@1' IN BOOLEAN MODE) AS rank FROM @2 ORDER BY rank DESC LIMIT 5";
+    private static final String suggestClause = " AGAINST ('@1' IN BOOLEAN MODE) AS rank FROM @2 ORDER BY rank,seen DESC LIMIT 8";
     private static final String searchRangeByBoolClause = " AGAINST ('@1' IN BOOLEAN MODE) AS rank FROM @2 ORDER BY rank DESC LIMIT @L1,@L2";
 
     private boolean isDisconnect;
@@ -526,5 +527,72 @@ public class DBWrapper {
         this.lowerBound = lowerBound;
         this.upperBound = upperBound;
         return searchFullText(entity, searchVal);
+    }
+    
+    public List<Object> suggest(Object entity, String searchVal) {
+        String sql = "";
+        Connection con = null;
+        if (this.isDisconnect) {
+            con = DBHandler.openConnection();
+        }
+        List<Object> result = new ArrayList<Object>();
+        try {
+            Statement statement;
+            if (this.isDisconnect) {
+                statement = con.createStatement();
+            } else {
+                statement = connection.createStatement();
+            }
+            Field[] attributes = entity.getClass().getDeclaredFields();
+
+            int count = 0;
+            String fullTextFields = "";
+            String searchClause = "";
+            for (Field attribute : attributes) {
+                attribute.setAccessible(true);
+                if (!attribute.isAnnotationPresent(AutoIncrement.class) && attribute.isAnnotationPresent(FullTextIndex.class)) {
+                    if (count == 0) {
+                        fullTextFields = fullTextFields.concat(attribute.getName());
+                    } else {
+                        fullTextFields = fullTextFields.concat("," + attribute.getName());
+                    }
+                    count++;
+                }
+            }
+            sql = fulltextClause.replace("@", fullTextFields);
+            if (lowerBound != 0 || upperBound != 0) {
+                searchClause = searchRangeByBoolClause.replace("@1", searchVal.replace("*", "").replace(" ", "* ").concat("*"));
+                searchClause = searchClause.replace("@L1", String.valueOf(lowerBound)).replace("@L2", String.valueOf(upperBound));
+            } else {
+                searchClause = suggestClause.replace("@1", searchVal.replace("*", "").replace(" ", "* ").concat("*"));
+            }
+            searchClause = searchClause.replace("@2", entity.getClass().getSimpleName());
+            sql = sql.concat(searchClause);
+            System.out.println(sql);
+            ResultSet resultSet = statement.executeQuery(sql);
+            while (resultSet.next()) {
+                List<Object> listFields = new ArrayList();
+                List<Class<?>> listFieldTypes = new ArrayList();
+                for (Field attribute : attributes) {
+                    Object obj = resultSet.getObject(attribute.getName());
+                    listFields.add(obj);
+                    listFieldTypes.add(attribute.getType());
+                }
+                Object obj = entity.getClass().getConstructor(
+                        (Class<?>[]) listFieldTypes.toArray(new Class[0])).newInstance(listFields.toArray());
+                result.add(obj);
+            }
+        } catch (Exception ex) {
+            Logger.getLogger(DBWrapper.class.getName()).log(Level.SEVERE, null, ex);
+        } finally {
+            try {
+                if (this.isDisconnect && con != null) {
+                    con.close();
+                }
+            } catch (SQLException e) {
+                e.printStackTrace();
+            }
+        }
+        return result;
     }
 }

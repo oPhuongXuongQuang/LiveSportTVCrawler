@@ -3,6 +3,7 @@
  */
 module.controller('CalendarController', function($http, $rootScope ,$scope, $service, cfpLoadingBar, $mdDialog){
     $scope.querySearch = function(value) {
+        $scope.searchVal = value;
         return $service.querySearch(value);
     };
 
@@ -30,18 +31,33 @@ module.controller('CalendarController', function($http, $rootScope ,$scope, $ser
             });
     };
 
-    $scope.goToHighlight = function(link) {
+    $scope.goToHighlight = function(video) {
         cfpLoadingBar.start();
-        if(link.indexOf("/en/showvideo") > -1) {
+        if(video.highlightLink.indexOf("/en/showvideo") > -1) {
             //$http.post($service.back.getVideo.url, link).success(function (result) {
             //
             //
             //});
-        } else if(link.indexOf("playwire.com") > -1) {
+        } else if(video.highlightLink.indexOf("playwire.com") > -1) {
 
         }
         else {
-            $rootScope.$nav.pushPage("video.html",{param:link});
+            $rootScope.$nav.pushPage("video.html",{param:video.highlightLink});
+        }
+    };
+
+    $scope.goToSuggest = function(video) {
+        cfpLoadingBar.start();
+        if(video.highlightLink.indexOf("/en/showvideo") > -1) {
+            //$http.post($service.back.getVideo.url, link).success(function (result) {
+            //
+            //
+            //});
+        } else if(video.highlightLink.indexOf("playwire.com") > -1) {
+
+        }
+        else {
+            $rootScope.$nav.pushPage("videoSuggest.html",{param:video, param2:$scope.searchVal});
         }
     };
 
@@ -52,8 +68,8 @@ module.controller('CalendarController', function($http, $rootScope ,$scope, $ser
             .ok('Print')
             .cancel('Cancel');
         $mdDialog.show(confirm).then(function() {
-            $rootScope.$nav.pushPage("printPage.html",{param:$scope.currentTab.id});
-            
+            // $rootScope.$nav.pushPage("printPage.html",{param:$scope.currentTab.id});
+            window.location.href = $service.back.printCalendar.url +  $scope.currentTab.id;
         });
     };
 });

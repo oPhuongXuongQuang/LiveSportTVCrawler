@@ -77,8 +77,8 @@ public class EventServiceImpl implements EventService{
     public ByteArrayOutputStream printCalendar(String id) {
         try {
             String calendar = idToCalendar(id);
-            String filename = String.format("%s.%s",RandomStringUtils.randomAlphanumeric(10),"pdf");
-            ByteArrayOutputStream out = XMLUtil.convertToPDF(calendar, AppConstant.calendarXSL, filename);
+//            String filename = String.format("%s.%s",RandomStringUtils.randomAlphanumeric(10),"pdf");
+            ByteArrayOutputStream out = XMLUtil.convertToPDF(calendar, AppConstant.calendarXSL, "");
             return out;
         } catch (IOException ex) {
             Logger.getLogger(EventServiceImpl.class.getName()).log(Level.SEVERE, null, ex);
