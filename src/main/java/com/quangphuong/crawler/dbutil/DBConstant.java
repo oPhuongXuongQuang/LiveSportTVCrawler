@@ -16,4 +16,9 @@ public class DBConstant {
     public static final String schema = "livesporttv";
     public static final String user = "root";
     public static final String password = "";
+    
+    public static final String OPENSHIFT_HOST = "127.10.92.130";
+    public static final String OPENSHIFT_PORT = "13306";
+    public static final String OPENSHIFT_USER = "root";
+    public static final String OPENSHIFT_PASSWORD = "slYJxFAPU_pK";
 }

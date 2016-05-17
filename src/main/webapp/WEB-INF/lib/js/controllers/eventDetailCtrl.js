@@ -11,6 +11,7 @@ module.controller('EventDetailController', function($http, $rootScope ,$scope, $
         $scope.eventDetail = result;
 
         if ($rootScope.team1 != undefined && $rootScope.team2 != undefined) {
+            debugger;
             if ($rootScope.images == undefined) {
                 $rootScope.images = {};
                 $rootScope.images[result.team1.name] = result.team1.image;

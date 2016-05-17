@@ -5,13 +5,9 @@
  */
 package com.quangphuong.crawler.controller;
 
-import com.quangphuong.crawler.dto.Event;
-import com.quangphuong.crawler.dto.EventDetail;
-import com.quangphuong.crawler.dto.Link;
 import com.quangphuong.crawler.dto.User;
 import com.quangphuong.crawler.service.EventService;
 import com.quangphuong.crawler.service.UserService;
-import java.util.List;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
@@ -22,9 +18,6 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
-import org.springframework.web.servlet.ModelAndView;
-import org.springframework.web.servlet.config.annotation.EnableWebMvc;
-import org.springframework.web.servlet.mvc.AbstractController;
 
 /**
  *
@@ -42,7 +35,6 @@ public class HomeController {
     protected String home(
             HttpServletRequest request,
             HttpServletResponse response) throws Exception {
-        
         
         return "index";
     }

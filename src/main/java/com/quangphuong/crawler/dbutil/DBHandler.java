@@ -18,18 +18,27 @@ import org.springframework.stereotype.Component;
  */
 @Component
 public class DBHandler {
+
     public DBHandler() {
     }
-    
+
     public static Connection openConnection() {
         try {
             Class.forName("com.mysql.jdbc.Driver");
-            DBConfig dBConfig = new DBConfig(DBConstant.driver, DBConstant.host, 
-                    DBConstant.port, DBConstant.schema, DBConstant.user, 
-                    DBConstant.password);
+            boolean isDebug = java.lang.management.ManagementFactory.getRuntimeMXBean().getInputArguments().toString().indexOf("jdwp") >= 0;
+            DBConfig dBConfig;
+            if (isDebug) {
+                dBConfig = new DBConfig(DBConstant.driver, DBConstant.host,
+                        DBConstant.port, DBConstant.schema, DBConstant.user,
+                        DBConstant.password);
+            } else {
+                dBConfig = new DBConfig(DBConstant.driver, DBConstant.OPENSHIFT_HOST,
+                        DBConstant.OPENSHIFT_PORT, DBConstant.schema, DBConstant.OPENSHIFT_USER,
+                        DBConstant.OPENSHIFT_PASSWORD);
+            }
             Connection connection = DriverManager.getConnection(dBConfig.toString(),
-                    dBConfig.getUser(),dBConfig.getPassword());
-            
+                    dBConfig.getUser(), dBConfig.getPassword());
+
             return connection;
         } catch (Exception ex) {
             Logger.getLogger(DBConfig.class.getName()).log(Level.SEVERE, null, ex);

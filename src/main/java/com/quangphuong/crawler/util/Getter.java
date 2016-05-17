@@ -116,6 +116,7 @@ public class Getter {
         for (int i = 1; i <= 2; i++) {
             System.out.println("team nth: " + i);
             HtmlElement team1 = (HtmlElement) page.getFirstByXPath(AppConstant.eventTeamColumns + "[" + i + "]");
+            System.out.println("teammmmmmm: + " + team1.asXml());
             System.out.println(AppConstant.eventTeamColumns + "[" + i + "]");
             HtmlElement linkSection = team1.getFirstByXPath("a");
             Team team = new Team();
