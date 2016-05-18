@@ -11,7 +11,6 @@ module.controller('EventDetailController', function($http, $rootScope ,$scope, $
         $scope.eventDetail = result;
 
         if ($rootScope.team1 != undefined && $rootScope.team2 != undefined) {
-            debugger;
             if ($rootScope.images == undefined) {
                 $rootScope.images = {};
                 $rootScope.images[result.team1.name] = result.team1.image;
@@ -33,9 +32,9 @@ module.controller('EventDetailController', function($http, $rootScope ,$scope, $
         cfpLoadingBar.complete();
     });
 
-    $scope.goToVideo = function(link) { 
+    $scope.goToVideo = function(video) {
         cfpLoadingBar.start();
-        $http.post($service.back.getVideo.url, link).success(function(result) {
+        $http.post($service.back.getVideo.url, video).success(function(result) {
 
             console.log(result);
             $rootScope.$nav.pushPage("livestream.html",{param:result});

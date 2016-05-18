@@ -8,6 +8,7 @@ package com.quangphuong.crawler.service;
 import com.quangphuong.crawler.dto.Calendar;
 import com.quangphuong.crawler.dto.Event;
 import com.quangphuong.crawler.dto.EventDetail;
+import com.quangphuong.crawler.dto.Video;
 import com.quangphuong.crawler.util.AppConstant;
 import com.quangphuong.crawler.util.Crawler;
 import com.quangphuong.crawler.util.Getter;
@@ -43,8 +44,8 @@ public class EventServiceImpl implements EventService{
     }
 
     @Override
-    public String getVideoStream(String videoLink) {
-        return Getter.getVideoStream(videoLink);
+    public String getVideoStream(Video video) {
+        return Getter.getVideoStream(video);
     }
 
     @Override

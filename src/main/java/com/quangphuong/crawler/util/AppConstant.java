@@ -47,7 +47,8 @@ public class AppConstant {
             + "tbody/tr/td/table/tbody/tr[3]/td/table/tbody/tr/td[2]/table[5]";
 
     public static final String videoWrapperStream = "//*[@id='playerblock']/tbody/tr/td/iframe";
-    public static final String videoStream = "//*[@id='mediaspace']";
+    public static final String aliezStream = "//*[@id='mediaspace']";
+    public static final String ifrStream = "//*[@id='thatframe']";
 
     public static final String hightlightTables = "/html/body/table/tbody/tr/"
             + "td[2]/table/tbody/tr[3]/td/table/tbody/tr/td[2]/table/tbody/tr/"

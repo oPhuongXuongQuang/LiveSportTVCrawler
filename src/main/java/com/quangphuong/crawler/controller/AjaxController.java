@@ -12,6 +12,7 @@ import com.quangphuong.crawler.dto.EventDetail;
 import com.quangphuong.crawler.dto.Highlight;
 import com.quangphuong.crawler.dto.Link;
 import com.quangphuong.crawler.dto.User;
+import com.quangphuong.crawler.dto.Video;
 import com.quangphuong.crawler.service.EventService;
 import com.quangphuong.crawler.service.UserService;
 import com.quangphuong.crawler.service.HighlightService;
@@ -87,11 +88,11 @@ public class AjaxController {
     @RequestMapping(value = "/getVideo.htm", method = RequestMethod.POST)
     @ResponseBody
     public String getVideo(HttpServletRequest request, 
-            HttpServletResponse response, @RequestBody String link){
+            HttpServletResponse response, @RequestBody Video video){
         response.setHeader("Access-Control-Allow-Origin", "*");
 //        request.s
 //        response.setHeader("Access-Control-Allow-Headers", "Access-Control-Allow-Origin");
-        String videoStream = eventService.getVideoStream(link);
+        String videoStream = eventService.getVideoStream(video);
         
         Gson gson = new Gson();
         String json = gson.toJson(videoStream);

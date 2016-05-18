@@ -1,6 +1,7 @@
 package com.quangphuong.crawler.util;
 
 import com.gargoylesoftware.htmlunit.BrowserVersion;
+import com.gargoylesoftware.htmlunit.ProxyConfig;
 import com.gargoylesoftware.htmlunit.WebClient;
 import com.gargoylesoftware.htmlunit.html.HtmlElement;
 import com.gargoylesoftware.htmlunit.html.HtmlPage;
@@ -22,14 +23,14 @@ import java.util.logging.Logger;
 public class Getter {
 
     public Getter() {
-        
+
     }
-    
+
     public static List<Event> getEvents() {
         Events events = XMLUtil.unmarshallUtil(AppConstant.comingUpData, Events.class);
         return events.getEvent();
     }
-    
+
     public static List<Calendar.Round> getCalendar(String calendar) {
         Calendar calendar1 = XMLUtil.unmarshallUtil(calendar, Calendar.class);
         return calendar1.getRound();
@@ -41,6 +42,10 @@ public class Getter {
         List<Video> videos = new ArrayList<Video>();
         WebClient webClient = new WebClient(BrowserVersion.CHROME);
         webClient.getOptions().setJavaScriptEnabled(false);
+        webClient.getOptions().setCssEnabled(false);
+        webClient.getOptions().setThrowExceptionOnFailingStatusCode(false);
+        ProxyConfig proxyConfig = new ProxyConfig("10.88.16.183", 8080);
+        webClient.getOptions().setProxyConfig(proxyConfig); 
         try {
             HtmlPage page = webClient.getPage(eventLink);
 
@@ -141,6 +146,10 @@ public class Getter {
         // get addition info
         WebClient webClient = new WebClient(BrowserVersion.CHROME);
         webClient.getOptions().setJavaScriptEnabled(false);
+        webClient.getOptions().setCssEnabled(false);
+        webClient.getOptions().setThrowExceptionOnFailingStatusCode(false);
+        ProxyConfig proxyConfig = new ProxyConfig("10.88.16.183", 8080);
+        webClient.getOptions().setProxyConfig(proxyConfig);
         List<String> infos = new ArrayList<String>();
         try {
             HtmlPage page = webClient.getPage(eventLink);
@@ -171,25 +180,36 @@ public class Getter {
         return infos;
     }
 
-    public static String getVideoStream(String link) {
+    public static String getVideoStream(Video video) {
         WebClient webClient = new WebClient(BrowserVersion.CHROME);
         webClient.getOptions().setJavaScriptEnabled(false);
-//        client.getOptions().setJavaScriptEnabled(true);
+        webClient.getOptions().setCssEnabled(false);
+        webClient.getOptions().setThrowExceptionOnFailingStatusCode(false);
+        ProxyConfig proxyConfig = new ProxyConfig("10.88.16.183", 8080);
+        webClient.getOptions().setProxyConfig(proxyConfig);
         try {
-            HtmlPage page = webClient.getPage(link);
+            System.out.println("Page link: " + video.getLink());
+            HtmlPage page = webClient.getPage(video.getLink());
+            HtmlElement videoEl = null;
             HtmlElement el = page.getFirstByXPath(AppConstant.videoWrapperStream);
-            
             String wrapperVideoUrl = el.getAttribute("src");
-            System.out.println(wrapperVideoUrl);
+            System.out.println("Video link: " + wrapperVideoUrl);
             webClient.getOptions().setJavaScriptEnabled(true);
-            webClient.getOptions().setThrowExceptionOnScriptError(false);
-            page = webClient.getPage(wrapperVideoUrl);
-            HtmlElement video = page.getFirstByXPath(AppConstant.videoStream);
-            
-            System.out.println(" request web Client Memory size: " + Agent.sizeOf(webClient));
-            System.out.println(" request page Memory size: " + Agent.sizeOf(page));
-            System.out.println("Video HTML: " + video.asXml());
-            return video.asXml();
+            switch (video.getKind()) {
+                case "'alieztv'":
+                    page = webClient.getPage(wrapperVideoUrl);
+                    videoEl = page.getFirstByXPath(AppConstant.aliezStream);
+                    break;
+                case "'ifr'":
+                    page = webClient.getPage(wrapperVideoUrl);
+                    videoEl = page.getFirstByXPath(AppConstant.ifrStream);
+                    break;
+                case "'youtube'":
+                    String result = "<iframe src='" + wrapperVideoUrl +"' height=\"100%\" width=\"100%\" frameborder=\"0\"></iframe>";
+                    return result;
+            }
+            System.out.println("Video HTML: " + videoEl.asXml());
+            return videoEl.asXml();
         } catch (Exception e) {
             e.printStackTrace();
         } finally {
