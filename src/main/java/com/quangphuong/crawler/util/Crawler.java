@@ -39,8 +39,8 @@ public class Crawler {
         webClient.getOptions().setJavaScriptEnabled(false);
         webClient.getOptions().setCssEnabled(false);
         webClient.getOptions().setThrowExceptionOnFailingStatusCode(false);
-        ProxyConfig proxyConfig = new ProxyConfig("10.88.16.183", 8080);
-        webClient.getOptions().setProxyConfig(proxyConfig); 
+//        ProxyConfig proxyConfig = new ProxyConfig("10.88.16.183", 8080);
+//        webClient.getOptions().setProxyConfig(proxyConfig); 
     }
 
 //    public static void main(String[] args) {

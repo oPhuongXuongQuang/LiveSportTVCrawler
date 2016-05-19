@@ -44,8 +44,8 @@ public class Getter {
         webClient.getOptions().setJavaScriptEnabled(false);
         webClient.getOptions().setCssEnabled(false);
         webClient.getOptions().setThrowExceptionOnFailingStatusCode(false);
-        ProxyConfig proxyConfig = new ProxyConfig("10.88.16.183", 8080);
-        webClient.getOptions().setProxyConfig(proxyConfig); 
+//        ProxyConfig proxyConfig = new ProxyConfig("10.88.16.183", 8080);
+//        webClient.getOptions().setProxyConfig(proxyConfig); 
         try {
             HtmlPage page = webClient.getPage(eventLink);
 
@@ -75,11 +75,8 @@ public class Getter {
                     }
                     List<HtmlElement> videoRows = (List<HtmlElement>) page.getByXPath(tbl);
                     for (int i = 1; i < videoRows.size(); i++) {
-                        System.out.println("videoRow: " + i);
                         HtmlElement row = videoRows.get(i);
                         for (int j = 1; j <= 2; j++) {
-                            System.out.println("j: " + j);
-                            System.out.println("td[" + j + "]" + AppConstant.eventVideoLink);
                             HtmlElement ref = row.getFirstByXPath("td[" + j + "]" + AppConstant.eventVideoLink);
                             if (ref == null) {
                                 break;
@@ -119,10 +116,7 @@ public class Getter {
     public static EventDetail getEventTeamInfo(HtmlPage page, EventDetail eventDetail) {
         // Get Team info
         for (int i = 1; i <= 2; i++) {
-            System.out.println("team nth: " + i);
             HtmlElement team1 = (HtmlElement) page.getFirstByXPath(AppConstant.eventTeamColumns + "[" + i + "]");
-            System.out.println("teammmmmmm: + " + team1.asXml());
-            System.out.println(AppConstant.eventTeamColumns + "[" + i + "]");
             HtmlElement linkSection = team1.getFirstByXPath("a");
             Team team = new Team();
             if (linkSection != null) {
@@ -131,7 +125,6 @@ public class Getter {
                 String name = imageSection.getAttribute("alt");
                 String link = AppConstant.prefix + linkSection.getAttribute("href");
                 team = new Team(name, image, link);
-                System.out.println(team);
                 if (i == 1) {
                     eventDetail.setTeam1(team);
                 } else {
@@ -148,8 +141,8 @@ public class Getter {
         webClient.getOptions().setJavaScriptEnabled(false);
         webClient.getOptions().setCssEnabled(false);
         webClient.getOptions().setThrowExceptionOnFailingStatusCode(false);
-        ProxyConfig proxyConfig = new ProxyConfig("10.88.16.183", 8080);
-        webClient.getOptions().setProxyConfig(proxyConfig);
+//        ProxyConfig proxyConfig = new ProxyConfig("10.88.16.183", 8080);
+//        webClient.getOptions().setProxyConfig(proxyConfig);
         List<String> infos = new ArrayList<String>();
         try {
             HtmlPage page = webClient.getPage(eventLink);
@@ -185,31 +178,54 @@ public class Getter {
         webClient.getOptions().setJavaScriptEnabled(false);
         webClient.getOptions().setCssEnabled(false);
         webClient.getOptions().setThrowExceptionOnFailingStatusCode(false);
-        ProxyConfig proxyConfig = new ProxyConfig("10.88.16.183", 8080);
-        webClient.getOptions().setProxyConfig(proxyConfig);
+        webClient.getOptions().setThrowExceptionOnScriptError(false);
+//        ProxyConfig proxyConfig = new ProxyConfig("10.88.16.183", 8080);
+//        webClient.getOptions().setProxyConfig(proxyConfig);
         try {
             System.out.println("Page link: " + video.getLink());
             HtmlPage page = webClient.getPage(video.getLink());
             HtmlElement videoEl = null;
-            HtmlElement el = page.getFirstByXPath(AppConstant.videoWrapperStream);
-            String wrapperVideoUrl = el.getAttribute("src");
-            System.out.println("Video link: " + wrapperVideoUrl);
+//            HtmlElement el = page.getFirstByXPath(AppConstant.videoWrapperStream);
+//            page = page.getFrames().get(0).getEnclosingPage();
+//            String wrapperVideoUrl = el.getAttribute("src");
+//            System.out.println("Video link: " + wrapperVideoUrl);
             webClient.getOptions().setJavaScriptEnabled(true);
+            String result = null;
             switch (video.getKind()) {
                 case "'alieztv'":
-                    page = webClient.getPage(wrapperVideoUrl);
+//                    page = webClient.getPage(wrapperVideoUrl);
+                    page = (HtmlPage) page.getFrames().get(1).getEnclosedPage();
                     videoEl = page.getFirstByXPath(AppConstant.aliezStream);
+                    result = videoEl.asXml();
                     break;
                 case "'ifr'":
-                    page = webClient.getPage(wrapperVideoUrl);
+//                    HtmlElement ifr = page.getFirstByXPath(AppConstant.videoWrapperStream);
+//                    String ifrLink = ifr.getAttribute("src");
+//                    System.out.println("Iframe link: " + ifrLink);
+//                    webClient.waitForBackgroundJavaScript(3000);
+//                    page = webClient.getPage(ifrLink);
+//                    System.out.println("Page HTML: " + page.asXml());
+//                    videoEl = page.getFirstByXPath(AppConstant.ifrStream);
+                    
+                    page = (HtmlPage) page.getFrames().get(1).getEnclosedPage();
+                    webClient.getOptions().setJavaScriptEnabled(true);
+                    webClient.getOptions().setThrowExceptionOnScriptError(false);
+                    webClient.waitForBackgroundJavaScript(4 * 1000);
                     videoEl = page.getFirstByXPath(AppConstant.ifrStream);
+                    result = videoEl.asXml();
                     break;
                 case "'youtube'":
-                    String result = "<iframe src='" + wrapperVideoUrl +"' height=\"100%\" width=\"100%\" frameborder=\"0\"></iframe>";
-                    return result;
+//                    String wrapperVideoUrl = page.getFrames().get(0).get
+                    HtmlElement el = page.getFirstByXPath(AppConstant.videoWrapperStream);
+                    String wrapperVideoUrl = el.getAttribute("src");
+                    result = "<iframe src='" + wrapperVideoUrl +"'"
+                            + " height=\"100%\" width=\"100%\" frameborder=\"0\">"
+                            + "allowfullscreen=\"allowfullscreen\" mozallowfullscreen=\"mozallowfullscreen\" msallowfullscreen=\"msallowfullscreen\" oallowfullscreen=\"oallowfullscreen\" webkitallowfullscreen=\"webkitallowfullscreen\""
+                            + "</iframe>";
+                    break;
             }
             System.out.println("Video HTML: " + videoEl.asXml());
-            return videoEl.asXml();
+            return result;            
         } catch (Exception e) {
             e.printStackTrace();
         } finally {
