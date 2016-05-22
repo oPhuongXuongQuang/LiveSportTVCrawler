@@ -199,19 +199,21 @@ public class Getter {
                     result = videoEl.asXml();
                     break;
                 case "'ifr'":
-//                    HtmlElement ifr = page.getFirstByXPath(AppConstant.videoWrapperStream);
-//                    String ifrLink = ifr.getAttribute("src");
-//                    System.out.println("Iframe link: " + ifrLink);
-//                    webClient.waitForBackgroundJavaScript(3000);
-//                    page = webClient.getPage(ifrLink);
-//                    System.out.println("Page HTML: " + page.asXml());
-//                    videoEl = page.getFirstByXPath(AppConstant.ifrStream);
+                    HtmlElement ifr = page.getFirstByXPath(AppConstant.videoWrapperStream);
+                    String ifrLink = ifr.getAttribute("src");
+                    System.out.println("Iframe link: " + ifrLink);
+                    webClient.waitForBackgroundJavaScript(5000);
                     
-                    page = (HtmlPage) page.getFrames().get(1).getEnclosedPage();
-                    webClient.getOptions().setJavaScriptEnabled(true);
-                    webClient.getOptions().setThrowExceptionOnScriptError(false);
-                    webClient.waitForBackgroundJavaScript(4 * 1000);
+                    long time = System.currentTimeMillis() * 1000 * 3;
+                    while(System.currentTimeMillis() * 1000 < time) {
+                        page = webClient.getPage(ifrLink);
+                    }
                     videoEl = page.getFirstByXPath(AppConstant.ifrStream);
+                    System.out.println("Page: " + page.asXml());
+                    if(videoEl == null) {
+                        page = (HtmlPage) page.getFrames().get(0).getEnclosedPage();
+                        videoEl = page.getFirstByXPath(AppConstant.ifrStream);
+                    }
                     result = videoEl.asXml();
                     break;
                 case "'youtube'":
@@ -222,6 +224,9 @@ public class Getter {
                             + " height=\"100%\" width=\"100%\" frameborder=\"0\">"
                             + "allowfullscreen=\"allowfullscreen\" mozallowfullscreen=\"mozallowfullscreen\" msallowfullscreen=\"msallowfullscreen\" oallowfullscreen=\"oallowfullscreen\" webkitallowfullscreen=\"webkitallowfullscreen\""
                             + "</iframe>";
+                    break;
+                case "'sopcast'":
+                    result = AppConstant.sopcastHead + video.getLink() + AppConstant.sopcastTail;
                     break;
             }
             System.out.println("Video HTML: " + videoEl.asXml());

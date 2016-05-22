@@ -46,10 +46,6 @@ public class AppConstant {
             + "tr/td[2]/table/tbody/tr[3]/td/table/tbody/tr/td[2]/div[1]/table/"
             + "tbody/tr/td/table/tbody/tr[3]/td/table/tbody/tr/td[2]/table[5]";
 
-    public static final String videoWrapperStream = "//*[@id='playerblock']/tbody/tr/td/iframe";
-    public static final String aliezStream = "//*[@id='mediaspace']";
-    public static final String ifrStream = "//object";
-
     public static final String hightlightTables = "/html/body/table/tbody/tr/"
             + "td[2]/table/tbody/tr[3]/td/table/tbody/tr/td[2]/table/tbody/tr/"
             + "td/table/tbody/tr[2]/td/table/tbody/tr/td/table";
@@ -91,4 +87,16 @@ public class AppConstant {
     
     public static final String calendarSchema = "calendar.xsd";
     public static final String calendarXSL = "calendar.xsl";
+    
+    public static final String videoWrapperStream = "//*[@id='playerblock']/tbody/tr/td/iframe";
+    public static final String aliezStream = "//*[@id='mediaspace']";
+    public static final String ifrStream = "//object";
+    public static final String sopcastHead = "<object id=\"SopPlayer\" name = \"SopPlayer\"" +
+                                            "classid=\"clsid:8FEFF364-6A5F-4966-A917-A3AC28411659\"" +
+                                            "height=\"100%\" width=\"100%\">" +
+                                            "<param name=\"AutoStart\" value=\"1\" />" +
+                                            "<param name=\"SopAddress\" value=\"";
+    public static final String sopcastTail = "\" />" +
+                                            "<param name=\"ChannelName\" value=\"Channel\" />" +
+                                            "</object>";
 }
