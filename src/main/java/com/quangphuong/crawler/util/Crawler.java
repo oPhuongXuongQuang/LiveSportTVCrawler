@@ -26,6 +26,7 @@ import com.quangphuong.crawler.dto.Event;
 import com.quangphuong.crawler.dto.Events;
 import java.io.IOException;
 import java.math.BigDecimal;
+import org.springframework.beans.factory.annotation.Autowired;
 
 /**
  *
@@ -34,6 +35,8 @@ import java.math.BigDecimal;
 @Configuration
 @EnableScheduling
 public class Crawler {
+    @Autowired
+    XMLUtil xMLUtil;
     private static final WebClient webClient = new WebClient(BrowserVersion.CHROME);
 
     public Crawler() {
@@ -65,7 +68,7 @@ public class Crawler {
     public void schedule1() throws FileNotFoundException, IOException {
         List<Event> events = comingupCrawler();
         Events events1 = new Events(events);
-        XMLUtil.marshallUtil(AppConstant.comingUpData, events1);
+        xMLUtil.marshallUtil(AppConstant.comingUpData, events1);
     }
 
     public static List<Event> comingupCrawler() throws IOException {
@@ -124,7 +127,7 @@ public class Crawler {
     }
     
     @Scheduled(fixedDelay = 604800000)
-    public static void schedule2() {
+    public void schedule2() {
         WebClient client = webClient;
         int[] calType = {1, 10, 11, 22, 36, 37, 93};
         for (int k : calType) {
@@ -136,13 +139,9 @@ public class Crawler {
                 for (int i = 1; i < els.size() - 3; i++) {
 
                     DomElement tmp = els.get(i);
-                    //                String round = tmp.getTextContent().replace("(Video)", "").trim();
-                    //                System.out.println("Round: " + round);
                     DomNode parent = tmp.getParentNode().getParentNode().getParentNode().getParentNode();
-//                    System.out.println("-----" + parent.asXml());
 
                     List<DomElement> trs = (List<DomElement>) parent.getByXPath("tbody/tr");
-                    System.out.println("trs: " + trs.size());
                     String date = "";
                     List<Calendar.Round.Match> matches = new ArrayList<Calendar.Round.Match>();
                     for (int j = 1; j < trs.size() - 1; j++) {
@@ -150,7 +149,6 @@ public class Crawler {
                         HtmlElement tmp2 = tr.getFirstByXPath("td");
                         if (tmp2.hasAttribute("bgcolor")) {
                             date = tr.getTextContent().trim();
-                            System.out.println("Date: " + date);
                         } else {
                             try {
                                 DomElement td = tr.getFirstByXPath("td[1]/a");
@@ -158,7 +156,6 @@ public class Crawler {
                                     td = tr.getFirstByXPath("td[1]");
                                 }
                                 String teams = td.getTextContent().trim();
-                                System.out.println("Teams: " + teams);
                                 String link = td.getAttribute("href");
                                 td = tr.getFirstByXPath("td[2]/a/img");
                                 String logoTeam1 = td.getAttribute("src");
@@ -178,7 +175,7 @@ public class Crawler {
                     rounds.add(new Calendar.Round(matches, i));
                 }
                 Calendar calendar = new Calendar(rounds, k);
-                XMLUtil.marshallUtil(intToCalendar(k), calendar);
+                xMLUtil.marshallUtil(intToCalendar(k), calendar);
             } catch (Exception e) {
                 e.printStackTrace();
             } finally {

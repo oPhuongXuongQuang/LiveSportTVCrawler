@@ -18,9 +18,9 @@ import java.util.List;
  * @author quangphuong
  */
 public class Demo {
-    public static void demo() throws IOException {
-        List<Event> events = comingupCrawler();
-        Events events1 = new Events(events);
-        XMLUtil.marshallUtil(AppConstant.comingUpData, events1);
-    }
+//    public static void demo() throws IOException {
+//        List<Event> events = comingupCrawler();
+//        Events events1 = new Events(events);
+//        XMLUtil.marshallUtil(AppConstant.comingUpData, events1);
+//    }
 }

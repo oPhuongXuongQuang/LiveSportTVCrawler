@@ -16,29 +16,30 @@ import com.quangphuong.crawler.dto.EventDetail;
 import com.quangphuong.crawler.dto.Events;
 import com.quangphuong.crawler.dto.Team;
 import com.quangphuong.crawler.dto.Video;
-import java.net.URI;
 import java.util.ArrayList;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import org.springframework.beans.factory.annotation.Autowired;
 
 @Component
 public class Getter {
-
+    @Autowired
+    XMLUtil xMLUtil;
     public Getter() {
 
     }
 
-    public static List<Event> getEvents() throws Exception {
-        Events events = XMLUtil.unmarshallUtil(AppConstant.comingUpData, Events.class);
+    public List<Event> getEvents() throws Exception {
+        Events events = xMLUtil.unmarshallUtil(AppConstant.comingUpData, Events.class);
         return events.getEvent();
     }
 
-    public static List<Calendar.Round> getCalendar(String calendar) throws Exception {
-        Calendar calendar1 = XMLUtil.unmarshallUtil(calendar, Calendar.class);
+    public List<Calendar.Round> getCalendar(String calendar) throws Exception {
+        Calendar calendar1 = xMLUtil.unmarshallUtil(calendar, Calendar.class);
         return calendar1.getRound();
     }
 
-    public static EventDetail getEventDetail(String eventLink, boolean isLive) {
+    public EventDetail getEventDetail(String eventLink, boolean isLive) {
         EventDetail eventDetail = new EventDetail();
         eventDetail.setLink(eventLink);
         List<Video> videos = new ArrayList<Video>();
@@ -113,7 +114,7 @@ public class Getter {
         return eventDetail;
     }
 
-    public static EventDetail getEventTeamInfo(HtmlPage page, EventDetail eventDetail) {
+    public EventDetail getEventTeamInfo(HtmlPage page, EventDetail eventDetail) {
         // Get Team info
         for (int i = 1; i <= 2; i++) {
             HtmlElement team1 = (HtmlElement) page.getFirstByXPath(AppConstant.eventTeamColumns + "[" + i + "]");
@@ -135,7 +136,7 @@ public class Getter {
         return eventDetail;
     }
 
-    public static List<String> getAdditionInfo(String eventLink) {
+    public List<String> getAdditionInfo(String eventLink) {
         // get addition info
         WebClient webClient = new WebClient(BrowserVersion.CHROME);
         webClient.getOptions().setJavaScriptEnabled(false);
@@ -171,7 +172,7 @@ public class Getter {
         return infos;
     }
 
-    public static String getVideoStream(Video video) throws Exception {
+    public String getVideoStream(Video video) throws Exception {
         
         WebClient webClient = new WebClient(BrowserVersion.CHROME);
         webClient.setAjaxController(new AjaxController(){

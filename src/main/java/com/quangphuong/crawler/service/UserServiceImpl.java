@@ -22,6 +22,8 @@ import org.springframework.stereotype.Service;
 public class UserServiceImpl implements UserService{
     @Autowired
     UserDAO userDAO;
+    @Autowired
+    XMLUtil xMLUtil;
         
     @Override
     public boolean registerUser(User user) {
@@ -39,7 +41,7 @@ public class UserServiceImpl implements UserService{
         List<User> list = userDAO.getAllUser();
         System.out.println("========" + list.size());
         Users users = new Users(list);
-        return XMLUtil.marshallWithoutFile(users);
+        return xMLUtil.marshallWithoutFile(users);
     }
     
 }

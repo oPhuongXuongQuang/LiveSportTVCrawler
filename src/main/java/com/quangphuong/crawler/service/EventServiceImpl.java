@@ -31,27 +31,29 @@ import org.springframework.stereotype.Service;
  */
 @Service
 public class EventServiceImpl implements EventService{
-
-    
+    @Autowired
+    Getter getter;
+    @Autowired
+    XMLUtil xMLUtil;
     @Override
     public List<Event> getEvents() throws Exception {
-        return Getter.getEvents();
+        return getter.getEvents();
     }
 
     @Override
     public EventDetail getEventDetail(String eventLink, boolean isLive) {
-        return Getter.getEventDetail(eventLink, isLive);
+        return getter.getEventDetail(eventLink, isLive);
     }
 
     @Override
     public String getVideoStream(Video video) throws Exception {
-        return Getter.getVideoStream(video);
+        return getter.getVideoStream(video);
     }
 
     @Override
     public List<Calendar.Round> getCalendar(String id) throws Exception {
         String calendar = idToCalendar(id);
-        return Getter.getCalendar(calendar);
+        return getter.getCalendar(calendar);
     }
     
     public String idToCalendar(String id) {
@@ -79,7 +81,7 @@ public class EventServiceImpl implements EventService{
         try {
             String calendar = idToCalendar(id);
 //            String filename = String.format("%s.%s",RandomStringUtils.randomAlphanumeric(10),"pdf");
-            ByteArrayOutputStream out = XMLUtil.convertToPDF(calendar, AppConstant.calendarXSL, "");
+            ByteArrayOutputStream out = xMLUtil.convertToPDF(calendar, AppConstant.calendarXSL, "");
             return out;
         } catch (IOException ex) {
             Logger.getLogger(EventServiceImpl.class.getName()).log(Level.SEVERE, null, ex);
