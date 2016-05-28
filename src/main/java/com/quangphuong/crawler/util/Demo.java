@@ -6,7 +6,11 @@
 package com.quangphuong.crawler.util;
 
 import com.quangphuong.crawler.dao.UserDAO;
+import com.quangphuong.crawler.dto.Event;
+import com.quangphuong.crawler.dto.Events;
 import com.quangphuong.crawler.dto.User;
+import static com.quangphuong.crawler.util.Crawler.comingupCrawler;
+import java.io.IOException;
 import java.util.List;
 
 /**
@@ -14,17 +18,9 @@ import java.util.List;
  * @author quangphuong
  */
 public class Demo {
-    public static void main(String[] args) {
-        UserDAO userDAO = new UserDAO();
-        List<User> list = userDAO.getAllUser();
-        for (User user : list) {
-            System.out.println(user);
-        }
-//        System.out.println(user.toString());
-        
-//          User newUser = new User(2, "quangphuong", "hahaha", "hahha", "321532453245");
-//        userDAO.addUser(newUser);
-          
-//          userDAO.updateUser(newUser);
+    public static void demo() throws IOException {
+        List<Event> events = comingupCrawler();
+        Events events1 = new Events(events);
+        XMLUtil.marshallUtil(AppConstant.comingUpData, events1);
     }
 }

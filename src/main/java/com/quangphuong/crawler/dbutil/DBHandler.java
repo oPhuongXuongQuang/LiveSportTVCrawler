@@ -36,6 +36,7 @@ public class DBHandler {
                         DBConstant.OPENSHIFT_PORT, DBConstant.schema, DBConstant.OPENSHIFT_USER,
                         DBConstant.OPENSHIFT_PASSWORD);
             }
+            System.out.println("COnnection str: " + dBConfig.toString());
             Connection connection = DriverManager.getConnection(dBConfig.toString(),
                     dBConfig.getUser(), dBConfig.getPassword());
 

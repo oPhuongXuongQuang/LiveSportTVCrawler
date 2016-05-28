@@ -34,7 +34,7 @@ public class EventServiceImpl implements EventService{
 
     
     @Override
-    public List<Event> getEvents() {
+    public List<Event> getEvents() throws Exception {
         return Getter.getEvents();
     }
 
@@ -44,12 +44,12 @@ public class EventServiceImpl implements EventService{
     }
 
     @Override
-    public String getVideoStream(Video video) {
+    public String getVideoStream(Video video) throws Exception {
         return Getter.getVideoStream(video);
     }
 
     @Override
-    public List<Calendar.Round> getCalendar(String id) {
+    public List<Calendar.Round> getCalendar(String id) throws Exception {
         String calendar = idToCalendar(id);
         return Getter.getCalendar(calendar);
     }

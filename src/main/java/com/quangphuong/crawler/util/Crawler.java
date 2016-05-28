@@ -24,6 +24,7 @@ import com.gargoylesoftware.htmlunit.html.HtmlPage;
 import com.quangphuong.crawler.dto.Calendar;
 import com.quangphuong.crawler.dto.Event;
 import com.quangphuong.crawler.dto.Events;
+import java.io.IOException;
 import java.math.BigDecimal;
 
 /**
@@ -61,16 +62,16 @@ public class Crawler {
 //        }
 //    }
     @Scheduled(fixedDelay = 60000)
-    public void schedule1() throws FileNotFoundException {
+    public void schedule1() throws FileNotFoundException, IOException {
         List<Event> events = comingupCrawler();
         Events events1 = new Events(events);
         XMLUtil.marshallUtil(AppConstant.comingUpData, events1);
     }
 
-    public static List<Event> comingupCrawler() {
+    public static List<Event> comingupCrawler() throws IOException {
         List<Event> events = new ArrayList();
         WebClient client = webClient;
-        try {
+//        try {
             HtmlPage page = client.getPage(AppConstant.comingUpPage);
             List<HtmlElement> tds = new ArrayList();
             tds = (List<HtmlElement>) page.getByXPath(AppConstant.comingUpEventColumn);
@@ -114,95 +115,95 @@ public class Crawler {
             }
             System.out.println("-------------------");
             System.out.println(" web Client Memory size: " + Agent.sizeOf(webClient));
-        } catch (Exception e) {
-            e.printStackTrace();
-        } finally {
+//        } catch (Exception e) {
+//            e.printStackTrace();
+//        } finally {
             client.close();
-        }
+//        }
         return events;
     }
     
-//    @Scheduled(fixedDelay = 604800000)
-//    public static void schedule2() {
-//        WebClient client = webClient;
-//        int[] calType = {1, 10, 11, 22, 36, 37, 93};
-//        for (int k : calType) {
-//            try {
-//                HtmlPage page = client.getPage(AppConstant.calendarPage + k);
-//                List<DomElement> els = (List<DomElement>) page.getByXPath(AppConstant.rounds);
-//
-//                List<Calendar.Round> rounds = new ArrayList<Calendar.Round>();
-//                for (int i = 1; i < els.size() - 3; i++) {
-//
-//                    DomElement tmp = els.get(i);
-//                    //                String round = tmp.getTextContent().replace("(Video)", "").trim();
-//                    //                System.out.println("Round: " + round);
-//                    DomNode parent = tmp.getParentNode().getParentNode().getParentNode().getParentNode();
-////                    System.out.println("-----" + parent.asXml());
-//
-//                    List<DomElement> trs = (List<DomElement>) parent.getByXPath("tbody/tr");
-//                    System.out.println("trs: " + trs.size());
-//                    String date = "";
-//                    List<Calendar.Round.Match> matches = new ArrayList<Calendar.Round.Match>();
-//                    for (int j = 1; j < trs.size() - 1; j++) {
-//                        DomElement tr = trs.get(j);
-//                        HtmlElement tmp2 = tr.getFirstByXPath("td");
-//                        if (tmp2.hasAttribute("bgcolor")) {
-//                            date = tr.getTextContent().trim();
-//                            System.out.println("Date: " + date);
-//                        } else {
-//                            try {
-//                                DomElement td = tr.getFirstByXPath("td[1]/a");
-//                                if(td == null) {
-//                                    td = tr.getFirstByXPath("td[1]");
-//                                }
-//                                String teams = td.getTextContent().trim();
-//                                System.out.println("Teams: " + teams);
-//                                String link = td.getAttribute("href");
-//                                td = tr.getFirstByXPath("td[2]/a/img");
-//                                String logoTeam1 = td.getAttribute("src");
-//                                td = tr.getFirstByXPath("td[3]");
-//                                String score = td.getTextContent().trim();
-//                                td = tr.getFirstByXPath("td[4]/a/img");
-//                                String logoTeam2 = td.getAttribute("src");
-//
-//                                Calendar.Round.Match match = new Calendar.Round.Match(date, link, teams, logoTeam1, logoTeam2, score);
-//                                match.toString();
-//                                matches.add(match);
-//                            } catch (Exception e) {
-//                                e.printStackTrace();
-//                            }
-//                        }
-//                    }
-//                    rounds.add(new Calendar.Round(matches, i));
-//                }
-//                Calendar calendar = new Calendar(rounds, k);
-//                XMLUtil.marshallUtil(intToCalendar(k), calendar);
-//            } catch (Exception e) {
-//                e.printStackTrace();
-//            } finally {
-//                client.close();
-//            }
-//        }
-//    }
-//
-//    public static String intToCalendar(int k) {
-//        switch (k) {
-//            case 1:
-//                return AppConstant.EnglandCalendar;
-//            case 10:
-//                return AppConstant.SpainCalendar;
-//            case 11:
-//                return AppConstant.ItalyCalendar;
-//            case 22:
-//                return AppConstant.DutchCalendar;
-//            case 36:
-//                return AppConstant.GermanCalendar;
-//            case 37:
-//                return AppConstant.FranceCalendar;
-//            case 93:
-//                return AppConstant.BrazilCalendar;
-//        }
-//        return "";
-//    }
+    @Scheduled(fixedDelay = 604800000)
+    public static void schedule2() {
+        WebClient client = webClient;
+        int[] calType = {1, 10, 11, 22, 36, 37, 93};
+        for (int k : calType) {
+            try {
+                HtmlPage page = client.getPage(AppConstant.calendarPage + k);
+                List<DomElement> els = (List<DomElement>) page.getByXPath(AppConstant.rounds);
+
+                List<Calendar.Round> rounds = new ArrayList<Calendar.Round>();
+                for (int i = 1; i < els.size() - 3; i++) {
+
+                    DomElement tmp = els.get(i);
+                    //                String round = tmp.getTextContent().replace("(Video)", "").trim();
+                    //                System.out.println("Round: " + round);
+                    DomNode parent = tmp.getParentNode().getParentNode().getParentNode().getParentNode();
+//                    System.out.println("-----" + parent.asXml());
+
+                    List<DomElement> trs = (List<DomElement>) parent.getByXPath("tbody/tr");
+                    System.out.println("trs: " + trs.size());
+                    String date = "";
+                    List<Calendar.Round.Match> matches = new ArrayList<Calendar.Round.Match>();
+                    for (int j = 1; j < trs.size() - 1; j++) {
+                        DomElement tr = trs.get(j);
+                        HtmlElement tmp2 = tr.getFirstByXPath("td");
+                        if (tmp2.hasAttribute("bgcolor")) {
+                            date = tr.getTextContent().trim();
+                            System.out.println("Date: " + date);
+                        } else {
+                            try {
+                                DomElement td = tr.getFirstByXPath("td[1]/a");
+                                if(td == null) {
+                                    td = tr.getFirstByXPath("td[1]");
+                                }
+                                String teams = td.getTextContent().trim();
+                                System.out.println("Teams: " + teams);
+                                String link = td.getAttribute("href");
+                                td = tr.getFirstByXPath("td[2]/a/img");
+                                String logoTeam1 = td.getAttribute("src");
+                                td = tr.getFirstByXPath("td[3]");
+                                String score = td.getTextContent().trim();
+                                td = tr.getFirstByXPath("td[4]/a/img");
+                                String logoTeam2 = td.getAttribute("src");
+
+                                Calendar.Round.Match match = new Calendar.Round.Match(date, link, teams, logoTeam1, logoTeam2, score);
+                                match.toString();
+                                matches.add(match);
+                            } catch (Exception e) {
+                                e.printStackTrace();
+                            }
+                        }
+                    }
+                    rounds.add(new Calendar.Round(matches, i));
+                }
+                Calendar calendar = new Calendar(rounds, k);
+                XMLUtil.marshallUtil(intToCalendar(k), calendar);
+            } catch (Exception e) {
+                e.printStackTrace();
+            } finally {
+                client.close();
+            }
+        }
+    }
+
+    public static String intToCalendar(int k) {
+        switch (k) {
+            case 1:
+                return AppConstant.EnglandCalendar;
+            case 10:
+                return AppConstant.SpainCalendar;
+            case 11:
+                return AppConstant.ItalyCalendar;
+            case 22:
+                return AppConstant.DutchCalendar;
+            case 36:
+                return AppConstant.GermanCalendar;
+            case 37:
+                return AppConstant.FranceCalendar;
+            case 93:
+                return AppConstant.BrazilCalendar;
+        }
+        return "";
+    }
 }

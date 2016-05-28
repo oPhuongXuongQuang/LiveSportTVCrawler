@@ -16,6 +16,7 @@ import com.quangphuong.crawler.dto.Video;
 import com.quangphuong.crawler.service.EventService;
 import com.quangphuong.crawler.service.UserService;
 import com.quangphuong.crawler.service.HighlightService;
+import com.quangphuong.crawler.util.Demo;
 import java.io.ByteArrayOutputStream;
 import java.io.File;
 import java.io.FileOutputStream;
@@ -52,13 +53,18 @@ public class AjaxController {
     
     @RequestMapping(value = "/comingup.htm", method = RequestMethod.POST)
     @ResponseBody
-    public List<Event> comingup(
+    public Response comingup(
             HttpServletRequest request,
-            HttpServletResponse response) throws Exception {
-        response.setHeader("Access-Control-Allow-Origin", "*");
-        List<Event> events = eventService.getEvents();
-        System.out.println("");
-        return events;
+            HttpServletResponse response) {
+        List<Event> events = null;
+        try {
+//            Demo.demo();
+            events = eventService.getEvents();
+            return new Response(200, "",events);
+        } catch (Exception ex) {
+            return new Response(400, ex.getMessage(),events);
+        }
+        
     }
     
     @RequestMapping(value = "/register.htm", method = RequestMethod.POST, headers="Accept=application/json")
@@ -66,7 +72,6 @@ public class AjaxController {
     public boolean register(
             HttpServletRequest request,
             HttpServletResponse response,@RequestBody User user) throws Exception {
-        response.setHeader("Access-Control-Allow-Origin", "*");
         boolean result = false;
         if (user != null) {
             result = userService.registerUser(user);
@@ -79,33 +84,29 @@ public class AjaxController {
     @ResponseBody
     public EventDetail getEventDetail(HttpServletRequest request, 
             HttpServletResponse response, @RequestBody Link link){
-        response.setHeader("Access-Control-Allow-Origin", "*");
-//        request.s
-//        response.setHeader("Access-Control-Allow-Headers", "Access-Control-Allow-Origin");
         return eventService.getEventDetail(link.getValue(), link.isLive());
     }
     
     @RequestMapping(value = "/getVideo.htm", method = RequestMethod.POST)
     @ResponseBody
-    public String getVideo(HttpServletRequest request, 
+    public Response getVideo(HttpServletRequest request, 
             HttpServletResponse response, @RequestBody Video video){
-        response.setHeader("Access-Control-Allow-Origin", "*");
-//        request.s
-//        response.setHeader("Access-Control-Allow-Headers", "Access-Control-Allow-Origin");
-        String videoStream = eventService.getVideoStream(video);
+        try {
+            String videoStream = eventService.getVideoStream(video);
         
-        Gson gson = new Gson();
-        String json = gson.toJson(videoStream);
-        System.out.println("videoStream: " + json);
-        return json;
+//            Gson gson = new Gson();
+//            String json = gson.toJson(videoStream);
+//            System.out.println("videoStream: " + json);
+            return new Response(200, "", videoStream);
+        } catch (Exception e) {
+            return new Response(400, e.getMessage(), "");
+        }
     }
     
     @RequestMapping(value = "/getHighlights.htm", method = RequestMethod.POST)
     @ResponseBody
     public List<Highlight> getHighlights(HttpServletRequest request, 
             HttpServletResponse response, @RequestBody String date) {
-        response.setHeader("Access-Control-Allow-Origin", "*");
-        System.out.println("------date: " + date);
         return highlightService.getHighlights(date);
     }
     
@@ -113,7 +114,6 @@ public class AjaxController {
     @ResponseBody
     public List<Highlight> globalSearch(HttpServletRequest request, 
             HttpServletResponse response, @RequestBody String value) {
-        response.setHeader("Access-Control-Allow-Origin", "*");
         return highlightService.getSearchResult(value);
     }
     
@@ -121,23 +121,25 @@ public class AjaxController {
     @ResponseBody
     public List<Highlight> advanceSearch(HttpServletRequest request, 
             HttpServletResponse response, @RequestBody String value) {
-        response.setHeader("Access-Control-Allow-Origin", "*");
         return highlightService.getSearchResult(value,"5-10");
     }
     
     @RequestMapping(value = "/loadCalendar.htm", method = RequestMethod.POST)
     @ResponseBody
-    public List<Calendar.Round> loadCalendar(HttpServletRequest request, 
+    public Response loadCalendar(HttpServletRequest request, 
             HttpServletResponse response, @RequestBody String value) {
-        response.setHeader("Access-Control-Allow-Origin", "*");
-        return eventService.getCalendar(value);
+        try {
+            List<Calendar.Round> rounds = eventService.getCalendar(value);
+            return new Response(200, "", rounds);
+        } catch (Exception ex) {
+            return new Response(400, ex.getMessage(), null);
+        }
     }
     
     @RequestMapping(value = "/printCalendar/{id}", method = RequestMethod.GET)
     public void printCalendar(HttpServletRequest request, 
             HttpServletResponse response, @PathVariable String id) {
         try {
-            response.setHeader("Access-Control-Allow-Origin", "*");
             ByteArrayOutputStream out = eventService.printCalendar(id);
             byte[] bytes = out.toByteArray();
             response.setHeader("Content-Type", "application/pdf");
@@ -154,7 +156,6 @@ public class AjaxController {
     @ResponseBody
     public List<Highlight> getSuggestVideos(HttpServletRequest request, 
             HttpServletResponse response, @RequestBody String value) {
-        response.setHeader("Access-Control-Allow-Origin", "*");
         return highlightService.getSuggest(value);
     }
     
@@ -162,7 +163,6 @@ public class AjaxController {
     @ResponseBody
     public void updateSeen(HttpServletRequest request, 
             HttpServletResponse response, @RequestBody Highlight value) {
-        response.setHeader("Access-Control-Allow-Origin", "*");
         highlightService.updateSeen(value);
     }
 }

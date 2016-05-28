@@ -34,8 +34,8 @@ import org.apache.xmlgraphics.util.MimeConstants;
 public class XMLUtil {
     
 
-    public static <T> T unmarshallUtil(String xmlPath, Class<T> entityClass) {
-        try {
+    public static <T> T unmarshallUtil(String xmlPath, Class<T> entityClass) throws Exception {
+//        try {
             JAXBContext cxt = JAXBContext.newInstance(entityClass);
             Unmarshaller unmarshaller = cxt.createUnmarshaller();
 
@@ -43,10 +43,10 @@ public class XMLUtil {
             T result = (T) unmarshaller.unmarshal(file);
 
             return result;
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-        return null;
+//        } catch (Exception e) {
+//            e.printStackTrace();
+//        }
+//        return null;
     }
 
     public static <T> void marshallUtil(String xmlPath, T entityClass) {
@@ -105,7 +105,6 @@ public class XMLUtil {
             TransformerFactory factory = TransformerFactory.newInstance();
             Transformer transformer = factory.newTransformer(new StreamSource(xsltFile));
             Result res = new StreamResult(out);
-            transformer.transform(xmlSource, res);
             transformer.transform(xmlSource, res);
         } finally {
             out.close();

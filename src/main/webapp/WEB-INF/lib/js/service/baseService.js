@@ -16,7 +16,8 @@ module.service('$service', function ($http, $q, $timeout) {
     };
 
     var ConfigService = function () {
-        this.back.url = this.url + 'LiveSportTVCrawler';
+//        this.back.url = this.url + 'LiveSportTVCrawler';
+        this.back.url = this.url;
         function fillUrl(obj, root) {
             for (var i in obj) {
                 var item = obj[i];
@@ -31,7 +32,8 @@ module.service('$service', function ($http, $q, $timeout) {
     };
 
     ConfigService.prototype = {
-        url: "http://localhost:8080/",
+//        url: "http://localhost:8080/",
+        url: "http://sportchannel-quangpx.rhcloud.com/",
         back: {
             comingUp: {
                 path: "/comingup.htm"

@@ -18,9 +18,9 @@ import java.util.List;
  * @author quangphuong
  */
 public interface EventService {
-    List<Event> getEvents();
+    List<Event> getEvents() throws Exception;
     EventDetail getEventDetail(String eventLink, boolean isLive);
-    String getVideoStream(Video video);
-    List<Calendar.Round> getCalendar(String id);
+    String getVideoStream(Video video) throws Exception;
+    List<Calendar.Round> getCalendar(String id) throws Exception;
     ByteArrayOutputStream printCalendar(String id);
 }
