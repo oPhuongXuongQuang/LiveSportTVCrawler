@@ -16,6 +16,9 @@ import com.quangphuong.crawler.dto.EventDetail;
 import com.quangphuong.crawler.dto.Events;
 import com.quangphuong.crawler.dto.Team;
 import com.quangphuong.crawler.dto.Video;
+import java.net.MalformedURLException;
+import java.net.URI;
+import java.net.URL;
 import java.util.ArrayList;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -23,8 +26,10 @@ import org.springframework.beans.factory.annotation.Autowired;
 
 @Component
 public class Getter {
+
     @Autowired
     XMLUtil xMLUtil;
+
     public Getter() {
 
     }
@@ -173,12 +178,11 @@ public class Getter {
     }
 
     public String getVideoStream(Video video) throws Exception {
-        
+
         WebClient webClient = new WebClient(BrowserVersion.CHROME);
-        webClient.setAjaxController(new AjaxController(){
+        webClient.setAjaxController(new AjaxController() {
             @Override
-            public boolean processSynchron(HtmlPage page, WebRequest request, boolean async)
-            {
+            public boolean processSynchron(HtmlPage page, WebRequest request, boolean async) {
                 return true;
             }
         });
@@ -186,53 +190,66 @@ public class Getter {
         webClient.getOptions().setCssEnabled(false);
         webClient.getOptions().setThrowExceptionOnFailingStatusCode(false);
         webClient.getOptions().setThrowExceptionOnScriptError(false);
-            System.out.println("Page link: " + video.getLink());
-            HtmlPage page = webClient.getPage(video.getLink());
-            HtmlElement videoEl = null;
-            webClient.getOptions().setJavaScriptEnabled(true);
-            String result = null;
-            switch (video.getKind()) {
-                case "'alieztv'":
-                    page = (HtmlPage) page.getFrames().get(1).getEnclosedPage();
-                    videoEl = page.getFirstByXPath(AppConstant.aliezStream);
-                    result = videoEl.asXml();
-                    break;
-                case "'ifr'":
-                    HtmlElement ifr = page.getFirstByXPath(AppConstant.videoWrapperStream);
-                    String ifrLink = ifr.getAttribute("src");
-                    System.out.println("Iframe link: " + ifrLink);
-//                    if(ifrLink.contains("sportstream365.com")){
-                        result = "<iframe src='" + ifrLink +"'"
+        System.out.println("Page link: " + video.getLink());
+        HtmlPage page = null;
+        if (!video.getKind().equals("'sopcast'")) {
+            page = webClient.getPage(video.getLink());
+        }
+        HtmlElement videoEl = null;
+        webClient.getOptions().setJavaScriptEnabled(true);
+        String result = null;
+        switch (video.getKind()) {
+            case "'alieztv'":
+                page = (HtmlPage) page.getFrames().get(1).getEnclosedPage();
+                videoEl = page.getFirstByXPath(AppConstant.aliezStream);
+                result = videoEl.asXml();
+                break;
+            case "'ifr'":
+                HtmlElement ifr = page.getFirstByXPath(AppConstant.videoWrapperStream);
+                String ifrLink = ifr.getAttribute("src");
+                System.out.println("Iframe link: " + ifrLink);
+//                if (ifrLink.contains("sportstream365.com")) {
+                    result = "<iframe src='" + ifrLink + "'"
                             + " height=\"100%\" width=\"100%\" frameborder=\"0\">"
                             + "allowfullscreen=\"allowfullscreen\" mozallowfullscreen=\"mozallowfullscreen\" msallowfullscreen=\"msallowfullscreen\" oallowfullscreen=\"oallowfullscreen\" webkitallowfullscreen=\"webkitallowfullscreen\""
                             + "</iframe>";
-//                        result = page.asXml();
-//                    } else {
+//                } else {
+//                    page = webClient.getPage(ifrLink);
+////                    page = (HtmlPage) page.getFrames().get(1).getEnclosedPage();
+//                    videoEl = page.getFirstByXPath(AppConstant.ifrStream);
+//                    if (videoEl == null) {
+//                        page = (HtmlPage) page.getFrames().get(0).getEnclosedPage();
 //                        videoEl = page.getFirstByXPath(AppConstant.ifrStream);
-//                        if(videoEl == null) {
-//                            page = (HtmlPage) page.getFrames().get(0).getEnclosedPage();
-//                            videoEl = page.getFirstByXPath(AppConstant.ifrStream);
-//                        }
-//                        String data = videoEl.getAttribute("data");
+//                    }
+//                    String data = videoEl.getAttribute("data");
+//                    boolean validURL = true;
+//                    try {
+//                        URL url = new URL("http://" + data);
+//                    } catch(MalformedURLException e) {
+//                        validURL = false;
+//                    }
+//                    if (!data.contains("http://") && !validURL) {
+//                        URI uri = new URI(ifrLink);
 //                        data = "http://" + uri.getHost() + "/" + data;
 //                        videoEl.setAttribute("data", data);
-//                        result = videoEl.asXml();
 //                    }
-                    break;
-                case "'youtube'":
-                    HtmlElement el = page.getFirstByXPath(AppConstant.videoWrapperStream);
-                    String youtubeLink = el.getAttribute("src");
-                    System.out.println("Youtube link: " + youtubeLink);
-                    result = "<iframe src='" + youtubeLink +"'"
-                            + " height=\"100%\" width=\"100%\" frameborder=\"0\">"
-                            + "allowfullscreen=\"allowfullscreen\" mozallowfullscreen=\"mozallowfullscreen\" msallowfullscreen=\"msallowfullscreen\" oallowfullscreen=\"oallowfullscreen\" webkitallowfullscreen=\"webkitallowfullscreen\""
-                            + "</iframe>";
-                    break;
-                case "'sopcast'":
-                    result = AppConstant.sopcastHead + video.getLink() + AppConstant.sopcastTail;
-                    break;
-            }
-            webClient.close();
-            return result;
+//                    result = videoEl.asXml();
+//                }
+                break;
+            case "'youtube'":
+                HtmlElement el = page.getFirstByXPath(AppConstant.videoWrapperStream);
+                String youtubeLink = el.getAttribute("src");
+                System.out.println("Youtube link: " + youtubeLink);
+                result = "<iframe src='" + youtubeLink + "'"
+                        + " height=\"100%\" width=\"100%\" frameborder=\"0\">"
+                        + "allowfullscreen=\"allowfullscreen\" mozallowfullscreen=\"mozallowfullscreen\" msallowfullscreen=\"msallowfullscreen\" oallowfullscreen=\"oallowfullscreen\" webkitallowfullscreen=\"webkitallowfullscreen\""
+                        + "</iframe>";
+                break;
+            case "'sopcast'":
+                result = AppConstant.sopcastHead + video.getLink() + AppConstant.sopcastTail;
+                break;
+        }
+        webClient.close();
+        return result;
     }
 }

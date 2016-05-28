@@ -25,7 +25,6 @@ public class AppConstant {
 
     public static final String eventDetailData = "/Users/quangphuong/NetBeansProjects/LiveSportTVCrawler/eventDetail.xml";
     public static final String eventDetailSchema = "eventDetail.xsd";
-    
 
     public static final String eventDemo = "http://livetv.sx/en/eventinfo/403949_tokyo_iwate/";
     public static final String eventVideoRows = "//*[@id='links_block']/table[2]/tbody/tr";
@@ -73,10 +72,10 @@ public class AppConstant {
 
     public static final String hightlightVideo4 = "/html/body/table/tbody/tr/td[2]/table/tbody/tr[3]/td/table/"
             + "tbody/tr/td[2]/table/tbody/tr/td/table/tbody/tr[2]/td/table/tbody/tr/td[1]/table[2]/tbody/tr[1]/td/script";
-    
+
     public static final String calendarPage = "http://livetv.sx/en/calendar/";
     public static final String rounds = "//span[@class='whitetitle']";
-    
+
     public static final String EnglandCalendar = "england.xml";
     public static final String SpainCalendar = "spain.xml";
     public static final String ItalyCalendar = "italy.xml";
@@ -84,19 +83,20 @@ public class AppConstant {
     public static final String GermanCalendar = "german.xml";
     public static final String FranceCalendar = "france.xml";
     public static final String BrazilCalendar = "brazil.xml";
-    
+
     public static final String calendarSchema = "calendar.xsd";
     public static final String calendarXSL = "calendar.xsl";
-    
+
     public static final String videoWrapperStream = "//*[@id='playerblock']/tbody/tr/td/iframe";
     public static final String aliezStream = "//*[@id='mediaspace']";
     public static final String ifrStream = "//object";
-    public static final String sopcastHead = "<object id=\"SopPlayer\" name = \"SopPlayer\"" +
-                                            "classid=\"clsid:8FEFF364-6A5F-4966-A917-A3AC28411659\"" +
-                                            "height=\"100%\" width=\"100%\">" +
-                                            "<param name=\"AutoStart\" value=\"1\" />" +
-                                            "<param name=\"SopAddress\" value=\"";
-    public static final String sopcastTail = "\" />" +
-                                            "<param name=\"ChannelName\" value=\"Channel\" />" +
-                                            "</object>";
+    public static final String sopCastStream = "//*[@id='playerblock']/tbody/tr/td/center/a";
+    public static final String sopcastHead = "<object id='SopPlayer' name='SopPlayer'"
+            + "classid='clsid:8FEFF364-6A5F-4966-A917-A3AC28411659'"
+            + " height='100%' width='100%'>"
+            + "<param name='AutoStart' value='1' />"
+            + "<param name='SopAddress' value='";
+    public static final String sopcastTail = "' />"
+            + "<param name='ChannelName' value='Channel' />"
+            + "</object>";
 }
