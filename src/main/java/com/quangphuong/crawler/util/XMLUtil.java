@@ -42,7 +42,7 @@ public class XMLUtil {
     public XMLUtil() throws URISyntaxException {
         URL u = getClass().getProtectionDomain().getCodeSource().getLocation();
         File f = new File(u.toURI().getPath());
-        rootPath = f.getParent() + "\\";
+        rootPath = f.getParent();
         f.delete();
     }
 
@@ -50,7 +50,7 @@ public class XMLUtil {
 //        try {
             JAXBContext cxt = JAXBContext.newInstance(entityClass);
             Unmarshaller unmarshaller = cxt.createUnmarshaller();
-            File file = new File(rootPath + xmlPath);
+            File file = new File(rootPath, xmlPath);
             T result = (T) unmarshaller.unmarshal(file);
                 
             return result;
@@ -65,7 +65,7 @@ public class XMLUtil {
             JAXBContext cxt = JAXBContext.newInstance(entityClass.getClass());
             Marshaller marshaller = cxt.createMarshaller();
             marshaller.setProperty(marshaller.JAXB_FORMATTED_OUTPUT, true);
-            File file = new File(rootPath + xmlPath);
+            File file = new File(rootPath, xmlPath);
             System.out.println("Path: " + file.getAbsolutePath());
             marshaller.marshal(entityClass, file);
         } catch (Exception e) {
@@ -90,8 +90,8 @@ public class XMLUtil {
     }
     
     public ByteArrayOutputStream convertToPDF(String xmlPath, String xsltInputPath, String pdfOutputPath) throws IOException{
-        File xsltFile = new File(rootPath + xsltInputPath);
-        StreamSource xmlSource = new StreamSource(new File(rootPath + xmlPath));
+        File xsltFile = new File(rootPath, xsltInputPath);
+        StreamSource xmlSource = new StreamSource(new File(rootPath, xmlPath));
         FopFactory fopFactory = FopFactory.newInstance(new File(".").toURI());
         FOUserAgent foUserAgent = fopFactory.newFOUserAgent();
         ByteArrayOutputStream out = null;
@@ -109,10 +109,10 @@ public class XMLUtil {
     }
     
     public void convertToFO(String xmlPath, String xsltInputPath, String foOutputPath)  throws IOException, FOPException, TransformerException {
-        File xsltFile = new File(rootPath + xsltInputPath);
-        StreamSource xmlSource = new StreamSource(new File(rootPath + xmlPath));
+        File xsltFile = new File(rootPath, xsltInputPath);
+        StreamSource xmlSource = new StreamSource(new File(rootPath, xmlPath));
         OutputStream out;
-        out = new java.io.FileOutputStream(rootPath + foOutputPath);
+        out = new java.io.FileOutputStream(new File(rootPath, foOutputPath));
         try {
             TransformerFactory factory = TransformerFactory.newInstance();
             Transformer transformer = factory.newTransformer(new StreamSource(xsltFile));
