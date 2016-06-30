@@ -25,7 +25,7 @@ public class DBHandler {
     public static Connection openConnection() {
         try {
             Class.forName("com.mysql.jdbc.Driver");
-            boolean isDebug = java.lang.management.ManagementFactory.getRuntimeMXBean().getInputArguments().toString().indexOf("jdwp") >= 0;
+            boolean isDebug = System.getenv("OPENSHIFT_APP_NAME") == null;
             DBConfig dBConfig;
             if (isDebug) {
                 dBConfig = new DBConfig(DBConstant.driver, DBConstant.host,

@@ -37,6 +37,7 @@ public class Highlight implements Serializable{
     @FullTextIndex
     private String date;
     private String time;
+    @Ignore
     public int seen;
     @Ignore
     public double rank;
